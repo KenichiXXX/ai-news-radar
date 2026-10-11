@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-10-10T00:00:04.113366Z",
+  "generated_at": "2026-10-11T00:00:05.286083Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_8e5ec2908b04",
-      "title": "GitHub Copilot weekly releases — October 5",
-      "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
-      "primary_url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
+      "story_id": "story_1e0e6608c184",
+      "title": "Copilot for JetBrains 中的新控件和聊天改进 / New controls and chat improvements in Copilot for JetBrains",
+      "url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
+      "primary_url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5bf966d84786caa61f847582525b4316675e87ca",
-          "title": "GitHub Copilot weekly releases — October 5",
-          "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
+          "id": "7105f7a887a844336072613e1ed600066153efc2",
+          "title": "Copilot for JetBrains 中的新控件和聊天改进 / New controls and chat improvements in Copilot for JetBrains",
+          "url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-09T22:58:23Z"
+          "published_at": "2026-10-10T18:53:39Z"
         }
       ],
       "source_count": 1,
@@ -27,26 +27,26 @@
       ],
       "items": [
         {
-          "id": "5bf966d84786caa61f847582525b4316675e87ca",
-          "title": "GitHub Copilot weekly releases — October 5",
-          "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
+          "id": "7105f7a887a844336072613e1ed600066153efc2",
+          "title": "Copilot for JetBrains 中的新控件和聊天改进 / New controls and chat improvements in Copilot for JetBrains",
+          "url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-09T22:58:23Z"
+          "published_at": "2026-10-10T18:53:39Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8493,
-      "importance": 0.8493,
-      "importance_score": 0.8493,
+      "score": 0.8392,
+      "importance": 0.8392,
+      "importance_score": 0.8392,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9853,
+        "recency": 0.9289,
         "story_heat": 0.0
       },
       "category": "official",
@@ -55,227 +55,102 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-09T22:58:23Z",
-      "latest_at": "2026-10-09T22:58:23Z",
+      "earliest_at": "2026-10-10T18:53:39Z",
+      "latest_at": "2026-10-10T18:53:39Z",
       "primary_item": {
-        "id": "5bf966d84786caa61f847582525b4316675e87ca",
-        "title": "GitHub Copilot weekly releases — October 5",
-        "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
+        "id": "7105f7a887a844336072613e1ed600066153efc2",
+        "title": "Copilot for JetBrains 中的新控件和聊天改进 / New controls and chat improvements in Copilot for JetBrains",
+        "url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_43ef54e74d27",
-      "title": "Impactful scheduling for GPU clusters",
-      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-      "primary_url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_2e3af46c5b7b",
+      "title": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境",
+      "url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out",
+      "primary_url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "3fd2c0f58e3fbf1b38c9ff28f0d95ff14143ee4f",
-          "title": "Impactful scheduling for GPU clusters",
-          "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-09T15:20:29Z"
+          "id": "c01fe277cea6b5e9d91df46cbc3b2f27e9d158fc",
+          "title": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境",
+          "url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-10T21:30:36Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "MarkTechPost（RSS）"
       ],
       "items": [
         {
-          "id": "3fd2c0f58e3fbf1b38c9ff28f0d95ff14143ee4f",
-          "title": "Impactful scheduling for GPU clusters",
-          "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-09T15:20:29Z"
+          "id": "c01fe277cea6b5e9d91df46cbc3b2f27e9d158fc",
+          "title": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境",
+          "url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-10T21:30:36Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8448,
-      "importance": 0.8448,
-      "importance_score": 0.8448,
-      "importance_label": "官方更新",
+      "score": 0.8002,
+      "importance": 0.8002,
+      "importance_score": 0.8002,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.8825,
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9647,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-09T15:20:29Z",
-      "latest_at": "2026-10-09T15:20:29Z",
+      "earliest_at": "2026-10-10T21:30:36Z",
+      "latest_at": "2026-10-10T21:30:36Z",
       "primary_item": {
-        "id": "3fd2c0f58e3fbf1b38c9ff28f0d95ff14143ee4f",
-        "title": "Impactful scheduling for GPU clusters",
-        "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
+        "id": "c01fe277cea6b5e9d91df46cbc3b2f27e9d158fc",
+        "title": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境",
+        "url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_90995f7dbc9c",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "primary_url": "https://openai.com/index/asana-browser-agent",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7ef9c53ebe83963add0738e2403a8551bb69477e",
-          "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-          "url": "https://openai.com/index/asana-browser-agent",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-09T07:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "7ef9c53ebe83963add0738e2403a8551bb69477e",
-          "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-          "url": "https://openai.com/index/asana-browser-agent",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-09T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8208,
-      "importance": 0.8208,
-      "importance_score": 0.8208,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7823,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-09T07:00:00Z",
-      "latest_at": "2026-10-09T07:00:00Z",
-      "primary_item": {
-        "id": "7ef9c53ebe83963add0738e2403a8551bb69477e",
-        "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-        "url": "https://openai.com/index/asana-browser-agent",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_4ee9692cf026",
-      "title": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
-      "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
-      "primary_url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a4cc6b736006ac6a4c915986c960d7f1a981a68e",
-          "title": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
-          "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-09T21:32:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "a4cc6b736006ac6a4c915986c960d7f1a981a68e",
-          "title": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
-          "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-09T21:32:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8377,
-      "importance": 0.8377,
-      "importance_score": 0.8377,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9652,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-09T21:32:54Z",
-      "latest_at": "2026-10-09T21:32:54Z",
-      "primary_item": {
-        "id": "a4cc6b736006ac6a4c915986c960d7f1a981a68e",
-        "title": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
-        "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_78897a6b0a8c",
-      "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资",
-      "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
-      "primary_url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
+      "story_id": "story_f95c4a1ce24c",
+      "title": "OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感",
+      "url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field",
+      "primary_url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field",
       "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "fc24b29be58f57fceac5d2f3a9e6ebd222cc2874",
-          "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资",
-          "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
+          "id": "1649fb33508a8f5e5cc8f044c0039df37be1c5a3",
+          "title": "OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感",
+          "url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-09T17:20:34Z"
+          "published_at": "2026-10-10T13:03:59Z"
         },
         {
-          "id": "38114305a7f00064a822d4e212938c07a9531189",
-          "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资 / OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
-          "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
+          "id": "d9245aeea0a9a6e66a9d97501516267be495774a",
+          "title": "OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感 / \"How much beauty have we lost?\" Mathematicians react with shock and disgust as OpenAI bulldozes their field",
+          "url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field",
           "source": "The Decoder AI News",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-10-09T17:20:34Z"
+          "published_at": "2026-10-10T13:03:59Z"
         }
       ],
       "source_count": 2,
@@ -285,35 +160,35 @@
       ],
       "items": [
         {
-          "id": "fc24b29be58f57fceac5d2f3a9e6ebd222cc2874",
-          "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资",
-          "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
+          "id": "1649fb33508a8f5e5cc8f044c0039df37be1c5a3",
+          "title": "OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感",
+          "url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-09T17:20:34Z"
+          "published_at": "2026-10-10T13:03:59Z"
         },
         {
-          "id": "38114305a7f00064a822d4e212938c07a9531189",
-          "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资 / OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
-          "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
+          "id": "d9245aeea0a9a6e66a9d97501516267be495774a",
+          "title": "OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感 / \"How much beauty have we lost?\" Mathematicians react with shock and disgust as OpenAI bulldozes their field",
+          "url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field",
           "source": "The Decoder AI News",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-10-09T17:20:34Z"
+          "published_at": "2026-10-10T13:03:59Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8061,
-      "importance": 0.8061,
-      "importance_score": 0.8061,
+      "score": 0.7963,
+      "importance": 0.7963,
+      "importance_score": 0.7963,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9083,
+        "recency": 0.8539,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -322,141 +197,79 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-09T17:20:34Z",
-      "latest_at": "2026-10-09T17:20:34Z",
+      "earliest_at": "2026-10-10T13:03:59Z",
+      "latest_at": "2026-10-10T13:03:59Z",
       "primary_item": {
-        "id": "fc24b29be58f57fceac5d2f3a9e6ebd222cc2874",
-        "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资",
-        "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
+        "id": "1649fb33508a8f5e5cc8f044c0039df37be1c5a3",
+        "title": "OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感",
+        "url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_edd58468d564",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
-      "primary_url": "https://openai.com/index/sophos",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_6cd6f5cc677d",
+      "title": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
+      "primary_url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "7cf10802079ba2bd37d9692217cf420a0d4f64a1",
-          "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-          "url": "https://openai.com/index/sophos",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-09T07:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "7cf10802079ba2bd37d9692217cf420a0d4f64a1",
-          "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-          "url": "https://openai.com/index/sophos",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-09T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8128,
-      "importance": 0.8128,
-      "importance_score": 0.8128,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7823,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-09T07:00:00Z",
-      "latest_at": "2026-10-09T07:00:00Z",
-      "primary_item": {
-        "id": "7cf10802079ba2bd37d9692217cf420a0d4f64a1",
-        "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-        "url": "https://openai.com/index/sophos",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_bebb9adce373",
-      "title": "音频大模型记不住谁在说话？墨大新基准VoxMem揭穿：32K上下文下全员不及格",
-      "url": "https://www.aibase.com/news/31510",
-      "primary_url": "https://www.aibase.com/news/31510",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0d7244f1ea28daae69a8acc58dcf1c162afb7f3f",
-          "title": "音频大模型记不住谁在说话？墨大新基准VoxMem揭穿：32K上下文下全员不及格",
-          "url": "https://www.aibase.com/news/31510",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-09T19:00:04.113366Z"
+          "id": "5fffef4c62768a02a0ef4173810cf42d18f3ce7f",
+          "title": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网",
+          "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-10T00:18:32Z"
         },
         {
-          "id": "b0f0b01896344685ee556bdf49615e0170a5bd5e",
-          "title": "音频大模型记不住谁在说话？墨大新基准 VoxMem 揭穿：32K 上下文下全员不及格",
-          "url": "https://www.aibase.com/zh/news/31510",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "a29f4ce9342c8d932fe09d9e42916b0d181465c5",
+          "title": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网 / Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+          "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-10T00:18:32Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
       ],
       "items": [
         {
-          "id": "0d7244f1ea28daae69a8acc58dcf1c162afb7f3f",
-          "title": "音频大模型记不住谁在说话？墨大新基准VoxMem揭穿：32K上下文下全员不及格",
-          "url": "https://www.aibase.com/news/31510",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-09T19:00:04.113366Z"
+          "id": "5fffef4c62768a02a0ef4173810cf42d18f3ce7f",
+          "title": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网",
+          "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-10T00:18:32Z"
         },
         {
-          "id": "b0f0b01896344685ee556bdf49615e0170a5bd5e",
-          "title": "音频大模型记不住谁在说话？墨大新基准 VoxMem 揭穿：32K 上下文下全员不及格",
-          "url": "https://www.aibase.com/zh/news/31510",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "a29f4ce9342c8d932fe09d9e42916b0d181465c5",
+          "title": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网 / Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+          "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-10T00:18:32Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7801,
-      "importance": 0.7801,
-      "importance_score": 0.7801,
+      "score": 0.7644,
+      "importance": 0.7644,
+      "importance_score": 0.7644,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9303,
+        "recency": 0.7103,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -465,32 +278,275 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-09T19:00:04.113366Z",
-      "latest_at": "2026-10-10T00:00:04.113366Z",
+      "earliest_at": "2026-10-10T00:18:32Z",
+      "latest_at": "2026-10-10T00:18:32Z",
       "primary_item": {
-        "id": "0d7244f1ea28daae69a8acc58dcf1c162afb7f3f",
-        "title": "音频大模型记不住谁在说话？墨大新基准VoxMem揭穿：32K上下文下全员不及格",
-        "url": "https://www.aibase.com/news/31510",
+        "id": "5fffef4c62768a02a0ef4173810cf42d18f3ce7f",
+        "title": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网",
+        "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c842af9430c6",
+      "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+      "url": "https://x.com/SaitoWu/status/2108919486581796872",
+      "primary_url": "https://x.com/SaitoWu/status/2108919486581796872",
+      "source": "X：Saito 硬地骇客 (@SaitoWu)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "69bfa5e3f216503c129d795e05cd47b96e123c4f",
+          "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+          "url": "https://x.com/SaitoWu/status/2108919486581796872",
+          "source": "X：Saito 硬地骇客 (@SaitoWu)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-10T13:56:02Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Saito 硬地骇客 (@SaitoWu)"
+      ],
+      "items": [
+        {
+          "id": "69bfa5e3f216503c129d795e05cd47b96e123c4f",
+          "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+          "url": "https://x.com/SaitoWu/status/2108919486581796872",
+          "source": "X：Saito 硬地骇客 (@SaitoWu)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-10T13:56:02Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7582,
+      "importance": 0.7582,
+      "importance_score": 0.7582,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8647,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-10T13:56:02Z",
+      "latest_at": "2026-10-10T13:56:02Z",
+      "primary_item": {
+        "id": "69bfa5e3f216503c129d795e05cd47b96e123c4f",
+        "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+        "url": "https://x.com/SaitoWu/status/2108919486581796872",
+        "source": "X：Saito 硬地骇客 (@SaitoWu)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1a81bead26f4",
+      "title": "月之暗面注册资本飙至 1437 万，年内密集增资动作频频",
+      "url": "https://www.aibase.com/news/31547",
+      "primary_url": "https://www.aibase.com/news/31547",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3af2ee43e9b757b033080c1c945f94f4e9f55115",
+          "title": "月之暗面注册资本飙至 1437 万，年内密集增资动作频频",
+          "url": "https://www.aibase.com/news/31547",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-10T18:00:05.286083Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3af2ee43e9b757b033080c1c945f94f4e9f55115",
+          "title": "月之暗面注册资本飙至 1437 万，年内密集增资动作频频",
+          "url": "https://www.aibase.com/news/31547",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-10T18:00:05.286083Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.917,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-10T18:00:05.286083Z",
+      "latest_at": "2026-10-10T18:00:05.286083Z",
+      "primary_item": {
+        "id": "3af2ee43e9b757b033080c1c945f94f4e9f55115",
+        "title": "月之暗面注册资本飙至 1437 万，年内密集增资动作频频",
+        "url": "https://www.aibase.com/news/31547",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_702ec1f96a32",
-      "title": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索",
-      "url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
+      "story_id": "story_83a5417202a3",
+      "title": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
+      "url": "https://x.com/indigox/status/2108791275914993998",
+      "primary_url": "https://x.com/indigox/status/2108791275914993998",
+      "source": "X：indigo (@indigox)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8767310b69dd7c77de9607e0656310de88ba3daf",
+          "title": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
+          "url": "https://x.com/indigox/status/2108791275914993998",
+          "source": "X：indigo (@indigox)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-10T05:26:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：indigo (@indigox)"
+      ],
+      "items": [
+        {
+          "id": "8767310b69dd7c77de9607e0656310de88ba3daf",
+          "title": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
+          "url": "https://x.com/indigox/status/2108791275914993998",
+          "source": "X：indigo (@indigox)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-10T05:26:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7523,
+      "importance": 0.7523,
+      "importance_score": 0.7523,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7649,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-10T05:26:34Z",
+      "latest_at": "2026-10-10T05:26:34Z",
+      "primary_item": {
+        "id": "8767310b69dd7c77de9607e0656310de88ba3daf",
+        "title": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
+        "url": "https://x.com/indigox/status/2108791275914993998",
+        "source": "X：indigo (@indigox)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b72411781b2c",
+      "title": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
+      "url": "https://www.ithome.com/1/011/194.htm",
+      "primary_url": "https://www.ithome.com/1/011/194.htm",
+      "source": "IT之家·人工智能",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bacb542641a8f98b896bae662a55fad5b27e3798",
+          "title": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
+          "url": "https://www.ithome.com/1/011/194.htm",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-10T01:07:47.053000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家·人工智能"
+      ],
+      "items": [
+        {
+          "id": "bacb542641a8f98b896bae662a55fad5b27e3798",
+          "title": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
+          "url": "https://www.ithome.com/1/011/194.htm",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-10T01:07:47.053000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.735,
+      "importance": 0.735,
+      "importance_score": 0.735,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7187,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-10T01:07:47.053000Z",
+      "latest_at": "2026-10-10T01:07:47.053000Z",
+      "primary_item": {
+        "id": "bacb542641a8f98b896bae662a55fad5b27e3798",
+        "title": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
+        "url": "https://www.ithome.com/1/011/194.htm",
+        "source": "IT之家·人工智能",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_98538a79e69e",
+      "title": "Anthropic 承认模型对自身推理的解释不可作为行为动机的证据",
+      "url": "https://x.com/rohanpaul_ai/status/2108741349419913339",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2108741349419913339",
       "source": "X：Rohan Paul (@rohanpaul_ai)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b94a46dfca12412332148d0e21a676e07200f0ba",
-          "title": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索",
-          "url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
+          "id": "9f87a0f945cc58c8a9fa6838aebd33c32f81f476",
+          "title": "Anthropic 承认模型对自身推理的解释不可作为行为动机的证据",
+          "url": "https://x.com/rohanpaul_ai/status/2108741349419913339",
           "source": "X：Rohan Paul (@rohanpaul_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-09T22:11:18Z"
+          "published_at": "2026-10-10T02:08:10Z"
         }
       ],
       "source_count": 1,
@@ -499,360 +555,58 @@
       ],
       "items": [
         {
-          "id": "b94a46dfca12412332148d0e21a676e07200f0ba",
-          "title": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索",
-          "url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
+          "id": "9f87a0f945cc58c8a9fa6838aebd33c32f81f476",
+          "title": "Anthropic 承认模型对自身推理的解释不可作为行为动机的证据",
+          "url": "https://x.com/rohanpaul_ai/status/2108741349419913339",
           "source": "X：Rohan Paul (@rohanpaul_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-09T22:11:18Z"
+          "published_at": "2026-10-10T02:08:10Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7749,
-      "importance": 0.7749,
-      "importance_score": 0.7749,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9742,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-09T22:11:18Z",
-      "latest_at": "2026-10-09T22:11:18Z",
-      "primary_item": {
-        "id": "b94a46dfca12412332148d0e21a676e07200f0ba",
-        "title": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索",
-        "url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e436320cbb36",
-      "title": "ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜",
-      "url": "https://x.com/arcprize/status/2108578092558250148",
-      "primary_url": "https://x.com/arcprize/status/2108578092558250148",
-      "source": "X：ARC Prize (@arcprize)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "38851d20485286ffb8bf29ad7e7d5c2f1d0ebbf8",
-          "title": "ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜",
-          "url": "https://x.com/arcprize/status/2108578092558250148",
-          "source": "X：ARC Prize (@arcprize)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T15:19:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：ARC Prize (@arcprize)"
-      ],
-      "items": [
-        {
-          "id": "38851d20485286ffb8bf29ad7e7d5c2f1d0ebbf8",
-          "title": "ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜",
-          "url": "https://x.com/arcprize/status/2108578092558250148",
-          "source": "X：ARC Prize (@arcprize)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T15:19:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7614,
-      "importance": 0.7614,
-      "importance_score": 0.7614,
+      "score": 0.7339,
+      "importance": 0.7339,
+      "importance_score": 0.7339,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8822,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-09T15:19:27Z",
-      "latest_at": "2026-10-09T15:19:27Z",
-      "primary_item": {
-        "id": "38851d20485286ffb8bf29ad7e7d5c2f1d0ebbf8",
-        "title": "ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜",
-        "url": "https://x.com/arcprize/status/2108578092558250148",
-        "source": "X：ARC Prize (@arcprize)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d8e692c54664",
-      "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
-      "url": "https://sierra.ai/blog/poppy",
-      "primary_url": "https://sierra.ai/blog/poppy",
-      "source": "Sierra：Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a7000cdfd3f2b9791ce182422673686ac6706839",
-          "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
-          "url": "https://sierra.ai/blog/poppy",
-          "source": "Sierra：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T19:56:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Sierra：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "a7000cdfd3f2b9791ce182422673686ac6706839",
-          "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
-          "url": "https://sierra.ai/blog/poppy",
-          "source": "Sierra：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T19:56:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7363,
-      "importance": 0.7363,
-      "importance_score": 0.7363,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.943,
+        "recency": 0.7292,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-09T19:56:06Z",
-      "latest_at": "2026-10-09T19:56:06Z",
+      "earliest_at": "2026-10-10T02:08:10Z",
+      "latest_at": "2026-10-10T02:08:10Z",
       "primary_item": {
-        "id": "a7000cdfd3f2b9791ce182422673686ac6706839",
-        "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
-        "url": "https://sierra.ai/blog/poppy",
-        "source": "Sierra：Blog（RSS）",
+        "id": "9f87a0f945cc58c8a9fa6838aebd33c32f81f476",
+        "title": "Anthropic 承认模型对自身推理的解释不可作为行为动机的证据",
+        "url": "https://x.com/rohanpaul_ai/status/2108741349419913339",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_98153a63a36e",
-      "title": "Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC）",
-      "url": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
-      "primary_url": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
-      "source": "Redwood Research：Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0c3712ba797602e9ce592e277869e8eef9b19cbf",
-          "title": "Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC）",
-          "url": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
-          "source": "Redwood Research：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T22:06:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Redwood Research：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "0c3712ba797602e9ce592e277869e8eef9b19cbf",
-          "title": "Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC）",
-          "url": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
-          "source": "Redwood Research：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T22:06:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7358,
-      "importance": 0.7358,
-      "importance_score": 0.7358,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.63,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9731,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-09T22:06:51Z",
-      "latest_at": "2026-10-09T22:06:51Z",
-      "primary_item": {
-        "id": "0c3712ba797602e9ce592e277869e8eef9b19cbf",
-        "title": "Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC）",
-        "url": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
-        "source": "Redwood Research：Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_27e99f3d8f98",
-      "title": "Epoch AI 发布 InnovationEval 评测：前沿模型仅达到人类论文 SDPO 增益的 15%",
-      "url": "https://epochai.substack.com/p/can-ai-automate-ai-r-and-d-yet",
-      "primary_url": "https://epochai.substack.com/p/can-ai-automate-ai-r-and-d-yet",
-      "source": "Epoch AI：Gradient Updates（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5cbb0d656643d05afd840ba27d4abe7983e3e59a",
-          "title": "Epoch AI 发布 InnovationEval 评测：前沿模型仅达到人类论文 SDPO 增益的 15%",
-          "url": "https://epochai.substack.com/p/can-ai-automate-ai-r-and-d-yet",
-          "source": "Epoch AI：Gradient Updates（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T18:41:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Epoch AI：Gradient Updates（RSS）"
-      ],
-      "items": [
-        {
-          "id": "5cbb0d656643d05afd840ba27d4abe7983e3e59a",
-          "title": "Epoch AI 发布 InnovationEval 评测：前沿模型仅达到人类论文 SDPO 增益的 15%",
-          "url": "https://epochai.substack.com/p/can-ai-automate-ai-r-and-d-yet",
-          "source": "Epoch AI：Gradient Updates（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T18:41:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7243,
-      "importance": 0.7243,
-      "importance_score": 0.7243,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.62,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9261,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-09T18:41:00Z",
-      "latest_at": "2026-10-09T18:41:00Z",
-      "primary_item": {
-        "id": "5cbb0d656643d05afd840ba27d4abe7983e3e59a",
-        "title": "Epoch AI 发布 InnovationEval 评测：前沿模型仅达到人类论文 SDPO 增益的 15%",
-        "url": "https://epochai.substack.com/p/can-ai-automate-ai-r-and-d-yet",
-        "source": "Epoch AI：Gradient Updates（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7bff145dd415",
-      "title": "OpenAI 研究负责人发声明回应三名员工离职争议",
-      "url": "https://x.com/OpenAINewsroom/status/2108441580806025712",
-      "primary_url": "https://x.com/OpenAINewsroom/status/2108441580806025712",
-      "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c9a79fec44485cd24f540e96e9add155d83d27c6",
-          "title": "OpenAI 研究负责人发声明回应三名员工离职争议",
-          "url": "https://x.com/OpenAINewsroom/status/2108441580806025712",
-          "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T06:17:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI Newsroom (@OpenAINewsroom)"
-      ],
-      "items": [
-        {
-          "id": "c9a79fec44485cd24f540e96e9add155d83d27c6",
-          "title": "OpenAI 研究负责人发声明回应三名员工离职争议",
-          "url": "https://x.com/OpenAINewsroom/status/2108441580806025712",
-          "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T06:17:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.721,
-      "importance": 0.721,
-      "importance_score": 0.721,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7743,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-09T06:17:00Z",
-      "latest_at": "2026-10-09T06:17:00Z",
-      "primary_item": {
-        "id": "c9a79fec44485cd24f540e96e9add155d83d27c6",
-        "title": "OpenAI 研究负责人发声明回应三名员工离职争议",
-        "url": "https://x.com/OpenAINewsroom/status/2108441580806025712",
-        "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_58302715fcbf",
-      "title": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
-      "url": "https://www.aibase.com/news/31509",
-      "primary_url": "https://www.aibase.com/news/31509",
+      "story_id": "story_96bd8f3b0fa6",
+      "title": "腾讯云开源内部自用 TeamAI 工具，支持跨 Agent 共享 Skill",
+      "url": "https://www.aibase.com/news/31546",
+      "primary_url": "https://www.aibase.com/news/31546",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d9f80e5257f197e6225183453260c5b0f5db73ec",
-          "title": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
-          "url": "https://www.aibase.com/news/31509",
+          "id": "80e650dec3dcfe7ef01078eab10fbe27c8033868",
+          "title": "腾讯云开源内部自用 TeamAI 工具，支持跨 Agent 共享 Skill",
+          "url": "https://www.aibase.com/news/31546",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-09T17:00:04.113366Z"
+          "published_at": "2026-10-10T18:00:05.286083Z"
         }
       ],
       "source_count": 1,
@@ -861,13 +615,74 @@
       ],
       "items": [
         {
-          "id": "d9f80e5257f197e6225183453260c5b0f5db73ec",
-          "title": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
-          "url": "https://www.aibase.com/news/31509",
+          "id": "80e650dec3dcfe7ef01078eab10fbe27c8033868",
+          "title": "腾讯云开源内部自用 TeamAI 工具，支持跨 Agent 共享 Skill",
+          "url": "https://www.aibase.com/news/31546",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-09T17:00:04.113366Z"
+          "published_at": "2026-10-10T18:00:05.286083Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.917,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-10T18:00:05.286083Z",
+      "latest_at": "2026-10-10T18:00:05.286083Z",
+      "primary_item": {
+        "id": "80e650dec3dcfe7ef01078eab10fbe27c8033868",
+        "title": "腾讯云开源内部自用 TeamAI 工具，支持跨 Agent 共享 Skill",
+        "url": "https://www.aibase.com/news/31546",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_bd99d8a6f870",
+      "title": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
+      "url": "https://www.aibase.com/news/31544",
+      "primary_url": "https://www.aibase.com/news/31544",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9615e9a3c5486cae1c403a49a95e9284161614f1",
+          "title": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
+          "url": "https://www.aibase.com/news/31544",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-10T17:00:05.286083Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "9615e9a3c5486cae1c403a49a95e9284161614f1",
+          "title": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
+          "url": "https://www.aibase.com/news/31544",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-10T17:00:05.286083Z"
         }
       ],
       "item_count": 1,
@@ -888,373 +703,123 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-09T17:00:04.113366Z",
-      "latest_at": "2026-10-09T17:00:04.113366Z",
+      "earliest_at": "2026-10-10T17:00:05.286083Z",
+      "latest_at": "2026-10-10T17:00:05.286083Z",
       "primary_item": {
-        "id": "d9f80e5257f197e6225183453260c5b0f5db73ec",
-        "title": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
-        "url": "https://www.aibase.com/news/31509",
+        "id": "9615e9a3c5486cae1c403a49a95e9284161614f1",
+        "title": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
+        "url": "https://www.aibase.com/news/31544",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5036975c4c72",
-      "title": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
-      "url": "https://www.aibase.com/news/31507",
-      "primary_url": "https://www.aibase.com/news/31507",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6e016b316c1d5ccf4c97b95d8faed406d7790859",
-          "title": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
-          "url": "https://www.aibase.com/news/31507",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-09T17:00:04.113366Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6e016b316c1d5ccf4c97b95d8faed406d7790859",
-          "title": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
-          "url": "https://www.aibase.com/news/31507",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-09T17:00:04.113366Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9039,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-09T17:00:04.113366Z",
-      "latest_at": "2026-10-09T17:00:04.113366Z",
-      "primary_item": {
-        "id": "6e016b316c1d5ccf4c97b95d8faed406d7790859",
-        "title": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
-        "url": "https://www.aibase.com/news/31507",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2a1c784f84b9",
-      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
-      "primary_url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "0ee3cfee485f7c529902cd6c4a91e9e1bc116129",
-          "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-09T19:36:56Z"
-        },
-        {
-          "id": "145a7aad5286b98601e7de128dd1d179ad76b05d",
-          "title": "An Anthropic model submitted a false homicide tip to Philadelphia police",
-          "url": "https://www.engadget.com/2282713/an-anthropic-model-submitted-a-false-homicide-tip-to-philadelphia-police",
-          "source": "Engadget",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-09T20:00:30Z"
-        },
-        {
-          "id": "25d10010a131526956cfc84c46ea6177e4f4ea70",
-          "title": "An Anthropic AI model sent a false homicide tip to the police",
-          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-09T19:44:59Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Engadget",
-        "HN Algolia · AI 24h",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "0ee3cfee485f7c529902cd6c4a91e9e1bc116129",
-          "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-09T19:36:56Z"
-        },
-        {
-          "id": "145a7aad5286b98601e7de128dd1d179ad76b05d",
-          "title": "An Anthropic model submitted a false homicide tip to Philadelphia police",
-          "url": "https://www.engadget.com/2282713/an-anthropic-model-submitted-a-false-homicide-tip-to-philadelphia-police",
-          "source": "Engadget",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-09T20:00:30Z"
-        },
-        {
-          "id": "25d10010a131526956cfc84c46ea6177e4f4ea70",
-          "title": "An Anthropic AI model sent a false homicide tip to the police",
-          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-09T19:44:59Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6752,
-      "importance": 0.6752,
-      "importance_score": 0.6752,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.5688,
-        "source_tier": 0.58,
-        "ai_relevance": 0.79,
-        "recency": 0.9386,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-09T19:36:56Z",
-      "latest_at": "2026-10-09T20:00:30Z",
-      "primary_item": {
-        "id": "0ee3cfee485f7c529902cd6c4a91e9e1bc116129",
-        "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-        "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
       }
     },
     {
       "story_id": "story_2df82173bb28",
-      "title": "别急着让 AI 接管业务，很多公司真正卡住的地方，是客户资料散在聊天里、进度表口径混乱、报销凭证反复手工整理。底账没理顺，再强模型进来也只会跟着乱。这篇文章用客户管理和费用报销两个真实场景，把 AI 落地前的“数字底座”拆得很细，能帮你从一件麻烦事开始，把流程整理到 AI 真能接手。",
+      "title": "AI 写代码越来越强，大家最常聊效率，却很少认真聊：当机器接过越来越多“手活”，工程师会失去什么。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-10-09",
+      "source": "社区更新 · 2026-10-10",
       "source_name": "WaytoAGI",
       "sources": [
         {
-          "id": "a9fdb8fd65198cc8a85ca78262c20b8227e7f72d",
-          "title": "别急着让 AI 接管业务，很多公司真正卡住的地方，是客户资料散在聊天里、进度表口径混乱、报销凭证反复手工整理。底账没理顺，再强模型进来也只会跟着乱。这篇文章用客户管理和费用报销两个真实场景，把 AI 落地前的“数字底座”拆得很细，能帮你从一件麻烦事开始，把流程整理到 AI 真能接手。",
+          "id": "e48888c190fa8b36e2e12c39a205cfaacb3e1b89",
+          "title": "AI 写代码越来越强，大家最常聊效率，却很少认真聊：当机器接过越来越多“手活”，工程师会失去什么。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-09",
+          "source": "社区更新 · 2026-10-10",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-10-10T00:00:04.113366Z"
+          "published_at": "2026-10-11T00:00:05.286083Z"
         },
         {
-          "id": "789a8c4aa8a56782c6f7aa4b8536f9178a647f62",
-          "title": "想读懂Opus 5.5掀起的行业变革？词元之外的第五期播客深度拆解了AI对游戏、软件、硬件领域的冲击。借助模型强大的代码能力，快速开发游戏Demo、复刻游戏、仿制软件、编写硬件固件都不再困难，传统技术壁垒正在被快速瓦解，法律也难以跟上技术发展；IP共识、硬件入口与开放生态，或将成为未来突围的核心抓手。",
+          "id": "e605da7b0de1d1910cc0410691338bdc28b5022a",
+          "title": "Anthropic推出的Claude Motion，不靠视频大模型，直接用代码渲染演示动效。只需调整文字、数字、时长等参数，其余画面不会被破坏。文中还提供了可直接丢给 Opus 5.5 的全套提示词，自动筛选适合可视化的内容、输出分镜脚本、生成代码并导出 1080p MP4，快速制作产品演示短片。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-09",
+          "source": "社区更新 · 2026-10-10",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-10-10T00:00:04.113366Z"
+          "published_at": "2026-10-11T00:00:05.286083Z"
         },
         {
-          "id": "9b3dc06d2297bc47d785c8f421176e626bc4e6c9",
-          "title": "最近个人 Agent 突然火了。Google、SpaceXAI、Meta、Manus、OpenAI 五家前后发了自己的个人 Agent。那么，谁最适合当你的助理呢？一起来看看作者的这份对比分析报告！",
+          "id": "e3bbb7f729392650b972088c6bc7a7e6544190d5",
+          "title": "想低成本搭建个人网站与轻量AI接口？这份Cloudflare实操指南从域名接入、HTTPS配置、GitHub自动部署网站，到域名邮箱、R2对象存储，还讲解了Workers调用开源模型、全新cf命令行交由Agent管理的整套资源，帮你避开各类配置陷阱，零服务器成本落地你的线上项目。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-09",
+          "source": "社区更新 · 2026-10-10",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-10-10T00:00:04.113366Z"
+          "published_at": "2026-10-11T00:00:05.286083Z"
         },
         {
-          "id": "5d9b00eb1ca1bcca5bfe387a7dbcadf37d11e110",
-          "title": "现在人们谈论智能体时，会用到五个词：上下文工程、循环工程、Jev 工程、harness工程、评估工程。这篇文章带你详细拆解下它们到底是什么关系。",
+          "id": "95d2fef6b7573e6b3c7562a41244a6b98401da86",
+          "title": "老金深度体验了 由 GPT-6 Astra 驱动的 Dot 个人云端智能体后，分享了开源项目看板、复用工作手册、手机语音续改、定时巡检等实操方案，可以帮你简化多任务管理，不用反复复述需求，轻松托管各类长期工作项目。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-09",
+          "source": "社区更新 · 2026-10-10",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-10-10T00:00:04.113366Z"
+          "published_at": "2026-10-11T00:00:05.286083Z"
         },
         {
-          "id": "5913a67111ba5e0145d594d4c09012c1f8a7e91d",
-          "title": "OpenAI带来Intelligent UI交互能力，彻底跳出纯文本回复模式。对话内可直接生成可操作组件：滑块、动态图表、清单计算器，甚至简易小游戏。不管是规划聚餐采购、定制旅行穿搭，还是理解三门问题、中心极限定理这类抽象知识，都能通过交互直观上手。还能按需快速搭建分账工具、储蓄计算器等轻应用。",
+          "id": "22d79127b8860eee8937bea9db9f2653c31135f0",
+          "title": "这波 Personal Agent 火起来，不只是“AI 助手换个名字”，背后其实是产品形态开始收敛：每个用户一台云电脑、一个浏览器、一个常驻后台 Agent，敏感操作再拉人审批。这篇文章把 Meta Muse、OpenAI Dots、Grok Bot、Gemini Spark、Manus Cue 放在一起进行了全面复盘。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-08",
+          "source": "社区更新 · 2026-10-10",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-10-09T00:00:05.623132Z"
-        },
-        {
-          "id": "90910426d379e0420cb56bdff0aa33a38a4670e5",
-          "title": "REA 是面向AI智能体的本地逆向工程工具，最近爆火，已经突破2万star。借助它，无需源码，你就能对原生二进制、Electron、.NET程序与网站做分析。还可对接Hopper/Ghidra，搭配Cursor、Claude Code等主流编程智能体，通过一句话指令，完成反编译、调用图追踪，解析目标功能逻辑，再生成适配你项目的实现代码。整套分析在本机运行，不上传二进制，支持CLI与MCP双入口，给开发者提供了从功能调研到代码复刻的完整本地逆向工作流。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-09T00:00:05.623132Z"
-        },
-        {
-          "id": "6cfa2d0f8fc9faf6fec04ae39f0bb74176a2e8ab",
-          "title": "想拥有持续后台执行任务的 AI 个人助手？老金这篇实测带你吃透 OpenAI Dot。手机下发指令就能持续推进项目，无需全程值守。文中附带代码开发、课程校对、视频制作、作业审阅等真实落地案例，帮你快速上手搭建属于自己的AI助手。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-09T00:00:05.623132Z"
-        },
-        {
-          "id": "78ea3aa99da0b1ac790a3740c34577919c821c86",
-          "title": "藏师傅整合里三套开源Skill，自动抓取X收藏、资讯站点等多源信息，严格校验数据真实性，输出文字简报与90秒横屏讲解视频。文末附带可直接复制的提示词，Muse、Dots等带云电脑的Agent都能复用，帮你搭建属于自己的每日资讯自动产出系统。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-09T00:00:05.623132Z"
-        },
-        {
-          "id": "547d4b2f5e733d1731a744785aac04a0dca64044",
-          "title": "还在纠结LLM多GPU分布式推理怎么选型？这份指南拆解了各类并行方案的通信开销与取舍逻辑，覆盖流水线、上下文、专家、数据并行主流策略。你可以结合硬件拓扑、模型类型与业务负载，判断该用哪种并行组合，合理分摊权重与KV缓存，规避跨设备通信拖慢推理速度的问题。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-09T00:00:05.623132Z"
-        },
-        {
-          "id": "7e02d26b799b08ad5831a66b1ed2f25ff1506c6c",
-          "title": "这份AI创意摄影手册，教你把普通旅行照片转化成充满故事感的艺术作品。文中有8大创意玩法与43条可直接复制的提示词，涵盖旅行海报、微缩食物幻想、时空合影、情绪叙事线等创意方向。来随手上传你的旅行照片，试试效果！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-09T00:00:05.623132Z"
+          "published_at": "2026-10-11T00:00:05.286083Z"
         }
       ],
-      "source_count": 10,
+      "source_count": 5,
       "source_names": [
-        "社区更新 · 2026-10-08",
-        "社区更新 · 2026-10-09"
+        "社区更新 · 2026-10-10"
       ],
       "items": [
         {
-          "id": "a9fdb8fd65198cc8a85ca78262c20b8227e7f72d",
-          "title": "别急着让 AI 接管业务，很多公司真正卡住的地方，是客户资料散在聊天里、进度表口径混乱、报销凭证反复手工整理。底账没理顺，再强模型进来也只会跟着乱。这篇文章用客户管理和费用报销两个真实场景，把 AI 落地前的“数字底座”拆得很细，能帮你从一件麻烦事开始，把流程整理到 AI 真能接手。",
+          "id": "e48888c190fa8b36e2e12c39a205cfaacb3e1b89",
+          "title": "AI 写代码越来越强，大家最常聊效率，却很少认真聊：当机器接过越来越多“手活”，工程师会失去什么。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-09",
+          "source": "社区更新 · 2026-10-10",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-10-10T00:00:04.113366Z"
+          "published_at": "2026-10-11T00:00:05.286083Z"
         },
         {
-          "id": "789a8c4aa8a56782c6f7aa4b8536f9178a647f62",
-          "title": "想读懂Opus 5.5掀起的行业变革？词元之外的第五期播客深度拆解了AI对游戏、软件、硬件领域的冲击。借助模型强大的代码能力，快速开发游戏Demo、复刻游戏、仿制软件、编写硬件固件都不再困难，传统技术壁垒正在被快速瓦解，法律也难以跟上技术发展；IP共识、硬件入口与开放生态，或将成为未来突围的核心抓手。",
+          "id": "e605da7b0de1d1910cc0410691338bdc28b5022a",
+          "title": "Anthropic推出的Claude Motion，不靠视频大模型，直接用代码渲染演示动效。只需调整文字、数字、时长等参数，其余画面不会被破坏。文中还提供了可直接丢给 Opus 5.5 的全套提示词，自动筛选适合可视化的内容、输出分镜脚本、生成代码并导出 1080p MP4，快速制作产品演示短片。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-09",
+          "source": "社区更新 · 2026-10-10",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-10-10T00:00:04.113366Z"
+          "published_at": "2026-10-11T00:00:05.286083Z"
         },
         {
-          "id": "9b3dc06d2297bc47d785c8f421176e626bc4e6c9",
-          "title": "最近个人 Agent 突然火了。Google、SpaceXAI、Meta、Manus、OpenAI 五家前后发了自己的个人 Agent。那么，谁最适合当你的助理呢？一起来看看作者的这份对比分析报告！",
+          "id": "e3bbb7f729392650b972088c6bc7a7e6544190d5",
+          "title": "想低成本搭建个人网站与轻量AI接口？这份Cloudflare实操指南从域名接入、HTTPS配置、GitHub自动部署网站，到域名邮箱、R2对象存储，还讲解了Workers调用开源模型、全新cf命令行交由Agent管理的整套资源，帮你避开各类配置陷阱，零服务器成本落地你的线上项目。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-09",
+          "source": "社区更新 · 2026-10-10",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-10-10T00:00:04.113366Z"
+          "published_at": "2026-10-11T00:00:05.286083Z"
         },
         {
-          "id": "5d9b00eb1ca1bcca5bfe387a7dbcadf37d11e110",
-          "title": "现在人们谈论智能体时，会用到五个词：上下文工程、循环工程、Jev 工程、harness工程、评估工程。这篇文章带你详细拆解下它们到底是什么关系。",
+          "id": "95d2fef6b7573e6b3c7562a41244a6b98401da86",
+          "title": "老金深度体验了 由 GPT-6 Astra 驱动的 Dot 个人云端智能体后，分享了开源项目看板、复用工作手册、手机语音续改、定时巡检等实操方案，可以帮你简化多任务管理，不用反复复述需求，轻松托管各类长期工作项目。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-09",
+          "source": "社区更新 · 2026-10-10",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-10-10T00:00:04.113366Z"
+          "published_at": "2026-10-11T00:00:05.286083Z"
         },
         {
-          "id": "5913a67111ba5e0145d594d4c09012c1f8a7e91d",
-          "title": "OpenAI带来Intelligent UI交互能力，彻底跳出纯文本回复模式。对话内可直接生成可操作组件：滑块、动态图表、清单计算器，甚至简易小游戏。不管是规划聚餐采购、定制旅行穿搭，还是理解三门问题、中心极限定理这类抽象知识，都能通过交互直观上手。还能按需快速搭建分账工具、储蓄计算器等轻应用。",
+          "id": "22d79127b8860eee8937bea9db9f2653c31135f0",
+          "title": "这波 Personal Agent 火起来，不只是“AI 助手换个名字”，背后其实是产品形态开始收敛：每个用户一台云电脑、一个浏览器、一个常驻后台 Agent，敏感操作再拉人审批。这篇文章把 Meta Muse、OpenAI Dots、Grok Bot、Gemini Spark、Manus Cue 放在一起进行了全面复盘。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-08",
+          "source": "社区更新 · 2026-10-10",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-10-09T00:00:05.623132Z"
-        },
-        {
-          "id": "90910426d379e0420cb56bdff0aa33a38a4670e5",
-          "title": "REA 是面向AI智能体的本地逆向工程工具，最近爆火，已经突破2万star。借助它，无需源码，你就能对原生二进制、Electron、.NET程序与网站做分析。还可对接Hopper/Ghidra，搭配Cursor、Claude Code等主流编程智能体，通过一句话指令，完成反编译、调用图追踪，解析目标功能逻辑，再生成适配你项目的实现代码。整套分析在本机运行，不上传二进制，支持CLI与MCP双入口，给开发者提供了从功能调研到代码复刻的完整本地逆向工作流。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-09T00:00:05.623132Z"
-        },
-        {
-          "id": "6cfa2d0f8fc9faf6fec04ae39f0bb74176a2e8ab",
-          "title": "想拥有持续后台执行任务的 AI 个人助手？老金这篇实测带你吃透 OpenAI Dot。手机下发指令就能持续推进项目，无需全程值守。文中附带代码开发、课程校对、视频制作、作业审阅等真实落地案例，帮你快速上手搭建属于自己的AI助手。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-09T00:00:05.623132Z"
-        },
-        {
-          "id": "78ea3aa99da0b1ac790a3740c34577919c821c86",
-          "title": "藏师傅整合里三套开源Skill，自动抓取X收藏、资讯站点等多源信息，严格校验数据真实性，输出文字简报与90秒横屏讲解视频。文末附带可直接复制的提示词，Muse、Dots等带云电脑的Agent都能复用，帮你搭建属于自己的每日资讯自动产出系统。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-09T00:00:05.623132Z"
-        },
-        {
-          "id": "547d4b2f5e733d1731a744785aac04a0dca64044",
-          "title": "还在纠结LLM多GPU分布式推理怎么选型？这份指南拆解了各类并行方案的通信开销与取舍逻辑，覆盖流水线、上下文、专家、数据并行主流策略。你可以结合硬件拓扑、模型类型与业务负载，判断该用哪种并行组合，合理分摊权重与KV缓存，规避跨设备通信拖慢推理速度的问题。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-09T00:00:05.623132Z"
-        },
-        {
-          "id": "7e02d26b799b08ad5831a66b1ed2f25ff1506c6c",
-          "title": "这份AI创意摄影手册，教你把普通旅行照片转化成充满故事感的艺术作品。文中有8大创意玩法与43条可直接复制的提示词，涵盖旅行海报、微缩食物幻想、时空合影、情绪叙事线等创意方向。来随手上传你的旅行照片，试试效果！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-09T00:00:05.623132Z"
+          "published_at": "2026-10-11T00:00:05.286083Z"
         }
       ],
-      "item_count": 10,
-      "duplicate_count": 10,
+      "item_count": 5,
+      "duplicate_count": 5,
       "score": 0.6692,
       "importance": 0.6692,
       "importance_score": 0.6692,
@@ -1270,32 +835,32 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-09T00:00:05.623132Z",
-      "latest_at": "2026-10-10T00:00:04.113366Z",
+      "earliest_at": "2026-10-11T00:00:05.286083Z",
+      "latest_at": "2026-10-11T00:00:05.286083Z",
       "primary_item": {
-        "id": "a9fdb8fd65198cc8a85ca78262c20b8227e7f72d",
-        "title": "别急着让 AI 接管业务，很多公司真正卡住的地方，是客户资料散在聊天里、进度表口径混乱、报销凭证反复手工整理。底账没理顺，再强模型进来也只会跟着乱。这篇文章用客户管理和费用报销两个真实场景，把 AI 落地前的“数字底座”拆得很细，能帮你从一件麻烦事开始，把流程整理到 AI 真能接手。",
+        "id": "e48888c190fa8b36e2e12c39a205cfaacb3e1b89",
+        "title": "AI 写代码越来越强，大家最常聊效率，却很少认真聊：当机器接过越来越多“手活”，工程师会失去什么。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-10-09",
+        "source": "社区更新 · 2026-10-10",
         "source_name": "WaytoAGI"
       }
     },
     {
-      "story_id": "story_750e71b5f86c",
-      "title": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
-      "url": "https://www.aibase.com/news/31506",
-      "primary_url": "https://www.aibase.com/news/31506",
+      "story_id": "story_3ac76fbaf36c",
+      "title": "​知名学者怒批：立即全网下架可联网开放式AI智能体",
+      "url": "https://www.aibase.com/news/31545",
+      "primary_url": "https://www.aibase.com/news/31545",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "2db9d913c51001caeb4e64dbbbf339ef736b8765",
-          "title": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
-          "url": "https://www.aibase.com/news/31506",
+          "id": "b2cd79cf50bb841459581b353d5fc4ccfe3524e7",
+          "title": "​知名学者怒批：立即全网下架可联网开放式AI智能体",
+          "url": "https://www.aibase.com/news/31545",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-09T16:00:04.113366Z"
+          "published_at": "2026-10-10T17:00:05.286083Z"
         }
       ],
       "source_count": 1,
@@ -1304,13 +869,135 @@
       ],
       "items": [
         {
-          "id": "2db9d913c51001caeb4e64dbbbf339ef736b8765",
-          "title": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
-          "url": "https://www.aibase.com/news/31506",
+          "id": "b2cd79cf50bb841459581b353d5fc4ccfe3524e7",
+          "title": "​知名学者怒批：立即全网下架可联网开放式AI智能体",
+          "url": "https://www.aibase.com/news/31545",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-09T16:00:04.113366Z"
+          "published_at": "2026-10-10T17:00:05.286083Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9039,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-10T17:00:05.286083Z",
+      "latest_at": "2026-10-10T17:00:05.286083Z",
+      "primary_item": {
+        "id": "b2cd79cf50bb841459581b353d5fc4ccfe3524e7",
+        "title": "​知名学者怒批：立即全网下架可联网开放式AI智能体",
+        "url": "https://www.aibase.com/news/31545",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_0c0b7bd3fb59",
+      "title": "千问首款AI耳机亮相NBA中国赛，可在淘宝、京东官方店预约",
+      "url": "https://www.aibase.com/news/31543",
+      "primary_url": "https://www.aibase.com/news/31543",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "1baec69b23d487fa7182088c19615c4271387142",
+          "title": "千问首款AI耳机亮相NBA中国赛，可在淘宝、京东官方店预约",
+          "url": "https://www.aibase.com/news/31543",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-10T17:00:05.286083Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "1baec69b23d487fa7182088c19615c4271387142",
+          "title": "千问首款AI耳机亮相NBA中国赛，可在淘宝、京东官方店预约",
+          "url": "https://www.aibase.com/news/31543",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-10T17:00:05.286083Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9039,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-10T17:00:05.286083Z",
+      "latest_at": "2026-10-10T17:00:05.286083Z",
+      "primary_item": {
+        "id": "1baec69b23d487fa7182088c19615c4271387142",
+        "title": "千问首款AI耳机亮相NBA中国赛，可在淘宝、京东官方店预约",
+        "url": "https://www.aibase.com/news/31543",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_40c66a032359",
+      "title": "多模态决策大模型迎来开源新突破！Cloudflare 正式发布 Clef-omni，全面支持音视频原生输入",
+      "url": "https://www.aibase.com/news/31537",
+      "primary_url": "https://www.aibase.com/news/31537",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6c8166e804d4486c6d1b3765124ef0c1b9243f35",
+          "title": "多模态决策大模型迎来开源新突破！Cloudflare 正式发布 Clef-omni，全面支持音视频原生输入",
+          "url": "https://www.aibase.com/news/31537",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-10T16:00:05.286083Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "6c8166e804d4486c6d1b3765124ef0c1b9243f35",
+          "title": "多模态决策大模型迎来开源新突破！Cloudflare 正式发布 Clef-omni，全面支持音视频原生输入",
+          "url": "https://www.aibase.com/news/31537",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-10T16:00:05.286083Z"
         }
       ],
       "item_count": 1,
@@ -1330,32 +1017,32 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-09T16:00:04.113366Z",
-      "latest_at": "2026-10-09T16:00:04.113366Z",
+      "earliest_at": "2026-10-10T16:00:05.286083Z",
+      "latest_at": "2026-10-10T16:00:05.286083Z",
       "primary_item": {
-        "id": "2db9d913c51001caeb4e64dbbbf339ef736b8765",
-        "title": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
-        "url": "https://www.aibase.com/news/31506",
+        "id": "6c8166e804d4486c6d1b3765124ef0c1b9243f35",
+        "title": "多模态决策大模型迎来开源新突破！Cloudflare 正式发布 Clef-omni，全面支持音视频原生输入",
+        "url": "https://www.aibase.com/news/31537",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_b809afdd62b7",
-      "title": "快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改",
-      "url": "https://www.aibase.com/news/31505",
-      "primary_url": "https://www.aibase.com/news/31505",
+      "story_id": "story_18d789dc0525",
+      "title": "深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元",
+      "url": "https://www.aibase.com/news/31541",
+      "primary_url": "https://www.aibase.com/news/31541",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e8a8790592bb2d1d7baccfd71272f474eef1b051",
-          "title": "快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改",
-          "url": "https://www.aibase.com/news/31505",
+          "id": "09bb6a8eebdc8bef4f9ff0cabeb2e418978b80f5",
+          "title": "深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元",
+          "url": "https://www.aibase.com/news/31541",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-09T16:00:04.113366Z"
+          "published_at": "2026-10-10T16:00:05.286083Z"
         }
       ],
       "source_count": 1,
@@ -1364,13 +1051,13 @@
       ],
       "items": [
         {
-          "id": "e8a8790592bb2d1d7baccfd71272f474eef1b051",
-          "title": "快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改",
-          "url": "https://www.aibase.com/news/31505",
+          "id": "09bb6a8eebdc8bef4f9ff0cabeb2e418978b80f5",
+          "title": "深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元",
+          "url": "https://www.aibase.com/news/31541",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-09T16:00:04.113366Z"
+          "published_at": "2026-10-10T16:00:05.286083Z"
         }
       ],
       "item_count": 1,
@@ -1390,92 +1077,368 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-09T16:00:04.113366Z",
-      "latest_at": "2026-10-09T16:00:04.113366Z",
+      "earliest_at": "2026-10-10T16:00:05.286083Z",
+      "latest_at": "2026-10-10T16:00:05.286083Z",
       "primary_item": {
-        "id": "e8a8790592bb2d1d7baccfd71272f474eef1b051",
-        "title": "快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改",
-        "url": "https://www.aibase.com/news/31505",
+        "id": "09bb6a8eebdc8bef4f9ff0cabeb2e418978b80f5",
+        "title": "深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元",
+        "url": "https://www.aibase.com/news/31541",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_d07dddd55da2",
-      "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-      "source": "The Verge",
-      "source_name": "Curated Media",
+      "story_id": "story_611aad146f37",
+      "title": "英伟达正就收购美国“开放”模型初创公司Reflection AI进行谈判",
+      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
+      "primary_url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
+      "source": "www.ft.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "a6dde0a6e888ff89baedb3a0dcdeee931dece63a",
-          "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-09T19:09:44Z"
+          "id": "b99bd2e595c8cf5d80202f5643f8c7e62b895d2a",
+          "title": "英伟达正就收购美国“开放”模型初创公司Reflection AI进行谈判",
+          "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-10T18:48:59.490000Z"
         },
         {
-          "id": "5272b7ad57f0651ee9bdb4c420201aa794fcbf79",
-          "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-09T19:09:44Z"
+          "id": "d6d0a36f3f3a8313f503fcc5370578013e5c0c95",
+          "title": "英伟达正就收购美国“开放”模型初创公司Reflection AI进行谈判 / Nvidia in talks to acquire US 'open' model startup Reflection AI",
+          "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-10T18:48:35Z"
+        },
+        {
+          "id": "5e98a0537dfd7a2231f20e7c1a98c1df23f42ac8",
+          "title": "英伟达正在洽谈收购美国“开放”模式初创公司 Reflection AI / Nvidia in talks to acquire US 'open' model startup Reflection AI",
+          "url": "https://news.ycombinator.com/item?id=50035886",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-10T18:48:35Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.ft.com"
+      ],
+      "items": [
+        {
+          "id": "b99bd2e595c8cf5d80202f5643f8c7e62b895d2a",
+          "title": "英伟达正就收购美国“开放”模型初创公司Reflection AI进行谈判",
+          "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-10T18:48:59.490000Z"
+        },
+        {
+          "id": "d6d0a36f3f3a8313f503fcc5370578013e5c0c95",
+          "title": "英伟达正就收购美国“开放”模型初创公司Reflection AI进行谈判 / Nvidia in talks to acquire US 'open' model startup Reflection AI",
+          "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-10T18:48:35Z"
+        },
+        {
+          "id": "5e98a0537dfd7a2231f20e7c1a98c1df23f42ac8",
+          "title": "英伟达正在洽谈收购美国“开放”模式初创公司 Reflection AI / Nvidia in talks to acquire US 'open' model startup Reflection AI",
+          "url": "https://news.ycombinator.com/item?id=50035886",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-10T18:48:35Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5578,
+      "importance": 0.5578,
+      "importance_score": 0.5578,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9279,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-10T18:48:35Z",
+      "latest_at": "2026-10-10T18:48:59.490000Z",
+      "primary_item": {
+        "id": "b99bd2e595c8cf5d80202f5643f8c7e62b895d2a",
+        "title": "英伟达正就收购美国“开放”模型初创公司Reflection AI进行谈判",
+        "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
+        "source": "www.ft.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_6b75dae75d97",
+      "title": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理",
+      "url": "https://github.com/rociiu/talorys",
+      "primary_url": "https://github.com/rociiu/talorys",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b4a20c70f6ff7293f47343f2692a3f6de9acca8f",
+          "title": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理",
+          "url": "https://github.com/rociiu/talorys",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-10T14:52:04.483000Z"
+        },
+        {
+          "id": "8de169e992534ff3b8487f23ffa3d5db9fcfcc05",
+          "title": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理 / Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+          "url": "https://github.com/rociiu/talorys",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-10T10:52:09Z"
+        },
+        {
+          "id": "7b929953e435f88e9217395172ac1d83f8322994",
+          "title": "Talorys – Cloudflare 免费套餐上的自托管个人 AI 代理 / Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+          "url": "https://news.ycombinator.com/item?id=50031614",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-10T10:52:09Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b4a20c70f6ff7293f47343f2692a3f6de9acca8f",
+          "title": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理",
+          "url": "https://github.com/rociiu/talorys",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-10T14:52:04.483000Z"
+        },
+        {
+          "id": "8de169e992534ff3b8487f23ffa3d5db9fcfcc05",
+          "title": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理 / Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+          "url": "https://github.com/rociiu/talorys",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-10T10:52:09Z"
+        },
+        {
+          "id": "7b929953e435f88e9217395172ac1d83f8322994",
+          "title": "Talorys – Cloudflare 免费套餐上的自托管个人 AI 代理 / Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+          "url": "https://news.ycombinator.com/item?id=50031614",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-10T10:52:09Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5486,
+      "importance": 0.5486,
+      "importance_score": 0.5486,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8764,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-10T10:52:09Z",
+      "latest_at": "2026-10-10T14:52:04.483000Z",
+      "primary_item": {
+        "id": "b4a20c70f6ff7293f47343f2692a3f6de9acca8f",
+        "title": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理",
+        "url": "https://github.com/rociiu/talorys",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_b6773085f128",
+      "title": "multica-ai / andrej-karpathy-技能 / multica-ai /      andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "primary_url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "baeb7c3254f794bf6cc04dc0a84e08a4131b1c74",
+          "title": "multica-ai / andrej-karpathy-技能 / multica-ai /      andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T00:02:03.144000Z"
+        },
+        {
+          "id": "032027867da96a5f8b4ace0675c9358fb4750ded",
+          "title": "multica-ai / andrej-karpathy-技能 / multica-ai / andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "The Verge"
+        "GitHub · Trending Today",
+        "github"
       ],
       "items": [
         {
-          "id": "a6dde0a6e888ff89baedb3a0dcdeee931dece63a",
-          "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-09T19:09:44Z"
+          "id": "baeb7c3254f794bf6cc04dc0a84e08a4131b1c74",
+          "title": "multica-ai / andrej-karpathy-技能 / multica-ai /      andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T00:02:03.144000Z"
         },
         {
-          "id": "5272b7ad57f0651ee9bdb4c420201aa794fcbf79",
-          "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-09T19:09:44Z"
+          "id": "032027867da96a5f8b4ace0675c9358fb4750ded",
+          "title": "multica-ai / andrej-karpathy-技能 / multica-ai / andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6158,
-      "importance": 0.6158,
-      "importance_score": 0.6158,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5112,
-        "source_tier": 0.58,
-        "ai_relevance": 0.71,
-        "recency": 0.9325,
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-09T19:09:44Z",
-      "latest_at": "2026-10-09T19:09:44Z",
+      "earliest_at": "2026-10-11T00:00:05.286083Z",
+      "latest_at": "2026-10-11T00:02:03.144000Z",
       "primary_item": {
-        "id": "a6dde0a6e888ff89baedb3a0dcdeee931dece63a",
-        "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-        "source": "The Verge",
-        "source_name": "Curated Media"
+        "id": "baeb7c3254f794bf6cc04dc0a84e08a4131b1c74",
+        "title": "multica-ai / andrej-karpathy-技能 / multica-ai /      andrej-karpathy-skills",
+        "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+        "source": "github",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_3df84065df47",
+      "title": "萨蒂亚·纳德拉表示，企业与人工智能之间的关系应建立在信任的基础上",
+      "url": "https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-threat-blog-enterprise-companies-corporations-2026-10",
+      "primary_url": "https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-threat-blog-enterprise-companies-corporations-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e658c9c9f72e208a2d1dfce7cae6074cb85fe029",
+          "title": "萨蒂亚·纳德拉表示，企业与人工智能之间的关系应建立在信任的基础上",
+          "url": "https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-threat-blog-enterprise-companies-corporations-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-10T21:25:38.059000Z"
+        },
+        {
+          "id": "f7e80665a4a7d362c880069e1e936f9a25add3a0",
+          "title": "萨蒂亚·纳德拉表示，企业与人工智能之间的关系应建立在信任的基础上 / Satya Nadella says a company's relationship with AI should have trust issues",
+          "url": "https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-threat-blog-enterprise-companies-corporations-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-10T21:05:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "e658c9c9f72e208a2d1dfce7cae6074cb85fe029",
+          "title": "萨蒂亚·纳德拉表示，企业与人工智能之间的关系应建立在信任的基础上",
+          "url": "https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-threat-blog-enterprise-companies-corporations-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-10T21:25:38.059000Z"
+        },
+        {
+          "id": "f7e80665a4a7d362c880069e1e936f9a25add3a0",
+          "title": "萨蒂亚·纳德拉表示，企业与人工智能之间的关系应建立在信任的基础上 / Satya Nadella says a company's relationship with AI should have trust issues",
+          "url": "https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-threat-blog-enterprise-companies-corporations-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-10T21:05:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5392,
+      "importance": 0.5392,
+      "importance_score": 0.5392,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9635,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-10T21:05:46Z",
+      "latest_at": "2026-10-10T21:25:38.059000Z",
+      "primary_item": {
+        "id": "e658c9c9f72e208a2d1dfce7cae6074cb85fe029",
+        "title": "萨蒂亚·纳德拉表示，企业与人工智能之间的关系应建立在信任的基础上",
+        "url": "https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-threat-blog-enterprise-companies-corporations-2026-10",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     }
   ]
