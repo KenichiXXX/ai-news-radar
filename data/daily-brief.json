@@ -1,727 +1,191 @@
 {
-  "generated_at": "2026-10-11T00:00:05.286083Z",
+  "generated_at": "2026-10-12T00:00:03.367956Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 11,
   "items": [
     {
-      "story_id": "story_1e0e6608c184",
-      "title": "Copilot for JetBrains 中的新控件和聊天改进 / New controls and chat improvements in Copilot for JetBrains",
-      "url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
-      "primary_url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_70938c9dd862",
+      "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
+      "url": "https://x.com/thsottiaux/status/2109430343346581527",
+      "primary_url": "https://x.com/thsottiaux/status/2109430343346581527",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "7105f7a887a844336072613e1ed600066153efc2",
-          "title": "Copilot for JetBrains 中的新控件和聊天改进 / New controls and chat improvements in Copilot for JetBrains",
-          "url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-10T18:53:39Z"
+          "id": "7921d07cf3992ab1a77138e5c638870e2449d8fd",
+          "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
+          "url": "https://x.com/thsottiaux/status/2109430343346581527",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-11T23:45:59Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "X：Tibo (@thsottiaux)"
       ],
       "items": [
         {
-          "id": "7105f7a887a844336072613e1ed600066153efc2",
-          "title": "Copilot for JetBrains 中的新控件和聊天改进 / New controls and chat improvements in Copilot for JetBrains",
-          "url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-10T18:53:39Z"
+          "id": "7921d07cf3992ab1a77138e5c638870e2449d8fd",
+          "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
+          "url": "https://x.com/thsottiaux/status/2109430343346581527",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-11T23:45:59Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8392,
-      "importance": 0.8392,
-      "importance_score": 0.8392,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9289,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-10T18:53:39Z",
-      "latest_at": "2026-10-10T18:53:39Z",
-      "primary_item": {
-        "id": "7105f7a887a844336072613e1ed600066153efc2",
-        "title": "Copilot for JetBrains 中的新控件和聊天改进 / New controls and chat improvements in Copilot for JetBrains",
-        "url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_2e3af46c5b7b",
-      "title": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境",
-      "url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out",
-      "primary_url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c01fe277cea6b5e9d91df46cbc3b2f27e9d158fc",
-          "title": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境",
-          "url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T21:30:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "c01fe277cea6b5e9d91df46cbc3b2f27e9d158fc",
-          "title": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境",
-          "url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T21:30:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8002,
-      "importance": 0.8002,
-      "importance_score": 0.8002,
+      "score": 0.731,
+      "importance": 0.731,
+      "importance_score": 0.731,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.85,
+        "editorial": 0.6,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9647,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-10T21:30:36Z",
-      "latest_at": "2026-10-10T21:30:36Z",
-      "primary_item": {
-        "id": "c01fe277cea6b5e9d91df46cbc3b2f27e9d158fc",
-        "title": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境",
-        "url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f95c4a1ce24c",
-      "title": "OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感",
-      "url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field",
-      "primary_url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1649fb33508a8f5e5cc8f044c0039df37be1c5a3",
-          "title": "OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感",
-          "url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T13:03:59Z"
-        },
-        {
-          "id": "d9245aeea0a9a6e66a9d97501516267be495774a",
-          "title": "OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感 / \"How much beauty have we lost?\" Mathematicians react with shock and disgust as OpenAI bulldozes their field",
-          "url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-10T13:03:59Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "1649fb33508a8f5e5cc8f044c0039df37be1c5a3",
-          "title": "OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感",
-          "url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T13:03:59Z"
-        },
-        {
-          "id": "d9245aeea0a9a6e66a9d97501516267be495774a",
-          "title": "OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感 / \"How much beauty have we lost?\" Mathematicians react with shock and disgust as OpenAI bulldozes their field",
-          "url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-10T13:03:59Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7963,
-      "importance": 0.7963,
-      "importance_score": 0.7963,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8539,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-10T13:03:59Z",
-      "latest_at": "2026-10-10T13:03:59Z",
-      "primary_item": {
-        "id": "1649fb33508a8f5e5cc8f044c0039df37be1c5a3",
-        "title": "OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感",
-        "url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6cd6f5cc677d",
-      "title": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网",
-      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
-      "primary_url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5fffef4c62768a02a0ef4173810cf42d18f3ce7f",
-          "title": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网",
-          "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T00:18:32Z"
-        },
-        {
-          "id": "a29f4ce9342c8d932fe09d9e42916b0d181465c5",
-          "title": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网 / Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-          "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-10T00:18:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "5fffef4c62768a02a0ef4173810cf42d18f3ce7f",
-          "title": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网",
-          "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T00:18:32Z"
-        },
-        {
-          "id": "a29f4ce9342c8d932fe09d9e42916b0d181465c5",
-          "title": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网 / Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-          "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-10T00:18:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7644,
-      "importance": 0.7644,
-      "importance_score": 0.7644,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7103,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-10T00:18:32Z",
-      "latest_at": "2026-10-10T00:18:32Z",
-      "primary_item": {
-        "id": "5fffef4c62768a02a0ef4173810cf42d18f3ce7f",
-        "title": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网",
-        "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c842af9430c6",
-      "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
-      "url": "https://x.com/SaitoWu/status/2108919486581796872",
-      "primary_url": "https://x.com/SaitoWu/status/2108919486581796872",
-      "source": "X：Saito 硬地骇客 (@SaitoWu)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "69bfa5e3f216503c129d795e05cd47b96e123c4f",
-          "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
-          "url": "https://x.com/SaitoWu/status/2108919486581796872",
-          "source": "X：Saito 硬地骇客 (@SaitoWu)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T13:56:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Saito 硬地骇客 (@SaitoWu)"
-      ],
-      "items": [
-        {
-          "id": "69bfa5e3f216503c129d795e05cd47b96e123c4f",
-          "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
-          "url": "https://x.com/SaitoWu/status/2108919486581796872",
-          "source": "X：Saito 硬地骇客 (@SaitoWu)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T13:56:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7582,
-      "importance": 0.7582,
-      "importance_score": 0.7582,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8647,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-10T13:56:02Z",
-      "latest_at": "2026-10-10T13:56:02Z",
-      "primary_item": {
-        "id": "69bfa5e3f216503c129d795e05cd47b96e123c4f",
-        "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
-        "url": "https://x.com/SaitoWu/status/2108919486581796872",
-        "source": "X：Saito 硬地骇客 (@SaitoWu)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1a81bead26f4",
-      "title": "月之暗面注册资本飙至 1437 万，年内密集增资动作频频",
-      "url": "https://www.aibase.com/news/31547",
-      "primary_url": "https://www.aibase.com/news/31547",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3af2ee43e9b757b033080c1c945f94f4e9f55115",
-          "title": "月之暗面注册资本飙至 1437 万，年内密集增资动作频频",
-          "url": "https://www.aibase.com/news/31547",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T18:00:05.286083Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3af2ee43e9b757b033080c1c945f94f4e9f55115",
-          "title": "月之暗面注册资本飙至 1437 万，年内密集增资动作频频",
-          "url": "https://www.aibase.com/news/31547",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T18:00:05.286083Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.917,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-10T18:00:05.286083Z",
-      "latest_at": "2026-10-10T18:00:05.286083Z",
-      "primary_item": {
-        "id": "3af2ee43e9b757b033080c1c945f94f4e9f55115",
-        "title": "月之暗面注册资本飙至 1437 万，年内密集增资动作频频",
-        "url": "https://www.aibase.com/news/31547",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_83a5417202a3",
-      "title": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
-      "url": "https://x.com/indigox/status/2108791275914993998",
-      "primary_url": "https://x.com/indigox/status/2108791275914993998",
-      "source": "X：indigo (@indigox)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8767310b69dd7c77de9607e0656310de88ba3daf",
-          "title": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
-          "url": "https://x.com/indigox/status/2108791275914993998",
-          "source": "X：indigo (@indigox)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T05:26:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：indigo (@indigox)"
-      ],
-      "items": [
-        {
-          "id": "8767310b69dd7c77de9607e0656310de88ba3daf",
-          "title": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
-          "url": "https://x.com/indigox/status/2108791275914993998",
-          "source": "X：indigo (@indigox)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T05:26:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7649,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-10T05:26:34Z",
-      "latest_at": "2026-10-10T05:26:34Z",
-      "primary_item": {
-        "id": "8767310b69dd7c77de9607e0656310de88ba3daf",
-        "title": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
-        "url": "https://x.com/indigox/status/2108791275914993998",
-        "source": "X：indigo (@indigox)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b72411781b2c",
-      "title": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
-      "url": "https://www.ithome.com/1/011/194.htm",
-      "primary_url": "https://www.ithome.com/1/011/194.htm",
-      "source": "IT之家·人工智能",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bacb542641a8f98b896bae662a55fad5b27e3798",
-          "title": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
-          "url": "https://www.ithome.com/1/011/194.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T01:07:47.053000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家·人工智能"
-      ],
-      "items": [
-        {
-          "id": "bacb542641a8f98b896bae662a55fad5b27e3798",
-          "title": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
-          "url": "https://www.ithome.com/1/011/194.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T01:07:47.053000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.735,
-      "importance": 0.735,
-      "importance_score": 0.735,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7187,
+        "recency": 0.9966,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-10T01:07:47.053000Z",
-      "latest_at": "2026-10-10T01:07:47.053000Z",
+      "earliest_at": "2026-10-11T23:45:59Z",
+      "latest_at": "2026-10-11T23:45:59Z",
       "primary_item": {
-        "id": "bacb542641a8f98b896bae662a55fad5b27e3798",
-        "title": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
-        "url": "https://www.ithome.com/1/011/194.htm",
-        "source": "IT之家·人工智能",
+        "id": "7921d07cf3992ab1a77138e5c638870e2449d8fd",
+        "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
+        "url": "https://x.com/thsottiaux/status/2109430343346581527",
+        "source": "X：Tibo (@thsottiaux)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_98538a79e69e",
-      "title": "Anthropic 承认模型对自身推理的解释不可作为行为动机的证据",
-      "url": "https://x.com/rohanpaul_ai/status/2108741349419913339",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2108741349419913339",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
+      "story_id": "story_b24a437d8a62",
+      "title": "何夕2077 AI 深度信号周报 2026 W40–W41",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-11-ai-deep-signals-weekly-2026-w40-w41",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-11-ai-deep-signals-weekly-2026-w40-w41",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
       "sources": [
         {
-          "id": "9f87a0f945cc58c8a9fa6838aebd33c32f81f476",
-          "title": "Anthropic 承认模型对自身推理的解释不可作为行为动机的证据",
-          "url": "https://x.com/rohanpaul_ai/status/2108741349419913339",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T02:08:10Z"
+          "id": "fd9a769ab11169a7855bb807b195e2ea0ea755d1",
+          "title": "何夕2077 AI 深度信号周报 2026 W40–W41",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-11-ai-deep-signals-weekly-2026-w40-w41",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-10-11T04:50:59Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "Daily Digest"
       ],
       "items": [
         {
-          "id": "9f87a0f945cc58c8a9fa6838aebd33c32f81f476",
-          "title": "Anthropic 承认模型对自身推理的解释不可作为行为动机的证据",
-          "url": "https://x.com/rohanpaul_ai/status/2108741349419913339",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T02:08:10Z"
+          "id": "fd9a769ab11169a7855bb807b195e2ea0ea755d1",
+          "title": "何夕2077 AI 深度信号周报 2026 W40–W41",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-11-ai-deep-signals-weekly-2026-w40-w41",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-10-11T04:50:59Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7339,
-      "importance": 0.7339,
-      "importance_score": 0.7339,
+      "score": 0.7241,
+      "importance": 0.7241,
+      "importance_score": 0.7241,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7292,
+        "recency": 0.7584,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-10T02:08:10Z",
-      "latest_at": "2026-10-10T02:08:10Z",
+      "earliest_at": "2026-10-11T04:50:59Z",
+      "latest_at": "2026-10-11T04:50:59Z",
       "primary_item": {
-        "id": "9f87a0f945cc58c8a9fa6838aebd33c32f81f476",
-        "title": "Anthropic 承认模型对自身推理的解释不可作为行为动机的证据",
-        "url": "https://x.com/rohanpaul_ai/status/2108741349419913339",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_96bd8f3b0fa6",
-      "title": "腾讯云开源内部自用 TeamAI 工具，支持跨 Agent 共享 Skill",
-      "url": "https://www.aibase.com/news/31546",
-      "primary_url": "https://www.aibase.com/news/31546",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "80e650dec3dcfe7ef01078eab10fbe27c8033868",
-          "title": "腾讯云开源内部自用 TeamAI 工具，支持跨 Agent 共享 Skill",
-          "url": "https://www.aibase.com/news/31546",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T18:00:05.286083Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "80e650dec3dcfe7ef01078eab10fbe27c8033868",
-          "title": "腾讯云开源内部自用 TeamAI 工具，支持跨 Agent 共享 Skill",
-          "url": "https://www.aibase.com/news/31546",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T18:00:05.286083Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.917,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-10T18:00:05.286083Z",
-      "latest_at": "2026-10-10T18:00:05.286083Z",
-      "primary_item": {
-        "id": "80e650dec3dcfe7ef01078eab10fbe27c8033868",
-        "title": "腾讯云开源内部自用 TeamAI 工具，支持跨 Agent 共享 Skill",
-        "url": "https://www.aibase.com/news/31546",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_bd99d8a6f870",
-      "title": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
-      "url": "https://www.aibase.com/news/31544",
-      "primary_url": "https://www.aibase.com/news/31544",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9615e9a3c5486cae1c403a49a95e9284161614f1",
-          "title": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
-          "url": "https://www.aibase.com/news/31544",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T17:00:05.286083Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9615e9a3c5486cae1c403a49a95e9284161614f1",
-          "title": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
-          "url": "https://www.aibase.com/news/31544",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T17:00:05.286083Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9039,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-10T17:00:05.286083Z",
-      "latest_at": "2026-10-10T17:00:05.286083Z",
-      "primary_item": {
-        "id": "9615e9a3c5486cae1c403a49a95e9284161614f1",
-        "title": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
-        "url": "https://www.aibase.com/news/31544",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "fd9a769ab11169a7855bb807b195e2ea0ea755d1",
+        "title": "何夕2077 AI 深度信号周报 2026 W40–W41",
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-11-ai-deep-signals-weekly-2026-w40-w41",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
       }
     },
     {
       "story_id": "story_2df82173bb28",
-      "title": "AI 写代码越来越强，大家最常聊效率，却很少认真聊：当机器接过越来越多“手活”，工程师会失去什么。",
+      "title": "本地跑 LLM 慢，问题往往不只是“算力不够”，更常见的是内存带宽把生成速度锁住了。Mirai 开源推理引擎 Uzu，凭借硬件专属量化、DFlash-Weaver 草稿生成与免回滚树验证方案，在 M5 芯片上实现性能飞跃。一起来看看是怎么回事！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-10-10",
+      "source": "社区更新 · 2026-10-11",
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "d1bc19038ca074821fdea4509abcc1c5f8e9b988",
+          "title": "作者这份实战分享，带来一套轻量化的Agent开发工作流，涵盖需求对齐、多Agent协同开发、搭建Agent友好的端到端测试环境，以及AI生成代码的评审策略。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-12T00:00:03.367956Z"
+        },
+        {
+          "id": "4ac95e28a4ad51d36f2039b60db3525f18a0ae00",
+          "title": "很多人想转行 Agent 工程师，一上来就收藏框架、跑 demo，结果 API、RAG、状态管理、后端工程都没真正串起来。作者整理了一份学习路线：覆盖 LLM 原理、提示词工程、RAG、智能体循环，延伸至后端开发全栈能力，配套学习链接、实操项目与验收标准。或许可以帮你快速定位知识盲区，搭建可用于求职展示的技术作品集。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-12T00:00:03.367956Z"
+        },
+        {
+          "id": "600d588e82be0a01924e386f054fdb7e00cdc1dc",
+          "title": "想低成本搭建企业AI业务中台？这篇文章拆解了卡兹克团队在飞书工作台搭建组织中台的完整方案，提供了零代码自助搭建、网页嵌入两套落地路径。覆盖权限配置、模板选用、页面编辑、发布上线全流程，搭配各类小组件与布局方案，可快速搭建千人千面的业务门户，复帮团队把AI能力落地到真实业务场景。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-12T00:00:03.367956Z"
+        },
+        {
+          "id": "cb80c2185339c18d9cd175018015b06db3f766d7",
+          "title": "本周精选的10篇 AI 论文正在从“换更强模型”转向“把模型外面的系统做扎实”，集结了 CMU、微软、谷歌、Meta 等机构的突破性成果。内容覆盖控制程序工程、检索增强、长周期任务校验、多智能体自优化与记忆架构等核心方向。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-12T00:00:03.367956Z"
+        },
+        {
+          "id": "42a1f31b79a394a0db6ca10a10b678e50a93253b",
+          "title": "本地跑 LLM 慢，问题往往不只是“算力不够”，更常见的是内存带宽把生成速度锁住了。Mirai 开源推理引擎 Uzu，凭借硬件专属量化、DFlash-Weaver 草稿生成与免回滚树验证方案，在 M5 芯片上实现性能飞跃。一起来看看是怎么回事！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-12T00:00:03.367956Z"
+        },
+        {
+          "id": "4e5b491c7c6ce31b9348c0d0e0645a5f7ab06f13",
+          "title": "汇集Stripe、Uber、Meta等大厂工程实践，作者提炼出10类多智能体落地范式，还总结出可复用的六条核心设计原则。大家也可以结合自身的业务痛点，从轻量化单一场景起步快速验证。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-12T00:00:03.367956Z"
+        },
+        {
           "id": "e48888c190fa8b36e2e12c39a205cfaacb3e1b89",
           "title": "AI 写代码越来越强，大家最常聊效率，却很少认真聊：当机器接过越来越多“手活”，工程师会失去什么。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -767,12 +231,67 @@
           "published_at": "2026-10-11T00:00:05.286083Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 11,
       "source_names": [
-        "社区更新 · 2026-10-10"
+        "社区更新 · 2026-10-10",
+        "社区更新 · 2026-10-11"
       ],
       "items": [
         {
+          "id": "d1bc19038ca074821fdea4509abcc1c5f8e9b988",
+          "title": "作者这份实战分享，带来一套轻量化的Agent开发工作流，涵盖需求对齐、多Agent协同开发、搭建Agent友好的端到端测试环境，以及AI生成代码的评审策略。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-12T00:00:03.367956Z"
+        },
+        {
+          "id": "4ac95e28a4ad51d36f2039b60db3525f18a0ae00",
+          "title": "很多人想转行 Agent 工程师，一上来就收藏框架、跑 demo，结果 API、RAG、状态管理、后端工程都没真正串起来。作者整理了一份学习路线：覆盖 LLM 原理、提示词工程、RAG、智能体循环，延伸至后端开发全栈能力，配套学习链接、实操项目与验收标准。或许可以帮你快速定位知识盲区，搭建可用于求职展示的技术作品集。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-12T00:00:03.367956Z"
+        },
+        {
+          "id": "600d588e82be0a01924e386f054fdb7e00cdc1dc",
+          "title": "想低成本搭建企业AI业务中台？这篇文章拆解了卡兹克团队在飞书工作台搭建组织中台的完整方案，提供了零代码自助搭建、网页嵌入两套落地路径。覆盖权限配置、模板选用、页面编辑、发布上线全流程，搭配各类小组件与布局方案，可快速搭建千人千面的业务门户，复帮团队把AI能力落地到真实业务场景。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-12T00:00:03.367956Z"
+        },
+        {
+          "id": "cb80c2185339c18d9cd175018015b06db3f766d7",
+          "title": "本周精选的10篇 AI 论文正在从“换更强模型”转向“把模型外面的系统做扎实”，集结了 CMU、微软、谷歌、Meta 等机构的突破性成果。内容覆盖控制程序工程、检索增强、长周期任务校验、多智能体自优化与记忆架构等核心方向。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-12T00:00:03.367956Z"
+        },
+        {
+          "id": "42a1f31b79a394a0db6ca10a10b678e50a93253b",
+          "title": "本地跑 LLM 慢，问题往往不只是“算力不够”，更常见的是内存带宽把生成速度锁住了。Mirai 开源推理引擎 Uzu，凭借硬件专属量化、DFlash-Weaver 草稿生成与免回滚树验证方案，在 M5 芯片上实现性能飞跃。一起来看看是怎么回事！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-12T00:00:03.367956Z"
+        },
+        {
+          "id": "4e5b491c7c6ce31b9348c0d0e0645a5f7ab06f13",
+          "title": "汇集Stripe、Uber、Meta等大厂工程实践，作者提炼出10类多智能体落地范式，还总结出可复用的六条核心设计原则。大家也可以结合自身的业务痛点，从轻量化单一场景起步快速验证。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-12T00:00:03.367956Z"
+        },
+        {
           "id": "e48888c190fa8b36e2e12c39a205cfaacb3e1b89",
           "title": "AI 写代码越来越强，大家最常聊效率，却很少认真聊：当机器接过越来越多“手活”，工程师会失去什么。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -818,16 +337,16 @@
           "published_at": "2026-10-11T00:00:05.286083Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "item_count": 11,
+      "duplicate_count": 11,
+      "score": 0.69,
+      "importance": 0.69,
+      "importance_score": 0.69,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.468,
+        "editorial": 0.504,
         "source_tier": 0.54,
-        "ai_relevance": 0.65,
+        "ai_relevance": 0.7,
         "recency": 1.0,
         "story_heat": 1.0
       },
@@ -836,450 +355,426 @@
         "multi_source"
       ],
       "earliest_at": "2026-10-11T00:00:05.286083Z",
-      "latest_at": "2026-10-11T00:00:05.286083Z",
+      "latest_at": "2026-10-12T00:00:03.367956Z",
       "primary_item": {
-        "id": "e48888c190fa8b36e2e12c39a205cfaacb3e1b89",
-        "title": "AI 写代码越来越强，大家最常聊效率，却很少认真聊：当机器接过越来越多“手活”，工程师会失去什么。",
+        "id": "42a1f31b79a394a0db6ca10a10b678e50a93253b",
+        "title": "本地跑 LLM 慢，问题往往不只是“算力不够”，更常见的是内存带宽把生成速度锁住了。Mirai 开源推理引擎 Uzu，凭借硬件专属量化、DFlash-Weaver 草稿生成与免回滚树验证方案，在 M5 芯片上实现性能飞跃。一起来看看是怎么回事！",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-10-10",
+        "source": "社区更新 · 2026-10-11",
         "source_name": "WaytoAGI"
       }
     },
     {
-      "story_id": "story_3ac76fbaf36c",
-      "title": "​知名学者怒批：立即全网下架可联网开放式AI智能体",
-      "url": "https://www.aibase.com/news/31545",
-      "primary_url": "https://www.aibase.com/news/31545",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_98ebcffe1ec7",
+      "title": "Anthropic 放弃后，消息称亚马逊洽谈收购 AI 初创公司 Decart",
+      "url": "https://www.ithome.com/1/011/720.htm",
+      "primary_url": "https://www.ithome.com/1/011/720.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "b2cd79cf50bb841459581b353d5fc4ccfe3524e7",
-          "title": "​知名学者怒批：立即全网下架可联网开放式AI智能体",
-          "url": "https://www.aibase.com/news/31545",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T17:00:05.286083Z"
+          "id": "839a14b78d4213504b42d6581802bdcf27c78d6d",
+          "title": "Anthropic 放弃后，消息称亚马逊洽谈收购 AI 初创公司 Decart",
+          "url": "https://www.ithome.com/1/011/720.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "6fa0b1525f5a0ed52ed77fa1906f373a6ec4a5f5",
+          "title": "Anthropic 放弃后，消息称亚马逊洽谈收购初创公司 Decart、看中 AI 芯片切换软件",
+          "url": "https://www.ithome.com/1/011/720.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-11T23:01:49Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "IT之家 (ITHome)",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "b2cd79cf50bb841459581b353d5fc4ccfe3524e7",
-          "title": "​知名学者怒批：立即全网下架可联网开放式AI智能体",
-          "url": "https://www.aibase.com/news/31545",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T17:00:05.286083Z"
+          "id": "839a14b78d4213504b42d6581802bdcf27c78d6d",
+          "title": "Anthropic 放弃后，消息称亚马逊洽谈收购 AI 初创公司 Decart",
+          "url": "https://www.ithome.com/1/011/720.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "6fa0b1525f5a0ed52ed77fa1906f373a6ec4a5f5",
+          "title": "Anthropic 放弃后，消息称亚马逊洽谈收购初创公司 Decart、看中 AI 芯片切换软件",
+          "url": "https://www.ithome.com/1/011/720.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-11T23:01:49Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9039,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-10T17:00:05.286083Z",
-      "latest_at": "2026-10-10T17:00:05.286083Z",
+      "earliest_at": "2026-10-11T23:01:49Z",
+      "latest_at": "2026-10-12T00:00:03.367956Z",
       "primary_item": {
-        "id": "b2cd79cf50bb841459581b353d5fc4ccfe3524e7",
-        "title": "​知名学者怒批：立即全网下架可联网开放式AI智能体",
-        "url": "https://www.aibase.com/news/31545",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "839a14b78d4213504b42d6581802bdcf27c78d6d",
+        "title": "Anthropic 放弃后，消息称亚马逊洽谈收购 AI 初创公司 Decart",
+        "url": "https://www.ithome.com/1/011/720.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_0c0b7bd3fb59",
-      "title": "千问首款AI耳机亮相NBA中国赛，可在淘宝、京东官方店预约",
-      "url": "https://www.aibase.com/news/31543",
-      "primary_url": "https://www.aibase.com/news/31543",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_26149269af1e",
+      "title": "利奥加文/airllm / lyogavin / airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "primary_url": "https://github.com/lyogavin/airllm",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "1baec69b23d487fa7182088c19615c4271387142",
-          "title": "千问首款AI耳机亮相NBA中国赛，可在淘宝、京东官方店预约",
-          "url": "https://www.aibase.com/news/31543",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T17:00:05.286083Z"
+          "id": "873efe30c3d07f8f1f9fdc970ea42e882b979ec6",
+          "title": "利奥加文/airllm / lyogavin / airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "30870051053a0408ac43ee807dcdd3f1bb8e0b32",
+          "title": "利奥加文/airllm / lyogavin /      airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T23:34:03.469000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "GitHub · Trending Today",
+        "github"
       ],
       "items": [
         {
-          "id": "1baec69b23d487fa7182088c19615c4271387142",
-          "title": "千问首款AI耳机亮相NBA中国赛，可在淘宝、京东官方店预约",
-          "url": "https://www.aibase.com/news/31543",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T17:00:05.286083Z"
+          "id": "873efe30c3d07f8f1f9fdc970ea42e882b979ec6",
+          "title": "利奥加文/airllm / lyogavin / airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "30870051053a0408ac43ee807dcdd3f1bb8e0b32",
+          "title": "利奥加文/airllm / lyogavin /      airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T23:34:03.469000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9039,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-10T17:00:05.286083Z",
-      "latest_at": "2026-10-10T17:00:05.286083Z",
+      "earliest_at": "2026-10-11T23:34:03.469000Z",
+      "latest_at": "2026-10-12T00:00:03.367956Z",
       "primary_item": {
-        "id": "1baec69b23d487fa7182088c19615c4271387142",
-        "title": "千问首款AI耳机亮相NBA中国赛，可在淘宝、京东官方店预约",
-        "url": "https://www.aibase.com/news/31543",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "873efe30c3d07f8f1f9fdc970ea42e882b979ec6",
+        "title": "利奥加文/airllm / lyogavin / airllm",
+        "url": "https://github.com/lyogavin/airllm",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_40c66a032359",
-      "title": "多模态决策大模型迎来开源新突破！Cloudflare 正式发布 Clef-omni，全面支持音视频原生输入",
-      "url": "https://www.aibase.com/news/31537",
-      "primary_url": "https://www.aibase.com/news/31537",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6c8166e804d4486c6d1b3765124ef0c1b9243f35",
-          "title": "多模态决策大模型迎来开源新突破！Cloudflare 正式发布 Clef-omni，全面支持音视频原生输入",
-          "url": "https://www.aibase.com/news/31537",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T16:00:05.286083Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6c8166e804d4486c6d1b3765124ef0c1b9243f35",
-          "title": "多模态决策大模型迎来开源新突破！Cloudflare 正式发布 Clef-omni，全面支持音视频原生输入",
-          "url": "https://www.aibase.com/news/31537",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T16:00:05.286083Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8909,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-10T16:00:05.286083Z",
-      "latest_at": "2026-10-10T16:00:05.286083Z",
-      "primary_item": {
-        "id": "6c8166e804d4486c6d1b3765124ef0c1b9243f35",
-        "title": "多模态决策大模型迎来开源新突破！Cloudflare 正式发布 Clef-omni，全面支持音视频原生输入",
-        "url": "https://www.aibase.com/news/31537",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_18d789dc0525",
-      "title": "深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元",
-      "url": "https://www.aibase.com/news/31541",
-      "primary_url": "https://www.aibase.com/news/31541",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "09bb6a8eebdc8bef4f9ff0cabeb2e418978b80f5",
-          "title": "深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元",
-          "url": "https://www.aibase.com/news/31541",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T16:00:05.286083Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "09bb6a8eebdc8bef4f9ff0cabeb2e418978b80f5",
-          "title": "深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元",
-          "url": "https://www.aibase.com/news/31541",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T16:00:05.286083Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8909,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-10T16:00:05.286083Z",
-      "latest_at": "2026-10-10T16:00:05.286083Z",
-      "primary_item": {
-        "id": "09bb6a8eebdc8bef4f9ff0cabeb2e418978b80f5",
-        "title": "深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元",
-        "url": "https://www.aibase.com/news/31541",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_611aad146f37",
-      "title": "英伟达正就收购美国“开放”模型初创公司Reflection AI进行谈判",
-      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
-      "primary_url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
-      "source": "www.ft.com",
+      "story_id": "story_821afa65ec96",
+      "title": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏",
+      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
+      "primary_url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
+      "source": "momo5502.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "b99bd2e595c8cf5d80202f5643f8c7e62b895d2a",
-          "title": "英伟达正就收购美国“开放”模型初创公司Reflection AI进行谈判",
-          "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
-          "source": "www.ft.com",
+          "id": "67af5f289951181297e82610494989ac12759007",
+          "title": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏",
+          "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
+          "source": "momo5502.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-10T18:48:59.490000Z"
+          "published_at": "2026-10-11T10:56:03.619000Z"
         },
         {
-          "id": "d6d0a36f3f3a8313f503fcc5370578013e5c0c95",
-          "title": "英伟达正就收购美国“开放”模型初创公司Reflection AI进行谈判 / Nvidia in talks to acquire US 'open' model startup Reflection AI",
-          "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+          "id": "577b7b1a294ea1a85310cfa302c0e26b9e4b020e",
+          "title": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏 / 500B tokens later: Letting AI agents decompile a first-person shooter",
+          "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-10T18:48:35Z"
+          "published_at": "2026-10-11T02:02:38Z"
         },
         {
-          "id": "5e98a0537dfd7a2231f20e7c1a98c1df23f42ac8",
-          "title": "英伟达正在洽谈收购美国“开放”模式初创公司 Reflection AI / Nvidia in talks to acquire US 'open' model startup Reflection AI",
-          "url": "https://news.ycombinator.com/item?id=50035886",
+          "id": "7e60eb02ef534d15cccc1d15b4937a7dfa4487e8",
+          "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
+          "url": "https://news.ycombinator.com/item?id=50039092",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-10T18:48:35Z"
+          "published_at": "2026-10-11T02:02:38Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
         "hackernews",
-        "www.ft.com"
+        "momo5502.com"
       ],
       "items": [
         {
-          "id": "b99bd2e595c8cf5d80202f5643f8c7e62b895d2a",
-          "title": "英伟达正就收购美国“开放”模型初创公司Reflection AI进行谈判",
-          "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
-          "source": "www.ft.com",
+          "id": "67af5f289951181297e82610494989ac12759007",
+          "title": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏",
+          "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
+          "source": "momo5502.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-10T18:48:59.490000Z"
+          "published_at": "2026-10-11T10:56:03.619000Z"
         },
         {
-          "id": "d6d0a36f3f3a8313f503fcc5370578013e5c0c95",
-          "title": "英伟达正就收购美国“开放”模型初创公司Reflection AI进行谈判 / Nvidia in talks to acquire US 'open' model startup Reflection AI",
-          "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+          "id": "577b7b1a294ea1a85310cfa302c0e26b9e4b020e",
+          "title": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏 / 500B tokens later: Letting AI agents decompile a first-person shooter",
+          "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-10T18:48:35Z"
+          "published_at": "2026-10-11T02:02:38Z"
         },
         {
-          "id": "5e98a0537dfd7a2231f20e7c1a98c1df23f42ac8",
-          "title": "英伟达正在洽谈收购美国“开放”模式初创公司 Reflection AI / Nvidia in talks to acquire US 'open' model startup Reflection AI",
-          "url": "https://news.ycombinator.com/item?id=50035886",
+          "id": "7e60eb02ef534d15cccc1d15b4937a7dfa4487e8",
+          "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
+          "url": "https://news.ycombinator.com/item?id=50039092",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-10T18:48:35Z"
+          "published_at": "2026-10-11T02:02:38Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5578,
-      "importance": 0.5578,
-      "importance_score": 0.5578,
+      "score": 0.5398,
+      "importance": 0.5398,
+      "importance_score": 0.5398,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9279,
+        "recency": 0.828,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-10T18:48:35Z",
-      "latest_at": "2026-10-10T18:48:59.490000Z",
+      "earliest_at": "2026-10-11T02:02:38Z",
+      "latest_at": "2026-10-11T10:56:03.619000Z",
       "primary_item": {
-        "id": "b99bd2e595c8cf5d80202f5643f8c7e62b895d2a",
-        "title": "英伟达正就收购美国“开放”模型初创公司Reflection AI进行谈判",
-        "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
-        "source": "www.ft.com",
+        "id": "67af5f289951181297e82610494989ac12759007",
+        "title": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏",
+        "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
+        "source": "momo5502.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_6b75dae75d97",
-      "title": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理",
-      "url": "https://github.com/rociiu/talorys",
-      "primary_url": "https://github.com/rociiu/talorys",
-      "source": "github.com",
-      "source_name": "Buzzing",
+      "story_id": "story_44c65736f8dd",
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "primary_url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "b4a20c70f6ff7293f47343f2692a3f6de9acca8f",
-          "title": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理",
-          "url": "https://github.com/rociiu/talorys",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-10T14:52:04.483000Z"
-        },
-        {
-          "id": "8de169e992534ff3b8487f23ffa3d5db9fcfcc05",
-          "title": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理 / Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-          "url": "https://github.com/rociiu/talorys",
+          "id": "e1a4cc6938c5a1e2cad718220bb17a9e8484c092",
+          "title": "The gap in shared understanding of LLM capability is widening",
+          "url": "https://twitter.com/karpathy/status/2109361546505966046",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-10T10:52:09Z"
+          "published_at": "2026-10-11T20:20:52Z"
         },
         {
-          "id": "7b929953e435f88e9217395172ac1d83f8322994",
-          "title": "Talorys – Cloudflare 免费套餐上的自托管个人 AI 代理 / Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-          "url": "https://news.ycombinator.com/item?id=50031614",
+          "id": "543336c7453bd62c021d5c77fa16b9da5378a6d2",
+          "title": "The gap in shared understanding of LLM capability is widening",
+          "url": "https://news.ycombinator.com/item?id=50047422",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-10T10:52:09Z"
+          "published_at": "2026-10-11T20:20:52Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "github.com",
         "hackernews"
       ],
       "items": [
         {
-          "id": "b4a20c70f6ff7293f47343f2692a3f6de9acca8f",
-          "title": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理",
-          "url": "https://github.com/rociiu/talorys",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-10T14:52:04.483000Z"
-        },
-        {
-          "id": "8de169e992534ff3b8487f23ffa3d5db9fcfcc05",
-          "title": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理 / Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-          "url": "https://github.com/rociiu/talorys",
+          "id": "e1a4cc6938c5a1e2cad718220bb17a9e8484c092",
+          "title": "The gap in shared understanding of LLM capability is widening",
+          "url": "https://twitter.com/karpathy/status/2109361546505966046",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-10T10:52:09Z"
+          "published_at": "2026-10-11T20:20:52Z"
         },
         {
-          "id": "7b929953e435f88e9217395172ac1d83f8322994",
-          "title": "Talorys – Cloudflare 免费套餐上的自托管个人 AI 代理 / Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-          "url": "https://news.ycombinator.com/item?id=50031614",
+          "id": "543336c7453bd62c021d5c77fa16b9da5378a6d2",
+          "title": "The gap in shared understanding of LLM capability is widening",
+          "url": "https://news.ycombinator.com/item?id=50047422",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-10T10:52:09Z"
+          "published_at": "2026-10-11T20:20:52Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5486,
-      "importance": 0.5486,
-      "importance_score": 0.5486,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5366,
+      "importance": 0.5366,
+      "importance_score": 0.5366,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8764,
-        "story_heat": 0.5
+        "recency": 0.9486,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-10T10:52:09Z",
-      "latest_at": "2026-10-10T14:52:04.483000Z",
+      "earliest_at": "2026-10-11T20:20:52Z",
+      "latest_at": "2026-10-11T20:20:52Z",
       "primary_item": {
-        "id": "b4a20c70f6ff7293f47343f2692a3f6de9acca8f",
-        "title": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理",
-        "url": "https://github.com/rociiu/talorys",
-        "source": "github.com",
+        "id": "e1a4cc6938c5a1e2cad718220bb17a9e8484c092",
+        "title": "The gap in shared understanding of LLM capability is widening",
+        "url": "https://twitter.com/karpathy/status/2109361546505966046",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_4b410baa7c8f",
+      "title": "我的朋友们经常使用人工智能，但我拒绝使用。我正在学会将自己对人工智能的看法和观点藏在心里。",
+      "url": "https://www.businessinsider.com/friends-love-ai-refuse-peer-pressure-2026-10",
+      "primary_url": "https://www.businessinsider.com/friends-love-ai-refuse-peer-pressure-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "53bf2a091da88b07978ef3b7903c5c5264f0e99a",
+          "title": "我的朋友们经常使用人工智能，但我拒绝使用。我正在学会将自己对人工智能的看法和观点藏在心里。",
+          "url": "https://www.businessinsider.com/friends-love-ai-refuse-peer-pressure-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-11T12:30:10.840000Z"
+        },
+        {
+          "id": "96b5e884a412c5537503c4741a27023f65611b3d",
+          "title": "我的朋友们经常使用人工智能，但我拒绝使用。我正在学会将自己对人工智能的看法和观点藏在心里。 / My friends use AI regularly, but I refuse to. I'm learning to keep my beliefs and opinions about it to myself.",
+          "url": "https://www.businessinsider.com/friends-love-ai-refuse-peer-pressure-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-11T11:47:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "53bf2a091da88b07978ef3b7903c5c5264f0e99a",
+          "title": "我的朋友们经常使用人工智能，但我拒绝使用。我正在学会将自己对人工智能的看法和观点藏在心里。",
+          "url": "https://www.businessinsider.com/friends-love-ai-refuse-peer-pressure-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-11T12:30:10.840000Z"
+        },
+        {
+          "id": "96b5e884a412c5537503c4741a27023f65611b3d",
+          "title": "我的朋友们经常使用人工智能，但我拒绝使用。我正在学会将自己对人工智能的看法和观点藏在心里。 / My friends use AI regularly, but I refuse to. I'm learning to keep my beliefs and opinions about it to myself.",
+          "url": "https://www.businessinsider.com/friends-love-ai-refuse-peer-pressure-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-11T11:47:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5183,
+      "importance": 0.5183,
+      "importance_score": 0.5183,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.847,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-11T11:47:01Z",
+      "latest_at": "2026-10-11T12:30:10.840000Z",
+      "primary_item": {
+        "id": "53bf2a091da88b07978ef3b7903c5c5264f0e99a",
+        "title": "我的朋友们经常使用人工智能，但我拒绝使用。我正在学会将自己对人工智能的看法和观点藏在心里。",
+        "url": "https://www.businessinsider.com/friends-love-ai-refuse-peer-pressure-2026-10",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -1337,15 +832,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.4931,
+      "importance": 0.4931,
+      "importance_score": 0.4931,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.7074,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1363,82 +858,161 @@
       }
     },
     {
-      "story_id": "story_3df84065df47",
-      "title": "萨蒂亚·纳德拉表示，企业与人工智能之间的关系应建立在信任的基础上",
-      "url": "https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-threat-blog-enterprise-companies-corporations-2026-10",
-      "primary_url": "https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-threat-blog-enterprise-companies-corporations-2026-10",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
+      "story_id": "story_2ec605cc8689",
+      "title": "Weave (YC W25) 正在招聘 ML、AI、产品和设计工程师 / Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "url": "https://jobs.ashbyhq.com/weave-os",
+      "primary_url": "https://jobs.ashbyhq.com/weave-os",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "e658c9c9f72e208a2d1dfce7cae6074cb85fe029",
-          "title": "萨蒂亚·纳德拉表示，企业与人工智能之间的关系应建立在信任的基础上",
-          "url": "https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-threat-blog-enterprise-companies-corporations-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-10T21:25:38.059000Z"
+          "id": "18b52778464e88fa85742d37d1831981202beda2",
+          "title": "Weave (YC W25) 正在招聘 ML、AI、产品和设计工程师 / Weave (YC W25) is hiring ML, AI, product, & design engineers",
+          "url": "https://jobs.ashbyhq.com/weave-os",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-11T12:01:08Z"
         },
         {
-          "id": "f7e80665a4a7d362c880069e1e936f9a25add3a0",
-          "title": "萨蒂亚·纳德拉表示，企业与人工智能之间的关系应建立在信任的基础上 / Satya Nadella says a company's relationship with AI should have trust issues",
-          "url": "https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-threat-blog-enterprise-companies-corporations-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-10T21:05:46Z"
+          "id": "8e3ffaaaba92ec5589a9a3e8fa83866310a0b67d",
+          "title": "Weave (YC W25) 正在招聘 ML、AI、产品和设计工程师 / Weave (YC W25) is hiring ML, AI, product, & design engineers",
+          "url": "https://news.ycombinator.com/item?id=50042330",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T12:01:08Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "e658c9c9f72e208a2d1dfce7cae6074cb85fe029",
-          "title": "萨蒂亚·纳德拉表示，企业与人工智能之间的关系应建立在信任的基础上",
-          "url": "https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-threat-blog-enterprise-companies-corporations-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-10T21:25:38.059000Z"
+          "id": "18b52778464e88fa85742d37d1831981202beda2",
+          "title": "Weave (YC W25) 正在招聘 ML、AI、产品和设计工程师 / Weave (YC W25) is hiring ML, AI, product, & design engineers",
+          "url": "https://jobs.ashbyhq.com/weave-os",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-11T12:01:08Z"
         },
         {
-          "id": "f7e80665a4a7d362c880069e1e936f9a25add3a0",
-          "title": "萨蒂亚·纳德拉表示，企业与人工智能之间的关系应建立在信任的基础上 / Satya Nadella says a company's relationship with AI should have trust issues",
-          "url": "https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-threat-blog-enterprise-companies-corporations-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-10T21:05:46Z"
+          "id": "8e3ffaaaba92ec5589a9a3e8fa83866310a0b67d",
+          "title": "Weave (YC W25) 正在招聘 ML、AI、产品和设计工程师 / Weave (YC W25) is hiring ML, AI, product, & design engineers",
+          "url": "https://news.ycombinator.com/item?id=50042330",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T12:01:08Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5392,
-      "importance": 0.5392,
-      "importance_score": 0.5392,
+      "score": 0.5172,
+      "importance": 0.5172,
+      "importance_score": 0.5172,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9635,
+        "recency": 0.8411,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-10T21:05:46Z",
-      "latest_at": "2026-10-10T21:25:38.059000Z",
+      "earliest_at": "2026-10-11T12:01:08Z",
+      "latest_at": "2026-10-11T12:01:08Z",
       "primary_item": {
-        "id": "e658c9c9f72e208a2d1dfce7cae6074cb85fe029",
-        "title": "萨蒂亚·纳德拉表示，企业与人工智能之间的关系应建立在信任的基础上",
-        "url": "https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-threat-blog-enterprise-companies-corporations-2026-10",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
+        "id": "18b52778464e88fa85742d37d1831981202beda2",
+        "title": "Weave (YC W25) 正在招聘 ML、AI、产品和设计工程师 / Weave (YC W25) is hiring ML, AI, product, & design engineers",
+        "url": "https://jobs.ashbyhq.com/weave-os",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_9a589f3bdb96",
+      "title": "拥抱脸/变形金刚 / huggingface /      transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "primary_url": "https://github.com/huggingface/transformers",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "9759290a661c2260cc7aa79e655210a738376956",
+          "title": "拥抱脸/变形金刚 / huggingface /      transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T00:02:03.144000Z"
+        },
+        {
+          "id": "004477a2386b164e80d1129fdd01d29bb3081dc4",
+          "title": "拥抱脸/变形金刚 / huggingface / transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "9759290a661c2260cc7aa79e655210a738376956",
+          "title": "拥抱脸/变形金刚 / huggingface /      transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T00:02:03.144000Z"
+        },
+        {
+          "id": "004477a2386b164e80d1129fdd01d29bb3081dc4",
+          "title": "拥抱脸/变形金刚 / huggingface / transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4931,
+      "importance": 0.4931,
+      "importance_score": 0.4931,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7074,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-11T00:00:05.286083Z",
+      "latest_at": "2026-10-11T00:02:03.144000Z",
+      "primary_item": {
+        "id": "9759290a661c2260cc7aa79e655210a738376956",
+        "title": "拥抱脸/变形金刚 / huggingface /      transformers",
+        "url": "https://github.com/huggingface/transformers",
+        "source": "github",
+        "source_name": "NewsNow"
       }
     }
   ]
