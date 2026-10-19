@@ -1,468 +1,688 @@
 {
-  "generated_at": "2026-10-18T00:00:03.033530Z",
+  "generated_at": "2026-10-19T00:00:05.747639Z",
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 17,
   "items": [
     {
-      "story_id": "story_c40c2fbd10d1",
-      "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
-      "url": "https://x.com/shao__meng/status/2111274173192638932",
-      "primary_url": "https://x.com/shao__meng/status/2111274173192638932",
-      "source": "X：邵猛 (@shao__meng)",
+      "story_id": "story_cd9ee83649ac",
+      "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
+      "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
+      "primary_url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
+      "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "edf3b79c0aea87734c3d6ad818540ed4846f6b63",
-          "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
-          "url": "https://x.com/shao__meng/status/2111274173192638932",
-          "source": "X：邵猛 (@shao__meng)",
+          "id": "f0d84e4695df7dc1adcddf7e53b2cca1f8df2755",
+          "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
+          "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-17T01:52:43Z"
+          "published_at": "2026-10-18T13:22:26Z"
+        },
+        {
+          "id": "5448fae10bd96f85b8474c5ca1839d7945c919ab",
+          "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍 / Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+          "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-18T13:22:26Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "X：邵猛 (@shao__meng)"
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "edf3b79c0aea87734c3d6ad818540ed4846f6b63",
-          "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
-          "url": "https://x.com/shao__meng/status/2111274173192638932",
-          "source": "X：邵猛 (@shao__meng)",
+          "id": "f0d84e4695df7dc1adcddf7e53b2cca1f8df2755",
+          "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
+          "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-17T01:52:43Z"
+          "published_at": "2026-10-18T13:22:26Z"
+        },
+        {
+          "id": "5448fae10bd96f85b8474c5ca1839d7945c919ab",
+          "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍 / Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+          "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-18T13:22:26Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7304,
-      "importance": 0.7304,
-      "importance_score": 0.7304,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.785,
+      "importance": 0.785,
+      "importance_score": 0.785,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7265,
-        "story_heat": 0.0
+        "recency": 0.8577,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-17T01:52:43Z",
-      "latest_at": "2026-10-17T01:52:43Z",
+      "earliest_at": "2026-10-18T13:22:26Z",
+      "latest_at": "2026-10-18T13:22:26Z",
       "primary_item": {
-        "id": "edf3b79c0aea87734c3d6ad818540ed4846f6b63",
-        "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
-        "url": "https://x.com/shao__meng/status/2111274173192638932",
-        "source": "X：邵猛 (@shao__meng)",
+        "id": "f0d84e4695df7dc1adcddf7e53b2cca1f8df2755",
+        "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
+        "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_80848c46bab6",
-      "title": "WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费",
-      "url": "https://x.com/WorkBuddy_AI/status/2111404103402430558",
-      "primary_url": "https://x.com/WorkBuddy_AI/status/2111404103402430558",
-      "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+      "story_id": "story_3f4528f1e176",
+      "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责",
+      "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
+      "primary_url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
+      "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "7edb8342d34922708068c58821a1e0a8c8f8a1b3",
-          "title": "WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费",
-          "url": "https://x.com/WorkBuddy_AI/status/2111404103402430558",
-          "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+          "id": "20a9230c467df05ab85095e51f1a9b8b458c1fd9",
+          "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责",
+          "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-17T10:29:00Z"
+          "published_at": "2026-10-18T10:52:39Z"
+        },
+        {
+          "id": "c48272c5d3e53f01954410ec8a2767217fcaa711",
+          "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责 / Two German courts now hold Google liable for what its AI overviews say",
+          "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-18T10:52:39Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "X：Tencent WorkBuddy (@WorkBuddy_AI)"
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "7edb8342d34922708068c58821a1e0a8c8f8a1b3",
-          "title": "WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费",
-          "url": "https://x.com/WorkBuddy_AI/status/2111404103402430558",
-          "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+          "id": "20a9230c467df05ab85095e51f1a9b8b458c1fd9",
+          "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责",
+          "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-17T10:29:00Z"
+          "published_at": "2026-10-18T10:52:39Z"
+        },
+        {
+          "id": "c48272c5d3e53f01954410ec8a2767217fcaa711",
+          "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责 / Two German courts now hold Google liable for what its AI overviews say",
+          "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-18T10:52:39Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7207,
-      "importance": 0.7207,
-      "importance_score": 0.7207,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7765,
+      "importance": 0.7765,
+      "importance_score": 0.7765,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.67,
+        "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8227,
-        "story_heat": 0.0
+        "recency": 0.8274,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-17T10:29:00Z",
-      "latest_at": "2026-10-17T10:29:00Z",
+      "earliest_at": "2026-10-18T10:52:39Z",
+      "latest_at": "2026-10-18T10:52:39Z",
       "primary_item": {
-        "id": "7edb8342d34922708068c58821a1e0a8c8f8a1b3",
-        "title": "WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费",
-        "url": "https://x.com/WorkBuddy_AI/status/2111404103402430558",
-        "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+        "id": "20a9230c467df05ab85095e51f1a9b8b458c1fd9",
+        "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责",
+        "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_6cbde97d8260",
-      "title": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687354&idx=1&sn=dea0d54dc3b71b361e36199db6cf4a86",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687354&idx=1&sn=dea0d54dc3b71b361e36199db6cf4a86",
-      "source": "公众号：数字生命卡兹克",
+      "story_id": "story_e2a6e519f65e",
+      "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
+      "url": "https://x.com/arena/status/2111894091168682086",
+      "primary_url": "https://x.com/arena/status/2111894091168682086",
+      "source": "X：Arena (@arena)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "80df91dd037d6cb71fc1df7bc6ad24d1bfc64ec8",
-          "title": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687354&idx=1&sn=dea0d54dc3b71b361e36199db6cf4a86",
-          "source": "公众号：数字生命卡兹克",
+          "id": "2887eb19ae3474d03e7d10ff36cad10038688e3a",
+          "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
+          "url": "https://x.com/arena/status/2111894091168682086",
+          "source": "X：Arena (@arena)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-17T10:19:04Z"
+          "published_at": "2026-10-18T18:56:03Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：数字生命卡兹克"
+        "X：Arena (@arena)"
       ],
       "items": [
         {
-          "id": "80df91dd037d6cb71fc1df7bc6ad24d1bfc64ec8",
-          "title": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687354&idx=1&sn=dea0d54dc3b71b361e36199db6cf4a86",
-          "source": "公众号：数字生命卡兹克",
+          "id": "2887eb19ae3474d03e7d10ff36cad10038688e3a",
+          "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
+          "url": "https://x.com/arena/status/2111894091168682086",
+          "source": "X：Arena (@arena)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-17T10:19:04Z"
+          "published_at": "2026-10-18T18:56:03Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7203,
-      "importance": 0.7203,
-      "importance_score": 0.7203,
+      "score": 0.7459,
+      "importance": 0.7459,
+      "importance_score": 0.7459,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.67,
+        "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8207,
+        "recency": 0.9294,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-17T10:19:04Z",
-      "latest_at": "2026-10-17T10:19:04Z",
+      "earliest_at": "2026-10-18T18:56:03Z",
+      "latest_at": "2026-10-18T18:56:03Z",
       "primary_item": {
-        "id": "80df91dd037d6cb71fc1df7bc6ad24d1bfc64ec8",
-        "title": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687354&idx=1&sn=dea0d54dc3b71b361e36199db6cf4a86",
-        "source": "公众号：数字生命卡兹克",
+        "id": "2887eb19ae3474d03e7d10ff36cad10038688e3a",
+        "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
+        "url": "https://x.com/arena/status/2111894091168682086",
+        "source": "X：Arena (@arena)",
         "source_name": "AI HOT"
       }
     },
     {
       "story_id": "story_2df82173bb28",
-      "title": "Anthropic 为应对 AI 批量生成代码带来的海量变更压力，耗时 5 个月自研 Scion，替换了内部的 Git，大幅降低了超大代码库的资源消耗，任务准备耗时从数分钟压缩至几秒。作者详细拆解了下这套系统的设计思路，还分享了 Claude 参与开发过程中踩过的工程陷阱，或许会给你带来一些关键启发！",
+      "title": "AI 能高效完成各类执行任务，却无法拥有源于生命体验、文化阅历形成的价值品味 taste。作者拆解了品味的底层逻辑，还给出培养品味的实操方法，或许可以帮你打造 AI 难以复刻的个人核心竞争力。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-10-16",
+      "source": "社区更新 · 2026-10-17",
       "source_name": "WaytoAGI",
       "sources": [
         {
-          "id": "3bca8390ff8f6204f3fad381985f2e4930edc50b",
-          "title": "Anthropic 为应对 AI 批量生成代码带来的海量变更压力，耗时 5 个月自研 Scion，替换了内部的 Git，大幅降低了超大代码库的资源消耗，任务准备耗时从数分钟压缩至几秒。作者详细拆解了下这套系统的设计思路，还分享了 Claude 参与开发过程中踩过的工程陷阱，或许会给你带来一些关键启发！",
+          "id": "4928e540b115bdb715f81063b34b1485cd9f17dc",
+          "title": "AI 能高效完成各类执行任务，却无法拥有源于生命体验、文化阅历形成的价值品味 taste。作者拆解了品味的底层逻辑，还给出培养品味的实操方法，或许可以帮你打造 AI 难以复刻的个人核心竞争力。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-16",
+          "source": "社区更新 · 2026-10-17",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-10-18T00:00:03.033530Z"
+          "published_at": "2026-10-19T00:00:05.747639Z"
         },
         {
-          "id": "02b924dd0e67cd7fce2ccf3a8261f7f9e4894648",
-          "title": "DeepSeek V4.1-Flash 新版发布，这次把重点放在“更强也更省”：11 项基准全部提升，软件任务 max 档通过率 77%，单任务约 1.3 元，low 档不到 8 毛。作者梳理了三项实用变化：Harness、CodeBuddy 与 WorkBuddy 完成适配；少量提示即可从零搭游戏和 3D 项目；API 新增 Search 与 Fetch，可直接搜索并抓取网页。模型权重同步 MIT 开源，支持图文输入与 1M 上下文。想评估是否升级或接入 DeepSeek 的开发者，可以先看这篇。",
+          "id": "205c8736902166e753b26c72b8f079e0d746ba6e",
+          "title": "Ambi 创始人子皓结合自身丰富的创业经历，剖析了当下 Personal AI 赛道的机遇。文中抛出诸多反常识判断，搭配真实商业落地案例，给大家提供了很多宝贵的行业判断与实战思路。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-16",
+          "source": "社区更新 · 2026-10-17",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-10-18T00:00:03.033530Z"
+          "published_at": "2026-10-19T00:00:05.747639Z"
         },
         {
-          "id": "8fe68d30c0e463734a82280c2ac334be3e83368e",
-          "title": "很多人用 Agent 做产品，习惯把调研、选题、写代码和发布全塞给一个机器人，最后结论互相打架，流程也无法复用。作者用Grok Bot把产品开发拆成了 9 个常驻角色：找趋势、挖痛点、看竞品、定策略、淘汰弱想法，再写规格、构建产品和准备发布视频。适合独立开发者和小团队搭建可持续运行的 Agent 产品流水线。",
+          "id": "8551e345e0b0ee6ee05471c76442efc2a04ebc56",
+          "title": "DeepSeek-V4.1-Flash重磅更新，在模型单价不变的前提下大幅强化代码与工具能力，能一键生成赛车、故宫3D场景、Godot游戏交互原型。软件工程、终端任务评测指标也明显上涨，同时还新增了Search与Fetch联网抓取接口，可以低成本实现资料检索。一起看看效果如何！",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-16",
+          "source": "社区更新 · 2026-10-17",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-10-18T00:00:03.033530Z"
+          "published_at": "2026-10-19T00:00:05.747639Z"
         },
         {
-          "id": "4c2b8d31fc423941b3b77dd613490b35d5ec9535",
-          "title": "AI 短剧看着像一句话就能出片，真做起来却常遇到人物不一致、动作接不上、表演僵硬和文字乱码。作者用五组案例对可灵 4.0进行了实测，通过 Codex 对话跑通剧本、角色与场景资产、分镜提示词、生成返修到字幕配乐与剪辑，全程没打开剪辑软件。一起来看看！",
+          "id": "df565bfcf32df9b2df6dd7594719281b68f025af",
+          "title": "如果你也想靠AI搭建个性化的个人网站，却总做出千篇一律的成品，这篇文章或许会帮到你。先用飞书文档统一管理网站素材，再整理八大类六十多个高质量网页资源。从UI组件、动效3D、页面灵感、配色图标，到AI建站工具、设计提示词一应俱全，附带详细复用技巧，可直接提取代码与提示词，快速打造风格独特的个人站点。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-16",
+          "source": "社区更新 · 2026-10-17",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-10-17T00:00:03.121351Z"
-        },
-        {
-          "id": "5baf18867a885939109ce3540133c99a3da4d1c7",
-          "title": "作者带来一套适配飞书文档的 AI 绘图实操方案，区分了 Mermaid 和 HTML 两种绘图方式。Mermaid 快速生成流程图、架构图等可编辑结构图表，方便团队评审修改；HTML 用来制作高颜值、可交互的汇报可视化图表。这套方法能省去手动拖拽排版的繁琐工作，让你把精力聚焦在梳理业务逻辑上。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-16",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-17T00:00:03.121351Z"
-        },
-        {
-          "id": "fc3134c218e04ac28e8ddae2114f68c0c7456144",
-          "title": "小歪对谷歌全新旗舰模型Gemini 4 Argon进行了实测，发现它在榜单上和Opus 5.5实力接近，长文本写作、3D场景构建、交互式网页生成表现亮眼。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-16",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-17T00:00:03.121351Z"
+          "published_at": "2026-10-19T00:00:05.747639Z"
         }
       ],
-      "source_count": 6,
+      "source_count": 4,
       "source_names": [
-        "社区更新 · 2026-10-16"
+        "社区更新 · 2026-10-17"
       ],
       "items": [
         {
-          "id": "3bca8390ff8f6204f3fad381985f2e4930edc50b",
-          "title": "Anthropic 为应对 AI 批量生成代码带来的海量变更压力，耗时 5 个月自研 Scion，替换了内部的 Git，大幅降低了超大代码库的资源消耗，任务准备耗时从数分钟压缩至几秒。作者详细拆解了下这套系统的设计思路，还分享了 Claude 参与开发过程中踩过的工程陷阱，或许会给你带来一些关键启发！",
+          "id": "4928e540b115bdb715f81063b34b1485cd9f17dc",
+          "title": "AI 能高效完成各类执行任务，却无法拥有源于生命体验、文化阅历形成的价值品味 taste。作者拆解了品味的底层逻辑，还给出培养品味的实操方法，或许可以帮你打造 AI 难以复刻的个人核心竞争力。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-16",
+          "source": "社区更新 · 2026-10-17",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-10-18T00:00:03.033530Z"
+          "published_at": "2026-10-19T00:00:05.747639Z"
         },
         {
-          "id": "02b924dd0e67cd7fce2ccf3a8261f7f9e4894648",
-          "title": "DeepSeek V4.1-Flash 新版发布，这次把重点放在“更强也更省”：11 项基准全部提升，软件任务 max 档通过率 77%，单任务约 1.3 元，low 档不到 8 毛。作者梳理了三项实用变化：Harness、CodeBuddy 与 WorkBuddy 完成适配；少量提示即可从零搭游戏和 3D 项目；API 新增 Search 与 Fetch，可直接搜索并抓取网页。模型权重同步 MIT 开源，支持图文输入与 1M 上下文。想评估是否升级或接入 DeepSeek 的开发者，可以先看这篇。",
+          "id": "205c8736902166e753b26c72b8f079e0d746ba6e",
+          "title": "Ambi 创始人子皓结合自身丰富的创业经历，剖析了当下 Personal AI 赛道的机遇。文中抛出诸多反常识判断，搭配真实商业落地案例，给大家提供了很多宝贵的行业判断与实战思路。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-16",
+          "source": "社区更新 · 2026-10-17",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-10-18T00:00:03.033530Z"
+          "published_at": "2026-10-19T00:00:05.747639Z"
         },
         {
-          "id": "8fe68d30c0e463734a82280c2ac334be3e83368e",
-          "title": "很多人用 Agent 做产品，习惯把调研、选题、写代码和发布全塞给一个机器人，最后结论互相打架，流程也无法复用。作者用Grok Bot把产品开发拆成了 9 个常驻角色：找趋势、挖痛点、看竞品、定策略、淘汰弱想法，再写规格、构建产品和准备发布视频。适合独立开发者和小团队搭建可持续运行的 Agent 产品流水线。",
+          "id": "8551e345e0b0ee6ee05471c76442efc2a04ebc56",
+          "title": "DeepSeek-V4.1-Flash重磅更新，在模型单价不变的前提下大幅强化代码与工具能力，能一键生成赛车、故宫3D场景、Godot游戏交互原型。软件工程、终端任务评测指标也明显上涨，同时还新增了Search与Fetch联网抓取接口，可以低成本实现资料检索。一起看看效果如何！",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-16",
+          "source": "社区更新 · 2026-10-17",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-10-18T00:00:03.033530Z"
+          "published_at": "2026-10-19T00:00:05.747639Z"
         },
         {
-          "id": "4c2b8d31fc423941b3b77dd613490b35d5ec9535",
-          "title": "AI 短剧看着像一句话就能出片，真做起来却常遇到人物不一致、动作接不上、表演僵硬和文字乱码。作者用五组案例对可灵 4.0进行了实测，通过 Codex 对话跑通剧本、角色与场景资产、分镜提示词、生成返修到字幕配乐与剪辑，全程没打开剪辑软件。一起来看看！",
+          "id": "df565bfcf32df9b2df6dd7594719281b68f025af",
+          "title": "如果你也想靠AI搭建个性化的个人网站，却总做出千篇一律的成品，这篇文章或许会帮到你。先用飞书文档统一管理网站素材，再整理八大类六十多个高质量网页资源。从UI组件、动效3D、页面灵感、配色图标，到AI建站工具、设计提示词一应俱全，附带详细复用技巧，可直接提取代码与提示词，快速打造风格独特的个人站点。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-16",
+          "source": "社区更新 · 2026-10-17",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-10-17T00:00:03.121351Z"
-        },
-        {
-          "id": "5baf18867a885939109ce3540133c99a3da4d1c7",
-          "title": "作者带来一套适配飞书文档的 AI 绘图实操方案，区分了 Mermaid 和 HTML 两种绘图方式。Mermaid 快速生成流程图、架构图等可编辑结构图表，方便团队评审修改；HTML 用来制作高颜值、可交互的汇报可视化图表。这套方法能省去手动拖拽排版的繁琐工作，让你把精力聚焦在梳理业务逻辑上。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-16",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-17T00:00:03.121351Z"
-        },
-        {
-          "id": "fc3134c218e04ac28e8ddae2114f68c0c7456144",
-          "title": "小歪对谷歌全新旗舰模型Gemini 4 Argon进行了实测，发现它在榜单上和Opus 5.5实力接近，长文本写作、3D场景构建、交互式网页生成表现亮眼。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-16",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-17T00:00:03.121351Z"
+          "published_at": "2026-10-19T00:00:05.747639Z"
         }
       ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.6442,
+      "importance": 0.6442,
+      "importance_score": 0.6442,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
         "recency": 1.0,
-        "story_heat": 1.0
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-17T00:00:03.121351Z",
-      "latest_at": "2026-10-18T00:00:03.033530Z",
+      "earliest_at": "2026-10-19T00:00:05.747639Z",
+      "latest_at": "2026-10-19T00:00:05.747639Z",
       "primary_item": {
-        "id": "3bca8390ff8f6204f3fad381985f2e4930edc50b",
-        "title": "Anthropic 为应对 AI 批量生成代码带来的海量变更压力，耗时 5 个月自研 Scion，替换了内部的 Git，大幅降低了超大代码库的资源消耗，任务准备耗时从数分钟压缩至几秒。作者详细拆解了下这套系统的设计思路，还分享了 Claude 参与开发过程中踩过的工程陷阱，或许会给你带来一些关键启发！",
+        "id": "4928e540b115bdb715f81063b34b1485cd9f17dc",
+        "title": "AI 能高效完成各类执行任务，却无法拥有源于生命体验、文化阅历形成的价值品味 taste。作者拆解了品味的底层逻辑，还给出培养品味的实操方法，或许可以帮你打造 AI 难以复刻的个人核心竞争力。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-10-16",
+        "source": "社区更新 · 2026-10-17",
         "source_name": "WaytoAGI"
       }
     },
     {
-      "story_id": "story_6435f671229b",
-      "title": "Replit 首席执行官表示，将 OpenAI 设为默认值，而不是 Anthropic / Replit makes OpenAI its default over Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
-      "primary_url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
+      "story_id": "story_a5bb32320853",
+      "title": "混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "primary_url": "https://arxiv.org/abs/2610.18861",
+      "source": "arxiv.org",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "6bdde82551cc226e49deefc203dc843250bda1a2",
-          "title": "Replit 首席执行官表示，将 OpenAI 设为默认值，而不是 Anthropic / Replit makes OpenAI its default over Anthropic, CEO says",
-          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-17T18:48:08Z"
+          "id": "071de9687fe44887179752a9082a1df2ee5b5749",
+          "title": "混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理",
+          "url": "https://arxiv.org/abs/2610.18861",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T22:42:18.398000Z"
         },
         {
-          "id": "a8e852fbf29e63ae7c1014f0494504038b5f66bc",
-          "title": "Replit 首席执行官表示不再与 Anthropic 合作 / Replit is no longer working with Anthropic, CEO says",
-          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-17T18:48:08Z"
+          "id": "4fbbf7d9b6b88c4b9d1619e8af473ab535a4bcf8",
+          "title": "混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理 / Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+          "url": "https://arxiv.org/abs/2610.18861",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T20:48:14Z"
+        },
+        {
+          "id": "9d825bda0b90564334c236163624c455ffc3c05a",
+          "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+          "url": "https://news.ycombinator.com/item?id=50145337",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T20:48:14Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
+        "Hacker News (黑客新闻)",
+        "arxiv.org",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "6bdde82551cc226e49deefc203dc843250bda1a2",
-          "title": "Replit 首席执行官表示，将 OpenAI 设为默认值，而不是 Anthropic / Replit makes OpenAI its default over Anthropic, CEO says",
-          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-17T18:48:08Z"
+          "id": "071de9687fe44887179752a9082a1df2ee5b5749",
+          "title": "混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理",
+          "url": "https://arxiv.org/abs/2610.18861",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T22:42:18.398000Z"
         },
         {
-          "id": "a8e852fbf29e63ae7c1014f0494504038b5f66bc",
-          "title": "Replit 首席执行官表示不再与 Anthropic 合作 / Replit is no longer working with Anthropic, CEO says",
-          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-17T18:48:08Z"
+          "id": "4fbbf7d9b6b88c4b9d1619e8af473ab535a4bcf8",
+          "title": "混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理 / Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+          "url": "https://arxiv.org/abs/2610.18861",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T20:48:14Z"
+        },
+        {
+          "id": "9d825bda0b90564334c236163624c455ffc3c05a",
+          "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+          "url": "https://news.ycombinator.com/item?id=50145337",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T20:48:14Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6607,
-      "importance": 0.6607,
-      "importance_score": 0.6607,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5675,
+      "importance": 0.5675,
+      "importance_score": 0.5675,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.5904,
-        "source_tier": 0.58,
-        "ai_relevance": 0.82,
-        "recency": 0.9277,
-        "story_heat": 0.25
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9815,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-17T18:48:08Z",
-      "latest_at": "2026-10-17T18:48:08Z",
+      "earliest_at": "2026-10-18T20:48:14Z",
+      "latest_at": "2026-10-18T22:42:18.398000Z",
       "primary_item": {
-        "id": "6bdde82551cc226e49deefc203dc843250bda1a2",
-        "title": "Replit 首席执行官表示，将 OpenAI 设为默认值，而不是 Anthropic / Replit makes OpenAI its default over Anthropic, CEO says",
-        "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
+        "id": "071de9687fe44887179752a9082a1df2ee5b5749",
+        "title": "混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理",
+        "url": "https://arxiv.org/abs/2610.18861",
+        "source": "arxiv.org",
+        "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_9b780e5528de",
-      "title": "akitaonrails / ai-内存 / akitaonrails / ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "primary_url": "https://github.com/akitaonrails/ai-memory",
-      "source": "GitHub · Trending Today",
+      "story_id": "story_6f2aca72a3fc",
+      "title": "Show HN: WhatsApp MCP 在 Cloudflare 上免费运行",
+      "url": "https://github.com/finereli/whatsapp-mcp",
+      "primary_url": "https://github.com/finereli/whatsapp-mcp",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "101348eb58ef98a911a5eeea3d658c66d0c2f059",
+          "title": "Show HN: WhatsApp MCP 在 Cloudflare 上免费运行",
+          "url": "https://github.com/finereli/whatsapp-mcp",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T21:38:05.939000Z"
+        },
+        {
+          "id": "43f03e07a7bc72f1d533392ced2d52c6d6315eb4",
+          "title": "Show HN: WhatsApp MCP 在 Cloudflare 上免费运行 / Show HN: WhatsApp MCP running free on Cloudflare",
+          "url": "https://github.com/finereli/whatsapp-mcp",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T21:36:10Z"
+        },
+        {
+          "id": "135caec86d21aa16ce49942694ac295b2af3c85e",
+          "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+          "url": "https://news.ycombinator.com/item?id=50145715",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T21:36:10Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "101348eb58ef98a911a5eeea3d658c66d0c2f059",
+          "title": "Show HN: WhatsApp MCP 在 Cloudflare 上免费运行",
+          "url": "https://github.com/finereli/whatsapp-mcp",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T21:38:05.939000Z"
+        },
+        {
+          "id": "43f03e07a7bc72f1d533392ced2d52c6d6315eb4",
+          "title": "Show HN: WhatsApp MCP 在 Cloudflare 上免费运行 / Show HN: WhatsApp MCP running free on Cloudflare",
+          "url": "https://github.com/finereli/whatsapp-mcp",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T21:36:10Z"
+        },
+        {
+          "id": "135caec86d21aa16ce49942694ac295b2af3c85e",
+          "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+          "url": "https://news.ycombinator.com/item?id=50145715",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T21:36:10Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5648,
+      "importance": 0.5648,
+      "importance_score": 0.5648,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9664,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T21:36:10Z",
+      "latest_at": "2026-10-18T21:38:05.939000Z",
+      "primary_item": {
+        "id": "101348eb58ef98a911a5eeea3d658c66d0c2f059",
+        "title": "Show HN: WhatsApp MCP 在 Cloudflare 上免费运行",
+        "url": "https://github.com/finereli/whatsapp-mcp",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_79619743255e",
+      "title": "网站正纷纷关闭人工智能客服",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "source": "www.theverge.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "76b75f28778b85e9962c3ee3f05e2b806c026145",
+          "title": "网站正纷纷关闭人工智能客服",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+          "source": "www.theverge.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T21:17:07.202000Z"
+        },
+        {
+          "id": "8edecd96644001a45c1dbe820028bb69980b9868",
+          "title": "Websites Are Closing Their Doors to AI Agents",
+          "url": "https://slashdot.org/story/26/10/18/1715218/websites-are-closing-their-doors-to-ai-agents",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-18T19:24:00Z"
+        },
+        {
+          "id": "ae825252a9f148246dbfeafc7a71e208b69d23e5",
+          "title": "网站正纷纷关闭人工智能客服 / Websites are closing their doors to AI agents",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T14:58:10Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Slashdot",
+        "www.theverge.com"
+      ],
+      "items": [
+        {
+          "id": "76b75f28778b85e9962c3ee3f05e2b806c026145",
+          "title": "网站正纷纷关闭人工智能客服",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+          "source": "www.theverge.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T21:17:07.202000Z"
+        },
+        {
+          "id": "8edecd96644001a45c1dbe820028bb69980b9868",
+          "title": "Websites Are Closing Their Doors to AI Agents",
+          "url": "https://slashdot.org/story/26/10/18/1715218/websites-are-closing-their-doors-to-ai-agents",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-18T19:24:00Z"
+        },
+        {
+          "id": "ae825252a9f148246dbfeafc7a71e208b69d23e5",
+          "title": "网站正纷纷关闭人工智能客服 / Websites are closing their doors to AI agents",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T14:58:10Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5639,
+      "importance": 0.5639,
+      "importance_score": 0.5639,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9615,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T14:58:10Z",
+      "latest_at": "2026-10-18T21:17:07.202000Z",
+      "primary_item": {
+        "id": "76b75f28778b85e9962c3ee3f05e2b806c026145",
+        "title": "网站正纷纷关闭人工智能客服",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+        "source": "www.theverge.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_1bef8603e382",
+      "title": "AI 模组 NPCTalk 让《GTA 5》NPC 实现实时无脚本语音对话",
+      "url": "https://www.ithome.com/1/014/627.htm",
+      "primary_url": "https://www.ithome.com/1/014/627.htm",
+      "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "7ed9cfc7ad6a8a90822e035db00cc2078fa0ca5e",
-          "title": "akitaonrails / ai-内存 / akitaonrails / ai-memory",
-          "url": "https://github.com/akitaonrails/ai-memory",
-          "source": "GitHub · Trending Today",
+          "id": "51da086ec461697bd5359b4cdc3d3e61a805f7db",
+          "title": "AI 模组 NPCTalk 让《GTA 5》NPC 实现实时无脚本语音对话",
+          "url": "https://www.ithome.com/1/014/627.htm",
+          "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "e093aec71608c94ab78108d3149519fad3663164",
-          "title": "akitaonrails / ai-内存 / akitaonrails /      ai-memory",
-          "url": "https://github.com/akitaonrails/ai-memory",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T23:51:15.553000Z"
+          "id": "5823a1102723a2fd8fdf885947d2cee57a326b04",
+          "title": "再也不是固定台词，AI 模组 NPCTalk 让《GTA 5》NPC 实现实时无脚本语音对话",
+          "url": "https://www.ithome.com/1/014/627.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T23:34:59Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "GitHub · Trending Today",
-        "github"
+        "IT之家 (ITHome)",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "7ed9cfc7ad6a8a90822e035db00cc2078fa0ca5e",
-          "title": "akitaonrails / ai-内存 / akitaonrails / ai-memory",
-          "url": "https://github.com/akitaonrails/ai-memory",
-          "source": "GitHub · Trending Today",
+          "id": "51da086ec461697bd5359b4cdc3d3e61a805f7db",
+          "title": "AI 模组 NPCTalk 让《GTA 5》NPC 实现实时无脚本语音对话",
+          "url": "https://www.ithome.com/1/014/627.htm",
+          "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "e093aec71608c94ab78108d3149519fad3663164",
-          "title": "akitaonrails / ai-内存 / akitaonrails /      ai-memory",
-          "url": "https://github.com/akitaonrails/ai-memory",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T23:51:15.553000Z"
+          "id": "5823a1102723a2fd8fdf885947d2cee57a326b04",
+          "title": "再也不是固定台词，AI 模组 NPCTalk 让《GTA 5》NPC 实现实时无脚本语音对话",
+          "url": "https://www.ithome.com/1/014/627.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T23:34:59Z"
         }
       ],
       "item_count": 2,
@@ -482,613 +702,278 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-17T23:51:15.553000Z",
-      "latest_at": "2026-10-18T00:00:03.033530Z",
+      "earliest_at": "2026-10-18T23:34:59Z",
+      "latest_at": "2026-10-19T00:00:05.747639Z",
       "primary_item": {
-        "id": "7ed9cfc7ad6a8a90822e035db00cc2078fa0ca5e",
-        "title": "akitaonrails / ai-内存 / akitaonrails / ai-memory",
-        "url": "https://github.com/akitaonrails/ai-memory",
-        "source": "GitHub · Trending Today",
+        "id": "51da086ec461697bd5359b4cdc3d3e61a805f7db",
+        "title": "AI 模组 NPCTalk 让《GTA 5》NPC 实现实时无脚本语音对话",
+        "url": "https://www.ithome.com/1/014/627.htm",
+        "source": "Readhub · AI",
         "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_1557ed18b567",
-      "title": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
-      "url": "https://llmspeed.dev",
-      "primary_url": "https://llmspeed.dev",
-      "source": "llmspeed.dev",
-      "source_name": "Buzzing",
+      "story_id": "story_161709a34472",
+      "title": "mlabonne /      llm-course",
+      "url": "https://github.com/mlabonne/llm-course",
+      "primary_url": "https://github.com/mlabonne/llm-course",
+      "source": "github",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "4566bf3a8a668b8d71987f3133df6b95b72c6e6a",
-          "title": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
-          "url": "https://llmspeed.dev",
-          "source": "llmspeed.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T11:57:04.792000Z"
-        },
-        {
-          "id": "898efd22062e25d7c0cdcff77da617dc6774d670",
-          "title": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "url": "https://llmspeed.dev",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T04:36:53Z"
-        },
-        {
-          "id": "9cb789e32b6562165b7ffa11c1791ec391abf87e",
-          "title": "Show HN: Llmspeed – 在购买硬件之前感受本地法学硕士的运行速度 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "url": "https://news.ycombinator.com/item?id=50127979",
-          "source": "hackernews",
+          "id": "d840110d1210da077c48f2b57204e338812d0d17",
+          "title": "mlabonne /      llm-course",
+          "url": "https://github.com/mlabonne/llm-course",
+          "source": "github",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-17T04:36:53Z"
+          "published_at": "2026-10-19T00:05:02.298000Z"
+        },
+        {
+          "id": "910e3a7ce09849823bfe420473de0c1b24cfb37b",
+          "title": "mlabonne / llm-course",
+          "url": "https://github.com/mlabonne/llm-course",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "llmspeed.dev"
+        "GitHub · Trending Today",
+        "github"
       ],
       "items": [
         {
-          "id": "4566bf3a8a668b8d71987f3133df6b95b72c6e6a",
-          "title": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
-          "url": "https://llmspeed.dev",
-          "source": "llmspeed.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T11:57:04.792000Z"
-        },
-        {
-          "id": "898efd22062e25d7c0cdcff77da617dc6774d670",
-          "title": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "url": "https://llmspeed.dev",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T04:36:53Z"
-        },
-        {
-          "id": "9cb789e32b6562165b7ffa11c1791ec391abf87e",
-          "title": "Show HN: Llmspeed – 在购买硬件之前感受本地法学硕士的运行速度 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "url": "https://news.ycombinator.com/item?id=50127979",
-          "source": "hackernews",
+          "id": "d840110d1210da077c48f2b57204e338812d0d17",
+          "title": "mlabonne /      llm-course",
+          "url": "https://github.com/mlabonne/llm-course",
+          "source": "github",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-17T04:36:53Z"
+          "published_at": "2026-10-19T00:05:02.298000Z"
+        },
+        {
+          "id": "910e3a7ce09849823bfe420473de0c1b24cfb37b",
+          "title": "mlabonne / llm-course",
+          "url": "https://github.com/mlabonne/llm-course",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5421,
-      "importance": 0.5421,
-      "importance_score": 0.5421,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8403,
-        "story_heat": 0.5
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-17T04:36:53Z",
-      "latest_at": "2026-10-17T11:57:04.792000Z",
+      "earliest_at": "2026-10-19T00:00:05.747639Z",
+      "latest_at": "2026-10-19T00:05:02.298000Z",
       "primary_item": {
-        "id": "4566bf3a8a668b8d71987f3133df6b95b72c6e6a",
-        "title": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
-        "url": "https://llmspeed.dev",
-        "source": "llmspeed.dev",
+        "id": "d840110d1210da077c48f2b57204e338812d0d17",
+        "title": "mlabonne /      llm-course",
+        "url": "https://github.com/mlabonne/llm-course",
+        "source": "github",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_56b1c8aea759",
+      "title": "Anthropic 向外部人工智能监督机构授予“类似员工”的访问权限",
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access",
+      "primary_url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access",
+      "source": "arstechnica.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "771d9475a7580db60253c8785493caf905cb4de2",
+          "title": "Anthropic 向外部人工智能监督机构授予“类似员工”的访问权限",
+          "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T21:17:36.673000Z"
+        },
+        {
+          "id": "fa1852a53b9c8c8641ffa52087ed923678949ff3",
+          "title": "Anthropic 向外部人工智能监督机构授予“类似员工”的访问权限 / Anthropic gives outside AI watchdog “employee-like” access",
+          "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-18T16:25:19Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Ars Technica",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "771d9475a7580db60253c8785493caf905cb4de2",
+          "title": "Anthropic 向外部人工智能监督机构授予“类似员工”的访问权限",
+          "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T21:17:36.673000Z"
+        },
+        {
+          "id": "fa1852a53b9c8c8641ffa52087ed923678949ff3",
+          "title": "Anthropic 向外部人工智能监督机构授予“类似员工”的访问权限 / Anthropic gives outside AI watchdog “employee-like” access",
+          "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-18T16:25:19Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5389,
+      "importance": 0.5389,
+      "importance_score": 0.5389,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9616,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T16:25:19Z",
+      "latest_at": "2026-10-18T21:17:36.673000Z",
+      "primary_item": {
+        "id": "771d9475a7580db60253c8785493caf905cb4de2",
+        "title": "Anthropic 向外部人工智能监督机构授予“类似员工”的访问权限",
+        "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access",
+        "source": "arstechnica.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_28fe2bff247e",
-      "title": "OpenAI披露了另外四起违规事件",
-      "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
-      "primary_url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
-      "source": "fortune.com",
+      "story_id": "story_f1073754b8e0",
+      "title": "Anthropic 的就业形势正在发生怎样的变化",
+      "url": "https://www.anthropic.com/research/employment-at-anthropic",
+      "primary_url": "https://www.anthropic.com/research/employment-at-anthropic",
+      "source": "www.anthropic.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "a3297038fde279329518cbac6dd672063aaa53d2",
-          "title": "OpenAI披露了另外四起违规事件",
-          "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
-          "source": "fortune.com",
+          "id": "6a20e959cf09f966684a0edc372a8998b6129eb5",
+          "title": "Anthropic 的就业形势正在发生怎样的变化",
+          "url": "https://www.anthropic.com/research/employment-at-anthropic",
+          "source": "www.anthropic.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-17T19:22:11.943000Z"
+          "published_at": "2026-10-18T21:17:07.176000Z"
         },
         {
-          "id": "c81de980025f7a775d56f86f390ce81dc776c152",
-          "title": "OpenAI披露了另外四起违规事件 / OpenAI discloses four more rogue incidents",
-          "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
+          "id": "1bbafe27c673e7b83cad44ace84b8571dbbf51f2",
+          "title": "Anthropic 的就业形势正在发生怎样的变化 / How employment is changing at Anthropic",
+          "url": "https://www.anthropic.com/research/employment-at-anthropic",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-17T16:31:12Z"
+          "published_at": "2026-10-18T10:49:26Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News · 24h最热",
-        "fortune.com"
+        "www.anthropic.com"
       ],
       "items": [
         {
-          "id": "a3297038fde279329518cbac6dd672063aaa53d2",
-          "title": "OpenAI披露了另外四起违规事件",
-          "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
-          "source": "fortune.com",
+          "id": "6a20e959cf09f966684a0edc372a8998b6129eb5",
+          "title": "Anthropic 的就业形势正在发生怎样的变化",
+          "url": "https://www.anthropic.com/research/employment-at-anthropic",
+          "source": "www.anthropic.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-17T19:22:11.943000Z"
+          "published_at": "2026-10-18T21:17:07.176000Z"
         },
         {
-          "id": "c81de980025f7a775d56f86f390ce81dc776c152",
-          "title": "OpenAI披露了另外四起违规事件 / OpenAI discloses four more rogue incidents",
-          "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
+          "id": "1bbafe27c673e7b83cad44ace84b8571dbbf51f2",
+          "title": "Anthropic 的就业形势正在发生怎样的变化 / How employment is changing at Anthropic",
+          "url": "https://www.anthropic.com/research/employment-at-anthropic",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-17T16:31:12Z"
+          "published_at": "2026-10-18T10:49:26Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5342,
-      "importance": 0.5342,
-      "importance_score": 0.5342,
+      "score": 0.5389,
+      "importance": 0.5389,
+      "importance_score": 0.5389,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9353,
+        "recency": 0.9615,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-17T16:31:12Z",
-      "latest_at": "2026-10-17T19:22:11.943000Z",
+      "earliest_at": "2026-10-18T10:49:26Z",
+      "latest_at": "2026-10-18T21:17:07.176000Z",
       "primary_item": {
-        "id": "a3297038fde279329518cbac6dd672063aaa53d2",
-        "title": "OpenAI披露了另外四起违规事件",
-        "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
-        "source": "fortune.com",
+        "id": "6a20e959cf09f966684a0edc372a8998b6129eb5",
+        "title": "Anthropic 的就业形势正在发生怎样的变化",
+        "url": "https://www.anthropic.com/research/employment-at-anthropic",
+        "source": "www.anthropic.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_9d2648978eb9",
-      "title": "《废除人工智能！宣言》",
-      "url": "https://abolish-ai.net/abolish-ai-a-manifesto",
-      "primary_url": "https://abolish-ai.net/abolish-ai-a-manifesto",
-      "source": "abolish-ai.net",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "93190fad900950861945a10623b4be6d5e4266a6",
-          "title": "《废除人工智能！宣言》",
-          "url": "https://abolish-ai.net/abolish-ai-a-manifesto",
-          "source": "abolish-ai.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T18:50:05.393000Z"
-        },
-        {
-          "id": "0a8113a0233d89752b4c875f31f01f0658007775",
-          "title": "《废除人工智能！宣言》 / Abolish AI! Manifesto",
-          "url": "https://abolish-ai.net/abolish-ai-a-manifesto",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T18:25:58Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "abolish-ai.net"
-      ],
-      "items": [
-        {
-          "id": "93190fad900950861945a10623b4be6d5e4266a6",
-          "title": "《废除人工智能！宣言》",
-          "url": "https://abolish-ai.net/abolish-ai-a-manifesto",
-          "source": "abolish-ai.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T18:50:05.393000Z"
-        },
-        {
-          "id": "0a8113a0233d89752b4c875f31f01f0658007775",
-          "title": "《废除人工智能！宣言》 / Abolish AI! Manifesto",
-          "url": "https://abolish-ai.net/abolish-ai-a-manifesto",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T18:25:58Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5329,
-      "importance": 0.5329,
-      "importance_score": 0.5329,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9281,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T18:25:58Z",
-      "latest_at": "2026-10-17T18:50:05.393000Z",
-      "primary_item": {
-        "id": "93190fad900950861945a10623b4be6d5e4266a6",
-        "title": "《废除人工智能！宣言》",
-        "url": "https://abolish-ai.net/abolish-ai-a-manifesto",
-        "source": "abolish-ai.net",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_500318713ba8",
-      "title": "PwnEscape：从宾客系统到主机系统的 KVM 逃逸（CVE-2026-99999）",
-      "url": "https://pwn.ai/blog/pwnescape",
-      "primary_url": "https://pwn.ai/blog/pwnescape",
-      "source": "pwn.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1ba5650dac62a746a4eb210be1e1c37dced7444f",
-          "title": "PwnEscape：从宾客系统到主机系统的 KVM 逃逸（CVE-2026-99999）",
-          "url": "https://pwn.ai/blog/pwnescape",
-          "source": "pwn.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T18:34:07.206000Z"
-        },
-        {
-          "id": "84775ecd50638dd85efaeddb846fb7e0e551f015",
-          "title": "PwnEscape：从宾客系统到主机系统的 KVM 逃逸（CVE-2026-99999） / PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)",
-          "url": "https://pwn.ai/blog/pwnescape",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T18:24:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "pwn.ai"
-      ],
-      "items": [
-        {
-          "id": "1ba5650dac62a746a4eb210be1e1c37dced7444f",
-          "title": "PwnEscape：从宾客系统到主机系统的 KVM 逃逸（CVE-2026-99999）",
-          "url": "https://pwn.ai/blog/pwnescape",
-          "source": "pwn.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T18:34:07.206000Z"
-        },
-        {
-          "id": "84775ecd50638dd85efaeddb846fb7e0e551f015",
-          "title": "PwnEscape：从宾客系统到主机系统的 KVM 逃逸（CVE-2026-99999） / PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)",
-          "url": "https://pwn.ai/blog/pwnescape",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T18:24:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5322,
-      "importance": 0.5322,
-      "importance_score": 0.5322,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9246,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T18:24:39Z",
-      "latest_at": "2026-10-17T18:34:07.206000Z",
-      "primary_item": {
-        "id": "1ba5650dac62a746a4eb210be1e1c37dced7444f",
-        "title": "PwnEscape：从宾客系统到主机系统的 KVM 逃逸（CVE-2026-99999）",
-        "url": "https://pwn.ai/blog/pwnescape",
-        "source": "pwn.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_dbca5928ae7c",
-      "title": "亚马逊利用人工智能监测英国仓库的工会风险",
-      "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield",
-      "primary_url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield",
-      "source": "www.opendemocracy.net",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "948c145d79facd298f05f16806d04ef6da86e21c",
-          "title": "亚马逊利用人工智能监测英国仓库的工会风险",
-          "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield",
-          "source": "www.opendemocracy.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T18:34:06.954000Z"
-        },
-        {
-          "id": "1083148e9c404becf18be8144edc6721fcddae10",
-          "title": "亚马逊利用人工智能监测英国仓库的工会风险 / Amazon uses AI to monitor union risk in UK warehouses",
-          "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-17T16:04:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.opendemocracy.net"
-      ],
-      "items": [
-        {
-          "id": "948c145d79facd298f05f16806d04ef6da86e21c",
-          "title": "亚马逊利用人工智能监测英国仓库的工会风险",
-          "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield",
-          "source": "www.opendemocracy.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T18:34:06.954000Z"
-        },
-        {
-          "id": "1083148e9c404becf18be8144edc6721fcddae10",
-          "title": "亚马逊利用人工智能监测英国仓库的工会风险 / Amazon uses AI to monitor union risk in UK warehouses",
-          "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-17T16:04:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5322,
-      "importance": 0.5322,
-      "importance_score": 0.5322,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9246,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T16:04:23Z",
-      "latest_at": "2026-10-17T18:34:06.954000Z",
-      "primary_item": {
-        "id": "948c145d79facd298f05f16806d04ef6da86e21c",
-        "title": "亚马逊利用人工智能监测英国仓库的工会风险",
-        "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield",
-        "source": "www.opendemocracy.net",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_59f1f537529d",
-      "title": "Codex Desktop 不断生成 Crashpad 待处理转储 / Codex Desktop continuously generates Crashpad pending dumps",
-      "url": "https://github.com/openai/codex/issues/25921",
-      "primary_url": "https://github.com/openai/codex/issues/25921",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "e2e55f8176afb0338615148683031564635977cb",
-          "title": "Codex Desktop 不断生成 Crashpad 待处理转储 / Codex Desktop continuously generates Crashpad pending dumps",
-          "url": "https://github.com/openai/codex/issues/25921",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T17:45:08Z"
-        },
-        {
-          "id": "cc9a57cde030e723559191bdeec84c06acdfd717",
-          "title": "Codex Desktop 不断生成 Crashpad 待处理转储 / Codex Desktop continuously generates Crashpad pending dumps",
-          "url": "https://news.ycombinator.com/item?id=50133231",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T17:45:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e2e55f8176afb0338615148683031564635977cb",
-          "title": "Codex Desktop 不断生成 Crashpad 待处理转储 / Codex Desktop continuously generates Crashpad pending dumps",
-          "url": "https://github.com/openai/codex/issues/25921",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T17:45:08Z"
-        },
-        {
-          "id": "cc9a57cde030e723559191bdeec84c06acdfd717",
-          "title": "Codex Desktop 不断生成 Crashpad 待处理转储 / Codex Desktop continuously generates Crashpad pending dumps",
-          "url": "https://news.ycombinator.com/item?id=50133231",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T17:45:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5303,
-      "importance": 0.5303,
-      "importance_score": 0.5303,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9137,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T17:45:08Z",
-      "latest_at": "2026-10-17T17:45:08Z",
-      "primary_item": {
-        "id": "e2e55f8176afb0338615148683031564635977cb",
-        "title": "Codex Desktop 不断生成 Crashpad 待处理转储 / Codex Desktop continuously generates Crashpad pending dumps",
-        "url": "https://github.com/openai/codex/issues/25921",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_f6e6c49ce2ed",
-      "title": "“随行翻译”服务",
-      "url": "https://www.basis.ai/blog/ship-your-interpreters",
-      "primary_url": "https://www.basis.ai/blog/ship-your-interpreters",
-      "source": "www.basis.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "451423b3d3d45af9da062086a05686a264c5ddb3",
-          "title": "“随行翻译”服务",
-          "url": "https://www.basis.ai/blog/ship-your-interpreters",
-          "source": "www.basis.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T14:20:25.429000Z"
-        },
-        {
-          "id": "2af140acf9bc35ca7c3a6af6fcddf1f1e1057e6a",
-          "title": "“随行翻译”服务 / Ship Your Interpreter",
-          "url": "https://www.basis.ai/blog/ship-your-interpreters",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T14:16:33Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "www.basis.ai"
-      ],
-      "items": [
-        {
-          "id": "451423b3d3d45af9da062086a05686a264c5ddb3",
-          "title": "“随行翻译”服务",
-          "url": "https://www.basis.ai/blog/ship-your-interpreters",
-          "source": "www.basis.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T14:20:25.429000Z"
-        },
-        {
-          "id": "2af140acf9bc35ca7c3a6af6fcddf1f1e1057e6a",
-          "title": "“随行翻译”服务 / Ship Your Interpreter",
-          "url": "https://www.basis.ai/blog/ship-your-interpreters",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T14:16:33Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5224,
-      "importance": 0.5224,
-      "importance_score": 0.5224,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8698,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T14:16:33Z",
-      "latest_at": "2026-10-17T14:20:25.429000Z",
-      "primary_item": {
-        "id": "451423b3d3d45af9da062086a05686a264c5ddb3",
-        "title": "“随行翻译”服务",
-        "url": "https://www.basis.ai/blog/ship-your-interpreters",
-        "source": "www.basis.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_4b84858ede79",
-      "title": "人工智能本该让园丁们省点事。Anthropic的机器人研究却让我开始考虑除草了。",
-      "url": "https://www.businessinsider.com/anthropic-ai-robots-gardening-jobs-automation-2026-10",
-      "primary_url": "https://www.businessinsider.com/anthropic-ai-robots-gardening-jobs-automation-2026-10",
+      "story_id": "story_d3ff5021c7fe",
+      "title": "Anthropic向“公益基金”投入数十亿",
+      "url": "https://www.businessinsider.com/anthropic-public-benefit-fund-2026-10",
+      "primary_url": "https://www.businessinsider.com/anthropic-public-benefit-fund-2026-10",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "62ce8ed12f441a0b54ed42b25fabc4a160a1192a",
-          "title": "人工智能本该让园丁们省点事。Anthropic的机器人研究却让我开始考虑除草了。",
-          "url": "https://www.businessinsider.com/anthropic-ai-robots-gardening-jobs-automation-2026-10",
+          "id": "9e29e6826b2d9364af4f43c33c9eb7dac0c084ac",
+          "title": "Anthropic向“公益基金”投入数十亿",
+          "url": "https://www.businessinsider.com/anthropic-public-benefit-fund-2026-10",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-17T14:04:05.839000Z"
+          "published_at": "2026-10-18T21:17:34.181000Z"
         },
         {
-          "id": "6a664930872be328bf4b488c6f409a53cd2d0180",
-          "title": "人工智能本该让园丁们省点事。Anthropic的机器人研究却让我开始考虑除草了。 / When AI and robots work together, Anthropic says these jobs are at risk. Should gardeners worry?",
-          "url": "https://www.businessinsider.com/anthropic-ai-robots-gardening-jobs-automation-2026-10",
+          "id": "42550766f0182b4a6e360e795d44276bf5d78d19",
+          "title": "Anthropic向“公益基金”投入数十亿 / Anthropic commits billions to a 'public benefit fund'",
+          "url": "https://www.businessinsider.com/anthropic-public-benefit-fund-2026-10",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-10-17T14:00:01Z"
+          "published_at": "2026-10-18T18:46:01Z"
         }
       ],
       "source_count": 2,
@@ -1098,128 +983,482 @@
       ],
       "items": [
         {
-          "id": "62ce8ed12f441a0b54ed42b25fabc4a160a1192a",
-          "title": "人工智能本该让园丁们省点事。Anthropic的机器人研究却让我开始考虑除草了。",
-          "url": "https://www.businessinsider.com/anthropic-ai-robots-gardening-jobs-automation-2026-10",
+          "id": "9e29e6826b2d9364af4f43c33c9eb7dac0c084ac",
+          "title": "Anthropic向“公益基金”投入数十亿",
+          "url": "https://www.businessinsider.com/anthropic-public-benefit-fund-2026-10",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-17T14:04:05.839000Z"
+          "published_at": "2026-10-18T21:17:34.181000Z"
         },
         {
-          "id": "6a664930872be328bf4b488c6f409a53cd2d0180",
-          "title": "人工智能本该让园丁们省点事。Anthropic的机器人研究却让我开始考虑除草了。 / When AI and robots work together, Anthropic says these jobs are at risk. Should gardeners worry?",
-          "url": "https://www.businessinsider.com/anthropic-ai-robots-gardening-jobs-automation-2026-10",
+          "id": "42550766f0182b4a6e360e795d44276bf5d78d19",
+          "title": "Anthropic向“公益基金”投入数十亿 / Anthropic commits billions to a 'public benefit fund'",
+          "url": "https://www.businessinsider.com/anthropic-public-benefit-fund-2026-10",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-10-17T14:00:01Z"
+          "published_at": "2026-10-18T18:46:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5217,
-      "importance": 0.5217,
-      "importance_score": 0.5217,
+      "score": 0.5389,
+      "importance": 0.5389,
+      "importance_score": 0.5389,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8664,
+        "recency": 0.9616,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-17T14:00:01Z",
-      "latest_at": "2026-10-17T14:04:05.839000Z",
+      "earliest_at": "2026-10-18T18:46:01Z",
+      "latest_at": "2026-10-18T21:17:34.181000Z",
       "primary_item": {
-        "id": "62ce8ed12f441a0b54ed42b25fabc4a160a1192a",
-        "title": "人工智能本该让园丁们省点事。Anthropic的机器人研究却让我开始考虑除草了。",
-        "url": "https://www.businessinsider.com/anthropic-ai-robots-gardening-jobs-automation-2026-10",
+        "id": "9e29e6826b2d9364af4f43c33c9eb7dac0c084ac",
+        "title": "Anthropic向“公益基金”投入数十亿",
+        "url": "https://www.businessinsider.com/anthropic-public-benefit-fund-2026-10",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_9b13d6a721a0",
-      "title": "DeepSeek-v4.1-Flash-1017",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "primary_url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "story_id": "story_a257dddc2d05",
+      "title": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+      "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+      "source": "www.tomshardware.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "94d83fd90810b35f8e91c67077742e2e3ced72ec",
-          "title": "DeepSeek-v4.1-Flash-1017",
-          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T08:21:25Z"
+          "id": "413aacbc714ba7f9b46c3ba757d79cfb21a8b363",
+          "title": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+          "source": "www.tomshardware.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T21:17:07.195000Z"
         },
         {
-          "id": "2f88eb6ba2a859fb2d4977026cc454933b0f6b0c",
-          "title": "DeepSeek-v4.1-Flash-1017",
-          "url": "https://news.ycombinator.com/item?id=50129045",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T08:21:25Z"
+          "id": "f81b7f1893a8b4d3db33c2181aa29aa3ace5e8a8",
+          "title": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T14:30:27Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
+        "Hacker News · 24h最热",
+        "www.tomshardware.com"
       ],
       "items": [
         {
-          "id": "94d83fd90810b35f8e91c67077742e2e3ced72ec",
-          "title": "DeepSeek-v4.1-Flash-1017",
-          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T08:21:25Z"
+          "id": "413aacbc714ba7f9b46c3ba757d79cfb21a8b363",
+          "title": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+          "source": "www.tomshardware.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T21:17:07.195000Z"
         },
         {
-          "id": "2f88eb6ba2a859fb2d4977026cc454933b0f6b0c",
-          "title": "DeepSeek-v4.1-Flash-1017",
-          "url": "https://news.ycombinator.com/item?id=50129045",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T08:21:25Z"
+          "id": "f81b7f1893a8b4d3db33c2181aa29aa3ace5e8a8",
+          "title": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T14:30:27Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5094,
-      "importance": 0.5094,
-      "importance_score": 0.5094,
+      "score": 0.5389,
+      "importance": 0.5389,
+      "importance_score": 0.5389,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7978,
+        "recency": 0.9615,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-17T08:21:25Z",
-      "latest_at": "2026-10-17T08:21:25Z",
+      "earliest_at": "2026-10-18T14:30:27Z",
+      "latest_at": "2026-10-18T21:17:07.195000Z",
       "primary_item": {
-        "id": "94d83fd90810b35f8e91c67077742e2e3ced72ec",
-        "title": "DeepSeek-v4.1-Flash-1017",
-        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "id": "413aacbc714ba7f9b46c3ba757d79cfb21a8b363",
+        "title": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+        "source": "www.tomshardware.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_48479cd7194a",
+      "title": "DeepSeek 搜索和获取服务——每 1000 次成功请求 0.75 美元",
+      "url": "https://api-docs.deepseek.com/guides/search",
+      "primary_url": "https://api-docs.deepseek.com/guides/search",
+      "source": "api-docs.deepseek.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "1c30d8e93b7f1c029756a45b444ff067edb4eb1c",
+          "title": "DeepSeek 搜索和获取服务——每 1000 次成功请求 0.75 美元",
+          "url": "https://api-docs.deepseek.com/guides/search",
+          "source": "api-docs.deepseek.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T08:37:12.821000Z"
+        },
+        {
+          "id": "2d7a133ba0223c367abb4a150514bb348684a8bf",
+          "title": "DeepSeek 搜索和获取服务——每 1000 次成功请求 0.75 美元 / DeepSeek search and fetch – $0.75 per 1000 successful requests",
+          "url": "https://api-docs.deepseek.com/guides/search",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T06:50:36Z"
+        },
+        {
+          "id": "51541e1fe4e4ba596b5439259442c3bb18a02d04",
+          "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+          "url": "https://news.ycombinator.com/item?id=50138531",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T06:50:36Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "api-docs.deepseek.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "1c30d8e93b7f1c029756a45b444ff067edb4eb1c",
+          "title": "DeepSeek 搜索和获取服务——每 1000 次成功请求 0.75 美元",
+          "url": "https://api-docs.deepseek.com/guides/search",
+          "source": "api-docs.deepseek.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T08:37:12.821000Z"
+        },
+        {
+          "id": "2d7a133ba0223c367abb4a150514bb348684a8bf",
+          "title": "DeepSeek 搜索和获取服务——每 1000 次成功请求 0.75 美元 / DeepSeek search and fetch – $0.75 per 1000 successful requests",
+          "url": "https://api-docs.deepseek.com/guides/search",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T06:50:36Z"
+        },
+        {
+          "id": "51541e1fe4e4ba596b5439259442c3bb18a02d04",
+          "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+          "url": "https://news.ycombinator.com/item?id=50138531",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T06:50:36Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5349,
+      "importance": 0.5349,
+      "importance_score": 0.5349,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8008,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T06:50:36Z",
+      "latest_at": "2026-10-18T08:37:12.821000Z",
+      "primary_item": {
+        "id": "1c30d8e93b7f1c029756a45b444ff067edb4eb1c",
+        "title": "DeepSeek 搜索和获取服务——每 1000 次成功请求 0.75 美元",
+        "url": "https://api-docs.deepseek.com/guides/search",
+        "source": "api-docs.deepseek.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_40d691da45f3",
+      "title": "Show HN: Sphinx——一个在发布前通过问答测试你AI代码的钩子",
+      "url": "https://sphinx-six-theta.vercel.app",
+      "primary_url": "https://sphinx-six-theta.vercel.app",
+      "source": "sphinx-six-theta.vercel.app",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3195f5a3baf3baa61ed21479efdb41b7e218a12c",
+          "title": "Show HN: Sphinx——一个在发布前通过问答测试你AI代码的钩子",
+          "url": "https://sphinx-six-theta.vercel.app",
+          "source": "sphinx-six-theta.vercel.app",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T08:37:12.715000Z"
+        },
+        {
+          "id": "c5c8b5f58e6f7415c988dbf108a79bfb95fa6da1",
+          "title": "Show HN: Sphinx——一个在发布前通过问答测试你AI代码的钩子 / Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+          "url": "https://sphinx-six-theta.vercel.app",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T04:33:49Z"
+        },
+        {
+          "id": "ada4db646053e9ed43005809e21c1c2994e5711b",
+          "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+          "url": "https://news.ycombinator.com/item?id=50137950",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T04:33:49Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "sphinx-six-theta.vercel.app"
+      ],
+      "items": [
+        {
+          "id": "3195f5a3baf3baa61ed21479efdb41b7e218a12c",
+          "title": "Show HN: Sphinx——一个在发布前通过问答测试你AI代码的钩子",
+          "url": "https://sphinx-six-theta.vercel.app",
+          "source": "sphinx-six-theta.vercel.app",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T08:37:12.715000Z"
+        },
+        {
+          "id": "c5c8b5f58e6f7415c988dbf108a79bfb95fa6da1",
+          "title": "Show HN: Sphinx——一个在发布前通过问答测试你AI代码的钩子 / Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+          "url": "https://sphinx-six-theta.vercel.app",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T04:33:49Z"
+        },
+        {
+          "id": "ada4db646053e9ed43005809e21c1c2994e5711b",
+          "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+          "url": "https://news.ycombinator.com/item?id=50137950",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T04:33:49Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5349,
+      "importance": 0.5349,
+      "importance_score": 0.5349,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8008,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T04:33:49Z",
+      "latest_at": "2026-10-18T08:37:12.715000Z",
+      "primary_item": {
+        "id": "3195f5a3baf3baa61ed21479efdb41b7e218a12c",
+        "title": "Show HN: Sphinx——一个在发布前通过问答测试你AI代码的钩子",
+        "url": "https://sphinx-six-theta.vercel.app",
+        "source": "sphinx-six-theta.vercel.app",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_46efd60615b6",
+      "title": "PhoneBot 用旧款 50 美元安卓手机作大脑、摄像头作眼睛，打造面向创客的开源人形机器人平台",
+      "url": "https://www.techradar.com/pro/phonebot-uses-an-old-usd50-android-smartphone-brain-with-its-cameras-as-eyes-tech-frankenstein-is-an-open-source-humanoid-robot-platform-for-makers",
+      "primary_url": "https://www.techradar.com/pro/phonebot-uses-an-old-usd50-android-smartphone-brain-with-its-cameras-as-eyes-tech-frankenstein-is-an-open-source-humanoid-robot-platform-for-makers",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "2dd9eb8086be13cb3dfa7fde321c8570e523fad9",
+          "title": "PhoneBot 用旧款 50 美元安卓手机作大脑、摄像头作眼睛，打造面向创客的开源人形机器人平台",
+          "url": "https://www.techradar.com/pro/phonebot-uses-an-old-usd50-android-smartphone-brain-with-its-cameras-as-eyes-tech-frankenstein-is-an-open-source-humanoid-robot-platform-for-makers",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "b69998b9e5139b3122c7b54b4b3cbec51e21e3c4",
+          "title": "PhoneBot 用旧款 50 美元安卓手机作大脑、摄像头作眼睛，打造面向创客的开源人形机器人平台 / PhoneBot uses an old $50 Android smartphone brain with its cameras as eyes — tech Frankenstein is an open source humanoid robot platform for makers",
+          "url": "https://www.techradar.com/pro/phonebot-uses-an-old-usd50-android-smartphone-brain-with-its-cameras-as-eyes-tech-frankenstein-is-an-open-source-humanoid-robot-platform-for-makers",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-18T20:20:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "TechRadar"
+      ],
+      "items": [
+        {
+          "id": "2dd9eb8086be13cb3dfa7fde321c8570e523fad9",
+          "title": "PhoneBot 用旧款 50 美元安卓手机作大脑、摄像头作眼睛，打造面向创客的开源人形机器人平台",
+          "url": "https://www.techradar.com/pro/phonebot-uses-an-old-usd50-android-smartphone-brain-with-its-cameras-as-eyes-tech-frankenstein-is-an-open-source-humanoid-robot-platform-for-makers",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "b69998b9e5139b3122c7b54b4b3cbec51e21e3c4",
+          "title": "PhoneBot 用旧款 50 美元安卓手机作大脑、摄像头作眼睛，打造面向创客的开源人形机器人平台 / PhoneBot uses an old $50 Android smartphone brain with its cameras as eyes — tech Frankenstein is an open source humanoid robot platform for makers",
+          "url": "https://www.techradar.com/pro/phonebot-uses-an-old-usd50-android-smartphone-brain-with-its-cameras-as-eyes-tech-frankenstein-is-an-open-source-humanoid-robot-platform-for-makers",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-18T20:20:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T20:20:00Z",
+      "latest_at": "2026-10-19T00:00:05.747639Z",
+      "primary_item": {
+        "id": "2dd9eb8086be13cb3dfa7fde321c8570e523fad9",
+        "title": "PhoneBot 用旧款 50 美元安卓手机作大脑、摄像头作眼睛，打造面向创客的开源人形机器人平台",
+        "url": "https://www.techradar.com/pro/phonebot-uses-an-old-usd50-android-smartphone-brain-with-its-cameras-as-eyes-tech-frankenstein-is-an-open-source-humanoid-robot-platform-for-makers",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_6e962c8babf2",
+      "title": "人工智能公司已经对网络进行了数据抓取。它们的下一个目标是能够反映人类实际工作方式的数据。",
+      "url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots",
+      "primary_url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e631e65c339786765473f2be2a92f6f3a65ec9c1",
+          "title": "人工智能公司已经对网络进行了数据抓取。它们的下一个目标是能够反映人类实际工作方式的数据。",
+          "url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T14:28:08.026000Z"
+        },
+        {
+          "id": "65c9083a3364a3d05134f024e8be4c95a47298b1",
+          "title": "人工智能公司已经对网络进行了数据抓取。它们的下一个目标是能够反映人类实际工作方式的数据。 / AI companies scraped the web. Now they want to learn how you work.",
+          "url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-18T14:00:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "e631e65c339786765473f2be2a92f6f3a65ec9c1",
+          "title": "人工智能公司已经对网络进行了数据抓取。它们的下一个目标是能够反映人类实际工作方式的数据。",
+          "url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T14:28:08.026000Z"
+        },
+        {
+          "id": "65c9083a3364a3d05134f024e8be4c95a47298b1",
+          "title": "人工智能公司已经对网络进行了数据抓取。它们的下一个目标是能够反映人类实际工作方式的数据。 / AI companies scraped the web. Now they want to learn how you work.",
+          "url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-18T14:00:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5227,
+      "importance": 0.5227,
+      "importance_score": 0.5227,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8714,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T14:00:01Z",
+      "latest_at": "2026-10-18T14:28:08.026000Z",
+      "primary_item": {
+        "id": "e631e65c339786765473f2be2a92f6f3a65ec9c1",
+        "title": "人工智能公司已经对网络进行了数据抓取。它们的下一个目标是能够反映人类实际工作方式的数据。",
+        "url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     }
   ]
