@@ -1,230 +1,72 @@
 {
-  "generated_at": "2026-10-22T00:00:02.370410Z",
+  "generated_at": "2026-10-23T00:00:02.411782Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_61f4d0141ff3",
-      "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "primary_url": "https://openai.com/index/openai-models-google-cloud",
+      "story_id": "story_27825e300358",
+      "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策 / Build more responsive apps with the Decisions API",
+      "url": "https://openai.com/index/decisions-api",
+      "primary_url": "https://openai.com/index/decisions-api",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
-          "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
-          "url": "https://openai.com/index/openai-models-google-cloud",
+          "id": "5a627bd65d9e73cddc5ce8a56fa9caad253afc26",
+          "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策 / Build more responsive apps with the Decisions API",
+          "url": "https://openai.com/index/decisions-api",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-21T12:00:00Z"
+          "published_at": "2026-10-22T19:00:00Z"
         },
         {
-          "id": "df91515a04111d4f0c04c40ee75db35dea8fac6b",
-          "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
-          "url": "https://openai.com/index/openai-models-google-cloud",
+          "id": "310820cdf721111236b65ce4e938bec86febfd74",
+          "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策",
+          "url": "https://openai.com/index/decisions-api",
           "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-21T12:00:00Z"
-        },
-        {
-          "id": "e79357fbbe0278aadd61a4f01eede8af79c4c174",
-          "title": "OpenAI 模型即将登陆 Google Cloud",
-          "url": "https://openai.com/index/openai-models-google-cloud",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-21T18:37:43.968000Z"
-        },
-        {
-          "id": "7a55ae8c9fbab8c1b6f9d863f09b9cdbf4944141",
-          "title": "OpenAI models are coming to Google Cloud",
-          "url": "https://news.ycombinator.com/item?id=50180079",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-21T12:53:11Z"
+          "published_at": "2026-10-22T19:00:00Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 2,
       "source_names": [
         "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "hackernews",
-        "openai.com"
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       ],
       "items": [
         {
-          "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
-          "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
-          "url": "https://openai.com/index/openai-models-google-cloud",
+          "id": "5a627bd65d9e73cddc5ce8a56fa9caad253afc26",
+          "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策 / Build more responsive apps with the Decisions API",
+          "url": "https://openai.com/index/decisions-api",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-21T12:00:00Z"
+          "published_at": "2026-10-22T19:00:00Z"
         },
         {
-          "id": "df91515a04111d4f0c04c40ee75db35dea8fac6b",
-          "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
-          "url": "https://openai.com/index/openai-models-google-cloud",
+          "id": "310820cdf721111236b65ce4e938bec86febfd74",
+          "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策",
+          "url": "https://openai.com/index/decisions-api",
           "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-21T12:00:00Z"
-        },
-        {
-          "id": "e79357fbbe0278aadd61a4f01eede8af79c4c174",
-          "title": "OpenAI 模型即将登陆 Google Cloud",
-          "url": "https://openai.com/index/openai-models-google-cloud",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-21T18:37:43.968000Z"
-        },
-        {
-          "id": "7a55ae8c9fbab8c1b6f9d863f09b9cdbf4944141",
-          "title": "OpenAI models are coming to Google Cloud",
-          "url": "https://news.ycombinator.com/item?id=50180079",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-21T12:53:11Z"
+          "published_at": "2026-10-22T19:00:00Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.9044,
-      "importance": 0.9044,
-      "importance_score": 0.9044,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.8409,
-        "story_heat": 0.75
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T12:00:00Z",
-      "latest_at": "2026-10-21T18:37:43.968000Z",
-      "primary_item": {
-        "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
-        "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
-        "url": "https://openai.com/index/openai-models-google-cloud",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d3f519557f32",
-      "title": "OpenAI 披露 Patch the Planet 计划借助 GPT-5.6 Sol 发现 PHP 关键漏洞并协调全球修复 / Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-      "primary_url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b2229fc3a64e5a0eeeba3cd22feaa5a494951a20",
-          "title": "OpenAI 披露 Patch the Planet 计划借助 GPT-5.6 Sol 发现 PHP 关键漏洞并协调全球修复 / Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T07:00:00Z"
-        },
-        {
-          "id": "6059845713389b336204469bfc3779696c929de8",
-          "title": "OpenAI 披露 Patch the Planet 计划借助 GPT-5.6 Sol 发现 PHP 关键漏洞并协调全球修复",
-          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T07:00:00Z"
-        },
-        {
-          "id": "a94eacfb266ecb0e789807e4115efabda842ef7e",
-          "title": "“修补地球”：随着安全人员发现漏洞，全球响应工作正逐步协调",
-          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-21T16:14:45.178000Z"
-        },
-        {
-          "id": "9303c33ae28b9c907dec21193c9008c1d8678f53",
-          "title": "OpenAI 披露 Patch the Planet 计划借助 GPT-5.6 Sol 发现 PHP 关键漏洞并协调全球修复 / Patch the Planet: global response coordination as agents uncover vulnerabilities",
-          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-21T14:03:43Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "b2229fc3a64e5a0eeeba3cd22feaa5a494951a20",
-          "title": "OpenAI 披露 Patch the Planet 计划借助 GPT-5.6 Sol 发现 PHP 关键漏洞并协调全球修复 / Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T07:00:00Z"
-        },
-        {
-          "id": "6059845713389b336204469bfc3779696c929de8",
-          "title": "OpenAI 披露 Patch the Planet 计划借助 GPT-5.6 Sol 发现 PHP 关键漏洞并协调全球修复",
-          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T07:00:00Z"
-        },
-        {
-          "id": "a94eacfb266ecb0e789807e4115efabda842ef7e",
-          "title": "“修补地球”：随着安全人员发现漏洞，全球响应工作正逐步协调",
-          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-21T16:14:45.178000Z"
-        },
-        {
-          "id": "9303c33ae28b9c907dec21193c9008c1d8678f53",
-          "title": "OpenAI 披露 Patch the Planet 计划借助 GPT-5.6 Sol 发现 PHP 关键漏洞并协调全球修复 / Patch the Planet: global response coordination as agents uncover vulnerabilities",
-          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-21T14:03:43Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8878,
-      "importance": 0.8878,
-      "importance_score": 0.8878,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8645,
+      "importance": 0.8645,
+      "importance_score": 0.8645,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7823,
-        "story_heat": 0.75
+        "recency": 0.9303,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
@@ -233,32 +75,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-21T07:00:00Z",
-      "latest_at": "2026-10-21T16:14:45.178000Z",
+      "earliest_at": "2026-10-22T19:00:00Z",
+      "latest_at": "2026-10-22T19:00:00Z",
       "primary_item": {
-        "id": "b2229fc3a64e5a0eeeba3cd22feaa5a494951a20",
-        "title": "OpenAI 披露 Patch the Planet 计划借助 GPT-5.6 Sol 发现 PHP 关键漏洞并协调全球修复 / Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-        "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+        "id": "5a627bd65d9e73cddc5ce8a56fa9caad253afc26",
+        "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策 / Build more responsive apps with the Decisions API",
+        "url": "https://openai.com/index/decisions-api",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_7104bc51c295",
-      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-      "primary_url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "story_id": "story_95eb6975ad24",
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "primary_url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "7c1d9308419989fb3e3ecffcb121bee7aa272527",
-          "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-          "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+          "id": "07204776abfe7c72a874d53eb6d5212bde479474",
+          "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+          "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-21T18:26:30Z"
+          "published_at": "2026-10-22T22:24:34Z"
         }
       ],
       "source_count": 1,
@@ -267,26 +109,26 @@
       ],
       "items": [
         {
-          "id": "7c1d9308419989fb3e3ecffcb121bee7aa272527",
-          "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-          "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+          "id": "07204776abfe7c72a874d53eb6d5212bde479474",
+          "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+          "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-21T18:26:30Z"
+          "published_at": "2026-10-22T22:24:34Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8461,
-      "importance": 0.8461,
-      "importance_score": 0.8461,
+      "score": 0.8559,
+      "importance": 0.8559,
+      "importance_score": 0.8559,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9229,
+        "recency": 0.9773,
         "story_heat": 0.0
       },
       "category": "official",
@@ -295,132 +137,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-21T18:26:30Z",
-      "latest_at": "2026-10-21T18:26:30Z",
+      "earliest_at": "2026-10-22T22:24:34Z",
+      "latest_at": "2026-10-22T22:24:34Z",
       "primary_item": {
-        "id": "7c1d9308419989fb3e3ecffcb121bee7aa272527",
-        "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-        "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+        "id": "07204776abfe7c72a874d53eb6d5212bde479474",
+        "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+        "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_d31a18ead424",
-      "title": "Wiz Research 披露 PHP2Shell：AI 助攻 PHP 核心 RCE 漏洞，影响全球 70% 网站",
-      "url": "https://www.wiz.io/blog/php2shell-php-rce",
-      "primary_url": "https://www.wiz.io/blog/php2shell-php-rce",
-      "source": "Wiz：Research（安全研究）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ba444c0d9c6f0d4afda2eb020ac359ba69459422",
-          "title": "Wiz Research 披露 PHP2Shell：AI 助攻 PHP 核心 RCE 漏洞，影响全球 70% 网站",
-          "url": "https://www.wiz.io/blog/php2shell-php-rce",
-          "source": "Wiz：Research（安全研究）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T13:30:59Z"
-        },
-        {
-          "id": "e248f6db6bbf3956396d71d3749f9c4af7f07fb6",
-          "title": "PHP2Shell：人工智能发现PHP中存在关键的远程代码执行漏洞",
-          "url": "https://www.wiz.io/blog/php2shell-php-rce",
-          "source": "www.wiz.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-21T14:39:53.537000Z"
-        },
-        {
-          "id": "a60168b132b5adb1a88df45de3cbd25ee60e2d5a",
-          "title": "Wiz Research 披露 PHP2Shell：AI 助攻 PHP 核心 RCE 漏洞，影响全球 70% 网站 / PHP2Shell: AI uncovers critical RCE in PHP",
-          "url": "https://www.wiz.io/blog/php2shell-php-rce",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-21T13:43:19Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Wiz：Research（安全研究）",
-        "www.wiz.io"
-      ],
-      "items": [
-        {
-          "id": "ba444c0d9c6f0d4afda2eb020ac359ba69459422",
-          "title": "Wiz Research 披露 PHP2Shell：AI 助攻 PHP 核心 RCE 漏洞，影响全球 70% 网站",
-          "url": "https://www.wiz.io/blog/php2shell-php-rce",
-          "source": "Wiz：Research（安全研究）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T13:30:59Z"
-        },
-        {
-          "id": "e248f6db6bbf3956396d71d3749f9c4af7f07fb6",
-          "title": "PHP2Shell：人工智能发现PHP中存在关键的远程代码执行漏洞",
-          "url": "https://www.wiz.io/blog/php2shell-php-rce",
-          "source": "www.wiz.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-21T14:39:53.537000Z"
-        },
-        {
-          "id": "a60168b132b5adb1a88df45de3cbd25ee60e2d5a",
-          "title": "Wiz Research 披露 PHP2Shell：AI 助攻 PHP 核心 RCE 漏洞，影响全球 70% 网站 / PHP2Shell: AI uncovers critical RCE in PHP",
-          "url": "https://www.wiz.io/blog/php2shell-php-rce",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-21T13:43:19Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8313,
-      "importance": 0.8313,
-      "importance_score": 0.8313,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.85,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8595,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T13:30:59Z",
-      "latest_at": "2026-10-21T14:39:53.537000Z",
-      "primary_item": {
-        "id": "ba444c0d9c6f0d4afda2eb020ac359ba69459422",
-        "title": "Wiz Research 披露 PHP2Shell：AI 助攻 PHP 核心 RCE 漏洞，影响全球 70% 网站",
-        "url": "https://www.wiz.io/blog/php2shell-php-rce",
-        "source": "Wiz：Research（安全研究）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e4263c8cf454",
-      "title": "GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
-      "url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
-      "primary_url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
+      "story_id": "story_be8869e5946c",
+      "title": "Custom skills, agents, and MCP servers in usage metrics API",
+      "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+      "primary_url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "4b2d246bdc7639580d002177b9e1dc8f11e5d834",
-          "title": "GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
-          "url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
+          "id": "d16f1d6ac60a28268ca1ad5910b6fb861ac96ed0",
+          "title": "Custom skills, agents, and MCP servers in usage metrics API",
+          "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-21T16:43:23Z"
+          "published_at": "2026-10-22T22:19:17Z"
         }
       ],
       "source_count": 1,
@@ -429,488 +171,184 @@
       ],
       "items": [
         {
-          "id": "4b2d246bdc7639580d002177b9e1dc8f11e5d834",
-          "title": "GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
-          "url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
+          "id": "d16f1d6ac60a28268ca1ad5910b6fb861ac96ed0",
+          "title": "Custom skills, agents, and MCP servers in usage metrics API",
+          "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-21T16:43:23Z"
+          "published_at": "2026-10-22T22:19:17Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.826,
-      "importance": 0.826,
-      "importance_score": 0.826,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9002,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T16:43:23Z",
-      "latest_at": "2026-10-21T16:43:23Z",
-      "primary_item": {
-        "id": "4b2d246bdc7639580d002177b9e1dc8f11e5d834",
-        "title": "GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
-        "url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_354f89a6c7db",
-      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-      "primary_url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "213681692e91ea20b028385dda779d335345174f",
-          "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T17:35:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "213681692e91ea20b028385dda779d335345174f",
-          "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T17:35:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8441,
-      "importance": 0.8441,
-      "importance_score": 0.8441,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9116,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T17:35:36Z",
-      "latest_at": "2026-10-21T17:35:36Z",
-      "primary_item": {
-        "id": "213681692e91ea20b028385dda779d335345174f",
-        "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-        "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_6bc0a4e087e6",
-      "title": "Southeast Asia’s digital economy to hit $368 billion",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
-      "primary_url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "11d75e7d6cfe5c009e5a156bf91c5b7d5e162030",
-          "title": "Southeast Asia’s digital economy to hit $368 billion",
-          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T04:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "11d75e7d6cfe5c009e5a156bf91c5b7d5e162030",
-          "title": "Southeast Asia’s digital economy to hit $368 billion",
-          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T04:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7988,
-      "importance": 0.7988,
-      "importance_score": 0.7988,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7491,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T04:00:00Z",
-      "latest_at": "2026-10-21T04:00:00Z",
-      "primary_item": {
-        "id": "11d75e7d6cfe5c009e5a156bf91c5b7d5e162030",
-        "title": "Southeast Asia’s digital economy to hit $368 billion",
-        "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_1de8e62ff715",
-      "title": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索 / Using thousands of AI agents to uncover new leads in biological data",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-      "primary_url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bb58a019ba68f6fa7d30db801c2ede3cecf3636c",
-          "title": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索 / Using thousands of AI agents to uncover new leads in biological data",
-          "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T04:50:00Z"
-        },
-        {
-          "id": "0c4d254591046e4f818b6b7e7ff734ffb00b07f6",
-          "title": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索",
-          "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T04:50:00Z"
-        },
-        {
-          "id": "513a6e1e385c5464b648e218e6ae4de7ef4ba66f",
-          "title": "利用数千个人工智能代理从生物数据中发掘新线索",
-          "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-21T19:57:05.302000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "bb58a019ba68f6fa7d30db801c2ede3cecf3636c",
-          "title": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索 / Using thousands of AI agents to uncover new leads in biological data",
-          "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T04:50:00Z"
-        },
-        {
-          "id": "0c4d254591046e4f818b6b7e7ff734ffb00b07f6",
-          "title": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索",
-          "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T04:50:00Z"
-        },
-        {
-          "id": "513a6e1e385c5464b648e218e6ae4de7ef4ba66f",
-          "title": "利用数千个人工智能代理从生物数据中发掘新线索",
-          "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-21T19:57:05.302000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8585,
-      "importance": 0.8585,
-      "importance_score": 0.8585,
+      "score": 0.8477,
+      "importance": 0.8477,
+      "importance_score": 0.8477,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7582,
-        "story_heat": 0.5
+        "recency": 0.976,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-21T04:50:00Z",
-      "latest_at": "2026-10-21T19:57:05.302000Z",
+      "earliest_at": "2026-10-22T22:19:17Z",
+      "latest_at": "2026-10-22T22:19:17Z",
       "primary_item": {
-        "id": "bb58a019ba68f6fa7d30db801c2ede3cecf3636c",
-        "title": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索 / Using thousands of AI agents to uncover new leads in biological data",
-        "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-        "source": "OpenAI News",
+        "id": "d16f1d6ac60a28268ca1ad5910b6fb861ac96ed0",
+        "title": "Custom skills, agents, and MCP servers in usage metrics API",
+        "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_a61190ef2d92",
-      "title": "OpenAI 与 Google Wiz 用 AI 发现潜伏 20 年的 PHP 严重漏洞，NSA 建议无法立即修复的网站先下线",
-      "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet",
-      "primary_url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_655df0fb22ac",
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
+      "primary_url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "688183ee83cbec03b4604a2c29888d5bc4fd1ca4",
-          "title": "OpenAI 与 Google Wiz 用 AI 发现潜伏 20 年的 PHP 严重漏洞，NSA 建议无法立即修复的网站先下线",
-          "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T17:59:12Z"
-        },
-        {
-          "id": "241ca6826723d84248a338ec9f7deb02abe47bd4",
-          "title": "OpenAI 与 Google Wiz 用 AI 发现潜伏 20 年的 PHP 严重漏洞，NSA 建议无法立即修复的网站先下线 / PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
-          "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-21T17:59:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "688183ee83cbec03b4604a2c29888d5bc4fd1ca4",
-          "title": "OpenAI 与 Google Wiz 用 AI 发现潜伏 20 年的 PHP 严重漏洞，NSA 建议无法立即修复的网站先下线",
-          "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T17:59:12Z"
-        },
-        {
-          "id": "241ca6826723d84248a338ec9f7deb02abe47bd4",
-          "title": "OpenAI 与 Google Wiz 用 AI 发现潜伏 20 年的 PHP 严重漏洞，NSA 建议无法立即修复的网站先下线 / PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
-          "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-21T17:59:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7956,
-      "importance": 0.7956,
-      "importance_score": 0.7956,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9168,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T17:59:12Z",
-      "latest_at": "2026-10-21T17:59:12Z",
-      "primary_item": {
-        "id": "688183ee83cbec03b4604a2c29888d5bc4fd1ca4",
-        "title": "OpenAI 与 Google Wiz 用 AI 发现潜伏 20 年的 PHP 严重漏洞，NSA 建议无法立即修复的网站先下线",
-        "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1f51f4303e69",
-      "title": "OpenAI 发布 Codex 技能帮助网站自查 PHP 关键漏洞影响",
-      "url": "https://x.com/OpenAI/status/2112945805686604033",
-      "primary_url": "https://x.com/OpenAI/status/2112945805686604033",
-      "source": "X：OpenAI (@OpenAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "69179414f976a75a89a283c02a7977039babf1fc",
-          "title": "OpenAI 发布 Codex 技能帮助网站自查 PHP 关键漏洞影响",
-          "url": "https://x.com/OpenAI/status/2112945805686604033",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T16:35:11Z"
+          "id": "6a5fe38f7b1d1bcdd3c9b35c933fbcf0e0176b6e",
+          "title": "Beyond tree cover: mapping the world’s forest types",
+          "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T14:30:24Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：OpenAI (@OpenAI)"
+        "Google DeepMind"
       ],
       "items": [
         {
-          "id": "69179414f976a75a89a283c02a7977039babf1fc",
-          "title": "OpenAI 发布 Codex 技能帮助网站自查 PHP 关键漏洞影响",
-          "url": "https://x.com/OpenAI/status/2112945805686604033",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T16:35:11Z"
+          "id": "6a5fe38f7b1d1bcdd3c9b35c933fbcf0e0176b6e",
+          "title": "Beyond tree cover: mapping the world’s forest types",
+          "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T14:30:24Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7823,
-      "importance": 0.7823,
-      "importance_score": 0.7823,
-      "importance_label": "行业动态",
+      "score": 0.8209,
+      "importance": 0.8209,
+      "importance_score": 0.8209,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8985,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8719,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-21T16:35:11Z",
-      "latest_at": "2026-10-21T16:35:11Z",
+      "earliest_at": "2026-10-22T14:30:24Z",
+      "latest_at": "2026-10-22T14:30:24Z",
       "primary_item": {
-        "id": "69179414f976a75a89a283c02a7977039babf1fc",
-        "title": "OpenAI 发布 Codex 技能帮助网站自查 PHP 关键漏洞影响",
-        "url": "https://x.com/OpenAI/status/2112945805686604033",
-        "source": "X：OpenAI (@OpenAI)",
-        "source_name": "AI HOT"
+        "id": "6a5fe38f7b1d1bcdd3c9b35c933fbcf0e0176b6e",
+        "title": "Beyond tree cover: mapping the world’s forest types",
+        "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_5deb86848ff9",
-      "title": "Microsoft Research 与合作者证明 31 年历史的 KLS 猜想",
-      "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture",
-      "primary_url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture",
-      "source": "Microsoft Research 博客（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_658f804bcd1d",
+      "title": "Global default for Copilot features generally available",
+      "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "3852a3452109f52d0b41bc1c41b5a590228dcaa4",
-          "title": "Microsoft Research 与合作者证明 31 年历史的 KLS 猜想",
-          "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture",
-          "source": "Microsoft Research 博客（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T16:00:00Z"
+          "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
+          "title": "Global default for Copilot features generally available",
+          "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T20:44:28Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Microsoft Research 博客（RSS）"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "3852a3452109f52d0b41bc1c41b5a590228dcaa4",
-          "title": "Microsoft Research 与合作者证明 31 年历史的 KLS 猜想",
-          "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture",
-          "source": "Microsoft Research 博客（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T16:00:00Z"
+          "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
+          "title": "Global default for Copilot features generally available",
+          "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T20:44:28Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.781,
-      "importance": 0.781,
-      "importance_score": 0.781,
-      "importance_label": "行业动态",
+      "score": 0.8437,
+      "importance": 0.8437,
+      "importance_score": 0.8437,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8909,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.954,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-21T16:00:00Z",
-      "latest_at": "2026-10-21T16:00:00Z",
+      "earliest_at": "2026-10-22T20:44:28Z",
+      "latest_at": "2026-10-22T20:44:28Z",
       "primary_item": {
-        "id": "3852a3452109f52d0b41bc1c41b5a590228dcaa4",
-        "title": "Microsoft Research 与合作者证明 31 年历史的 KLS 猜想",
-        "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture",
-        "source": "Microsoft Research 博客（RSS）",
-        "source_name": "AI HOT"
+        "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
+        "title": "Global default for Copilot features generally available",
+        "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_f9b499debdda",
-      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-      "primary_url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "story_id": "story_eaa0ebff7daf",
+      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+      "primary_url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "37909be9fb1c5e8764627a52de7bbcce57c6d8aa",
-          "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-          "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+          "id": "7a0a11be8277fe6cc1525ac93f63930b4220fa4a",
+          "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+          "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-21T16:04:43Z"
+          "published_at": "2026-10-22T16:11:31Z"
         }
       ],
       "source_count": 1,
@@ -919,26 +357,26 @@
       ],
       "items": [
         {
-          "id": "37909be9fb1c5e8764627a52de7bbcce57c6d8aa",
-          "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-          "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+          "id": "7a0a11be8277fe6cc1525ac93f63930b4220fa4a",
+          "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+          "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-21T16:04:43Z"
+          "published_at": "2026-10-22T16:11:31Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8405,
-      "importance": 0.8405,
-      "importance_score": 0.8405,
+      "score": 0.8408,
+      "importance": 0.8408,
+      "importance_score": 0.8408,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8919,
+        "recency": 0.8934,
         "story_heat": 0.0
       },
       "category": "official",
@@ -947,154 +385,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-21T16:04:43Z",
-      "latest_at": "2026-10-21T16:04:43Z",
+      "earliest_at": "2026-10-22T16:11:31Z",
+      "latest_at": "2026-10-22T16:11:31Z",
       "primary_item": {
-        "id": "37909be9fb1c5e8764627a52de7bbcce57c6d8aa",
-        "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-        "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+        "id": "7a0a11be8277fe6cc1525ac93f63930b4220fa4a",
+        "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+        "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_1a0c7271a843",
-      "title": "ChinaTalk 解读商务部第48号公告对AI技术出口管制的影响",
-      "url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
-      "primary_url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
-      "source": "ChinaTalk（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e2e554ad641cad1a66903f41d19d00429b4c373a",
-          "title": "ChinaTalk 解读商务部第48号公告对AI技术出口管制的影响",
-          "url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
-          "source": "ChinaTalk（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T13:43:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "ChinaTalk（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e2e554ad641cad1a66903f41d19d00429b4c373a",
-          "title": "ChinaTalk 解读商务部第48号公告对AI技术出口管制的影响",
-          "url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
-          "source": "ChinaTalk（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T13:43:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7758,
-      "importance": 0.7758,
-      "importance_score": 0.7758,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8621,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T13:43:39Z",
-      "latest_at": "2026-10-21T13:43:39Z",
-      "primary_item": {
-        "id": "e2e554ad641cad1a66903f41d19d00429b4c373a",
-        "title": "ChinaTalk 解读商务部第48号公告对AI技术出口管制的影响",
-        "url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
-        "source": "ChinaTalk（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_af125cbcf95b",
-      "title": "研究人员用 GPT-5.6 Sol 发现 PHP 两个 CVSS 9.2 严重漏洞",
-      "url": "https://x.com/rohanpaul_ai/status/2112962364996038971",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2112962364996038971",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2851be88778cd989517bd269dbc94e6142927809",
-          "title": "研究人员用 GPT-5.6 Sol 发现 PHP 两个 CVSS 9.2 严重漏洞",
-          "url": "https://x.com/rohanpaul_ai/status/2112962364996038971",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T17:40:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "2851be88778cd989517bd269dbc94e6142927809",
-          "title": "研究人员用 GPT-5.6 Sol 发现 PHP 两个 CVSS 9.2 严重漏洞",
-          "url": "https://x.com/rohanpaul_ai/status/2112962364996038971",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T17:40:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7699,
-      "importance": 0.7699,
-      "importance_score": 0.7699,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9128,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T17:40:59Z",
-      "latest_at": "2026-10-21T17:40:59Z",
-      "primary_item": {
-        "id": "2851be88778cd989517bd269dbc94e6142927809",
-        "title": "研究人员用 GPT-5.6 Sol 发现 PHP 两个 CVSS 9.2 严重漏洞",
-        "url": "https://x.com/rohanpaul_ai/status/2112962364996038971",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c55b4c3c8ca2",
-      "title": "OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+      "story_id": "story_3992fc4ed3eb",
+      "title": "The Verge 分析 SpaceX 与特斯拉成立特别委员会讨论合并背后的财务逻辑",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
       "source": "The Verge：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "fdf4626f08a65489b996035b52c7c43640346037",
-          "title": "OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+          "id": "75cede2acbd26b05ecc313a172e679ca3a2ed9a0",
+          "title": "The Verge 分析 SpaceX 与特斯拉成立特别委员会讨论合并背后的财务逻辑",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
           "source": "The Verge：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-21T13:57:43Z"
+          "published_at": "2026-10-22T19:45:00Z"
         }
       ],
       "source_count": 1,
@@ -1103,26 +419,26 @@
       ],
       "items": [
         {
-          "id": "fdf4626f08a65489b996035b52c7c43640346037",
-          "title": "OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+          "id": "75cede2acbd26b05ecc313a172e679ca3a2ed9a0",
+          "title": "The Verge 分析 SpaceX 与特斯拉成立特别委员会讨论合并背后的财务逻辑",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
           "source": "The Verge：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-21T13:57:43Z"
+          "published_at": "2026-10-22T19:45:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7553,
-      "importance": 0.7553,
-      "importance_score": 0.7553,
+      "score": 0.7779,
+      "importance": 0.7779,
+      "importance_score": 0.7779,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8651,
+        "recency": 0.9405,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1130,60 +446,324 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-21T13:57:43Z",
-      "latest_at": "2026-10-21T13:57:43Z",
+      "earliest_at": "2026-10-22T19:45:00Z",
+      "latest_at": "2026-10-22T19:45:00Z",
       "primary_item": {
-        "id": "fdf4626f08a65489b996035b52c7c43640346037",
-        "title": "OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+        "id": "75cede2acbd26b05ecc313a172e679ca3a2ed9a0",
+        "title": "The Verge 分析 SpaceX 与特斯拉成立特别委员会讨论合并背后的财务逻辑",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
         "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_2ed22a61b2f1",
-      "title": "Broad access through consistent standards",
-      "url": "https://openai.com/index/broad-access-through-consistent-standards",
-      "primary_url": "https://openai.com/index/broad-access-through-consistent-standards",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_e7e58cd7761f",
+      "title": "Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science",
+      "url": "https://microsoft.ai/news/building-medical-superintelligence",
+      "primary_url": "https://microsoft.ai/news/building-medical-superintelligence",
+      "source": "Microsoft AI：官方博客（网页）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b38aac7eeff84d1c0ab46df96144c410d2197b25",
-          "title": "Broad access through consistent standards",
-          "url": "https://openai.com/index/broad-access-through-consistent-standards",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T21:00:00Z"
+          "id": "f9a3364e6b1c380431613d259282581d31f8d83b",
+          "title": "Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science",
+          "url": "https://microsoft.ai/news/building-medical-superintelligence",
+          "source": "Microsoft AI：官方博客（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T18:01:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "Microsoft AI：官方博客（网页）"
       ],
       "items": [
         {
-          "id": "b38aac7eeff84d1c0ab46df96144c410d2197b25",
-          "title": "Broad access through consistent standards",
-          "url": "https://openai.com/index/broad-access-through-consistent-standards",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T21:00:00Z"
+          "id": "f9a3364e6b1c380431613d259282581d31f8d83b",
+          "title": "Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science",
+          "url": "https://microsoft.ai/news/building-medical-superintelligence",
+          "source": "Microsoft AI：官方博客（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T18:01:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8444,
-      "importance": 0.8444,
-      "importance_score": 0.8444,
+      "score": 0.7767,
+      "importance": 0.7767,
+      "importance_score": 0.7767,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9172,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T18:01:00Z",
+      "latest_at": "2026-10-22T18:01:00Z",
+      "primary_item": {
+        "id": "f9a3364e6b1c380431613d259282581d31f8d83b",
+        "title": "Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science",
+        "url": "https://microsoft.ai/news/building-medical-superintelligence",
+        "source": "Microsoft AI：官方博客（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7dc27a52c57d",
+      "title": "Symantec 披露“Skynet 模式”AI 智能体劫持无防护大语言模型发起自持续网络攻击",
+      "url": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks",
+      "primary_url": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "84d7b5ca1b0b1875c7f22ae4a6c98d4149ccc50d",
+          "title": "Symantec 披露“Skynet 模式”AI 智能体劫持无防护大语言模型发起自持续网络攻击",
+          "url": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T11:30:56Z"
+        },
+        {
+          "id": "60520477867df022c4530e4e41d825dbd911b721",
+          "title": "Symantec 披露“Skynet 模式”AI 智能体劫持无防护大语言模型发起自持续网络攻击 / An AI agent in \"Skynet mode\" hijacks unprotected language models to launch self-sustaining cyberattacks",
+          "url": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-22T11:30:56Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "84d7b5ca1b0b1875c7f22ae4a6c98d4149ccc50d",
+          "title": "Symantec 披露“Skynet 模式”AI 智能体劫持无防护大语言模型发起自持续网络攻击",
+          "url": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T11:30:56Z"
+        },
+        {
+          "id": "60520477867df022c4530e4e41d825dbd911b721",
+          "title": "Symantec 披露“Skynet 模式”AI 智能体劫持无防护大语言模型发起自持续网络攻击 / An AI agent in \"Skynet mode\" hijacks unprotected language models to launch self-sustaining cyberattacks",
+          "url": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-22T11:30:56Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7749,
+      "importance": 0.7749,
+      "importance_score": 0.7749,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.835,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T11:30:56Z",
+      "latest_at": "2026-10-22T11:30:56Z",
+      "primary_item": {
+        "id": "84d7b5ca1b0b1875c7f22ae4a6c98d4149ccc50d",
+        "title": "Symantec 披露“Skynet 模式”AI 智能体劫持无防护大语言模型发起自持续网络攻击",
+        "url": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a14d9858d209",
+      "title": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%",
+      "url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
+      "primary_url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
+      "source": "Newcomer 新闻长文（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c58bf6b63a6cac1dbe94c7eaf8950cb52fb622b1",
+          "title": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%",
+          "url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
+          "source": "Newcomer 新闻长文（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T15:53:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Newcomer 新闻长文（RSS）"
+      ],
+      "items": [
+        {
+          "id": "c58bf6b63a6cac1dbe94c7eaf8950cb52fb622b1",
+          "title": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%",
+          "url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
+          "source": "Newcomer 新闻长文（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T15:53:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7747,
+      "importance": 0.7747,
+      "importance_score": 0.7747,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8896,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T15:53:55Z",
+      "latest_at": "2026-10-22T15:53:55Z",
+      "primary_item": {
+        "id": "c58bf6b63a6cac1dbe94c7eaf8950cb52fb622b1",
+        "title": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%",
+        "url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
+        "source": "Newcomer 新闻长文（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_24fe5ab62d36",
+      "title": "404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局",
+      "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
+      "primary_url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
+      "source": "404 Media（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e8f1c1a48dd6fb4bbe9fba18b1997acfa1948f19",
+          "title": "404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局",
+          "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
+          "source": "404 Media（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T14:23:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "404 Media（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e8f1c1a48dd6fb4bbe9fba18b1997acfa1948f19",
+          "title": "404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局",
+          "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
+          "source": "404 Media（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T14:23:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7743,
+      "importance": 0.7743,
+      "importance_score": 0.7743,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8705,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T14:23:36Z",
+      "latest_at": "2026-10-22T14:23:36Z",
+      "primary_item": {
+        "id": "e8f1c1a48dd6fb4bbe9fba18b1997acfa1948f19",
+        "title": "404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局",
+        "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
+        "source": "404 Media（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c655f75f90af",
+      "title": "Industry comparisons in the Copilot impact dashboard",
+      "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
+      "primary_url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e30a9f9228ed0e2efdadaba9e9c8cafa417722b0",
+          "title": "Industry comparisons in the Copilot impact dashboard",
+          "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T16:28:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e30a9f9228ed0e2efdadaba9e9c8cafa417722b0",
+          "title": "Industry comparisons in the Copilot impact dashboard",
+          "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T16:28:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8335,
+      "importance": 0.8335,
+      "importance_score": 0.8335,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9576,
+        "recency": 0.897,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1192,32 +772,93 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-21T21:00:00Z",
-      "latest_at": "2026-10-21T21:00:00Z",
+      "earliest_at": "2026-10-22T16:28:24Z",
+      "latest_at": "2026-10-22T16:28:24Z",
       "primary_item": {
-        "id": "b38aac7eeff84d1c0ab46df96144c410d2197b25",
-        "title": "Broad access through consistent standards",
-        "url": "https://openai.com/index/broad-access-through-consistent-standards",
-        "source": "OpenAI News",
+        "id": "e30a9f9228ed0e2efdadaba9e9c8cafa417722b0",
+        "title": "Industry comparisons in the Copilot impact dashboard",
+        "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_676c96ebe28e",
-      "title": "OpenAI 收购 AI 制药初创 Orchestra Bio，把\"管研发\"的 Agent 收编进生命科学版图",
-      "url": "https://www.aibase.com/news/31783",
-      "primary_url": "https://www.aibase.com/news/31783",
+      "story_id": "story_6cbde97d8260",
+      "title": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "57b779c46686bc1954136c094928ec6605314308",
+          "title": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T00:06:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "57b779c46686bc1954136c094928ec6605314308",
+          "title": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T00:06:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7691,
+      "importance": 0.7691,
+      "importance_score": 0.7691,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7081,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T00:06:00Z",
+      "latest_at": "2026-10-22T00:06:00Z",
+      "primary_item": {
+        "id": "57b779c46686bc1954136c094928ec6605314308",
+        "title": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0d24124c6287",
+      "title": "万象有声发布 Audimind，有声书制作工具出海",
+      "url": "https://www.aibase.com/news/31802",
+      "primary_url": "https://www.aibase.com/news/31802",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c6d88c6e00cf0e70e66858a5b34d0dbbcdd8ee0b",
-          "title": "OpenAI 收购 AI 制药初创 Orchestra Bio，把\"管研发\"的 Agent 收编进生命科学版图",
-          "url": "https://www.aibase.com/news/31783",
+          "id": "59f3524d2a0d04f4225fac157b2c8fbc5f239ca0",
+          "title": "万象有声发布 Audimind，有声书制作工具出海",
+          "url": "https://www.aibase.com/news/31802",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-21T18:00:02.370410Z"
+          "published_at": "2026-10-23T00:00:02.411782Z"
         }
       ],
       "source_count": 1,
@@ -1226,13 +867,380 @@
       ],
       "items": [
         {
-          "id": "c6d88c6e00cf0e70e66858a5b34d0dbbcdd8ee0b",
-          "title": "OpenAI 收购 AI 制药初创 Orchestra Bio，把\"管研发\"的 Agent 收编进生命科学版图",
-          "url": "https://www.aibase.com/news/31783",
+          "id": "59f3524d2a0d04f4225fac157b2c8fbc5f239ca0",
+          "title": "万象有声发布 Audimind，有声书制作工具出海",
+          "url": "https://www.aibase.com/news/31802",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-21T18:00:02.370410Z"
+          "published_at": "2026-10-23T00:00:02.411782Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T00:00:02.411782Z",
+      "latest_at": "2026-10-23T00:00:02.411782Z",
+      "primary_item": {
+        "id": "59f3524d2a0d04f4225fac157b2c8fbc5f239ca0",
+        "title": "万象有声发布 Audimind，有声书制作工具出海",
+        "url": "https://www.aibase.com/news/31802",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_425c4ed491e2",
+      "title": "METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞",
+      "url": "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent",
+      "primary_url": "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent",
+      "source": "Redwood Research：Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d8e665af76dda50a70bcb25c8c2a431c04682786",
+          "title": "METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞",
+          "url": "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent",
+          "source": "Redwood Research：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T15:32:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Redwood Research：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d8e665af76dda50a70bcb25c8c2a431c04682786",
+          "title": "METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞",
+          "url": "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent",
+          "source": "Redwood Research：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T15:32:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.885,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T15:32:17Z",
+      "latest_at": "2026-10-22T15:32:17Z",
+      "primary_item": {
+        "id": "d8e665af76dda50a70bcb25c8c2a431c04682786",
+        "title": "METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞",
+        "url": "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent",
+        "source": "Redwood Research：Blog（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5d118fadbe79",
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "primary_url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7cb33189552d9e5b25bb3a8bd053cde189fc030f",
+          "title": "Ensemble forecasting with IBM Granite time-series models",
+          "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T07:51:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "7cb33189552d9e5b25bb3a8bd053cde189fc030f",
+          "title": "Ensemble forecasting with IBM Granite time-series models",
+          "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T07:51:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8226,
+      "importance": 0.8226,
+      "importance_score": 0.8226,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7921,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T07:51:31Z",
+      "latest_at": "2026-10-22T07:51:31Z",
+      "primary_item": {
+        "id": "7cb33189552d9e5b25bb3a8bd053cde189fc030f",
+        "title": "Ensemble forecasting with IBM Granite time-series models",
+        "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_01440c581752",
+      "title": "PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应",
+      "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability",
+      "primary_url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a06fd082651a1cb2ce1e05f497bf2a14ed38dac2",
+          "title": "PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应",
+          "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T15:25:02Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "a06fd082651a1cb2ce1e05f497bf2a14ed38dac2",
+          "title": "PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应",
+          "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T15:25:02Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8834,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T15:25:02Z",
+      "latest_at": "2026-10-22T15:25:02Z",
+      "primary_item": {
+        "id": "a06fd082651a1cb2ce1e05f497bf2a14ed38dac2",
+        "title": "PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应",
+        "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5342ed3c4262",
+      "title": "NSA 就 AI 发现的 PHP2Shell 关键漏洞发布修复警告",
+      "url": "https://x.com/rohanpaul_ai/status/2113136583985766442",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2113136583985766442",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d75edc90492b28c57151d9eebb6112a0387fc8f2",
+          "title": "NSA 就 AI 发现的 PHP2Shell 关键漏洞发布修复警告",
+          "url": "https://x.com/rohanpaul_ai/status/2113136583985766442",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T05:13:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "d75edc90492b28c57151d9eebb6112a0387fc8f2",
+          "title": "NSA 就 AI 发现的 PHP2Shell 关键漏洞发布修复警告",
+          "url": "https://x.com/rohanpaul_ai/status/2113136583985766442",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T05:13:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7625,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T05:13:16Z",
+      "latest_at": "2026-10-22T05:13:16Z",
+      "primary_item": {
+        "id": "d75edc90492b28c57151d9eebb6112a0387fc8f2",
+        "title": "NSA 就 AI 发现的 PHP2Shell 关键漏洞发布修复警告",
+        "url": "https://x.com/rohanpaul_ai/status/2113136583985766442",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9e1ae24ea61d",
+      "title": "Claude 网页、桌面和移动端将默认启用 auto mode",
+      "url": "https://x.com/claudeai/status/2113360845409583307",
+      "primary_url": "https://x.com/claudeai/status/2113360845409583307",
+      "source": "X：Claude (@claudeai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "34d0fdc7f22bba3a5ddc7a131c3e37f3cb047186",
+          "title": "Claude 网页、桌面和移动端将默认启用 auto mode",
+          "url": "https://x.com/claudeai/status/2113360845409583307",
+          "source": "X：Claude (@claudeai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T20:04:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Claude (@claudeai)"
+      ],
+      "items": [
+        {
+          "id": "34d0fdc7f22bba3a5ddc7a131c3e37f3cb047186",
+          "title": "Claude 网页、桌面和移动端将默认启用 auto mode",
+          "url": "https://x.com/claudeai/status/2113360845409583307",
+          "source": "X：Claude (@claudeai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T20:04:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7577,
+      "importance": 0.7577,
+      "importance_score": 0.7577,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9449,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T20:04:24Z",
+      "latest_at": "2026-10-22T20:04:24Z",
+      "primary_item": {
+        "id": "34d0fdc7f22bba3a5ddc7a131c3e37f3cb047186",
+        "title": "Claude 网页、桌面和移动端将默认启用 auto mode",
+        "url": "https://x.com/claudeai/status/2113360845409583307",
+        "source": "X：Claude (@claudeai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4c64e1e14053",
+      "title": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
+      "url": "https://x.com/Khazix0918/status/2113096414469464281",
+      "primary_url": "https://x.com/Khazix0918/status/2113096414469464281",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "77dca85da5ab0317f5f6d65646d497d9120aa07e",
+          "title": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
+          "url": "https://x.com/Khazix0918/status/2113096414469464281",
+          "source": "X：卡兹克 (@Khazix0918)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T02:33:39Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：卡兹克 (@Khazix0918)"
+      ],
+      "items": [
+        {
+          "id": "77dca85da5ab0317f5f6d65646d497d9120aa07e",
+          "title": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
+          "url": "https://x.com/Khazix0918/status/2113096414469464281",
+          "source": "X：卡兹克 (@Khazix0918)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T02:33:39Z"
         }
       ],
       "item_count": 1,
@@ -1242,133 +1250,10 @@
       "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.917,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T18:00:02.370410Z",
-      "latest_at": "2026-10-21T18:00:02.370410Z",
-      "primary_item": {
-        "id": "c6d88c6e00cf0e70e66858a5b34d0dbbcdd8ee0b",
-        "title": "OpenAI 收购 AI 制药初创 Orchestra Bio，把\"管研发\"的 Agent 收编进生命科学版图",
-        "url": "https://www.aibase.com/news/31783",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_9b35c0bfb2f0",
-      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-      "primary_url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2f4186d9925eb504caa2cd586cb2ad5824d210df",
-          "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-          "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T14:58:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "2f4186d9925eb504caa2cd586cb2ad5824d210df",
-          "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-          "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T14:58:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.838,
-      "importance": 0.838,
-      "importance_score": 0.838,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8778,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T14:58:18Z",
-      "latest_at": "2026-10-21T14:58:18Z",
-      "primary_item": {
-        "id": "2f4186d9925eb504caa2cd586cb2ad5824d210df",
-        "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-        "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_c7046f8aa8cc",
-      "title": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据",
-      "url": "https://www.wiz.io/blog/litellm-compromised-steals-credentials",
-      "primary_url": "https://www.wiz.io/blog/litellm-compromised-steals-credentials",
-      "source": "Wiz：Research（安全研究）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5be90de5fcd3b96bf2f1146cf21375b6d02a85be",
-          "title": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据",
-          "url": "https://www.wiz.io/blog/litellm-compromised-steals-credentials",
-          "source": "Wiz：Research（安全研究）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T13:44:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Wiz：Research（安全研究）"
-      ],
-      "items": [
-        {
-          "id": "5be90de5fcd3b96bf2f1146cf21375b6d02a85be",
-          "title": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据",
-          "url": "https://www.wiz.io/blog/litellm-compromised-steals-credentials",
-          "source": "Wiz：Research（安全研究）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T13:44:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7758,
-      "importance": 0.7758,
-      "importance_score": 0.7758,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8622,
+        "recency": 0.7337,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1376,74 +1261,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-21T13:44:12Z",
-      "latest_at": "2026-10-21T13:44:12Z",
+      "earliest_at": "2026-10-22T02:33:39Z",
+      "latest_at": "2026-10-22T02:33:39Z",
       "primary_item": {
-        "id": "5be90de5fcd3b96bf2f1146cf21375b6d02a85be",
-        "title": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据",
-        "url": "https://www.wiz.io/blog/litellm-compromised-steals-credentials",
-        "source": "Wiz：Research（安全研究）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ad5cc19532b6",
-      "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
-      "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e13eb38139c623cbe4e965be9fd72a65ebab90ab",
-          "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
-          "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T04:50:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "e13eb38139c623cbe4e965be9fd72a65ebab90ab",
-          "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
-          "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T04:50:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.85,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7583,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T04:50:29Z",
-      "latest_at": "2026-10-21T04:50:29Z",
-      "primary_item": {
-        "id": "e13eb38139c623cbe4e965be9fd72a65ebab90ab",
-        "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
-        "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "id": "77dca85da5ab0317f5f6d65646d497d9120aa07e",
+        "title": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
+        "url": "https://x.com/Khazix0918/status/2113096414469464281",
+        "source": "X：卡兹克 (@Khazix0918)",
         "source_name": "AI HOT"
       }
     }
