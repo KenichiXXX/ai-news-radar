@@ -1,72 +1,91 @@
 {
-  "generated_at": "2026-10-23T00:00:02.411782Z",
+  "generated_at": "2026-10-24T00:00:06.428320Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_27825e300358",
-      "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策 / Build more responsive apps with the Decisions API",
-      "url": "https://openai.com/index/decisions-api",
-      "primary_url": "https://openai.com/index/decisions-api",
+      "story_id": "story_48e2274fdf2b",
+      "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / Securing our frontier model training environment",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "primary_url": "https://openai.com/index/securing-our-frontier-model-training-environment",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5a627bd65d9e73cddc5ce8a56fa9caad253afc26",
-          "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策 / Build more responsive apps with the Decisions API",
-          "url": "https://openai.com/index/decisions-api",
+          "id": "c454633931fc080d83f73a727cbc6af5769ae497",
+          "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / Securing our frontier model training environment",
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T19:00:00Z"
+          "published_at": "2026-10-23T10:00:00Z"
         },
         {
-          "id": "310820cdf721111236b65ce4e938bec86febfd74",
-          "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策",
-          "url": "https://openai.com/index/decisions-api",
+          "id": "e9f35b5675c9d44941e9fe0277dc6cb14a3ea118",
+          "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
           "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-22T19:00:00Z"
+          "published_at": "2026-10-23T10:00:00Z"
+        },
+        {
+          "id": "a639b129ef2c5a1b8740e48309dc143bcccd2cf3",
+          "title": "OpenAI 详解前沿模型训练环境的安全加固措施",
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "5a627bd65d9e73cddc5ce8a56fa9caad253afc26",
-          "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策 / Build more responsive apps with the Decisions API",
-          "url": "https://openai.com/index/decisions-api",
+          "id": "c454633931fc080d83f73a727cbc6af5769ae497",
+          "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / Securing our frontier model training environment",
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T19:00:00Z"
+          "published_at": "2026-10-23T10:00:00Z"
         },
         {
-          "id": "310820cdf721111236b65ce4e938bec86febfd74",
-          "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策",
-          "url": "https://openai.com/index/decisions-api",
+          "id": "e9f35b5675c9d44941e9fe0277dc6cb14a3ea118",
+          "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
           "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-22T19:00:00Z"
+          "published_at": "2026-10-23T10:00:00Z"
+        },
+        {
+          "id": "a639b129ef2c5a1b8740e48309dc143bcccd2cf3",
+          "title": "OpenAI 详解前沿模型训练环境的安全加固措施",
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8645,
-      "importance": 0.8645,
-      "importance_score": 0.8645,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.869,
+      "importance": 0.869,
+      "importance_score": 0.869,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9303,
-        "story_heat": 0.25
+        "recency": 0.8169,
+        "story_heat": 0.5
       },
       "category": "official",
       "reasons": [
@@ -75,32 +94,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T19:00:00Z",
-      "latest_at": "2026-10-22T19:00:00Z",
+      "earliest_at": "2026-10-23T10:00:00Z",
+      "latest_at": "2026-10-24T00:00:06.428320Z",
       "primary_item": {
-        "id": "5a627bd65d9e73cddc5ce8a56fa9caad253afc26",
-        "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策 / Build more responsive apps with the Decisions API",
-        "url": "https://openai.com/index/decisions-api",
+        "id": "c454633931fc080d83f73a727cbc6af5769ae497",
+        "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / Securing our frontier model training environment",
+        "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_95eb6975ad24",
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "primary_url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "story_id": "story_d5dfb55b0129",
+      "title": "LitPivot：通过文学景观中的动态情境化发展研究思路 / LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "primary_url": "https://huggingface.co/blog/allenai/litpivot",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "07204776abfe7c72a874d53eb6d5212bde479474",
-          "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-          "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+          "id": "b69224e941bc64a1248f376042e7bae2625e545e",
+          "title": "LitPivot：通过文学景观中的动态情境化发展研究思路 / LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+          "url": "https://huggingface.co/blog/allenai/litpivot",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T22:24:34Z"
+          "published_at": "2026-10-23T16:15:50Z"
         }
       ],
       "source_count": 1,
@@ -109,26 +128,26 @@
       ],
       "items": [
         {
-          "id": "07204776abfe7c72a874d53eb6d5212bde479474",
-          "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-          "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+          "id": "b69224e941bc64a1248f376042e7bae2625e545e",
+          "title": "LitPivot：通过文学景观中的动态情境化发展研究思路 / LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+          "url": "https://huggingface.co/blog/allenai/litpivot",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T22:24:34Z"
+          "published_at": "2026-10-23T16:15:50Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8559,
-      "importance": 0.8559,
-      "importance_score": 0.8559,
+      "score": 0.847,
+      "importance": 0.847,
+      "importance_score": 0.847,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9773,
+        "ai_relevance": 0.98,
+        "recency": 0.8943,
         "story_heat": 0.0
       },
       "category": "official",
@@ -137,32 +156,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T22:24:34Z",
-      "latest_at": "2026-10-22T22:24:34Z",
+      "earliest_at": "2026-10-23T16:15:50Z",
+      "latest_at": "2026-10-23T16:15:50Z",
       "primary_item": {
-        "id": "07204776abfe7c72a874d53eb6d5212bde479474",
-        "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-        "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+        "id": "b69224e941bc64a1248f376042e7bae2625e545e",
+        "title": "LitPivot：通过文学景观中的动态情境化发展研究思路 / LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+        "url": "https://huggingface.co/blog/allenai/litpivot",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_be8869e5946c",
-      "title": "Custom skills, agents, and MCP servers in usage metrics API",
-      "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
-      "primary_url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+      "story_id": "story_62c869d7dbe2",
+      "title": "使用 Teams 中的 GitHub Copilot 将通知转换为代码 / Turn notifications into code with GitHub Copilot in Teams",
+      "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+      "primary_url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "d16f1d6ac60a28268ca1ad5910b6fb861ac96ed0",
-          "title": "Custom skills, agents, and MCP servers in usage metrics API",
-          "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+          "id": "0a71e3d318d0c7fd2e0f0bea1f082ce0ad117ce5",
+          "title": "使用 Teams 中的 GitHub Copilot 将通知转换为代码 / Turn notifications into code with GitHub Copilot in Teams",
+          "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T22:19:17Z"
+          "published_at": "2026-10-23T21:29:58Z"
         }
       ],
       "source_count": 1,
@@ -171,26 +190,26 @@
       ],
       "items": [
         {
-          "id": "d16f1d6ac60a28268ca1ad5910b6fb861ac96ed0",
-          "title": "Custom skills, agents, and MCP servers in usage metrics API",
-          "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+          "id": "0a71e3d318d0c7fd2e0f0bea1f082ce0ad117ce5",
+          "title": "使用 Teams 中的 GitHub Copilot 将通知转换为代码 / Turn notifications into code with GitHub Copilot in Teams",
+          "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T22:19:17Z"
+          "published_at": "2026-10-23T21:29:58Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8477,
-      "importance": 0.8477,
-      "importance_score": 0.8477,
+      "score": 0.8456,
+      "importance": 0.8456,
+      "importance_score": 0.8456,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.976,
+        "recency": 0.9645,
         "story_heat": 0.0
       },
       "category": "official",
@@ -199,60 +218,183 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T22:19:17Z",
-      "latest_at": "2026-10-22T22:19:17Z",
+      "earliest_at": "2026-10-23T21:29:58Z",
+      "latest_at": "2026-10-23T21:29:58Z",
       "primary_item": {
-        "id": "d16f1d6ac60a28268ca1ad5910b6fb861ac96ed0",
-        "title": "Custom skills, agents, and MCP servers in usage metrics API",
-        "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+        "id": "0a71e3d318d0c7fd2e0f0bea1f082ce0ad117ce5",
+        "title": "使用 Teams 中的 GitHub Copilot 将通知转换为代码 / Turn notifications into code with GitHub Copilot in Teams",
+        "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_655df0fb22ac",
-      "title": "Beyond tree cover: mapping the world’s forest types",
-      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
-      "primary_url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
-      "source": "Google DeepMind",
+      "story_id": "story_298c8de07d18",
+      "title": "快速扩展在线存储以服务超过 10 亿 ChatGPT 用户（第二部分） / Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "primary_url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "6a5fe38f7b1d1bcdd3c9b35c933fbcf0e0176b6e",
-          "title": "Beyond tree cover: mapping the world’s forest types",
-          "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
-          "source": "Google DeepMind",
+          "id": "983f1c62955922e36654964f731e9e841ab79d79",
+          "title": "快速扩展在线存储以服务超过 10 亿 ChatGPT 用户（第二部分） / Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T14:30:24Z"
+          "published_at": "2026-10-23T17:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google DeepMind"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "6a5fe38f7b1d1bcdd3c9b35c933fbcf0e0176b6e",
-          "title": "Beyond tree cover: mapping the world’s forest types",
-          "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
-          "source": "Google DeepMind",
+          "id": "983f1c62955922e36654964f731e9e841ab79d79",
+          "title": "快速扩展在线存储以服务超过 10 亿 ChatGPT 用户（第二部分） / Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T14:30:24Z"
+          "published_at": "2026-10-23T17:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8209,
-      "importance": 0.8209,
-      "importance_score": 0.8209,
+      "score": 0.8427,
+      "importance": 0.8427,
+      "importance_score": 0.8427,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9038,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T17:00:00Z",
+      "latest_at": "2026-10-23T17:00:00Z",
+      "primary_item": {
+        "id": "983f1c62955922e36654964f731e9e841ab79d79",
+        "title": "快速扩展在线存储以服务超过 10 亿 ChatGPT 用户（第二部分） / Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+        "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_3130243d7b87",
+      "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
+      "url": "https://x.com/OpenAI/status/2113766354386084338",
+      "primary_url": "https://x.com/OpenAI/status/2113766354386084338",
+      "source": "X：OpenAI (@OpenAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8955336bb918f3a84db49c7d425f022048fe0904",
+          "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
+          "url": "https://x.com/OpenAI/status/2113766354386084338",
+          "source": "X：OpenAI (@OpenAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T22:55:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenAI (@OpenAI)"
+      ],
+      "items": [
+        {
+          "id": "8955336bb918f3a84db49c7d425f022048fe0904",
+          "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
+          "url": "https://x.com/OpenAI/status/2113766354386084338",
+          "source": "X：OpenAI (@OpenAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T22:55:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8038,
+      "importance": 0.8038,
+      "importance_score": 0.8038,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9846,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T22:55:45Z",
+      "latest_at": "2026-10-23T22:55:45Z",
+      "primary_item": {
+        "id": "8955336bb918f3a84db49c7d425f022048fe0904",
+        "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
+        "url": "https://x.com/OpenAI/status/2113766354386084338",
+        "source": "X：OpenAI (@OpenAI)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2d587e070d12",
+      "title": "EMU 删除修复 / EMU deletions fix",
+      "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+      "primary_url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
+          "title": "EMU 删除修复 / EMU deletions fix",
+          "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T18:56:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
+          "title": "EMU 删除修复 / EMU deletions fix",
+          "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T18:56:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8313,
+      "importance": 0.8313,
+      "importance_score": 0.8313,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8719,
+        "recency": 0.9295,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,184 +403,60 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T14:30:24Z",
-      "latest_at": "2026-10-22T14:30:24Z",
+      "earliest_at": "2026-10-23T18:56:18Z",
+      "latest_at": "2026-10-23T18:56:18Z",
       "primary_item": {
-        "id": "6a5fe38f7b1d1bcdd3c9b35c933fbcf0e0176b6e",
-        "title": "Beyond tree cover: mapping the world’s forest types",
-        "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_658f804bcd1d",
-      "title": "Global default for Copilot features generally available",
-      "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
-          "title": "Global default for Copilot features generally available",
-          "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T20:44:28Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
-          "title": "Global default for Copilot features generally available",
-          "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T20:44:28Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8437,
-      "importance": 0.8437,
-      "importance_score": 0.8437,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.954,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T20:44:28Z",
-      "latest_at": "2026-10-22T20:44:28Z",
-      "primary_item": {
-        "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
-        "title": "Global default for Copilot features generally available",
-        "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+        "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
+        "title": "EMU 删除修复 / EMU deletions fix",
+        "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_eaa0ebff7daf",
-      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-      "primary_url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7a0a11be8277fe6cc1525ac93f63930b4220fa4a",
-          "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-          "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T16:11:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "7a0a11be8277fe6cc1525ac93f63930b4220fa4a",
-          "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-          "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T16:11:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8408,
-      "importance": 0.8408,
-      "importance_score": 0.8408,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8934,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T16:11:31Z",
-      "latest_at": "2026-10-22T16:11:31Z",
-      "primary_item": {
-        "id": "7a0a11be8277fe6cc1525ac93f63930b4220fa4a",
-        "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-        "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_3992fc4ed3eb",
-      "title": "The Verge 分析 SpaceX 与特斯拉成立特别委员会讨论合并背后的财务逻辑",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-      "source": "The Verge：AI（RSS）",
+      "story_id": "story_b528f011bfc9",
+      "title": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出",
+      "url": "https://www.kimi.com/blog/kimi-k3-1-pro",
+      "primary_url": "https://www.kimi.com/blog/kimi-k3-1-pro",
+      "source": "Moonshot AI：Kimi Blog",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "75cede2acbd26b05ecc313a172e679ca3a2ed9a0",
-          "title": "The Verge 分析 SpaceX 与特斯拉成立特别委员会讨论合并背后的财务逻辑",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-          "source": "The Verge：AI（RSS）",
+          "id": "07859e104cd59ee8f67cb8be26b5fcff8bfe18ed",
+          "title": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出",
+          "url": "https://www.kimi.com/blog/kimi-k3-1-pro",
+          "source": "Moonshot AI：Kimi Blog",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-22T19:45:00Z"
+          "published_at": "2026-10-23T16:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "The Verge：AI（RSS）"
+        "Moonshot AI：Kimi Blog"
       ],
       "items": [
         {
-          "id": "75cede2acbd26b05ecc313a172e679ca3a2ed9a0",
-          "title": "The Verge 分析 SpaceX 与特斯拉成立特别委员会讨论合并背后的财务逻辑",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-          "source": "The Verge：AI（RSS）",
+          "id": "07859e104cd59ee8f67cb8be26b5fcff8bfe18ed",
+          "title": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出",
+          "url": "https://www.kimi.com/blog/kimi-k3-1-pro",
+          "source": "Moonshot AI：Kimi Blog",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-22T19:45:00Z"
+          "published_at": "2026-10-23T16:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7779,
-      "importance": 0.7779,
-      "importance_score": 0.7779,
+      "score": 0.775,
+      "importance": 0.775,
+      "importance_score": 0.775,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.79,
+        "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9405,
+        "recency": 0.8909,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -446,102 +464,41 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T19:45:00Z",
-      "latest_at": "2026-10-22T19:45:00Z",
+      "earliest_at": "2026-10-23T16:00:00Z",
+      "latest_at": "2026-10-23T16:00:00Z",
       "primary_item": {
-        "id": "75cede2acbd26b05ecc313a172e679ca3a2ed9a0",
-        "title": "The Verge 分析 SpaceX 与特斯拉成立特别委员会讨论合并背后的财务逻辑",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-        "source": "The Verge：AI（RSS）",
+        "id": "07859e104cd59ee8f67cb8be26b5fcff8bfe18ed",
+        "title": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出",
+        "url": "https://www.kimi.com/blog/kimi-k3-1-pro",
+        "source": "Moonshot AI：Kimi Blog",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_e7e58cd7761f",
-      "title": "Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science",
-      "url": "https://microsoft.ai/news/building-medical-superintelligence",
-      "primary_url": "https://microsoft.ai/news/building-medical-superintelligence",
-      "source": "Microsoft AI：官方博客（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f9a3364e6b1c380431613d259282581d31f8d83b",
-          "title": "Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science",
-          "url": "https://microsoft.ai/news/building-medical-superintelligence",
-          "source": "Microsoft AI：官方博客（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T18:01:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Microsoft AI：官方博客（网页）"
-      ],
-      "items": [
-        {
-          "id": "f9a3364e6b1c380431613d259282581d31f8d83b",
-          "title": "Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science",
-          "url": "https://microsoft.ai/news/building-medical-superintelligence",
-          "source": "Microsoft AI：官方博客（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T18:01:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7767,
-      "importance": 0.7767,
-      "importance_score": 0.7767,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9172,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T18:01:00Z",
-      "latest_at": "2026-10-22T18:01:00Z",
-      "primary_item": {
-        "id": "f9a3364e6b1c380431613d259282581d31f8d83b",
-        "title": "Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science",
-        "url": "https://microsoft.ai/news/building-medical-superintelligence",
-        "source": "Microsoft AI：官方博客（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7dc27a52c57d",
-      "title": "Symantec 披露“Skynet 模式”AI 智能体劫持无防护大语言模型发起自持续网络攻击",
-      "url": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks",
-      "primary_url": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks",
+      "story_id": "story_67b631b72742",
+      "title": "OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元",
+      "url": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion",
+      "primary_url": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion",
       "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "84d7b5ca1b0b1875c7f22ae4a6c98d4149ccc50d",
-          "title": "Symantec 披露“Skynet 模式”AI 智能体劫持无防护大语言模型发起自持续网络攻击",
-          "url": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks",
+          "id": "633f7016df6d90dd895ba1dfd4b6b1a890fb1869",
+          "title": "OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元",
+          "url": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-22T11:30:56Z"
+          "published_at": "2026-10-23T09:49:38Z"
         },
         {
-          "id": "60520477867df022c4530e4e41d825dbd911b721",
-          "title": "Symantec 披露“Skynet 模式”AI 智能体劫持无防护大语言模型发起自持续网络攻击 / An AI agent in \"Skynet mode\" hijacks unprotected language models to launch self-sustaining cyberattacks",
-          "url": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks",
+          "id": "1a77a9e08964efb2308393e7b973530112597b65",
+          "title": "OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元 / OpenAI lowers valuation target, raises up to $30 billion",
+          "url": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion",
           "source": "The Decoder AI News",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-10-22T11:30:56Z"
+          "published_at": "2026-10-23T09:49:38Z"
         }
       ],
       "source_count": 2,
@@ -551,35 +508,35 @@
       ],
       "items": [
         {
-          "id": "84d7b5ca1b0b1875c7f22ae4a6c98d4149ccc50d",
-          "title": "Symantec 披露“Skynet 模式”AI 智能体劫持无防护大语言模型发起自持续网络攻击",
-          "url": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks",
+          "id": "633f7016df6d90dd895ba1dfd4b6b1a890fb1869",
+          "title": "OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元",
+          "url": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-22T11:30:56Z"
+          "published_at": "2026-10-23T09:49:38Z"
         },
         {
-          "id": "60520477867df022c4530e4e41d825dbd911b721",
-          "title": "Symantec 披露“Skynet 模式”AI 智能体劫持无防护大语言模型发起自持续网络攻击 / An AI agent in \"Skynet mode\" hijacks unprotected language models to launch self-sustaining cyberattacks",
-          "url": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks",
+          "id": "1a77a9e08964efb2308393e7b973530112597b65",
+          "title": "OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元 / OpenAI lowers valuation target, raises up to $30 billion",
+          "url": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion",
           "source": "The Decoder AI News",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-10-22T11:30:56Z"
+          "published_at": "2026-10-23T09:49:38Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7749,
-      "importance": 0.7749,
-      "importance_score": 0.7749,
+      "score": 0.7743,
+      "importance": 0.7743,
+      "importance_score": 0.7743,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.835,
+        "recency": 0.8149,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -588,60 +545,60 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T11:30:56Z",
-      "latest_at": "2026-10-22T11:30:56Z",
+      "earliest_at": "2026-10-23T09:49:38Z",
+      "latest_at": "2026-10-23T09:49:38Z",
       "primary_item": {
-        "id": "84d7b5ca1b0b1875c7f22ae4a6c98d4149ccc50d",
-        "title": "Symantec 披露“Skynet 模式”AI 智能体劫持无防护大语言模型发起自持续网络攻击",
-        "url": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks",
+        "id": "633f7016df6d90dd895ba1dfd4b6b1a890fb1869",
+        "title": "OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元",
+        "url": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_a14d9858d209",
-      "title": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%",
-      "url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
-      "primary_url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
-      "source": "Newcomer 新闻长文（RSS）",
+      "story_id": "story_030d2c942f6c",
+      "title": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型",
+      "url": "https://x.com/OpenRouter/status/2113699820124934334",
+      "primary_url": "https://x.com/OpenRouter/status/2113699820124934334",
+      "source": "X：OpenRouter (@OpenRouter)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "c58bf6b63a6cac1dbe94c7eaf8950cb52fb622b1",
-          "title": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%",
-          "url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
-          "source": "Newcomer 新闻长文（RSS）",
+          "id": "9f4c3a65315b9743e00c5b6c70f9d290b83f5cc6",
+          "title": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型",
+          "url": "https://x.com/OpenRouter/status/2113699820124934334",
+          "source": "X：OpenRouter (@OpenRouter)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-22T15:53:55Z"
+          "published_at": "2026-10-23T18:31:22Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Newcomer 新闻长文（RSS）"
+        "X：OpenRouter (@OpenRouter)"
       ],
       "items": [
         {
-          "id": "c58bf6b63a6cac1dbe94c7eaf8950cb52fb622b1",
-          "title": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%",
-          "url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
-          "source": "Newcomer 新闻长文（RSS）",
+          "id": "9f4c3a65315b9743e00c5b6c70f9d290b83f5cc6",
+          "title": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型",
+          "url": "https://x.com/OpenRouter/status/2113699820124934334",
+          "source": "X：OpenRouter (@OpenRouter)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-22T15:53:55Z"
+          "published_at": "2026-10-23T18:31:22Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7747,
-      "importance": 0.7747,
-      "importance_score": 0.7747,
+      "score": 0.7689,
+      "importance": 0.7689,
+      "importance_score": 0.7689,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.81,
+        "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8896,
+        "recency": 0.9239,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -649,60 +606,60 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T15:53:55Z",
-      "latest_at": "2026-10-22T15:53:55Z",
+      "earliest_at": "2026-10-23T18:31:22Z",
+      "latest_at": "2026-10-23T18:31:22Z",
       "primary_item": {
-        "id": "c58bf6b63a6cac1dbe94c7eaf8950cb52fb622b1",
-        "title": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%",
-        "url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
-        "source": "Newcomer 新闻长文（RSS）",
+        "id": "9f4c3a65315b9743e00c5b6c70f9d290b83f5cc6",
+        "title": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型",
+        "url": "https://x.com/OpenRouter/status/2113699820124934334",
+        "source": "X：OpenRouter (@OpenRouter)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_24fe5ab62d36",
-      "title": "404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局",
-      "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
-      "primary_url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
-      "source": "404 Media（RSS）",
+      "story_id": "story_1fe2d2d93057",
+      "title": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职",
+      "url": "https://x.com/alexeheath/status/2113706585348600220",
+      "primary_url": "https://x.com/alexeheath/status/2113706585348600220",
+      "source": "X：Alex Heath (@alexeheath)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e8f1c1a48dd6fb4bbe9fba18b1997acfa1948f19",
-          "title": "404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局",
-          "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
-          "source": "404 Media（RSS）",
+          "id": "0660435b5774283dc1ad20a682099ba88a42a425",
+          "title": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职",
+          "url": "https://x.com/alexeheath/status/2113706585348600220",
+          "source": "X：Alex Heath (@alexeheath)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-22T14:23:36Z"
+          "published_at": "2026-10-23T18:58:15Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "404 Media（RSS）"
+        "X：Alex Heath (@alexeheath)"
       ],
       "items": [
         {
-          "id": "e8f1c1a48dd6fb4bbe9fba18b1997acfa1948f19",
-          "title": "404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局",
-          "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
-          "source": "404 Media（RSS）",
+          "id": "0660435b5774283dc1ad20a682099ba88a42a425",
+          "title": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职",
+          "url": "https://x.com/alexeheath/status/2113706585348600220",
+          "source": "X：Alex Heath (@alexeheath)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-22T14:23:36Z"
+          "published_at": "2026-10-23T18:58:15Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7743,
-      "importance": 0.7743,
-      "importance_score": 0.7743,
+      "score": 0.767,
+      "importance": 0.767,
+      "importance_score": 0.767,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.82,
+        "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8705,
+        "recency": 0.9299,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -710,32 +667,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T14:23:36Z",
-      "latest_at": "2026-10-22T14:23:36Z",
+      "earliest_at": "2026-10-23T18:58:15Z",
+      "latest_at": "2026-10-23T18:58:15Z",
       "primary_item": {
-        "id": "e8f1c1a48dd6fb4bbe9fba18b1997acfa1948f19",
-        "title": "404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局",
-        "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
-        "source": "404 Media（RSS）",
+        "id": "0660435b5774283dc1ad20a682099ba88a42a425",
+        "title": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职",
+        "url": "https://x.com/alexeheath/status/2113706585348600220",
+        "source": "X：Alex Heath (@alexeheath)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_c655f75f90af",
-      "title": "Industry comparisons in the Copilot impact dashboard",
-      "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
-      "primary_url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
+      "story_id": "story_09f5c3d32ac1",
+      "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
+      "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e30a9f9228ed0e2efdadaba9e9c8cafa417722b0",
-          "title": "Industry comparisons in the Copilot impact dashboard",
-          "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
+          "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
+          "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
+          "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T16:28:24Z"
+          "published_at": "2026-10-23T15:03:30Z"
         }
       ],
       "source_count": 1,
@@ -744,26 +701,26 @@
       ],
       "items": [
         {
-          "id": "e30a9f9228ed0e2efdadaba9e9c8cafa417722b0",
-          "title": "Industry comparisons in the Copilot impact dashboard",
-          "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
+          "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
+          "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
+          "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T16:28:24Z"
+          "published_at": "2026-10-23T15:03:30Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8335,
-      "importance": 0.8335,
-      "importance_score": 0.8335,
+      "score": 0.8222,
+      "importance": 0.8222,
+      "importance_score": 0.8222,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.897,
+        "ai_relevance": 0.87,
+        "recency": 0.8788,
         "story_heat": 0.0
       },
       "category": "official",
@@ -772,93 +729,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T16:28:24Z",
-      "latest_at": "2026-10-22T16:28:24Z",
+      "earliest_at": "2026-10-23T15:03:30Z",
+      "latest_at": "2026-10-23T15:03:30Z",
       "primary_item": {
-        "id": "e30a9f9228ed0e2efdadaba9e9c8cafa417722b0",
-        "title": "Industry comparisons in the Copilot impact dashboard",
-        "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
+        "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
+        "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
+        "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_6cbde97d8260",
-      "title": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "57b779c46686bc1954136c094928ec6605314308",
-          "title": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T00:06:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "57b779c46686bc1954136c094928ec6605314308",
-          "title": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T00:06:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7691,
-      "importance": 0.7691,
-      "importance_score": 0.7691,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7081,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T00:06:00Z",
-      "latest_at": "2026-10-22T00:06:00Z",
-      "primary_item": {
-        "id": "57b779c46686bc1954136c094928ec6605314308",
-        "title": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0d24124c6287",
-      "title": "万象有声发布 Audimind，有声书制作工具出海",
-      "url": "https://www.aibase.com/news/31802",
-      "primary_url": "https://www.aibase.com/news/31802",
+      "story_id": "story_7b245d7ff495",
+      "title": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
+      "url": "https://www.aibase.com/news/31847",
+      "primary_url": "https://www.aibase.com/news/31847",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "59f3524d2a0d04f4225fac157b2c8fbc5f239ca0",
-          "title": "万象有声发布 Audimind，有声书制作工具出海",
-          "url": "https://www.aibase.com/news/31802",
+          "id": "7cdd8673ecab53c7248cf51e4f0add7f2531b2e3",
+          "title": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
+          "url": "https://www.aibase.com/news/31847",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-23T00:00:02.411782Z"
+          "published_at": "2026-10-23T18:00:06.428320Z"
         }
       ],
       "source_count": 1,
@@ -867,380 +763,13 @@
       ],
       "items": [
         {
-          "id": "59f3524d2a0d04f4225fac157b2c8fbc5f239ca0",
-          "title": "万象有声发布 Audimind，有声书制作工具出海",
-          "url": "https://www.aibase.com/news/31802",
+          "id": "7cdd8673ecab53c7248cf51e4f0add7f2531b2e3",
+          "title": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
+          "url": "https://www.aibase.com/news/31847",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-23T00:00:02.411782Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T00:00:02.411782Z",
-      "latest_at": "2026-10-23T00:00:02.411782Z",
-      "primary_item": {
-        "id": "59f3524d2a0d04f4225fac157b2c8fbc5f239ca0",
-        "title": "万象有声发布 Audimind，有声书制作工具出海",
-        "url": "https://www.aibase.com/news/31802",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_425c4ed491e2",
-      "title": "METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞",
-      "url": "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent",
-      "primary_url": "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent",
-      "source": "Redwood Research：Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d8e665af76dda50a70bcb25c8c2a431c04682786",
-          "title": "METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞",
-          "url": "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent",
-          "source": "Redwood Research：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T15:32:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Redwood Research：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d8e665af76dda50a70bcb25c8c2a431c04682786",
-          "title": "METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞",
-          "url": "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent",
-          "source": "Redwood Research：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T15:32:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7649,
-      "importance": 0.7649,
-      "importance_score": 0.7649,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.885,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T15:32:17Z",
-      "latest_at": "2026-10-22T15:32:17Z",
-      "primary_item": {
-        "id": "d8e665af76dda50a70bcb25c8c2a431c04682786",
-        "title": "METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞",
-        "url": "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent",
-        "source": "Redwood Research：Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5d118fadbe79",
-      "title": "Ensemble forecasting with IBM Granite time-series models",
-      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-      "primary_url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7cb33189552d9e5b25bb3a8bd053cde189fc030f",
-          "title": "Ensemble forecasting with IBM Granite time-series models",
-          "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T07:51:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "7cb33189552d9e5b25bb3a8bd053cde189fc030f",
-          "title": "Ensemble forecasting with IBM Granite time-series models",
-          "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T07:51:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8226,
-      "importance": 0.8226,
-      "importance_score": 0.8226,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7921,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T07:51:31Z",
-      "latest_at": "2026-10-22T07:51:31Z",
-      "primary_item": {
-        "id": "7cb33189552d9e5b25bb3a8bd053cde189fc030f",
-        "title": "Ensemble forecasting with IBM Granite time-series models",
-        "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_01440c581752",
-      "title": "PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应",
-      "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability",
-      "primary_url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability",
-      "source": "Ars Technica：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a06fd082651a1cb2ce1e05f497bf2a14ed38dac2",
-          "title": "PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应",
-          "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T15:25:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "a06fd082651a1cb2ce1e05f497bf2a14ed38dac2",
-          "title": "PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应",
-          "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T15:25:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7616,
-      "importance": 0.7616,
-      "importance_score": 0.7616,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8834,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T15:25:02Z",
-      "latest_at": "2026-10-22T15:25:02Z",
-      "primary_item": {
-        "id": "a06fd082651a1cb2ce1e05f497bf2a14ed38dac2",
-        "title": "PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应",
-        "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability",
-        "source": "Ars Technica：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5342ed3c4262",
-      "title": "NSA 就 AI 发现的 PHP2Shell 关键漏洞发布修复警告",
-      "url": "https://x.com/rohanpaul_ai/status/2113136583985766442",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2113136583985766442",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d75edc90492b28c57151d9eebb6112a0387fc8f2",
-          "title": "NSA 就 AI 发现的 PHP2Shell 关键漏洞发布修复警告",
-          "url": "https://x.com/rohanpaul_ai/status/2113136583985766442",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T05:13:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "d75edc90492b28c57151d9eebb6112a0387fc8f2",
-          "title": "NSA 就 AI 发现的 PHP2Shell 关键漏洞发布修复警告",
-          "url": "https://x.com/rohanpaul_ai/status/2113136583985766442",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T05:13:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7578,
-      "importance": 0.7578,
-      "importance_score": 0.7578,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7625,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T05:13:16Z",
-      "latest_at": "2026-10-22T05:13:16Z",
-      "primary_item": {
-        "id": "d75edc90492b28c57151d9eebb6112a0387fc8f2",
-        "title": "NSA 就 AI 发现的 PHP2Shell 关键漏洞发布修复警告",
-        "url": "https://x.com/rohanpaul_ai/status/2113136583985766442",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9e1ae24ea61d",
-      "title": "Claude 网页、桌面和移动端将默认启用 auto mode",
-      "url": "https://x.com/claudeai/status/2113360845409583307",
-      "primary_url": "https://x.com/claudeai/status/2113360845409583307",
-      "source": "X：Claude (@claudeai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "34d0fdc7f22bba3a5ddc7a131c3e37f3cb047186",
-          "title": "Claude 网页、桌面和移动端将默认启用 auto mode",
-          "url": "https://x.com/claudeai/status/2113360845409583307",
-          "source": "X：Claude (@claudeai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T20:04:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Claude (@claudeai)"
-      ],
-      "items": [
-        {
-          "id": "34d0fdc7f22bba3a5ddc7a131c3e37f3cb047186",
-          "title": "Claude 网页、桌面和移动端将默认启用 auto mode",
-          "url": "https://x.com/claudeai/status/2113360845409583307",
-          "source": "X：Claude (@claudeai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T20:04:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7577,
-      "importance": 0.7577,
-      "importance_score": 0.7577,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9449,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T20:04:24Z",
-      "latest_at": "2026-10-22T20:04:24Z",
-      "primary_item": {
-        "id": "34d0fdc7f22bba3a5ddc7a131c3e37f3cb047186",
-        "title": "Claude 网页、桌面和移动端将默认启用 auto mode",
-        "url": "https://x.com/claudeai/status/2113360845409583307",
-        "source": "X：Claude (@claudeai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4c64e1e14053",
-      "title": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
-      "url": "https://x.com/Khazix0918/status/2113096414469464281",
-      "primary_url": "https://x.com/Khazix0918/status/2113096414469464281",
-      "source": "X：卡兹克 (@Khazix0918)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "77dca85da5ab0317f5f6d65646d497d9120aa07e",
-          "title": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
-          "url": "https://x.com/Khazix0918/status/2113096414469464281",
-          "source": "X：卡兹克 (@Khazix0918)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T02:33:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：卡兹克 (@Khazix0918)"
-      ],
-      "items": [
-        {
-          "id": "77dca85da5ab0317f5f6d65646d497d9120aa07e",
-          "title": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
-          "url": "https://x.com/Khazix0918/status/2113096414469464281",
-          "source": "X：卡兹克 (@Khazix0918)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T02:33:39Z"
+          "published_at": "2026-10-23T18:00:06.428320Z"
         }
       ],
       "item_count": 1,
@@ -1250,10 +779,10 @@
       "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.83,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7337,
+        "recency": 0.917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1261,14 +790,589 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T02:33:39Z",
-      "latest_at": "2026-10-22T02:33:39Z",
+      "earliest_at": "2026-10-23T18:00:06.428320Z",
+      "latest_at": "2026-10-23T18:00:06.428320Z",
       "primary_item": {
-        "id": "77dca85da5ab0317f5f6d65646d497d9120aa07e",
-        "title": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
-        "url": "https://x.com/Khazix0918/status/2113096414469464281",
-        "source": "X：卡兹克 (@Khazix0918)",
+        "id": "7cdd8673ecab53c7248cf51e4f0add7f2531b2e3",
+        "title": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
+        "url": "https://www.aibase.com/news/31847",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_09b7a14f7eef",
+      "title": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
+      "url": "https://www.ithome.com/1/017/113.htm",
+      "primary_url": "https://www.ithome.com/1/017/113.htm",
+      "source": "IT之家·人工智能",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "14e26448ab1ee6c4b24452fc703e43c6beb6fb42",
+          "title": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
+          "url": "https://www.ithome.com/1/017/113.htm",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T09:17:16.350000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家·人工智能"
+      ],
+      "items": [
+        {
+          "id": "14e26448ab1ee6c4b24452fc703e43c6beb6fb42",
+          "title": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
+          "url": "https://www.ithome.com/1/017/113.htm",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T09:17:16.350000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8086,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-23T09:17:16.350000Z",
+      "latest_at": "2026-10-23T09:17:16.350000Z",
+      "primary_item": {
+        "id": "14e26448ab1ee6c4b24452fc703e43c6beb6fb42",
+        "title": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
+        "url": "https://www.ithome.com/1/017/113.htm",
+        "source": "IT之家·人工智能",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6d6c580cd309",
+      "title": "Kling 4.0 在 fal 上线并向所有客户开放 API 访问",
+      "url": "https://x.com/fal/status/2113646807997620396",
+      "primary_url": "https://x.com/fal/status/2113646807997620396",
+      "source": "X：fal (@fal)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "609513e2208e8c438d625d4ee2414d57e9ef1bbd",
+          "title": "Kling 4.0 在 fal 上线并向所有客户开放 API 访问",
+          "url": "https://x.com/fal/status/2113646807997620396",
+          "source": "X：fal (@fal)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T15:00:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：fal (@fal)"
+      ],
+      "items": [
+        {
+          "id": "609513e2208e8c438d625d4ee2414d57e9ef1bbd",
+          "title": "Kling 4.0 在 fal 上线并向所有客户开放 API 访问",
+          "url": "https://x.com/fal/status/2113646807997620396",
+          "source": "X：fal (@fal)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T15:00:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7427,
+      "importance": 0.7427,
+      "importance_score": 0.7427,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8783,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-23T15:00:43Z",
+      "latest_at": "2026-10-23T15:00:43Z",
+      "primary_item": {
+        "id": "609513e2208e8c438d625d4ee2414d57e9ef1bbd",
+        "title": "Kling 4.0 在 fal 上线并向所有客户开放 API 访问",
+        "url": "https://x.com/fal/status/2113646807997620396",
+        "source": "X：fal (@fal)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0038c49ecae2",
+      "title": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员",
+      "url": "https://x.com/rohanpaul_ai/status/2113511968112042349",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2113511968112042349",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "81db8060d36870e13c889c0bc355e2f558aa4c14",
+          "title": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员",
+          "url": "https://x.com/rohanpaul_ai/status/2113511968112042349",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T06:04:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "81db8060d36870e13c889c0bc355e2f558aa4c14",
+          "title": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员",
+          "url": "https://x.com/rohanpaul_ai/status/2113511968112042349",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T06:04:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7386,
+      "importance": 0.7386,
+      "importance_score": 0.7386,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.772,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-23T06:04:55Z",
+      "latest_at": "2026-10-23T06:04:55Z",
+      "primary_item": {
+        "id": "81db8060d36870e13c889c0bc355e2f558aa4c14",
+        "title": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员",
+        "url": "https://x.com/rohanpaul_ai/status/2113511968112042349",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ca4fae7c2ea0",
+      "title": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
+      "url": "https://www.aibase.com/news/31846",
+      "primary_url": "https://www.aibase.com/news/31846",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ea196c1aa936584be68e3c83ca12a8fdb9de7c7a",
+          "title": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
+          "url": "https://www.aibase.com/news/31846",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T18:00:06.428320Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ea196c1aa936584be68e3c83ca12a8fdb9de7c7a",
+          "title": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
+          "url": "https://www.aibase.com/news/31846",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T18:00:06.428320Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.917,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T18:00:06.428320Z",
+      "latest_at": "2026-10-23T18:00:06.428320Z",
+      "primary_item": {
+        "id": "ea196c1aa936584be68e3c83ca12a8fdb9de7c7a",
+        "title": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
+        "url": "https://www.aibase.com/news/31846",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_ab26bfe89fae",
+      "title": "GitHub Copilot in Visual Studio — September update",
+      "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+      "primary_url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a88735ec39ef7947f5cfe28a64300598600ccc15",
+          "title": "GitHub Copilot in Visual Studio — September update",
+          "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T00:17:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "a88735ec39ef7947f5cfe28a64300598600ccc15",
+          "title": "GitHub Copilot in Visual Studio — September update",
+          "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T00:17:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7998,
+      "importance": 0.7998,
+      "importance_score": 0.7998,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7101,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T00:17:51Z",
+      "latest_at": "2026-10-23T00:17:51Z",
+      "primary_item": {
+        "id": "a88735ec39ef7947f5cfe28a64300598600ccc15",
+        "title": "GitHub Copilot in Visual Studio — September update",
+        "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6cfce92e8394",
+      "title": "Hugging Face 推出 Carbon-X：基于千问，让科学家\"与 DNA 对话\"",
+      "url": "https://www.aibase.com/news/31841",
+      "primary_url": "https://www.aibase.com/news/31841",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "fd6476d96a06874d4974c0ffdd72bf939b22245f",
+          "title": "Hugging Face 推出 Carbon-X：基于千问，让科学家\"与 DNA 对话\"",
+          "url": "https://www.aibase.com/news/31841",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T17:00:06.428320Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "fd6476d96a06874d4974c0ffdd72bf939b22245f",
+          "title": "Hugging Face 推出 Carbon-X：基于千问，让科学家\"与 DNA 对话\"",
+          "url": "https://www.aibase.com/news/31841",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T17:00:06.428320Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9039,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T17:00:06.428320Z",
+      "latest_at": "2026-10-23T17:00:06.428320Z",
+      "primary_item": {
+        "id": "fd6476d96a06874d4974c0ffdd72bf939b22245f",
+        "title": "Hugging Face 推出 Carbon-X：基于千问，让科学家\"与 DNA 对话\"",
+        "url": "https://www.aibase.com/news/31841",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "Kimi K3.1 Pro 正式发布，拥有 3 万亿参数和 100 万上下文，重点提升了编程、3D创作、金融研究及长程 Agent 能力，高速版输出快 2～3 倍。文中用游戏开发、CAD 建模、财务模型等案例展示了真实的交付效果，一起看看！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-10-23",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "d5cf45f99571712240e0661c28cb0299cdce15fe",
+          "title": "Kimi K3.1 Pro 正式发布，拥有 3 万亿参数和 100 万上下文，重点提升了编程、3D创作、金融研究及长程 Agent 能力，高速版输出快 2～3 倍。文中用游戏开发、CAD 建模、财务模型等案例展示了真实的交付效果，一起看看！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-24T00:00:06.428320Z"
+        },
+        {
+          "id": "9c19f0e94af1d61a9600e2fef113709a6f569dae",
+          "title": "为什么只用 5.2 万条示例、训练 3 小时，就能把只会续写的 LLaMA 变成会听指令的助手，却依然会答错坦桑尼亚首都？关键在于，指令微调主要改变模型“怎么回答”，不会凭空补充知识。这篇文章适合想入门大模型后训练的开发者，读完你也能把指令微调的原理、流程与边界一次理顺。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-24T00:00:06.428320Z"
+        },
+        {
+          "id": "718a5eea9c229bcf1ce02a119f3e1dbf2f1329c3",
+          "title": "京东 Aidol 创造营里，29 支队伍用 48 小时把创意变成Demo：听障者做 AI 街舞辅助，轮椅用户尝试意念控制，羽毛球教练独立开发陪练设备。小歪从导师视角记录了一场 AI 时代的黑客松。一起看看她都看到了哪些有趣的幕后故事！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-24T00:00:06.428320Z"
+        },
+        {
+          "id": "71cc7c4f894b855731e44f806760668b9e0e9f70",
+          "title": "很多新手依赖“许愿式编程”快速产原型，却极易留下安全漏洞与技术烂摊子。作者分享了了一套可直接发给AI的审查提示词，搭配完整上线检查清单，让AI逐项核验权限隔离、支付逻辑、数据安全与代码规范，优先揪出数据泄露、服务宕机等高风险问题。当然，这份工具只能降低隐患，真正稳定的付费产品，依然离不开人把控架构、排查Bug与维护运维。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-24T00:00:06.428320Z"
+        },
+        {
+          "id": "4c0ec921ae1c1c0d001a955fd7c76134f8710a77",
+          "title": "想靠 Claude Opus 5.5 生成视频却总踩坑？这份指南梳理了全套技术栈，覆盖 Canvas、Three.js、Remotion 等方案，拆解了16类视频场景，配套可直接复制的风格+技术提示词。同时还汇总了8款开箱即用的开源Skill，从科普水墨、产品拆解到像素RPG都有成熟模板，帮你精准控制画面质感、镜头语言，不用反复试错，高效产出风格稳定的代码动画短片。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-24T00:00:06.428320Z"
+        },
+        {
+          "id": "0eaeb75873cbc7ac92ca9b5fdb8bd43e1d46820d",
+          "title": "是不是也被Codex杂乱的聊天列表困住？同一件事散在多处，找历史对话如同开盲盒。作者开源了聊天整理Skill，选定范围后，它会自动生成规范标题与项目分组方案，帮你把零散的对话收拢成清晰可追溯的项目资料库。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-24T00:00:06.428320Z"
+        }
+      ],
+      "source_count": 6,
+      "source_names": [
+        "社区更新 · 2026-10-23"
+      ],
+      "items": [
+        {
+          "id": "d5cf45f99571712240e0661c28cb0299cdce15fe",
+          "title": "Kimi K3.1 Pro 正式发布，拥有 3 万亿参数和 100 万上下文，重点提升了编程、3D创作、金融研究及长程 Agent 能力，高速版输出快 2～3 倍。文中用游戏开发、CAD 建模、财务模型等案例展示了真实的交付效果，一起看看！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-24T00:00:06.428320Z"
+        },
+        {
+          "id": "9c19f0e94af1d61a9600e2fef113709a6f569dae",
+          "title": "为什么只用 5.2 万条示例、训练 3 小时，就能把只会续写的 LLaMA 变成会听指令的助手，却依然会答错坦桑尼亚首都？关键在于，指令微调主要改变模型“怎么回答”，不会凭空补充知识。这篇文章适合想入门大模型后训练的开发者，读完你也能把指令微调的原理、流程与边界一次理顺。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-24T00:00:06.428320Z"
+        },
+        {
+          "id": "718a5eea9c229bcf1ce02a119f3e1dbf2f1329c3",
+          "title": "京东 Aidol 创造营里，29 支队伍用 48 小时把创意变成Demo：听障者做 AI 街舞辅助，轮椅用户尝试意念控制，羽毛球教练独立开发陪练设备。小歪从导师视角记录了一场 AI 时代的黑客松。一起看看她都看到了哪些有趣的幕后故事！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-24T00:00:06.428320Z"
+        },
+        {
+          "id": "71cc7c4f894b855731e44f806760668b9e0e9f70",
+          "title": "很多新手依赖“许愿式编程”快速产原型，却极易留下安全漏洞与技术烂摊子。作者分享了了一套可直接发给AI的审查提示词，搭配完整上线检查清单，让AI逐项核验权限隔离、支付逻辑、数据安全与代码规范，优先揪出数据泄露、服务宕机等高风险问题。当然，这份工具只能降低隐患，真正稳定的付费产品，依然离不开人把控架构、排查Bug与维护运维。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-24T00:00:06.428320Z"
+        },
+        {
+          "id": "4c0ec921ae1c1c0d001a955fd7c76134f8710a77",
+          "title": "想靠 Claude Opus 5.5 生成视频却总踩坑？这份指南梳理了全套技术栈，覆盖 Canvas、Three.js、Remotion 等方案，拆解了16类视频场景，配套可直接复制的风格+技术提示词。同时还汇总了8款开箱即用的开源Skill，从科普水墨、产品拆解到像素RPG都有成熟模板，帮你精准控制画面质感、镜头语言，不用反复试错，高效产出风格稳定的代码动画短片。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-24T00:00:06.428320Z"
+        },
+        {
+          "id": "0eaeb75873cbc7ac92ca9b5fdb8bd43e1d46820d",
+          "title": "是不是也被Codex杂乱的聊天列表困住？同一件事散在多处，找历史对话如同开盲盒。作者开源了聊天整理Skill，选定范围后，它会自动生成规范标题与项目分组方案，帮你把零散的对话收拢成清晰可追溯的项目资料库。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-24T00:00:06.428320Z"
+        }
+      ],
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T00:00:06.428320Z",
+      "latest_at": "2026-10-24T00:00:06.428320Z",
+      "primary_item": {
+        "id": "d5cf45f99571712240e0661c28cb0299cdce15fe",
+        "title": "Kimi K3.1 Pro 正式发布，拥有 3 万亿参数和 100 万上下文，重点提升了编程、3D创作、金融研究及长程 Agent 能力，高速版输出快 2～3 倍。文中用游戏开发、CAD 建模、财务模型等案例展示了真实的交付效果，一起看看！",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-10-23",
+        "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_6bd69afdf751",
+      "title": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
+      "url": "https://www.aibase.com/news/31842",
+      "primary_url": "https://www.aibase.com/news/31842",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ebfedcceb529e32951b7c51754cf19e12ead8e6b",
+          "title": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
+          "url": "https://www.aibase.com/news/31842",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T17:00:06.428320Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ebfedcceb529e32951b7c51754cf19e12ead8e6b",
+          "title": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
+          "url": "https://www.aibase.com/news/31842",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T17:00:06.428320Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9039,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T17:00:06.428320Z",
+      "latest_at": "2026-10-23T17:00:06.428320Z",
+      "primary_item": {
+        "id": "ebfedcceb529e32951b7c51754cf19e12ead8e6b",
+        "title": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
+        "url": "https://www.aibase.com/news/31842",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
