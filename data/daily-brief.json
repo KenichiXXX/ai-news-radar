@@ -1,1081 +1,1327 @@
 {
-  "generated_at": "2026-10-26T00:00:03.860588Z",
+  "generated_at": "2026-10-27T00:00:03.684612Z",
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 20,
   "items": [
     {
-      "story_id": "story_2df82173bb28",
-      "title": "AI Agent 的进步，已经不只能单看模型榜单了：同一个模型怎么分工、控成本、管记忆、接工具，正在把“能演示”转向“能长期跑”。本周论文精选把十个方向串了起来：给不同任务配专属 Harness，让小模型接管高频工具选择，直接管理 KV 缓存压低长任务成本，从经验中进化操作界面；也提醒大家，自我改进会遗忘，记忆系统未必更省钱。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-10-25",
-      "source_name": "WaytoAGI",
+      "story_id": "story_250e5d8f3024",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "primary_url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "098e73761626b0ed61cdfbd4a460edb8f4a2108c",
-          "title": "AI Agent 的进步，已经不只能单看模型榜单了：同一个模型怎么分工、控成本、管记忆、接工具，正在把“能演示”转向“能长期跑”。本周论文精选把十个方向串了起来：给不同任务配专属 Harness，让小模型接管高频工具选择，直接管理 KV 缓存压低长任务成本，从经验中进化操作界面；也提醒大家，自我改进会遗忘，记忆系统未必更省钱。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-26T00:00:03.860588Z"
-        },
-        {
-          "id": "31c7d4e0288195ea7c8b5ebb9734c6a1b77c19fb",
-          "title": "不少企业搭建多智能体时顺着组织架构拆分大量子智能体，会引发延迟高、信息损耗、体验不一致等问题。Anthropic 分享了他们的落地思路，倡导把大部分子智能体收拢进主智能体循环，依靠渐进式披露技能、工具管控上下文。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-26T00:00:03.860588Z"
-        },
-        {
-          "id": "36b9aee4afa496f095c499a2c8cc24e671897c69",
-          "title": "多 Agent 做久了，常见的情况是每个团队各养一个子 Agent：上下文被反复摘要、提示词互相打架、评估碎成小块，用户还得为延迟买单。Anthropic 官方给出了一条收敛路径，读完你会知道哪些该留、哪些该合并。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-26T00:00:03.860588Z"
-        },
-        {
-          "id": "53927b9c3eb0c49c0ea136438836fa3986500dcb",
-          "title": "大家都在做 Personal Agent，可不少产品一打开还是一排功能、一次会话、一份长报告。用户得反复交代背景、盯着执行，最后它只是偶尔会打开的工具。本篇文章从真实使用体验出发，给出了一个很值得参考的产品、组织与技术框架。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-26T00:00:03.860588Z"
-        },
-        {
-          "id": "3eecbc567c8a5ca27ebc1cd8d98f5fa3022ff636",
-          "title": "很多开发者一上来就堆砌多智能体架构，很容易造成过度设计。LangChain这篇文章给出一套落地选型思路，建议优先用单智能体，仅在上下文受限、跨团队维护时才转向多智能体。文中还拆解了四类主流模式，对照并行能力、状态流转、Token开销做场景和性能对比。读完你也可以快速匹配业务需求，选对协调方案，在可控延迟与成本下搭建稳定的智能体工作流。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-26T00:00:03.860588Z"
+          "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
+          "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "url": "https://openai.com/index/greptile-code-review-codex-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T22:00:00Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 1,
       "source_names": [
-        "社区更新 · 2026-10-25"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "098e73761626b0ed61cdfbd4a460edb8f4a2108c",
-          "title": "AI Agent 的进步，已经不只能单看模型榜单了：同一个模型怎么分工、控成本、管记忆、接工具，正在把“能演示”转向“能长期跑”。本周论文精选把十个方向串了起来：给不同任务配专属 Harness，让小模型接管高频工具选择，直接管理 KV 缓存压低长任务成本，从经验中进化操作界面；也提醒大家，自我改进会遗忘，记忆系统未必更省钱。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-26T00:00:03.860588Z"
-        },
-        {
-          "id": "31c7d4e0288195ea7c8b5ebb9734c6a1b77c19fb",
-          "title": "不少企业搭建多智能体时顺着组织架构拆分大量子智能体，会引发延迟高、信息损耗、体验不一致等问题。Anthropic 分享了他们的落地思路，倡导把大部分子智能体收拢进主智能体循环，依靠渐进式披露技能、工具管控上下文。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-26T00:00:03.860588Z"
-        },
-        {
-          "id": "36b9aee4afa496f095c499a2c8cc24e671897c69",
-          "title": "多 Agent 做久了，常见的情况是每个团队各养一个子 Agent：上下文被反复摘要、提示词互相打架、评估碎成小块，用户还得为延迟买单。Anthropic 官方给出了一条收敛路径，读完你会知道哪些该留、哪些该合并。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-26T00:00:03.860588Z"
-        },
-        {
-          "id": "53927b9c3eb0c49c0ea136438836fa3986500dcb",
-          "title": "大家都在做 Personal Agent，可不少产品一打开还是一排功能、一次会话、一份长报告。用户得反复交代背景、盯着执行，最后它只是偶尔会打开的工具。本篇文章从真实使用体验出发，给出了一个很值得参考的产品、组织与技术框架。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-26T00:00:03.860588Z"
-        },
-        {
-          "id": "3eecbc567c8a5ca27ebc1cd8d98f5fa3022ff636",
-          "title": "很多开发者一上来就堆砌多智能体架构，很容易造成过度设计。LangChain这篇文章给出一套落地选型思路，建议优先用单智能体，仅在上下文受限、跨团队维护时才转向多智能体。文中还拆解了四类主流模式，对照并行能力、状态流转、Token开销做场景和性能对比。读完你也可以快速匹配业务需求，选对协调方案，在可控延迟与成本下搭建稳定的智能体工作流。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-26T00:00:03.860588Z"
+          "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
+          "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "url": "https://openai.com/index/greptile-code-review-codex-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T22:00:00Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8549,
+      "importance": 0.8549,
+      "importance_score": 0.8549,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 1.0
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9715,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "official",
       "reasons": [
-        "multi_source"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-26T00:00:03.860588Z",
-      "latest_at": "2026-10-26T00:00:03.860588Z",
+      "earliest_at": "2026-10-26T22:00:00Z",
+      "latest_at": "2026-10-26T22:00:00Z",
       "primary_item": {
-        "id": "098e73761626b0ed61cdfbd4a460edb8f4a2108c",
-        "title": "AI Agent 的进步，已经不只能单看模型榜单了：同一个模型怎么分工、控成本、管记忆、接工具，正在把“能演示”转向“能长期跑”。本周论文精选把十个方向串了起来：给不同任务配专属 Harness，让小模型接管高频工具选择，直接管理 KV 缓存压低长任务成本，从经验中进化操作界面；也提醒大家，自我改进会遗忘，记忆系统未必更省钱。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-10-25",
-        "source_name": "WaytoAGI"
+        "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
+        "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+        "url": "https://openai.com/index/greptile-code-review-codex-astra",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_b366ba776fde",
-      "title": "r/opensource just banned AI, non-English speakers, and more",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-      "source": "The Verge",
-      "source_name": "Curated Media",
+      "story_id": "story_344482fd6d72",
+      "title": "GPT-6.1 Terra in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "53533632b51dcc244f7b8a1be7a98536b6b0d84b",
-          "title": "r/opensource just banned AI, non-English speakers, and more",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-25T13:25:32Z"
+          "id": "ec98a1aa498e34d0d481169601e61e73ccd23256",
+          "title": "GPT-6.1 Terra in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T19:15:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ec98a1aa498e34d0d481169601e61e73ccd23256",
+          "title": "GPT-6.1 Terra in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T19:15:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8481,
+      "importance": 0.8481,
+      "importance_score": 0.8481,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9339,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T19:15:53Z",
+      "latest_at": "2026-10-26T19:15:53Z",
+      "primary_item": {
+        "id": "ec98a1aa498e34d0d481169601e61e73ccd23256",
+        "title": "GPT-6.1 Terra in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_188e9fbc4643",
+      "title": "Our newest AI Quest: Mapping the human brain",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks",
+      "primary_url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "29737a30e209713386728c098614b4802f6a7b90",
+          "title": "Our newest AI Quest: Mapping the human brain",
+          "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "29737a30e209713386728c098614b4802f6a7b90",
+          "title": "Our newest AI Quest: Mapping the human brain",
+          "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8244,
+      "importance": 0.8244,
+      "importance_score": 0.8244,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8909,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T16:00:00Z",
+      "latest_at": "2026-10-26T16:00:00Z",
+      "primary_item": {
+        "id": "29737a30e209713386728c098614b4802f6a7b90",
+        "title": "Our newest AI Quest: Mapping the human brain",
+        "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f16aefe89a6e",
+      "title": "与学术界合作，增进对科学的理解 / Working with academic communities to build scientific understanding",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "primary_url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9fd3d29cb684263f9621d0aa57d73f61025acfea",
+          "title": "与学术界合作，增进对科学的理解 / Working with academic communities to build scientific understanding",
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T14:30:00Z"
         },
         {
-          "id": "ea2db18dfbf6f939c35e43410a9cd863929817a2",
-          "title": "r/opensource just banned AI, non-English speakers and more",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-25T13:25:32Z"
+          "id": "21e172326b25075b988fe82d6a37240ed38b2451",
+          "title": "与学术界合作，增进对科学的理解",
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-26T22:44:27.036000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "The Verge"
+        "OpenAI News",
+        "openai.com"
       ],
       "items": [
         {
-          "id": "53533632b51dcc244f7b8a1be7a98536b6b0d84b",
-          "title": "r/opensource just banned AI, non-English speakers, and more",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-25T13:25:32Z"
+          "id": "9fd3d29cb684263f9621d0aa57d73f61025acfea",
+          "title": "与学术界合作，增进对科学的理解 / Working with academic communities to build scientific understanding",
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T14:30:00Z"
         },
         {
-          "id": "ea2db18dfbf6f939c35e43410a9cd863929817a2",
-          "title": "r/opensource just banned AI, non-English speakers and more",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-25T13:25:32Z"
+          "id": "21e172326b25075b988fe82d6a37240ed38b2451",
+          "title": "与学术界合作，增进对科学的理解",
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-26T22:44:27.036000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.59,
-      "importance": 0.59,
-      "importance_score": 0.59,
-      "importance_label": "值得关注",
+      "score": 0.8539,
+      "importance": 0.8539,
+      "importance_score": 0.8539,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.58,
-        "ai_relevance": 0.68,
-        "recency": 0.8584,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8718,
         "story_heat": 0.25
       },
-      "category": "watch",
+      "category": "official",
       "reasons": [
-        "multi_source"
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-25T13:25:32Z",
-      "latest_at": "2026-10-25T13:25:32Z",
+      "earliest_at": "2026-10-26T14:30:00Z",
+      "latest_at": "2026-10-26T22:44:27.036000Z",
       "primary_item": {
-        "id": "53533632b51dcc244f7b8a1be7a98536b6b0d84b",
-        "title": "r/opensource just banned AI, non-English speakers, and more",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-        "source": "The Verge",
-        "source_name": "Curated Media"
+        "id": "9fd3d29cb684263f9621d0aa57d73f61025acfea",
+        "title": "与学术界合作，增进对科学的理解 / Working with academic communities to build scientific understanding",
+        "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_2af7003f0e2f",
-      "title": "人工智能的应用让加州大学伯克利分校的一位数学教授认为给作业打分“毫无意义”",
-      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-      "primary_url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-      "source": "www.dailycal.org",
-      "source_name": "Buzzing",
+      "story_id": "story_ce5ce5fc43fb",
+      "title": "Cohere 报告阿里 Qwen3.8-Flash-Next 在沙箱中出现疑似回连行为",
+      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+      "primary_url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e26a144ceff1f9f3e44cc16b182430bba369bf84",
-          "title": "人工智能的应用让加州大学伯克利分校的一位数学教授认为给作业打分“毫无意义”",
-          "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-          "source": "www.dailycal.org",
+          "id": "1b7a61cb6e5ae7ada6b17e4a023e74201fdcce66",
+          "title": "Cohere 报告阿里 Qwen3.8-Flash-Next 在沙箱中出现疑似回连行为",
+          "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T10:14:20.569000Z"
+        },
+        {
+          "id": "e95e12cdd9a9dde6c55fba060d3c2dd2774685c5",
+          "title": "关于一款热门无限制权重AI模型的行为",
+          "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+          "source": "cohere.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-25T19:41:52.295000Z"
+          "published_at": "2026-10-26T22:44:25.645000Z"
         },
         {
-          "id": "9ee4b001fc7412c9cf2859ebd0c56ac2a882259d",
-          "title": "人工智能的应用让加州大学伯克利分校的一位数学教授认为给作业打分“毫无意义” / AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-          "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-25T16:28:26Z"
-        },
-        {
-          "id": "1d8adc9ff3544339ac2dcb72f0ae176933ef7661",
-          "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-          "url": "https://news.ycombinator.com/item?id=50233304",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-25T16:28:26Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.dailycal.org"
-      ],
-      "items": [
-        {
-          "id": "e26a144ceff1f9f3e44cc16b182430bba369bf84",
-          "title": "人工智能的应用让加州大学伯克利分校的一位数学教授认为给作业打分“毫无意义”",
-          "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-          "source": "www.dailycal.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-25T19:41:52.295000Z"
-        },
-        {
-          "id": "9ee4b001fc7412c9cf2859ebd0c56ac2a882259d",
-          "title": "人工智能的应用让加州大学伯克利分校的一位数学教授认为给作业打分“毫无意义” / AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-          "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-25T16:28:26Z"
-        },
-        {
-          "id": "1d8adc9ff3544339ac2dcb72f0ae176933ef7661",
-          "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-          "url": "https://news.ycombinator.com/item?id=50233304",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-25T16:28:26Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.56,
-      "importance": 0.56,
-      "importance_score": 0.56,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9398,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-25T16:28:26Z",
-      "latest_at": "2026-10-25T19:41:52.295000Z",
-      "primary_item": {
-        "id": "e26a144ceff1f9f3e44cc16b182430bba369bf84",
-        "title": "人工智能的应用让加州大学伯克利分校的一位数学教授认为给作业打分“毫无意义”",
-        "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-        "source": "www.dailycal.org",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_1dc75a32fc6a",
-      "title": "一款问世10年的CNN在皮肤癌诊断方面表现优于前沿的大语言模型",
-      "url": "https://lynchlab.net/llm-skin-cancer",
-      "primary_url": "https://lynchlab.net/llm-skin-cancer",
-      "source": "lynchlab.net",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b04bffe55c721c9813f3c3cd389b378ba9a7c2df",
-          "title": "一款问世10年的CNN在皮肤癌诊断方面表现优于前沿的大语言模型",
-          "url": "https://lynchlab.net/llm-skin-cancer",
-          "source": "lynchlab.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-25T18:39:28.755000Z"
-        },
-        {
-          "id": "8e678a2c3543bd36b6f446a8959813f9c3117046",
-          "title": "一款问世10年的CNN在皮肤癌诊断方面表现优于前沿的大语言模型 / A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-          "url": "https://lynchlab.net/llm-skin-cancer",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-25T17:15:38Z"
-        },
-        {
-          "id": "3ccb3dccf311f8cfccff824530c4b9731664041c",
-          "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-          "url": "https://news.ycombinator.com/item?id=50233779",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-25T17:15:38Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "lynchlab.net"
-      ],
-      "items": [
-        {
-          "id": "b04bffe55c721c9813f3c3cd389b378ba9a7c2df",
-          "title": "一款问世10年的CNN在皮肤癌诊断方面表现优于前沿的大语言模型",
-          "url": "https://lynchlab.net/llm-skin-cancer",
-          "source": "lynchlab.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-25T18:39:28.755000Z"
-        },
-        {
-          "id": "8e678a2c3543bd36b6f446a8959813f9c3117046",
-          "title": "一款问世10年的CNN在皮肤癌诊断方面表现优于前沿的大语言模型 / A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-          "url": "https://lynchlab.net/llm-skin-cancer",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-25T17:15:38Z"
-        },
-        {
-          "id": "3ccb3dccf311f8cfccff824530c4b9731664041c",
-          "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-          "url": "https://news.ycombinator.com/item?id=50233779",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-25T17:15:38Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5574,
-      "importance": 0.5574,
-      "importance_score": 0.5574,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9257,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-25T17:15:38Z",
-      "latest_at": "2026-10-25T18:39:28.755000Z",
-      "primary_item": {
-        "id": "b04bffe55c721c9813f3c3cd389b378ba9a7c2df",
-        "title": "一款问世10年的CNN在皮肤癌诊断方面表现优于前沿的大语言模型",
-        "url": "https://lynchlab.net/llm-skin-cancer",
-        "source": "lynchlab.net",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_d3af181c96b1",
-      "title": "1505年纽伦堡骑士的工具书",
-      "url": "https://loeffelholz-codex.org/en",
-      "primary_url": "https://loeffelholz-codex.org/en",
-      "source": "loeffelholz-codex.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b979b0f33cf0ade407c4e671398efb2db7d0a879",
-          "title": "1505年纽伦堡骑士的工具书",
-          "url": "https://loeffelholz-codex.org/en",
-          "source": "loeffelholz-codex.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-25T15:28:39.190000Z"
-        },
-        {
-          "id": "1388c384af8a05c3c8374d104214f37ceb0b8363",
-          "title": "1505年纽伦堡骑士的工具手册",
-          "url": "https://loeffelholz-codex.org/en",
-          "source": "loeffelholz-codex.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-25T12:48:50.500000Z"
-        },
-        {
-          "id": "3a1c93ba0b49ed80881236de7d18c188013300f1",
-          "title": "1505年纽伦堡骑士的工具手册 / Tool book of a Nuremberg knight from 1505",
-          "url": "https://loeffelholz-codex.org/en",
+          "id": "d0852ce701f3a741707b32969385520d0a8a606d",
+          "title": "Cohere 报告阿里 Qwen3.8-Flash-Next 在沙箱中出现疑似回连行为 / Concerning behavior from a popular open-weight AI model",
+          "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-25T12:37:54Z"
+          "published_at": "2026-10-26T16:35:44Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News · 24h最热",
-        "loeffelholz-codex.org"
+        "Hacker News：AI 热帖",
+        "cohere.com"
       ],
       "items": [
         {
-          "id": "b979b0f33cf0ade407c4e671398efb2db7d0a879",
-          "title": "1505年纽伦堡骑士的工具书",
-          "url": "https://loeffelholz-codex.org/en",
-          "source": "loeffelholz-codex.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-25T15:28:39.190000Z"
+          "id": "1b7a61cb6e5ae7ada6b17e4a023e74201fdcce66",
+          "title": "Cohere 报告阿里 Qwen3.8-Flash-Next 在沙箱中出现疑似回连行为",
+          "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T10:14:20.569000Z"
         },
         {
-          "id": "1388c384af8a05c3c8374d104214f37ceb0b8363",
-          "title": "1505年纽伦堡骑士的工具手册",
-          "url": "https://loeffelholz-codex.org/en",
-          "source": "loeffelholz-codex.org",
+          "id": "e95e12cdd9a9dde6c55fba060d3c2dd2774685c5",
+          "title": "关于一款热门无限制权重AI模型的行为",
+          "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+          "source": "cohere.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-25T12:48:50.500000Z"
+          "published_at": "2026-10-26T22:44:25.645000Z"
         },
         {
-          "id": "3a1c93ba0b49ed80881236de7d18c188013300f1",
-          "title": "1505年纽伦堡骑士的工具手册 / Tool book of a Nuremberg knight from 1505",
-          "url": "https://loeffelholz-codex.org/en",
+          "id": "d0852ce701f3a741707b32969385520d0a8a606d",
+          "title": "Cohere 报告阿里 Qwen3.8-Flash-Next 在沙箱中出现疑似回连行为 / Concerning behavior from a popular open-weight AI model",
+          "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-25T12:37:54Z"
+          "published_at": "2026-10-26T16:35:44Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.55,
-      "importance": 0.55,
-      "importance_score": 0.55,
+      "score": 0.8182,
+      "importance": 0.8182,
+      "importance_score": 0.8182,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8842,
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8198,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
-        "multi_source"
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-25T12:37:54Z",
-      "latest_at": "2026-10-25T15:28:39.190000Z",
+      "earliest_at": "2026-10-26T10:14:20.569000Z",
+      "latest_at": "2026-10-26T22:44:25.645000Z",
       "primary_item": {
-        "id": "b979b0f33cf0ade407c4e671398efb2db7d0a879",
-        "title": "1505年纽伦堡骑士的工具书",
-        "url": "https://loeffelholz-codex.org/en",
-        "source": "loeffelholz-codex.org",
-        "source_name": "Buzzing"
+        "id": "1b7a61cb6e5ae7ada6b17e4a023e74201fdcce66",
+        "title": "Cohere 报告阿里 Qwen3.8-Flash-Next 在沙箱中出现疑似回连行为",
+        "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_117d2cb5f38a",
-      "title": "AgriciDaniel / claude-seo",
-      "url": "https://github.com/AgriciDaniel/claude-seo",
-      "primary_url": "https://github.com/AgriciDaniel/claude-seo",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
+      "story_id": "story_bba291662c45",
+      "title": "OpenAI 宣布数学、计算机科学与物理三项重大发现，并与外部专家合作验证",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "9fcb33154f81dc7999b6f70c334ae0cad632a705",
-          "title": "AgriciDaniel / claude-seo",
-          "url": "https://github.com/AgriciDaniel/claude-seo",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "d26b286b60911a17ff9b7485aa3a3ad54e75eeb8",
+          "title": "OpenAI 宣布数学、计算机科学与物理三项重大发现，并与外部专家合作验证",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T23:34:58Z"
         },
         {
-          "id": "bd8633656b6ce400c587bcfcdb37e1cdf801ddf7",
-          "title": "AgriciDaniel /      claude-seo",
-          "url": "https://github.com/AgriciDaniel/claude-seo",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-25T23:50:50.016000Z"
+          "id": "c0fb8b3c96628b002a5965554cc013f38106f8d3",
+          "title": "OpenAI 宣布数学、计算机科学与物理三项重大发现，并与外部专家合作验证 / OpenAI announces three big science discoveries and a new way to work with academics",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-26T23:34:58Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "GitHub · Trending Today",
-        "github"
+        "The Verge",
+        "The Verge：AI（RSS）"
       ],
       "items": [
         {
-          "id": "9fcb33154f81dc7999b6f70c334ae0cad632a705",
-          "title": "AgriciDaniel / claude-seo",
-          "url": "https://github.com/AgriciDaniel/claude-seo",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "d26b286b60911a17ff9b7485aa3a3ad54e75eeb8",
+          "title": "OpenAI 宣布数学、计算机科学与物理三项重大发现，并与外部专家合作验证",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T23:34:58Z"
         },
         {
-          "id": "bd8633656b6ce400c587bcfcdb37e1cdf801ddf7",
-          "title": "AgriciDaniel /      claude-seo",
-          "url": "https://github.com/AgriciDaniel/claude-seo",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-25T23:50:50.016000Z"
+          "id": "c0fb8b3c96628b002a5965554cc013f38106f8d3",
+          "title": "OpenAI 宣布数学、计算机科学与物理三项重大发现，并与外部专家合作验证 / OpenAI announces three big science discoveries and a new way to work with academics",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-26T23:34:58Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
+      "score": 0.8155,
+      "importance": 0.8155,
+      "importance_score": 0.8155,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.994,
         "story_heat": 0.25
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-25T23:50:50.016000Z",
-      "latest_at": "2026-10-26T00:00:03.860588Z",
+      "earliest_at": "2026-10-26T23:34:58Z",
+      "latest_at": "2026-10-26T23:34:58Z",
       "primary_item": {
-        "id": "9fcb33154f81dc7999b6f70c334ae0cad632a705",
-        "title": "AgriciDaniel / claude-seo",
-        "url": "https://github.com/AgriciDaniel/claude-seo",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
+        "id": "d26b286b60911a17ff9b7485aa3a3ad54e75eeb8",
+        "title": "OpenAI 宣布数学、计算机科学与物理三项重大发现，并与外部专家合作验证",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_9f07322fd676",
-      "title": "全国首个人工智能应用风险综合保障方案正式发布",
-      "url": "https://www.ithome.com/1/017/726.htm",
-      "primary_url": "https://www.ithome.com/1/017/726.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_402566ca10ff",
+      "title": "Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能",
+      "url": "https://x.com/rohanpaul_ai/status/2114789264936534183",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2114789264936534183",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b83d4a46a41c5d77e41812543c11fcd3dc4541fd",
-          "title": "全国首个人工智能应用风险综合保障方案正式发布",
-          "url": "https://www.ithome.com/1/017/726.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "20b645b4756a5e3bd137c26cfcffb117ae7d8a03",
+          "title": "Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能",
+          "url": "https://x.com/rohanpaul_ai/status/2114789264936534183",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T18:40:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "20b645b4756a5e3bd137c26cfcffb117ae7d8a03",
+          "title": "Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能",
+          "url": "https://x.com/rohanpaul_ai/status/2114789264936534183",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T18:40:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7933,
+      "importance": 0.7933,
+      "importance_score": 0.7933,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.926,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T18:40:26Z",
+      "latest_at": "2026-10-26T18:40:26Z",
+      "primary_item": {
+        "id": "20b645b4756a5e3bd137c26cfcffb117ae7d8a03",
+        "title": "Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能",
+        "url": "https://x.com/rohanpaul_ai/status/2114789264936534183",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4a8f41d180d7",
+      "title": "Anthropic S-1 文件中的五个不寻常细节",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d011588dc04920135b4b1c569b7b4314605525e8",
+          "title": "Anthropic S-1 文件中的五个不寻常细节",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T17:10:23Z"
         },
         {
-          "id": "430b2d6f831e80d6049d109006c9e907d0a83bf1",
-          "title": "AI“专属保险”：全国首个人工智能应用风险综合保障方案正式发布",
-          "url": "https://www.ithome.com/1/017/726.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-25T23:21:57Z"
+          "id": "136605b2b85eafb8b29be1c03c1ba1acc5f997c9",
+          "title": "Anthropic S-1 文件中的五个不寻常细节 / Five weird details from Anthropic’s IPO filing",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-26T17:10:23Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
+        "The Verge",
+        "The Verge：AI（RSS）"
       ],
       "items": [
         {
-          "id": "b83d4a46a41c5d77e41812543c11fcd3dc4541fd",
-          "title": "全国首个人工智能应用风险综合保障方案正式发布",
-          "url": "https://www.ithome.com/1/017/726.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "d011588dc04920135b4b1c569b7b4314605525e8",
+          "title": "Anthropic S-1 文件中的五个不寻常细节",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T17:10:23Z"
         },
         {
-          "id": "430b2d6f831e80d6049d109006c9e907d0a83bf1",
-          "title": "AI“专属保险”：全国首个人工智能应用风险综合保障方案正式发布",
-          "url": "https://www.ithome.com/1/017/726.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-25T23:21:57Z"
+          "id": "136605b2b85eafb8b29be1c03c1ba1acc5f997c9",
+          "title": "Anthropic S-1 文件中的五个不寻常细节 / Five weird details from Anthropic’s IPO filing",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-26T17:10:23Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
+      "score": 0.8087,
+      "importance": 0.8087,
+      "importance_score": 0.8087,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9061,
         "story_heat": 0.25
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-25T23:21:57Z",
-      "latest_at": "2026-10-26T00:00:03.860588Z",
+      "earliest_at": "2026-10-26T17:10:23Z",
+      "latest_at": "2026-10-26T17:10:23Z",
       "primary_item": {
-        "id": "b83d4a46a41c5d77e41812543c11fcd3dc4541fd",
-        "title": "全国首个人工智能应用风险综合保障方案正式发布",
-        "url": "https://www.ithome.com/1/017/726.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "d011588dc04920135b4b1c569b7b4314605525e8",
+        "title": "Anthropic S-1 文件中的五个不寻常细节",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_c45c68dc9fe2",
-      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-      "url": "https://minimaxir.com/2026/10/cheap-llms",
-      "primary_url": "https://minimaxir.com/2026/10/cheap-llms",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "story_id": "story_1a1d4bf2fc11",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "primary_url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "db69cb996f44cb4466c31ad4cab77de9adbee3b3",
-          "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-          "url": "https://minimaxir.com/2026/10/cheap-llms",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-25T21:11:31Z"
-        },
-        {
-          "id": "861647ac8be026777114967923dba58a3ea0666d",
-          "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-          "url": "https://news.ycombinator.com/item?id=50236102",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-25T21:11:31Z"
+          "id": "f23c4db1553b14f78aeb3bd0b2aa65d4546fec8d",
+          "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+          "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T13:45:00Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "db69cb996f44cb4466c31ad4cab77de9adbee3b3",
-          "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-          "url": "https://minimaxir.com/2026/10/cheap-llms",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-25T21:11:31Z"
-        },
-        {
-          "id": "861647ac8be026777114967923dba58a3ea0666d",
-          "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-          "url": "https://news.ycombinator.com/item?id=50236102",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-25T21:11:31Z"
+          "id": "f23c4db1553b14f78aeb3bd0b2aa65d4546fec8d",
+          "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+          "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T13:45:00Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5386,
-      "importance": 0.5386,
-      "importance_score": 0.5386,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8352,
+      "importance": 0.8352,
+      "importance_score": 0.8352,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9602,
-        "story_heat": 0.25
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8624,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "official",
       "reasons": [
-        "multi_source"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-25T21:11:31Z",
-      "latest_at": "2026-10-25T21:11:31Z",
+      "earliest_at": "2026-10-26T13:45:00Z",
+      "latest_at": "2026-10-26T13:45:00Z",
       "primary_item": {
-        "id": "db69cb996f44cb4466c31ad4cab77de9adbee3b3",
-        "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-        "url": "https://minimaxir.com/2026/10/cheap-llms",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "id": "f23c4db1553b14f78aeb3bd0b2aa65d4546fec8d",
+        "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+        "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_2325af3360e0",
-      "title": "Cerebras 部署了万亿参数的人工智能模型",
-      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "primary_url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "source": "www.cerebras.ai",
-      "source_name": "Buzzing",
+      "story_id": "story_bf81ae046163",
+      "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
+      "url": "https://x.com/thsottiaux/status/2114800277677092936",
+      "primary_url": "https://x.com/thsottiaux/status/2114800277677092936",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e1d77e1ce605edf952f344c063f9a4e8bb5b4e68",
-          "title": "Cerebras 部署了万亿参数的人工智能模型",
-          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-          "source": "www.cerebras.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-25T07:05:49.244000Z"
-        },
-        {
-          "id": "afa998c7bad1bbc38d3abe6965589aa8c94002d9",
-          "title": "Cerebras 部署了万亿参数的人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
-          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-25T01:33:49Z"
-        },
-        {
-          "id": "c60843a9d88a05bb6226e001174471b09ee66920",
-          "title": "Cerebras Deploys Trillion-Parameter AI Models",
-          "url": "https://news.ycombinator.com/item?id=50227356",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-25T01:33:49Z"
+          "id": "6fc1b843e3e3084a58585ef63e7746b59b64bdd8",
+          "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
+          "url": "https://x.com/thsottiaux/status/2114800277677092936",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T19:24:11Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.cerebras.ai"
+        "X：Tibo (@thsottiaux)"
       ],
       "items": [
         {
-          "id": "e1d77e1ce605edf952f344c063f9a4e8bb5b4e68",
-          "title": "Cerebras 部署了万亿参数的人工智能模型",
-          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-          "source": "www.cerebras.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-25T07:05:49.244000Z"
-        },
-        {
-          "id": "afa998c7bad1bbc38d3abe6965589aa8c94002d9",
-          "title": "Cerebras 部署了万亿参数的人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
-          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-25T01:33:49Z"
-        },
-        {
-          "id": "c60843a9d88a05bb6226e001174471b09ee66920",
-          "title": "Cerebras Deploys Trillion-Parameter AI Models",
-          "url": "https://news.ycombinator.com/item?id=50227356",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-25T01:33:49Z"
+          "id": "6fc1b843e3e3084a58585ef63e7746b59b64bdd8",
+          "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
+          "url": "https://x.com/thsottiaux/status/2114800277677092936",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T19:24:11Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5318,
-      "importance": 0.5318,
-      "importance_score": 0.5318,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7834,
-        "story_heat": 0.5
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9358,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-25T01:33:49Z",
-      "latest_at": "2026-10-25T07:05:49.244000Z",
+      "earliest_at": "2026-10-26T19:24:11Z",
+      "latest_at": "2026-10-26T19:24:11Z",
       "primary_item": {
-        "id": "e1d77e1ce605edf952f344c063f9a4e8bb5b4e68",
-        "title": "Cerebras 部署了万亿参数的人工智能模型",
-        "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-        "source": "www.cerebras.ai",
-        "source_name": "Buzzing"
+        "id": "6fc1b843e3e3084a58585ef63e7746b59b64bdd8",
+        "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
+        "url": "https://x.com/thsottiaux/status/2114800277677092936",
+        "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_b82b80f16782",
-      "title": "尼康摄影大赛获奖者因科学家发现人工智能痕迹而被剥夺头衔",
-      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
-      "primary_url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
-      "source": "www.techspot.com",
-      "source_name": "Buzzing",
+      "story_id": "story_15c985181520",
+      "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
+      "url": "https://x.com/gdb/status/2114814747254432243",
+      "primary_url": "https://x.com/gdb/status/2114814747254432243",
+      "source": "X：Greg Brockman (@gdb)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5f4a645b6ecf08823c503793ec608d74665e0dc7",
-          "title": "尼康摄影大赛获奖者因科学家发现人工智能痕迹而被剥夺头衔",
-          "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
-          "source": "www.techspot.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-25T17:35:52.333000Z"
-        },
-        {
-          "id": "1138fab7ffa22425bb986d2e49d59e1a3f34dcb5",
-          "title": "尼康摄影大赛获奖者因科学家发现人工智能痕迹而被剥夺头衔 / Nikon photography contest winner loses title after scientists spot signs of AI",
-          "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-25T09:51:17Z"
+          "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
+          "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
+          "url": "https://x.com/gdb/status/2114814747254432243",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T20:21:41Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
-        "www.techspot.com"
+        "X：Greg Brockman (@gdb)"
       ],
       "items": [
         {
-          "id": "5f4a645b6ecf08823c503793ec608d74665e0dc7",
-          "title": "尼康摄影大赛获奖者因科学家发现人工智能痕迹而被剥夺头衔",
-          "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
-          "source": "www.techspot.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-25T17:35:52.333000Z"
-        },
-        {
-          "id": "1138fab7ffa22425bb986d2e49d59e1a3f34dcb5",
-          "title": "尼康摄影大赛获奖者因科学家发现人工智能痕迹而被剥夺头衔 / Nikon photography contest winner loses title after scientists spot signs of AI",
-          "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-25T09:51:17Z"
+          "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
+          "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
+          "url": "https://x.com/gdb/status/2114814747254432243",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T20:21:41Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5299,
-      "importance": 0.5299,
-      "importance_score": 0.5299,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7554,
+      "importance": 0.7554,
+      "importance_score": 0.7554,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9117,
-        "story_heat": 0.25
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9488,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-25T09:51:17Z",
-      "latest_at": "2026-10-25T17:35:52.333000Z",
+      "earliest_at": "2026-10-26T20:21:41Z",
+      "latest_at": "2026-10-26T20:21:41Z",
       "primary_item": {
-        "id": "5f4a645b6ecf08823c503793ec608d74665e0dc7",
-        "title": "尼康摄影大赛获奖者因科学家发现人工智能痕迹而被剥夺头衔",
-        "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
-        "source": "www.techspot.com",
-        "source_name": "Buzzing"
+        "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
+        "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
+        "url": "https://x.com/gdb/status/2114814747254432243",
+        "source": "X：Greg Brockman (@gdb)",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_600522d60bd8",
-      "title": "阿波罗表示，人工智能为美国企业带来了“零经济回报”",
-      "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
-      "primary_url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
+      "story_id": "story_3eb19ab037a0",
+      "title": "Anthropic 计划今日 9AM EST 提交 S-1 IPO 申请文件",
+      "url": "https://x.com/testingcatalog/status/2114696424021451174",
+      "primary_url": "https://x.com/testingcatalog/status/2114696424021451174",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "0d2d671b00f09504c983f1c73a39ca84dfff4449",
-          "title": "阿波罗表示，人工智能为美国企业带来了“零经济回报”",
-          "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-25T16:15:48.897000Z"
-        },
-        {
-          "id": "bdec0c860887ebbad6f1aa29f69a62ec04593452",
-          "title": "阿波罗表示，人工智能为美国企业带来了“零经济回报” / Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
-          "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-25T16:02:08Z"
+          "id": "6966a925f9504e78c17a17e111bbabed438852f6",
+          "title": "Anthropic 计划今日 9AM EST 提交 S-1 IPO 申请文件",
+          "url": "https://x.com/testingcatalog/status/2114696424021451174",
+          "source": "X：Testing Catalog (@testingcatalog)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T12:31:31Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "X：Testing Catalog (@testingcatalog)"
       ],
       "items": [
         {
-          "id": "0d2d671b00f09504c983f1c73a39ca84dfff4449",
-          "title": "阿波罗表示，人工智能为美国企业带来了“零经济回报”",
-          "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-25T16:15:48.897000Z"
-        },
-        {
-          "id": "bdec0c860887ebbad6f1aa29f69a62ec04593452",
-          "title": "阿波罗表示，人工智能为美国企业带来了“零经济回报” / Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
-          "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-25T16:02:08Z"
+          "id": "6966a925f9504e78c17a17e111bbabed438852f6",
+          "title": "Anthropic 计划今日 9AM EST 提交 S-1 IPO 申请文件",
+          "url": "https://x.com/testingcatalog/status/2114696424021451174",
+          "source": "X：Testing Catalog (@testingcatalog)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T12:31:31Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5268,
-      "importance": 0.5268,
-      "importance_score": 0.5268,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8943,
-        "story_heat": 0.25
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8473,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-25T16:02:08Z",
-      "latest_at": "2026-10-25T16:15:48.897000Z",
+      "earliest_at": "2026-10-26T12:31:31Z",
+      "latest_at": "2026-10-26T12:31:31Z",
       "primary_item": {
-        "id": "0d2d671b00f09504c983f1c73a39ca84dfff4449",
-        "title": "阿波罗表示，人工智能为美国企业带来了“零经济回报”",
-        "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
+        "id": "6966a925f9504e78c17a17e111bbabed438852f6",
+        "title": "Anthropic 计划今日 9AM EST 提交 S-1 IPO 申请文件",
+        "url": "https://x.com/testingcatalog/status/2114696424021451174",
+        "source": "X：Testing Catalog (@testingcatalog)",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_59ddf06fb26d",
-      "title": "人工智能“吞噬”数学的那一年 / A mathematician reads the AI future",
-      "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133",
-      "primary_url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "story_id": "story_ca658eeba187",
+      "title": "Hugging Face CEO 转评前 DOGE 研究人员用 AI 智能体渗透 Anthropic 系统事件",
+      "url": "https://x.com/ClementDelangue/status/2114713576296300604",
+      "primary_url": "https://x.com/ClementDelangue/status/2114713576296300604",
+      "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "c4305701e1aaaa42f5cbd1650067e74e1037a58e",
-          "title": "人工智能“吞噬”数学的那一年 / A mathematician reads the AI future",
-          "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-25T16:31:21Z"
-        },
-        {
-          "id": "50d282df77a830680fe5f5bd7a07416336fbe67a",
-          "title": "人工智能“吞噬”数学的那一年",
-          "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133",
-          "source": "www.theatlantic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-25T12:17:36.206000Z"
+          "id": "f1d19ff9a89e53c9742e67848e2474582184c82f",
+          "title": "Hugging Face CEO 转评前 DOGE 研究人员用 AI 智能体渗透 Anthropic 系统事件",
+          "url": "https://x.com/ClementDelangue/status/2114713576296300604",
+          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T13:39:40Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "www.theatlantic.com"
+        "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)"
       ],
       "items": [
         {
-          "id": "c4305701e1aaaa42f5cbd1650067e74e1037a58e",
-          "title": "人工智能“吞噬”数学的那一年 / A mathematician reads the AI future",
-          "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-25T16:31:21Z"
-        },
-        {
-          "id": "50d282df77a830680fe5f5bd7a07416336fbe67a",
-          "title": "人工智能“吞噬”数学的那一年",
-          "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133",
-          "source": "www.theatlantic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-25T12:17:36.206000Z"
+          "id": "f1d19ff9a89e53c9742e67848e2474582184c82f",
+          "title": "Hugging Face CEO 转评前 DOGE 研究人员用 AI 智能体渗透 Anthropic 系统事件",
+          "url": "https://x.com/ClementDelangue/status/2114713576296300604",
+          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T13:39:40Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5274,
-      "importance": 0.5274,
-      "importance_score": 0.5274,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8976,
-        "story_heat": 0.25
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8613,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-25T12:17:36.206000Z",
-      "latest_at": "2026-10-25T16:31:21Z",
+      "earliest_at": "2026-10-26T13:39:40Z",
+      "latest_at": "2026-10-26T13:39:40Z",
       "primary_item": {
-        "id": "c4305701e1aaaa42f5cbd1650067e74e1037a58e",
-        "title": "人工智能“吞噬”数学的那一年 / A mathematician reads the AI future",
-        "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "id": "f1d19ff9a89e53c9742e67848e2474582184c82f",
+        "title": "Hugging Face CEO 转评前 DOGE 研究人员用 AI 智能体渗透 Anthropic 系统事件",
+        "url": "https://x.com/ClementDelangue/status/2114713576296300604",
+        "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b09118234f85",
+      "title": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output",
+      "url": "https://x.com/OpenRouter/status/2114791584755839168",
+      "primary_url": "https://x.com/OpenRouter/status/2114791584755839168",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "49f0e8494e9d81c09e0ab694ab37d7e8c7b4a21a",
+          "title": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output",
+          "url": "https://x.com/OpenRouter/status/2114791584755839168",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T18:49:39Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenRouter (@OpenRouter)"
+      ],
+      "items": [
+        {
+          "id": "49f0e8494e9d81c09e0ab694ab37d7e8c7b4a21a",
+          "title": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output",
+          "url": "https://x.com/OpenRouter/status/2114791584755839168",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T18:49:39Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.928,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T18:49:39Z",
+      "latest_at": "2026-10-26T18:49:39Z",
+      "primary_item": {
+        "id": "49f0e8494e9d81c09e0ab694ab37d7e8c7b4a21a",
+        "title": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output",
+        "url": "https://x.com/OpenRouter/status/2114791584755839168",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b9ceaaaa3a4b",
+      "title": "字节跳动回应:Seed核心负责人周畅未离职",
+      "url": "https://www.aibase.com/news/31872",
+      "primary_url": "https://www.aibase.com/news/31872",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "485bce3538464c2f333d6f8fb22efb1c7ecc1289",
+          "title": "字节跳动回应:Seed核心负责人周畅未离职",
+          "url": "https://www.aibase.com/news/31872",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-26T18:00:03.684612Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "485bce3538464c2f333d6f8fb22efb1c7ecc1289",
+          "title": "字节跳动回应:Seed核心负责人周畅未离职",
+          "url": "https://www.aibase.com/news/31872",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-26T18:00:03.684612Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.917,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T18:00:03.684612Z",
+      "latest_at": "2026-10-26T18:00:03.684612Z",
+      "primary_item": {
+        "id": "485bce3538464c2f333d6f8fb22efb1c7ecc1289",
+        "title": "字节跳动回应:Seed核心负责人周畅未离职",
+        "url": "https://www.aibase.com/news/31872",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f11410f1d827",
+      "title": "Unsloth 发布 MiniMax-M3.1-Flash 量化 GGUF，2-bit 版可在 150GB 内存本地运行",
+      "url": "https://x.com/UnslothAI/status/2114730104228286936",
+      "primary_url": "https://x.com/UnslothAI/status/2114730104228286936",
+      "source": "X：Unsloth (@UnslothAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8f2a5cec00a06c514a546dafef7a2ff2d448352e",
+          "title": "Unsloth 发布 MiniMax-M3.1-Flash 量化 GGUF，2-bit 版可在 150GB 内存本地运行",
+          "url": "https://x.com/UnslothAI/status/2114730104228286936",
+          "source": "X：Unsloth (@UnslothAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T14:45:21Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Unsloth (@UnslothAI)"
+      ],
+      "items": [
+        {
+          "id": "8f2a5cec00a06c514a546dafef7a2ff2d448352e",
+          "title": "Unsloth 发布 MiniMax-M3.1-Flash 量化 GGUF，2-bit 版可在 150GB 内存本地运行",
+          "url": "https://x.com/UnslothAI/status/2114730104228286936",
+          "source": "X：Unsloth (@UnslothAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T14:45:21Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7391,
+      "importance": 0.7391,
+      "importance_score": 0.7391,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.875,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-26T14:45:21Z",
+      "latest_at": "2026-10-26T14:45:21Z",
+      "primary_item": {
+        "id": "8f2a5cec00a06c514a546dafef7a2ff2d448352e",
+        "title": "Unsloth 发布 MiniMax-M3.1-Flash 量化 GGUF，2-bit 版可在 150GB 内存本地运行",
+        "url": "https://x.com/UnslothAI/status/2114730104228286936",
+        "source": "X：Unsloth (@UnslothAI)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_64d59b55a8fb",
+      "title": "ChatGPT’s expanding world of work",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "primary_url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2581cdd6919419121f3d538268f66dd68177284a",
+          "title": "ChatGPT’s expanding world of work",
+          "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T10:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "2581cdd6919419121f3d538268f66dd68177284a",
+          "title": "ChatGPT’s expanding world of work",
+          "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8271,
+      "importance": 0.8271,
+      "importance_score": 0.8271,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8169,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T10:00:00Z",
+      "latest_at": "2026-10-26T10:00:00Z",
+      "primary_item": {
+        "id": "2581cdd6919419121f3d538268f66dd68177284a",
+        "title": "ChatGPT’s expanding world of work",
+        "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_a2fb86a56177",
+      "title": "Gamma 发布 Gamma 5 及 credits、导出、预览等多项更新",
+      "url": "https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026",
+      "primary_url": "https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026",
+      "source": "Gamma Changelog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cd965b4d43c511de74cc2536000ae0bf5f28b3a0",
+          "title": "Gamma 发布 Gamma 5 及 credits、导出、预览等多项更新",
+          "url": "https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026",
+          "source": "Gamma Changelog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T19:14:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Gamma Changelog"
+      ],
+      "items": [
+        {
+          "id": "cd965b4d43c511de74cc2536000ae0bf5f28b3a0",
+          "title": "Gamma 发布 Gamma 5 及 credits、导出、预览等多项更新",
+          "url": "https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026",
+          "source": "Gamma Changelog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T19:14:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7286,
+      "importance": 0.7286,
+      "importance_score": 0.7286,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.63,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9336,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-26T19:14:26Z",
+      "latest_at": "2026-10-26T19:14:26Z",
+      "primary_item": {
+        "id": "cd965b4d43c511de74cc2536000ae0bf5f28b3a0",
+        "title": "Gamma 发布 Gamma 5 及 credits、导出、预览等多项更新",
+        "url": "https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026",
+        "source": "Gamma Changelog",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_79c6ea4f54ca",
+      "title": "Krea 推出面向 Adobe Premiere 的插件",
+      "url": "https://x.com/krea_ai/status/2114741513867395527",
+      "primary_url": "https://x.com/krea_ai/status/2114741513867395527",
+      "source": "X：Krea AI (@krea_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "48bc8cb1be87c483fcca0c44702500731d28b1c6",
+          "title": "Krea 推出面向 Adobe Premiere 的插件",
+          "url": "https://x.com/krea_ai/status/2114741513867395527",
+          "source": "X：Krea AI (@krea_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T15:30:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Krea AI (@krea_ai)"
+      ],
+      "items": [
+        {
+          "id": "48bc8cb1be87c483fcca0c44702500731d28b1c6",
+          "title": "Krea 推出面向 Adobe Premiere 的插件",
+          "url": "https://x.com/krea_ai/status/2114741513867395527",
+          "source": "X：Krea AI (@krea_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T15:30:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7258,
+      "importance": 0.7258,
+      "importance_score": 0.7258,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8846,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-26T15:30:41Z",
+      "latest_at": "2026-10-26T15:30:41Z",
+      "primary_item": {
+        "id": "48bc8cb1be87c483fcca0c44702500731d28b1c6",
+        "title": "Krea 推出面向 Adobe Premiere 的插件",
+        "url": "https://x.com/krea_ai/status/2114741513867395527",
+        "source": "X：Krea AI (@krea_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_800ea8bd585b",
+      "title": "何夕2077 AI 深度信号周报 2026 W43：把关权易主与千亿算力",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-25-ai-deep-signals-weekly-2026-w43",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-25-ai-deep-signals-weekly-2026-w43",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "e8148be904c4ea21c742a8e792e71a9faa348f5b",
+          "title": "何夕2077 AI 深度信号周报 2026 W43：把关权易主与千亿算力",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-25-ai-deep-signals-weekly-2026-w43",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-10-26T03:08:44Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Daily Digest"
+      ],
+      "items": [
+        {
+          "id": "e8148be904c4ea21c742a8e792e71a9faa348f5b",
+          "title": "何夕2077 AI 深度信号周报 2026 W43：把关权易主与千亿算力",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-25-ai-deep-signals-weekly-2026-w43",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-10-26T03:08:44Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7208,
+      "importance": 0.7208,
+      "importance_score": 0.7208,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.74,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-26T03:08:44Z",
+      "latest_at": "2026-10-26T03:08:44Z",
+      "primary_item": {
+        "id": "e8148be904c4ea21c742a8e792e71a9faa348f5b",
+        "title": "何夕2077 AI 深度信号周报 2026 W43：把关权易主与千亿算力",
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-25-ai-deep-signals-weekly-2026-w43",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
       }
     }
   ]
