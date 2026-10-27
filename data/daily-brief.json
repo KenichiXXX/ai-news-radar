@@ -1,66 +1,105 @@
 {
-  "generated_at": "2026-10-27T00:00:03.684612Z",
+  "generated_at": "2026-10-27T02:53:48.241526Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_250e5d8f3024",
-      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "url": "https://openai.com/index/greptile-code-review-codex-astra",
-      "primary_url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "story_id": "story_f16aefe89a6e",
+      "title": "与学术界合作，增进对科学的理解 / Working with academic communities to build scientific understanding",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "primary_url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
-          "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "url": "https://openai.com/index/greptile-code-review-codex-astra",
+          "id": "9fd3d29cb684263f9621d0aa57d73f61025acfea",
+          "title": "与学术界合作，增进对科学的理解 / Working with academic communities to build scientific understanding",
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-26T22:00:00Z"
+          "published_at": "2026-10-26T14:30:00Z"
+        },
+        {
+          "id": "21e172326b25075b988fe82d6a37240ed38b2451",
+          "title": "与学术界合作，增进对科学的理解",
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-26T22:44:27.036000Z"
+        },
+        {
+          "id": "7087f19cec57e698fa4e38d892b1e98c50ad3410",
+          "title": "与学术界合作，增进对科学的理解 / Three new discoveries in mathematics, computer science, and physics",
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-26T21:35:28Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "OpenAI News"
+        "Hacker News (黑客新闻)",
+        "OpenAI News",
+        "openai.com"
       ],
       "items": [
         {
-          "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
-          "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "url": "https://openai.com/index/greptile-code-review-codex-astra",
+          "id": "9fd3d29cb684263f9621d0aa57d73f61025acfea",
+          "title": "与学术界合作，增进对科学的理解 / Working with academic communities to build scientific understanding",
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-26T22:00:00Z"
+          "published_at": "2026-10-26T14:30:00Z"
+        },
+        {
+          "id": "21e172326b25075b988fe82d6a37240ed38b2451",
+          "title": "与学术界合作，增进对科学的理解",
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-26T22:44:27.036000Z"
+        },
+        {
+          "id": "7087f19cec57e698fa4e38d892b1e98c50ad3410",
+          "title": "与学术界合作，增进对科学的理解 / Three new discoveries in mathematics, computer science, and physics",
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-26T21:35:28Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8549,
-      "importance": 0.8549,
-      "importance_score": 0.8549,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8725,
+      "importance": 0.8725,
+      "importance_score": 0.8725,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9715,
-        "story_heat": 0.0
+        "ai_relevance": 0.91,
+        "recency": 0.8361,
+        "story_heat": 0.5
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-26T22:00:00Z",
-      "latest_at": "2026-10-26T22:00:00Z",
+      "earliest_at": "2026-10-26T14:30:00Z",
+      "latest_at": "2026-10-26T22:44:27.036000Z",
       "primary_item": {
-        "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
-        "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-        "url": "https://openai.com/index/greptile-code-review-codex-astra",
+        "id": "9fd3d29cb684263f9621d0aa57d73f61025acfea",
+        "title": "与学术界合作，增进对科学的理解 / Working with academic communities to build scientific understanding",
+        "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
@@ -100,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8481,
-      "importance": 0.8481,
-      "importance_score": 0.8481,
+      "score": 0.8412,
+      "importance": 0.8412,
+      "importance_score": 0.8412,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9339,
+        "recency": 0.8956,
         "story_heat": 0.0
       },
       "category": "official",
@@ -125,6 +164,87 @@
         "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_ada44178e0ce",
+      "title": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
+      "url": "https://www.ithome.com/1/018/203.htm",
+      "primary_url": "https://www.ithome.com/1/018/203.htm",
+      "source": "IT之家·人工智能",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c38720d0bdaf05a780672a370538e81daa930717",
+          "title": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
+          "url": "https://www.ithome.com/1/018/203.htm",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T23:37:17.237000Z"
+        },
+        {
+          "id": "e26d3b0f8ef26b3a59376acb4f569e53a4f4b281",
+          "title": "OpenAI 宣布斩获三项重大科学突破，涉及数学猜想、计算机算法及千禧年难题",
+          "url": "https://www.ithome.com/1/018/203.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-26T23:37:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家·人工智能"
+      ],
+      "items": [
+        {
+          "id": "c38720d0bdaf05a780672a370538e81daa930717",
+          "title": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
+          "url": "https://www.ithome.com/1/018/203.htm",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T23:37:17.237000Z"
+        },
+        {
+          "id": "e26d3b0f8ef26b3a59376acb4f569e53a4f4b281",
+          "title": "OpenAI 宣布斩获三项重大科学突破，涉及数学猜想、计算机算法及千禧年难题",
+          "url": "https://www.ithome.com/1/018/203.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-26T23:37:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8233,
+      "importance": 0.8233,
+      "importance_score": 0.8233,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9538,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T23:37:17Z",
+      "latest_at": "2026-10-26T23:37:17.237000Z",
+      "primary_item": {
+        "id": "c38720d0bdaf05a780672a370538e81daa930717",
+        "title": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
+        "url": "https://www.ithome.com/1/018/203.htm",
+        "source": "IT之家·人工智能",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -162,15 +282,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8244,
-      "importance": 0.8244,
-      "importance_score": 0.8244,
+      "score": 0.8178,
+      "importance": 0.8178,
+      "importance_score": 0.8178,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8909,
+        "recency": 0.8544,
         "story_heat": 0.0
       },
       "category": "official",
@@ -190,83 +310,63 @@
       }
     },
     {
-      "story_id": "story_f16aefe89a6e",
-      "title": "与学术界合作，增进对科学的理解 / Working with academic communities to build scientific understanding",
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-      "primary_url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "story_id": "story_250e5d8f3024",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "primary_url": "https://openai.com/index/greptile-code-review-codex-astra",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "9fd3d29cb684263f9621d0aa57d73f61025acfea",
-          "title": "与学术界合作，增进对科学的理解 / Working with academic communities to build scientific understanding",
-          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
+          "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "url": "https://openai.com/index/greptile-code-review-codex-astra",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-26T14:30:00Z"
-        },
-        {
-          "id": "21e172326b25075b988fe82d6a37240ed38b2451",
-          "title": "与学术界合作，增进对科学的理解",
-          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-26T22:44:27.036000Z"
+          "published_at": "2026-10-26T22:00:00Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "OpenAI News",
-        "openai.com"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "9fd3d29cb684263f9621d0aa57d73f61025acfea",
-          "title": "与学术界合作，增进对科学的理解 / Working with academic communities to build scientific understanding",
-          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
+          "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "url": "https://openai.com/index/greptile-code-review-codex-astra",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-26T14:30:00Z"
-        },
-        {
-          "id": "21e172326b25075b988fe82d6a37240ed38b2451",
-          "title": "与学术界合作，增进对科学的理解",
-          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-26T22:44:27.036000Z"
+          "published_at": "2026-10-26T22:00:00Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8539,
-      "importance": 0.8539,
-      "importance_score": 0.8539,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8477,
+      "importance": 0.8477,
+      "importance_score": 0.8477,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8718,
-        "story_heat": 0.25
+        "ai_relevance": 0.95,
+        "recency": 0.9317,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-26T14:30:00Z",
-      "latest_at": "2026-10-26T22:44:27.036000Z",
+      "earliest_at": "2026-10-26T22:00:00Z",
+      "latest_at": "2026-10-26T22:00:00Z",
       "primary_item": {
-        "id": "9fd3d29cb684263f9621d0aa57d73f61025acfea",
-        "title": "与学术界合作，增进对科学的理解 / Working with academic communities to build scientific understanding",
-        "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+        "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
+        "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+        "url": "https://openai.com/index/greptile-code-review-codex-astra",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
@@ -344,15 +444,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8182,
-      "importance": 0.8182,
-      "importance_score": 0.8182,
+      "score": 0.8121,
+      "importance": 0.8121,
+      "importance_score": 0.8121,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8198,
+        "recency": 0.7862,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -368,6 +468,67 @@
         "title": "Cohere 报告阿里 Qwen3.8-Flash-Next 在沙箱中出现疑似回连行为",
         "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
         "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9e347c8ec021ead08fb5656d4ea953133d3a892d",
+          "title": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T00:05:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "9e347c8ec021ead08fb5656d4ea953133d3a892d",
+          "title": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T00:05:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8084,
+      "importance": 0.8084,
+      "importance_score": 0.8084,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.88,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9602,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T00:05:00Z",
+      "latest_at": "2026-10-27T00:05:00Z",
+      "primary_item": {
+        "id": "9e347c8ec021ead08fb5656d4ea953133d3a892d",
+        "title": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
+        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       }
     },
@@ -425,15 +586,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8155,
-      "importance": 0.8155,
-      "importance_score": 0.8155,
+      "score": 0.8082,
+      "importance": 0.8082,
+      "importance_score": 0.8082,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.994,
+        "recency": 0.9533,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -450,6 +611,148 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
         "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_75e6cdb57059",
+      "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
+      "url": "https://x.com/Khazix0918/status/2114878401190506902",
+      "primary_url": "https://x.com/Khazix0918/status/2114878401190506902",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "69c0c37b828a12b0494e4c26f8e4764c5c76798b",
+          "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
+          "url": "https://x.com/Khazix0918/status/2114878401190506902",
+          "source": "X：卡兹克 (@Khazix0918)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T00:34:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：卡兹克 (@Khazix0918)"
+      ],
+      "items": [
+        {
+          "id": "69c0c37b828a12b0494e4c26f8e4764c5c76798b",
+          "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
+          "url": "https://x.com/Khazix0918/status/2114878401190506902",
+          "source": "X：卡兹克 (@Khazix0918)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T00:34:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7947,
+      "importance": 0.7947,
+      "importance_score": 0.7947,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9671,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T00:34:38Z",
+      "latest_at": "2026-10-27T00:34:38Z",
+      "primary_item": {
+        "id": "69c0c37b828a12b0494e4c26f8e4764c5c76798b",
+        "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
+        "url": "https://x.com/Khazix0918/status/2114878401190506902",
+        "source": "X：卡兹克 (@Khazix0918)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_965cddc2eb44",
+      "title": "Anthropic IPO招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外“沙箱逃逸”",
+      "url": "https://www.aibase.com/news/31878",
+      "primary_url": "https://www.aibase.com/news/31878",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "edda28551b955e1d704bcc4245d12ee9a52d20ad",
+          "title": "Anthropic IPO招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外“沙箱逃逸”",
+          "url": "https://www.aibase.com/news/31878",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-27T02:53:48.241526Z"
+        },
+        {
+          "id": "ad4027808ee60358e03c7ea58a29364eded45422",
+          "title": "Anthropic IPO 招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外「沙箱逃逸」",
+          "url": "https://www.aibase.com/zh/news/31878",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "edda28551b955e1d704bcc4245d12ee9a52d20ad",
+          "title": "Anthropic IPO招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外“沙箱逃逸”",
+          "url": "https://www.aibase.com/news/31878",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-27T02:53:48.241526Z"
+        },
+        {
+          "id": "ad4027808ee60358e03c7ea58a29364eded45422",
+          "title": "Anthropic IPO 招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外「沙箱逃逸」",
+          "url": "https://www.aibase.com/zh/news/31878",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T02:53:48.241526Z",
+      "latest_at": "2026-10-27T02:53:48.241526Z",
+      "primary_item": {
+        "id": "edda28551b955e1d704bcc4245d12ee9a52d20ad",
+        "title": "Anthropic IPO招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外“沙箱逃逸”",
+        "url": "https://www.aibase.com/news/31878",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -487,15 +790,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7933,
-      "importance": 0.7933,
-      "importance_score": 0.7933,
+      "score": 0.7864,
+      "importance": 0.7864,
+      "importance_score": 0.7864,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.926,
+        "recency": 0.888,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -567,15 +870,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8087,
-      "importance": 0.8087,
-      "importance_score": 0.8087,
+      "score": 0.802,
+      "importance": 0.802,
+      "importance_score": 0.802,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9061,
+        "recency": 0.869,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -629,15 +932,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8352,
-      "importance": 0.8352,
-      "importance_score": 0.8352,
+      "score": 0.8289,
+      "importance": 0.8289,
+      "importance_score": 0.8289,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8624,
+        "recency": 0.8271,
         "story_heat": 0.0
       },
       "category": "official",
@@ -654,6 +957,87 @@
         "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e5cc05002152",
+      "title": "Soul 推出 Loxinity，把 AI 语音做成了\"有活人感\"的实时交互产品",
+      "url": "https://www.aibase.com/news/31881",
+      "primary_url": "https://www.aibase.com/news/31881",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "22b3c5a0e6ea671b7dacb71ad2b930c649b72203",
+          "title": "Soul 推出 Loxinity，把 AI 语音做成了\"有活人感\"的实时交互产品",
+          "url": "https://www.aibase.com/news/31881",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-27T02:53:48.241526Z"
+        },
+        {
+          "id": "82f9f022faa3584fb015a3252722e837108722e8",
+          "title": "Soul 推出 Loxinity，把 AI 语音做成了「有活人感」的实时交互产品",
+          "url": "https://www.aibase.com/zh/news/31881",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "22b3c5a0e6ea671b7dacb71ad2b930c649b72203",
+          "title": "Soul 推出 Loxinity，把 AI 语音做成了\"有活人感\"的实时交互产品",
+          "url": "https://www.aibase.com/news/31881",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-27T02:53:48.241526Z"
+        },
+        {
+          "id": "82f9f022faa3584fb015a3252722e837108722e8",
+          "title": "Soul 推出 Loxinity，把 AI 语音做成了「有活人感」的实时交互产品",
+          "url": "https://www.aibase.com/zh/news/31881",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T02:53:48.241526Z",
+      "latest_at": "2026-10-27T02:53:48.241526Z",
+      "primary_item": {
+        "id": "22b3c5a0e6ea671b7dacb71ad2b930c649b72203",
+        "title": "Soul 推出 Loxinity，把 AI 语音做成了\"有活人感\"的实时交互产品",
+        "url": "https://www.aibase.com/news/31881",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -691,15 +1075,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9358,
+        "recency": 0.8974,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -714,67 +1098,6 @@
         "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
         "url": "https://x.com/thsottiaux/status/2114800277677092936",
         "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_15c985181520",
-      "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
-      "url": "https://x.com/gdb/status/2114814747254432243",
-      "primary_url": "https://x.com/gdb/status/2114814747254432243",
-      "source": "X：Greg Brockman (@gdb)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
-          "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
-          "url": "https://x.com/gdb/status/2114814747254432243",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T20:21:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Greg Brockman (@gdb)"
-      ],
-      "items": [
-        {
-          "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
-          "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
-          "url": "https://x.com/gdb/status/2114814747254432243",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T20:21:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9488,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-26T20:21:41Z",
-      "latest_at": "2026-10-26T20:21:41Z",
-      "primary_item": {
-        "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
-        "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
-        "url": "https://x.com/gdb/status/2114814747254432243",
-        "source": "X：Greg Brockman (@gdb)",
         "source_name": "AI HOT"
       }
     },
@@ -813,21 +1136,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7489,
+      "importance": 0.7489,
+      "importance_score": 0.7489,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8473,
+        "recency": 0.8126,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-26T12:31:31Z",
       "latest_at": "2026-10-26T12:31:31Z",
@@ -836,6 +1158,66 @@
         "title": "Anthropic 计划今日 9AM EST 提交 S-1 IPO 申请文件",
         "url": "https://x.com/testingcatalog/status/2114696424021451174",
         "source": "X：Testing Catalog (@testingcatalog)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_15c985181520",
+      "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
+      "url": "https://x.com/gdb/status/2114814747254432243",
+      "primary_url": "https://x.com/gdb/status/2114814747254432243",
+      "source": "X：Greg Brockman (@gdb)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
+          "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
+          "url": "https://x.com/gdb/status/2114814747254432243",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T20:21:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Greg Brockman (@gdb)"
+      ],
+      "items": [
+        {
+          "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
+          "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
+          "url": "https://x.com/gdb/status/2114814747254432243",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T20:21:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7484,
+      "importance": 0.7484,
+      "importance_score": 0.7484,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9099,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-26T20:21:41Z",
+      "latest_at": "2026-10-26T20:21:41Z",
+      "primary_item": {
+        "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
+        "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
+        "url": "https://x.com/gdb/status/2114814747254432243",
+        "source": "X：Greg Brockman (@gdb)",
         "source_name": "AI HOT"
       }
     },
@@ -874,21 +1256,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7546,
-      "importance": 0.7546,
-      "importance_score": 0.7546,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8613,
+        "recency": 0.826,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-26T13:39:40Z",
       "latest_at": "2026-10-26T13:39:40Z",
@@ -935,21 +1316,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7546,
-      "importance": 0.7546,
-      "importance_score": 0.7546,
+      "score": 0.7478,
+      "importance": 0.7478,
+      "importance_score": 0.7478,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.928,
+        "recency": 0.89,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-26T18:49:39Z",
       "latest_at": "2026-10-26T18:49:39Z",
@@ -959,67 +1339,6 @@
         "url": "https://x.com/OpenRouter/status/2114791584755839168",
         "source": "X：OpenRouter (@OpenRouter)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b9ceaaaa3a4b",
-      "title": "字节跳动回应:Seed核心负责人周畅未离职",
-      "url": "https://www.aibase.com/news/31872",
-      "primary_url": "https://www.aibase.com/news/31872",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "485bce3538464c2f333d6f8fb22efb1c7ecc1289",
-          "title": "字节跳动回应:Seed核心负责人周畅未离职",
-          "url": "https://www.aibase.com/news/31872",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-26T18:00:03.684612Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "485bce3538464c2f333d6f8fb22efb1c7ecc1289",
-          "title": "字节跳动回应:Seed核心负责人周畅未离职",
-          "url": "https://www.aibase.com/news/31872",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-26T18:00:03.684612Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.917,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-26T18:00:03.684612Z",
-      "latest_at": "2026-10-26T18:00:03.684612Z",
-      "primary_item": {
-        "id": "485bce3538464c2f333d6f8fb22efb1c7ecc1289",
-        "title": "字节跳动回应:Seed核心负责人周畅未离职",
-        "url": "https://www.aibase.com/news/31872",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1057,15 +1376,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7391,
-      "importance": 0.7391,
-      "importance_score": 0.7391,
+      "score": 0.7327,
+      "importance": 0.7327,
+      "importance_score": 0.7327,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.875,
+        "recency": 0.8392,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1080,248 +1399,6 @@
         "url": "https://x.com/UnslothAI/status/2114730104228286936",
         "source": "X：Unsloth (@UnslothAI)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_64d59b55a8fb",
-      "title": "ChatGPT’s expanding world of work",
-      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-      "primary_url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2581cdd6919419121f3d538268f66dd68177284a",
-          "title": "ChatGPT’s expanding world of work",
-          "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-26T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "2581cdd6919419121f3d538268f66dd68177284a",
-          "title": "ChatGPT’s expanding world of work",
-          "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-26T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8271,
-      "importance": 0.8271,
-      "importance_score": 0.8271,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8169,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-26T10:00:00Z",
-      "latest_at": "2026-10-26T10:00:00Z",
-      "primary_item": {
-        "id": "2581cdd6919419121f3d538268f66dd68177284a",
-        "title": "ChatGPT’s expanding world of work",
-        "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_a2fb86a56177",
-      "title": "Gamma 发布 Gamma 5 及 credits、导出、预览等多项更新",
-      "url": "https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026",
-      "primary_url": "https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026",
-      "source": "Gamma Changelog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cd965b4d43c511de74cc2536000ae0bf5f28b3a0",
-          "title": "Gamma 发布 Gamma 5 及 credits、导出、预览等多项更新",
-          "url": "https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026",
-          "source": "Gamma Changelog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T19:14:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Gamma Changelog"
-      ],
-      "items": [
-        {
-          "id": "cd965b4d43c511de74cc2536000ae0bf5f28b3a0",
-          "title": "Gamma 发布 Gamma 5 及 credits、导出、预览等多项更新",
-          "url": "https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026",
-          "source": "Gamma Changelog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T19:14:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7286,
-      "importance": 0.7286,
-      "importance_score": 0.7286,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.63,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9336,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-26T19:14:26Z",
-      "latest_at": "2026-10-26T19:14:26Z",
-      "primary_item": {
-        "id": "cd965b4d43c511de74cc2536000ae0bf5f28b3a0",
-        "title": "Gamma 发布 Gamma 5 及 credits、导出、预览等多项更新",
-        "url": "https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026",
-        "source": "Gamma Changelog",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_79c6ea4f54ca",
-      "title": "Krea 推出面向 Adobe Premiere 的插件",
-      "url": "https://x.com/krea_ai/status/2114741513867395527",
-      "primary_url": "https://x.com/krea_ai/status/2114741513867395527",
-      "source": "X：Krea AI (@krea_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "48bc8cb1be87c483fcca0c44702500731d28b1c6",
-          "title": "Krea 推出面向 Adobe Premiere 的插件",
-          "url": "https://x.com/krea_ai/status/2114741513867395527",
-          "source": "X：Krea AI (@krea_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T15:30:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Krea AI (@krea_ai)"
-      ],
-      "items": [
-        {
-          "id": "48bc8cb1be87c483fcca0c44702500731d28b1c6",
-          "title": "Krea 推出面向 Adobe Premiere 的插件",
-          "url": "https://x.com/krea_ai/status/2114741513867395527",
-          "source": "X：Krea AI (@krea_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T15:30:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7258,
-      "importance": 0.7258,
-      "importance_score": 0.7258,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8846,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-26T15:30:41Z",
-      "latest_at": "2026-10-26T15:30:41Z",
-      "primary_item": {
-        "id": "48bc8cb1be87c483fcca0c44702500731d28b1c6",
-        "title": "Krea 推出面向 Adobe Premiere 的插件",
-        "url": "https://x.com/krea_ai/status/2114741513867395527",
-        "source": "X：Krea AI (@krea_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_800ea8bd585b",
-      "title": "何夕2077 AI 深度信号周报 2026 W43：把关权易主与千亿算力",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-25-ai-deep-signals-weekly-2026-w43",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-25-ai-deep-signals-weekly-2026-w43",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
-      "sources": [
-        {
-          "id": "e8148be904c4ea21c742a8e792e71a9faa348f5b",
-          "title": "何夕2077 AI 深度信号周报 2026 W43：把关权易主与千亿算力",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-25-ai-deep-signals-weekly-2026-w43",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-10-26T03:08:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Daily Digest"
-      ],
-      "items": [
-        {
-          "id": "e8148be904c4ea21c742a8e792e71a9faa348f5b",
-          "title": "何夕2077 AI 深度信号周报 2026 W43：把关权易主与千亿算力",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-25-ai-deep-signals-weekly-2026-w43",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-10-26T03:08:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7208,
-      "importance": 0.7208,
-      "importance_score": 0.7208,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.74,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-26T03:08:44Z",
-      "latest_at": "2026-10-26T03:08:44Z",
-      "primary_item": {
-        "id": "e8148be904c4ea21c742a8e792e71a9faa348f5b",
-        "title": "何夕2077 AI 深度信号周报 2026 W43：把关权易主与千亿算力",
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-25-ai-deep-signals-weekly-2026-w43",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
       }
     }
   ]
