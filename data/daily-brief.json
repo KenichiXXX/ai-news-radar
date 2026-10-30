@@ -1,90 +1,90 @@
 {
-  "generated_at": "2026-10-29T00:00:03.168720Z",
+  "generated_at": "2026-10-30T00:00:03.764849Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_7ae8eb20550e",
-      "title": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR） / NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-      "primary_url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-      "source": "Hugging Face Blog",
+      "story_id": "story_7bf0065ceb16",
+      "title": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则 / An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "primary_url": "https://openai.com/index/updated-model-spec",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f69a7dd028eea1e4f16b19d1d0651c431ca46b33",
-          "title": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR） / NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-          "source": "Hugging Face Blog",
+          "id": "3ea3683e8cb7252a32198e4679519068e68b8eae",
+          "title": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则 / An updated Model Spec for more capable and beneficial AI",
+          "url": "https://openai.com/index/updated-model-spec",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-28T14:58:17Z"
+          "published_at": "2026-10-29T17:00:00Z"
         },
         {
-          "id": "8f7e3ffdffdc80c2d52891a3d2f60432a2cc30a1",
-          "title": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR）",
-          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-          "source": "huggingface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-28T22:56:46.012000Z"
+          "id": "235b793514572cf958fd9b7036a6d6fd7a9b3329",
+          "title": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则",
+          "url": "https://openai.com/index/updated-model-spec",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T17:00:00Z"
         },
         {
-          "id": "d6c2b72c5dc25816690215347a71b705ba3fa451",
-          "title": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR） / Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
-          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-28T15:17:53Z"
+          "id": "602aaa5e8a5160973c7b9886ef639f204c03d98b",
+          "title": "OpenAI 更新 Model Spec，为更强大且有益的 AI 提供指引",
+          "url": "https://openai.com/index/updated-model-spec",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hugging Face Blog",
-        "huggingface.co"
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "f69a7dd028eea1e4f16b19d1d0651c431ca46b33",
-          "title": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR） / NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-          "source": "Hugging Face Blog",
+          "id": "3ea3683e8cb7252a32198e4679519068e68b8eae",
+          "title": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则 / An updated Model Spec for more capable and beneficial AI",
+          "url": "https://openai.com/index/updated-model-spec",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-28T14:58:17Z"
+          "published_at": "2026-10-29T17:00:00Z"
         },
         {
-          "id": "8f7e3ffdffdc80c2d52891a3d2f60432a2cc30a1",
-          "title": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR）",
-          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-          "source": "huggingface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-28T22:56:46.012000Z"
+          "id": "235b793514572cf958fd9b7036a6d6fd7a9b3329",
+          "title": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则",
+          "url": "https://openai.com/index/updated-model-spec",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T17:00:00Z"
         },
         {
-          "id": "d6c2b72c5dc25816690215347a71b705ba3fa451",
-          "title": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR） / Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
-          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-28T15:17:53Z"
+          "id": "602aaa5e8a5160973c7b9886ef639f204c03d98b",
+          "title": "OpenAI 更新 Model Spec，为更强大且有益的 AI 提供指引",
+          "url": "https://openai.com/index/updated-model-spec",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.896,
-      "importance": 0.896,
-      "importance_score": 0.896,
+      "score": 0.8847,
+      "importance": 0.8847,
+      "importance_score": 0.8847,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.8778,
+        "ai_relevance": 0.91,
+        "recency": 0.9038,
         "story_heat": 0.5
       },
       "category": "official",
@@ -94,123 +94,265 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-28T14:58:17Z",
-      "latest_at": "2026-10-28T22:56:46.012000Z",
+      "earliest_at": "2026-10-29T17:00:00Z",
+      "latest_at": "2026-10-30T00:00:03.764849Z",
       "primary_item": {
-        "id": "f69a7dd028eea1e4f16b19d1d0651c431ca46b33",
-        "title": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR） / NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-        "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+        "id": "3ea3683e8cb7252a32198e4679519068e68b8eae",
+        "title": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则 / An updated Model Spec for more capable and beneficial AI",
+        "url": "https://openai.com/index/updated-model-spec",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f3538b6fb36f",
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "primary_url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0c17e3a2cde678293d2cb85b966f8cdb05ad6533",
+          "title": "Granite Switch 4.1.1 — Update models like you update software",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-29T13:37:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "0c17e3a2cde678293d2cb85b966f8cdb05ad6533",
+          "title": "Granite Switch 4.1.1 — Update models like you update software",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-29T13:37:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8349,
+      "importance": 0.8349,
+      "importance_score": 0.8349,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8608,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-29T13:37:07Z",
+      "latest_at": "2026-10-29T13:37:07Z",
+      "primary_item": {
+        "id": "0c17e3a2cde678293d2cb85b966f8cdb05ad6533",
+        "title": "Granite Switch 4.1.1 — Update models like you update software",
+        "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_34b0bf3f94c3",
-      "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型 / Gemini 4 Carbon: Our next frontier model",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
-      "primary_url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
-      "source": "Google DeepMind",
+      "story_id": "story_3bf0ecbcedeb",
+      "title": "Webhook IP ranges added to the Meta API",
+      "url": "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api",
+      "primary_url": "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "9bdc18e8234914b118f781552daa7e8656b9dca1",
-          "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型 / Gemini 4 Carbon: Our next frontier model",
-          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
-          "source": "Google DeepMind",
+          "id": "8d165123a67224af2eca552ed849a2bd1682d7d2",
+          "title": "Webhook IP ranges added to the Meta API",
+          "url": "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-28T17:00:58Z"
-        },
-        {
-          "id": "f8ada884b4b34fada811e6af35ece237061ce63c",
-          "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型",
-          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
-          "source": "Google DeepMind：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T17:00:58Z"
+          "published_at": "2026-10-29T17:14:38Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Google DeepMind",
-        "Google DeepMind：Blog（RSS）"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "9bdc18e8234914b118f781552daa7e8656b9dca1",
-          "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型 / Gemini 4 Carbon: Our next frontier model",
-          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
-          "source": "Google DeepMind",
+          "id": "8d165123a67224af2eca552ed849a2bd1682d7d2",
+          "title": "Webhook IP ranges added to the Meta API",
+          "url": "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-28T17:00:58Z"
-        },
-        {
-          "id": "f8ada884b4b34fada811e6af35ece237061ce63c",
-          "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型",
-          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
-          "source": "Google DeepMind：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T17:00:58Z"
+          "published_at": "2026-10-29T17:14:38Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8597,
-      "importance": 0.8597,
-      "importance_score": 0.8597,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8273,
+      "importance": 0.8273,
+      "importance_score": 0.8273,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9041,
-        "story_heat": 0.25
+        "ai_relevance": 0.87,
+        "recency": 0.907,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-28T17:00:58Z",
-      "latest_at": "2026-10-28T17:00:58Z",
+      "earliest_at": "2026-10-29T17:14:38Z",
+      "latest_at": "2026-10-29T17:14:38Z",
       "primary_item": {
-        "id": "9bdc18e8234914b118f781552daa7e8656b9dca1",
-        "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型 / Gemini 4 Carbon: Our next frontier model",
-        "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
-        "source": "Google DeepMind",
+        "id": "8d165123a67224af2eca552ed849a2bd1682d7d2",
+        "title": "Webhook IP ranges added to the Meta API",
+        "url": "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_0dc3cf0b7c98",
-      "title": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式 / The future of the firm",
-      "url": "https://openai.com/index/the-future-of-the-firm",
-      "primary_url": "https://openai.com/index/the-future-of-the-firm",
+      "story_id": "story_6dc6a1863308",
+      "title": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化",
+      "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
+      "primary_url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
+      "source": "404 Media（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3e59f3a17425e339d369ff822cdca4645d9db83c",
+          "title": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化",
+          "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
+          "source": "404 Media（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T14:21:49Z"
+        },
+        {
+          "id": "f4579d3e1db2bcd5c78a835ce1fc4f6f5b95808f",
+          "title": "宣言、恐惧与“失败者思维”：深入探秘Proton的人工智能之战",
+          "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
+          "source": "www.404media.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-29T23:49:53.582000Z"
+        },
+        {
+          "id": "051ff645629b74978dbe881478916824d79301f7",
+          "title": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化 / Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+          "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-29T14:29:06Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "404 Media（RSS）",
+        "Hacker News · 24h最热",
+        "www.404media.co"
+      ],
+      "items": [
+        {
+          "id": "3e59f3a17425e339d369ff822cdca4645d9db83c",
+          "title": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化",
+          "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
+          "source": "404 Media（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T14:21:49Z"
+        },
+        {
+          "id": "f4579d3e1db2bcd5c78a835ce1fc4f6f5b95808f",
+          "title": "宣言、恐惧与“失败者思维”：深入探秘Proton的人工智能之战",
+          "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
+          "source": "www.404media.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-29T23:49:53.582000Z"
+        },
+        {
+          "id": "051ff645629b74978dbe881478916824d79301f7",
+          "title": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化 / Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+          "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-29T14:29:06Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8152,
+      "importance": 0.8152,
+      "importance_score": 0.8152,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8701,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-29T14:21:49Z",
+      "latest_at": "2026-10-29T23:49:53.582000Z",
+      "primary_item": {
+        "id": "3e59f3a17425e339d369ff822cdca4645d9db83c",
+        "title": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化",
+        "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
+        "source": "404 Media（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d28967fce9c6",
+      "title": "OpenAI 详解如何检测前沿模型失准行为 / How we detect frontier model misalignment",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "primary_url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "37166f867e221c666885c4ab5fa1bd8c88ce23b3",
-          "title": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式 / The future of the firm",
-          "url": "https://openai.com/index/the-future-of-the-firm",
+          "id": "f166caf33232a1d28015438ec78e6eb2177e2c18",
+          "title": "OpenAI 详解如何检测前沿模型失准行为 / How we detect frontier model misalignment",
+          "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-28T10:00:00Z"
+          "published_at": "2026-10-29T09:00:00Z"
         },
         {
-          "id": "393e23dfc7d9583ee0cb6cea1b5558f71f4bffa9",
-          "title": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式",
-          "url": "https://openai.com/index/the-future-of-the-firm",
+          "id": "649c65d7067143cf79872e2a10f7fc648defcf20",
+          "title": "OpenAI 详解如何检测前沿模型失准行为",
+          "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
           "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-28T10:00:00Z"
+          "published_at": "2026-10-29T09:00:00Z"
         }
       ],
       "source_count": 2,
@@ -220,35 +362,35 @@
       ],
       "items": [
         {
-          "id": "37166f867e221c666885c4ab5fa1bd8c88ce23b3",
-          "title": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式 / The future of the firm",
-          "url": "https://openai.com/index/the-future-of-the-firm",
+          "id": "f166caf33232a1d28015438ec78e6eb2177e2c18",
+          "title": "OpenAI 详解如何检测前沿模型失准行为 / How we detect frontier model misalignment",
+          "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-28T10:00:00Z"
+          "published_at": "2026-10-29T09:00:00Z"
         },
         {
-          "id": "393e23dfc7d9583ee0cb6cea1b5558f71f4bffa9",
-          "title": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式",
-          "url": "https://openai.com/index/the-future-of-the-firm",
+          "id": "649c65d7067143cf79872e2a10f7fc648defcf20",
+          "title": "OpenAI 详解如何检测前沿模型失准行为",
+          "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
           "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-28T10:00:00Z"
+          "published_at": "2026-10-29T09:00:00Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8441,
-      "importance": 0.8441,
-      "importance_score": 0.8441,
+      "score": 0.8419,
+      "importance": 0.8419,
+      "importance_score": 0.8419,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8169,
+        "recency": 0.8052,
         "story_heat": 0.25
       },
       "category": "official",
@@ -258,141 +400,79 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-28T10:00:00Z",
-      "latest_at": "2026-10-28T10:00:00Z",
+      "earliest_at": "2026-10-29T09:00:00Z",
+      "latest_at": "2026-10-29T09:00:00Z",
       "primary_item": {
-        "id": "37166f867e221c666885c4ab5fa1bd8c88ce23b3",
-        "title": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式 / The future of the firm",
-        "url": "https://openai.com/index/the-future-of-the-firm",
+        "id": "f166caf33232a1d28015438ec78e6eb2177e2c18",
+        "title": "OpenAI 详解如何检测前沿模型失准行为 / How we detect frontier model misalignment",
+        "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_194ab4b69c2c",
-      "title": "Route and orchestrate models with GitHub Copilot Fusion",
-      "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
-      "primary_url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3c8515f5056cc65d60ea2d94ced5d06f13712973",
-          "title": "Route and orchestrate models with GitHub Copilot Fusion",
-          "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-28T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "3c8515f5056cc65d60ea2d94ced5d06f13712973",
-          "title": "Route and orchestrate models with GitHub Copilot Fusion",
-          "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-28T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8324,
-      "importance": 0.8324,
-      "importance_score": 0.8324,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8909,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-28T16:00:00Z",
-      "latest_at": "2026-10-28T16:00:00Z",
-      "primary_item": {
-        "id": "3c8515f5056cc65d60ea2d94ced5d06f13712973",
-        "title": "Route and orchestrate models with GitHub Copilot Fusion",
-        "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d7f88b36e305",
-      "title": "Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链",
-      "url": "https://www.ithome.com/1/019/268.htm",
-      "primary_url": "https://www.ithome.com/1/019/268.htm",
-      "source": "IT之家·人工智能",
+      "story_id": "story_079251699e8e",
+      "title": "SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账",
+      "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+      "primary_url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+      "source": "The Verge：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "36ce1c0ac3c28ccdfbca5c7ef388f74dabf116e1",
-          "title": "Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链",
-          "url": "https://www.ithome.com/1/019/268.htm",
-          "source": "IT之家·人工智能",
+          "id": "eaa05489664eb686d3790e0f001f5a3916b3292f",
+          "title": "SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账",
+          "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+          "source": "The Verge：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-28T22:35:25.040000Z"
+          "published_at": "2026-10-29T14:00:00Z"
         },
         {
-          "id": "02de9975c2177bcbc413bff59e671656e468bd9e",
-          "title": "Claude AI 找漏洞实战：安卓手机锁屏下提取照片、53 分钟攻破 Linux 获取最高权限",
-          "url": "https://www.ithome.com/1/019/268.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "da4df5873cfc88d3e518e113c2ccfad50487d75c",
+          "title": "SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账 / Anthropic is asking Wall Street to believe in AGI",
+          "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-29T14:00:00Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家·人工智能",
-        "Readhub · AI"
+        "The Verge",
+        "The Verge：AI（RSS）"
       ],
       "items": [
         {
-          "id": "36ce1c0ac3c28ccdfbca5c7ef388f74dabf116e1",
-          "title": "Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链",
-          "url": "https://www.ithome.com/1/019/268.htm",
-          "source": "IT之家·人工智能",
+          "id": "eaa05489664eb686d3790e0f001f5a3916b3292f",
+          "title": "SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账",
+          "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+          "source": "The Verge：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-28T22:35:25.040000Z"
+          "published_at": "2026-10-29T14:00:00Z"
         },
         {
-          "id": "02de9975c2177bcbc413bff59e671656e468bd9e",
-          "title": "Claude AI 找漏洞实战：安卓手机锁屏下提取照片、53 分钟攻破 Linux 获取最高权限",
-          "url": "https://www.ithome.com/1/019/268.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "da4df5873cfc88d3e518e113c2ccfad50487d75c",
+          "title": "SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账 / Anthropic is asking Wall Street to believe in AGI",
+          "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-29T14:00:00Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.816,
-      "importance": 0.816,
-      "importance_score": 0.816,
+      "score": 0.8014,
+      "importance": 0.8014,
+      "importance_score": 0.8014,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.81,
+        "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9798,
+        "recency": 0.8655,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -401,226 +481,122 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-28T22:35:25.040000Z",
-      "latest_at": "2026-10-29T00:00:03.168720Z",
+      "earliest_at": "2026-10-29T14:00:00Z",
+      "latest_at": "2026-10-29T14:00:00Z",
       "primary_item": {
-        "id": "36ce1c0ac3c28ccdfbca5c7ef388f74dabf116e1",
-        "title": "Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链",
-        "url": "https://www.ithome.com/1/019/268.htm",
-        "source": "IT之家·人工智能",
+        "id": "eaa05489664eb686d3790e0f001f5a3916b3292f",
+        "title": "SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账",
+        "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+        "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_f3aa6dba8d09",
-      "title": "GitHub Copilot app, Universe releases",
-      "url": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
-      "primary_url": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f8fbc5ad7b9234fe2d8855c76227e11580efad81",
-          "title": "GitHub Copilot app, Universe releases",
-          "url": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-28T15:55:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "f8fbc5ad7b9234fe2d8855c76227e11580efad81",
-          "title": "GitHub Copilot app, Universe releases",
-          "url": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-28T15:55:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8322,
-      "importance": 0.8322,
-      "importance_score": 0.8322,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8898,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-28T15:55:00Z",
-      "latest_at": "2026-10-28T15:55:00Z",
-      "primary_item": {
-        "id": "f8fbc5ad7b9234fe2d8855c76227e11580efad81",
-        "title": "GitHub Copilot app, Universe releases",
-        "url": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_75e2017ed4c5",
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "primary_url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0fd968b40feb377d645c078f6daf22388be116cf",
-          "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-          "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-28T13:15:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "0fd968b40feb377d645c078f6daf22388be116cf",
-          "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-          "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-28T13:15:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8261,
-      "importance": 0.8261,
-      "importance_score": 0.8261,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8562,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-28T13:15:00Z",
-      "latest_at": "2026-10-28T13:15:00Z",
-      "primary_item": {
-        "id": "0fd968b40feb377d645c078f6daf22388be116cf",
-        "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-        "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_a9f7caff5c00",
-      "title": "Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft",
-      "url": "https://x.com/rohanpaul_ai/status/2115491649543635378",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2115491649543635378",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "story_id": "story_1e09943a421e",
+      "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑",
+      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+      "primary_url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+      "source": "TechCrunch：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "36fa834a55e5c7ba5b1d9e4a592f9aa72ca95680",
-          "title": "Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft",
-          "url": "https://x.com/rohanpaul_ai/status/2115491649543635378",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "id": "90661e6e3855267c31e8f33a748c9c50402fa6d4",
+          "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑",
+          "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+          "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-28T17:11:27Z"
+          "published_at": "2026-10-29T20:08:31Z"
+        },
+        {
+          "id": "8e3516f54ddd6bf7d6b87e8a37f4ad9ad8973336",
+          "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑 / As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+          "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-29T20:08:31Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
       ],
       "items": [
         {
-          "id": "36fa834a55e5c7ba5b1d9e4a592f9aa72ca95680",
-          "title": "Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft",
-          "url": "https://x.com/rohanpaul_ai/status/2115491649543635378",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "id": "90661e6e3855267c31e8f33a748c9c50402fa6d4",
+          "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑",
+          "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+          "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-28T17:11:27Z"
+          "published_at": "2026-10-29T20:08:31Z"
+        },
+        {
+          "id": "8e3516f54ddd6bf7d6b87e8a37f4ad9ad8973336",
+          "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑 / As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+          "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-29T20:08:31Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7897,
-      "importance": 0.7897,
-      "importance_score": 0.7897,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7978,
+      "importance": 0.7978,
+      "importance_score": 0.7978,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.85,
+        "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9063,
-        "story_heat": 0.0
+        "recency": 0.9458,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-28T17:11:27Z",
-      "latest_at": "2026-10-28T17:11:27Z",
+      "earliest_at": "2026-10-29T20:08:31Z",
+      "latest_at": "2026-10-29T20:08:31Z",
       "primary_item": {
-        "id": "36fa834a55e5c7ba5b1d9e4a592f9aa72ca95680",
-        "title": "Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft",
-        "url": "https://x.com/rohanpaul_ai/status/2115491649543635378",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "id": "90661e6e3855267c31e8f33a748c9c50402fa6d4",
+        "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑",
+        "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_2979f3a7e5a5",
-      "title": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一",
-      "url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense",
-      "primary_url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense",
+      "story_id": "story_d7766a294965",
+      "title": "Google 三季度搜索增速不及预期，投资者担忧 AI 搜索变现拖累核心业务",
+      "url": "https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe",
+      "primary_url": "https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe",
       "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "fa81ea92ca9d94d4a479d2bf569840f5fe997a1a",
-          "title": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一",
-          "url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense",
+          "id": "af60c04413c21de76dda706eafcda5fedf8b7805",
+          "title": "Google 三季度搜索增速不及预期，投资者担忧 AI 搜索变现拖累核心业务",
+          "url": "https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-28T10:56:24Z"
+          "published_at": "2026-10-29T10:16:34Z"
         },
         {
-          "id": "eed2f776987338fc86101dc54521e7cc075b321b",
-          "title": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一 / AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
-          "url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense",
+          "id": "c2ffa511fe3d32a061d1ea47093d596bb3cb549c",
+          "title": "Google 三季度搜索增速不及预期，投资者担忧 AI 搜索变现拖累核心业务 / Google's AI search problem finally shows up in the earnings report, some investors believe",
+          "url": "https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe",
           "source": "The Decoder AI News",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-10-28T10:56:24Z"
+          "published_at": "2026-10-29T10:16:34Z"
         }
       ],
       "source_count": 2,
@@ -630,35 +606,35 @@
       ],
       "items": [
         {
-          "id": "fa81ea92ca9d94d4a479d2bf569840f5fe997a1a",
-          "title": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一",
-          "url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense",
+          "id": "af60c04413c21de76dda706eafcda5fedf8b7805",
+          "title": "Google 三季度搜索增速不及预期，投资者担忧 AI 搜索变现拖累核心业务",
+          "url": "https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-28T10:56:24Z"
+          "published_at": "2026-10-29T10:16:34Z"
         },
         {
-          "id": "eed2f776987338fc86101dc54521e7cc075b321b",
-          "title": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一 / AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
-          "url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense",
+          "id": "c2ffa511fe3d32a061d1ea47093d596bb3cb549c",
+          "title": "Google 三季度搜索增速不及预期，投资者担忧 AI 搜索变现拖累核心业务 / Google's AI search problem finally shows up in the earnings report, some investors believe",
+          "url": "https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe",
           "source": "The Decoder AI News",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-10-28T10:56:24Z"
+          "published_at": "2026-10-29T10:16:34Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7767,
-      "importance": 0.7767,
-      "importance_score": 0.7767,
+      "score": 0.7842,
+      "importance": 0.7842,
+      "importance_score": 0.7842,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8281,
+        "recency": 0.8202,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -667,60 +643,60 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-28T10:56:24Z",
-      "latest_at": "2026-10-28T10:56:24Z",
+      "earliest_at": "2026-10-29T10:16:34Z",
+      "latest_at": "2026-10-29T10:16:34Z",
       "primary_item": {
-        "id": "fa81ea92ca9d94d4a479d2bf569840f5fe997a1a",
-        "title": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一",
-        "url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense",
+        "id": "af60c04413c21de76dda706eafcda5fedf8b7805",
+        "title": "Google 三季度搜索增速不及预期，投资者担忧 AI 搜索变现拖累核心业务",
+        "url": "https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_067bd3e13080",
-      "title": "Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性",
-      "url": "https://www.wheresyoured.at/exit-liquidity",
-      "primary_url": "https://www.wheresyoured.at/exit-liquidity",
-      "source": "Ed Zitron 长文 / Where’s Your Ed At（RSS）",
+      "story_id": "story_f7d0f7defa94",
+      "title": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧",
+      "url": "https://www.understandingai.org/p/anthropics-financials-are-surprisingly",
+      "primary_url": "https://www.understandingai.org/p/anthropics-financials-are-surprisingly",
+      "source": "Timothy B. Lee：Understanding AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e1bce0a78d751dae23274eb2ed44ab6f3d4ce402",
-          "title": "Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性",
-          "url": "https://www.wheresyoured.at/exit-liquidity",
-          "source": "Ed Zitron 长文 / Where’s Your Ed At（RSS）",
+          "id": "c57b1132c9326c88bce5f776e8fa8638f7b83df1",
+          "title": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧",
+          "url": "https://www.understandingai.org/p/anthropics-financials-are-surprisingly",
+          "source": "Timothy B. Lee：Understanding AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-28T17:51:00Z"
+          "published_at": "2026-10-29T19:10:41Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Ed Zitron 长文 / Where’s Your Ed At（RSS）"
+        "Timothy B. Lee：Understanding AI（RSS）"
       ],
       "items": [
         {
-          "id": "e1bce0a78d751dae23274eb2ed44ab6f3d4ce402",
-          "title": "Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性",
-          "url": "https://www.wheresyoured.at/exit-liquidity",
-          "source": "Ed Zitron 长文 / Where’s Your Ed At（RSS）",
+          "id": "c57b1132c9326c88bce5f776e8fa8638f7b83df1",
+          "title": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧",
+          "url": "https://www.understandingai.org/p/anthropics-financials-are-surprisingly",
+          "source": "Timothy B. Lee：Understanding AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-28T17:51:00Z"
+          "published_at": "2026-10-29T19:10:41Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7763,
-      "importance": 0.7763,
-      "importance_score": 0.7763,
+      "score": 0.7795,
+      "importance": 0.7795,
+      "importance_score": 0.7795,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.915,
+        "recency": 0.9327,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -728,183 +704,141 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-28T17:51:00Z",
-      "latest_at": "2026-10-28T17:51:00Z",
+      "earliest_at": "2026-10-29T19:10:41Z",
+      "latest_at": "2026-10-29T19:10:41Z",
       "primary_item": {
-        "id": "e1bce0a78d751dae23274eb2ed44ab6f3d4ce402",
-        "title": "Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性",
-        "url": "https://www.wheresyoured.at/exit-liquidity",
-        "source": "Ed Zitron 长文 / Where’s Your Ed At（RSS）",
+        "id": "c57b1132c9326c88bce5f776e8fa8638f7b83df1",
+        "title": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧",
+        "url": "https://www.understandingai.org/p/anthropics-financials-are-surprisingly",
+        "source": "Timothy B. Lee：Understanding AI（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_841f88c40f1c",
-      "title": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103%",
-      "url": "https://x.com/sundarpichai/status/2115535455156642066",
-      "primary_url": "https://x.com/sundarpichai/status/2115535455156642066",
-      "source": "X：Sundar Pichai (@sundarpichai)",
+      "story_id": "story_0b3918620b86",
+      "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+      "source": "The Verge：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "fd53467550a751aad87fd7e5f6f51c99ecafa8ab",
-          "title": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103%",
-          "url": "https://x.com/sundarpichai/status/2115535455156642066",
-          "source": "X：Sundar Pichai (@sundarpichai)",
+          "id": "69192c13ed587ff79c9188741cbc4178614eeaab",
+          "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+          "source": "The Verge：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-28T20:05:31Z"
+          "published_at": "2026-10-29T13:30:00Z"
+        },
+        {
+          "id": "f2d470080a8094bb3b43f4082bbda550fad03e32",
+          "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进 / Anthropic’s business plan: Build God or die trying",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-29T13:30:00Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "X：Sundar Pichai (@sundarpichai)"
+        "The Verge",
+        "The Verge：AI（RSS）"
       ],
       "items": [
         {
-          "id": "fd53467550a751aad87fd7e5f6f51c99ecafa8ab",
-          "title": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103%",
-          "url": "https://x.com/sundarpichai/status/2115535455156642066",
-          "source": "X：Sundar Pichai (@sundarpichai)",
+          "id": "69192c13ed587ff79c9188741cbc4178614eeaab",
+          "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+          "source": "The Verge：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-28T20:05:31Z"
+          "published_at": "2026-10-29T13:30:00Z"
+        },
+        {
+          "id": "f2d470080a8094bb3b43f4082bbda550fad03e32",
+          "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进 / Anthropic’s business plan: Build God or die trying",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-29T13:30:00Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7757,
-      "importance": 0.7757,
-      "importance_score": 0.7757,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7913,
+      "importance": 0.7913,
+      "importance_score": 0.7913,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9451,
-        "story_heat": 0.0
+        "recency": 0.8593,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-28T20:05:31Z",
-      "latest_at": "2026-10-28T20:05:31Z",
+      "earliest_at": "2026-10-29T13:30:00Z",
+      "latest_at": "2026-10-29T13:30:00Z",
       "primary_item": {
-        "id": "fd53467550a751aad87fd7e5f6f51c99ecafa8ab",
-        "title": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103%",
-        "url": "https://x.com/sundarpichai/status/2115535455156642066",
-        "source": "X：Sundar Pichai (@sundarpichai)",
+        "id": "69192c13ed587ff79c9188741cbc4178614eeaab",
+        "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+        "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_393d97d2e447",
-      "title": "GitHub Enterprise now includes access to GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e60ec0da27a658af8f30013865adc40b01dade2f",
-          "title": "GitHub Enterprise now includes access to GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-28T15:50:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e60ec0da27a658af8f30013865adc40b01dade2f",
-          "title": "GitHub Enterprise now includes access to GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-28T15:50:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.832,
-      "importance": 0.832,
-      "importance_score": 0.832,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8887,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-28T15:50:00Z",
-      "latest_at": "2026-10-28T15:50:00Z",
-      "primary_item": {
-        "id": "e60ec0da27a658af8f30013865adc40b01dade2f",
-        "title": "GitHub Enterprise now includes access to GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_85daa6a85474",
-      "title": "GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草",
-      "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents",
-      "primary_url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents",
-      "source": "GitHub Blog",
+      "story_id": "story_c986d31b8f59",
+      "title": "Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型",
+      "url": "https://x.com/UnslothAI/status/2115812784189620265",
+      "primary_url": "https://x.com/UnslothAI/status/2115812784189620265",
+      "source": "X：Unsloth (@UnslothAI)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "61da53cc177498974cdf57d108b0f69954338a4b",
-          "title": "GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草",
-          "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents",
-          "source": "GitHub Blog",
+          "id": "617744d3720f957b127b78a2256a05a39d14aeb3",
+          "title": "Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型",
+          "url": "https://x.com/UnslothAI/status/2115812784189620265",
+          "source": "X：Unsloth (@UnslothAI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-28T16:07:40Z"
+          "published_at": "2026-10-29T14:27:32Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Blog"
+        "X：Unsloth (@UnslothAI)"
       ],
       "items": [
         {
-          "id": "61da53cc177498974cdf57d108b0f69954338a4b",
-          "title": "GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草",
-          "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents",
-          "source": "GitHub Blog",
+          "id": "617744d3720f957b127b78a2256a05a39d14aeb3",
+          "title": "Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型",
+          "url": "https://x.com/UnslothAI/status/2115812784189620265",
+          "source": "X：Unsloth (@UnslothAI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-28T16:07:40Z"
+          "published_at": "2026-10-29T14:27:32Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7663,
-      "importance": 0.7663,
-      "importance_score": 0.7663,
+      "score": 0.7594,
+      "importance": 0.7594,
+      "importance_score": 0.7594,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8925,
+        "recency": 0.8713,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -912,32 +846,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-28T16:07:40Z",
-      "latest_at": "2026-10-28T16:07:40Z",
+      "earliest_at": "2026-10-29T14:27:32Z",
+      "latest_at": "2026-10-29T14:27:32Z",
       "primary_item": {
-        "id": "61da53cc177498974cdf57d108b0f69954338a4b",
-        "title": "GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草",
-        "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents",
-        "source": "GitHub Blog",
+        "id": "617744d3720f957b127b78a2256a05a39d14aeb3",
+        "title": "Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型",
+        "url": "https://x.com/UnslothAI/status/2115812784189620265",
+        "source": "X：Unsloth (@UnslothAI)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_41c97fe8dc29",
-      "title": "Legora is building the agentic operating system for legal work",
-      "url": "https://openai.com/index/legora",
-      "primary_url": "https://openai.com/index/legora",
+      "story_id": "story_2d9928289658",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "primary_url": "https://openai.com/index/ropes-gray-ai-diligence",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "2492f0e361fe322fc36ba7254d84b5c1829a0cf8",
-          "title": "Legora is building the agentic operating system for legal work",
-          "url": "https://openai.com/index/legora",
+          "id": "a6c6ea76283b2d65f476d02e152b2a48a39e0140",
+          "title": "How Ropes & Gray is developing AI for transactional diligence",
+          "url": "https://openai.com/index/ropes-gray-ai-diligence",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-28T09:30:00Z"
+          "published_at": "2026-10-29T07:00:00Z"
         }
       ],
       "source_count": 1,
@@ -946,26 +880,26 @@
       ],
       "items": [
         {
-          "id": "2492f0e361fe322fc36ba7254d84b5c1829a0cf8",
-          "title": "Legora is building the agentic operating system for legal work",
-          "url": "https://openai.com/index/legora",
+          "id": "a6c6ea76283b2d65f476d02e152b2a48a39e0140",
+          "title": "How Ropes & Gray is developing AI for transactional diligence",
+          "url": "https://openai.com/index/ropes-gray-ai-diligence",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-28T09:30:00Z"
+          "published_at": "2026-10-29T07:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.818,
-      "importance": 0.818,
-      "importance_score": 0.818,
+      "score": 0.8128,
+      "importance": 0.8128,
+      "importance_score": 0.8128,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8111,
+        "recency": 0.7823,
         "story_heat": 0.0
       },
       "category": "official",
@@ -974,32 +908,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-28T09:30:00Z",
-      "latest_at": "2026-10-28T09:30:00Z",
+      "earliest_at": "2026-10-29T07:00:00Z",
+      "latest_at": "2026-10-29T07:00:00Z",
       "primary_item": {
-        "id": "2492f0e361fe322fc36ba7254d84b5c1829a0cf8",
-        "title": "Legora is building the agentic operating system for legal work",
-        "url": "https://openai.com/index/legora",
+        "id": "a6c6ea76283b2d65f476d02e152b2a48a39e0140",
+        "title": "How Ropes & Gray is developing AI for transactional diligence",
+        "url": "https://openai.com/index/ropes-gray-ai-diligence",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_c3b9d39cdd4c",
-      "title": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
-      "url": "https://www.aibase.com/news/31933",
-      "primary_url": "https://www.aibase.com/news/31933",
+      "story_id": "story_b14c6460c33e",
+      "title": "专为端到端大模型打造：新芯航途发布X7 Ultra智驾芯片，中国首发量产Armv9 车规级CPU",
+      "url": "https://www.aibase.com/news/31967",
+      "primary_url": "https://www.aibase.com/news/31967",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3bd6c21f73ab76430ad67d454e8e5e7279363485",
-          "title": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
-          "url": "https://www.aibase.com/news/31933",
+          "id": "afb2652cac947458818082cdf283ef49f72955b4",
+          "title": "专为端到端大模型打造：新芯航途发布X7 Ultra智驾芯片，中国首发量产Armv9 车规级CPU",
+          "url": "https://www.aibase.com/news/31967",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-28T18:00:03.168720Z"
+          "published_at": "2026-10-29T18:00:03.764849Z"
         }
       ],
       "source_count": 1,
@@ -1008,13 +942,13 @@
       ],
       "items": [
         {
-          "id": "3bd6c21f73ab76430ad67d454e8e5e7279363485",
-          "title": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
-          "url": "https://www.aibase.com/news/31933",
+          "id": "afb2652cac947458818082cdf283ef49f72955b4",
+          "title": "专为端到端大模型打造：新芯航途发布X7 Ultra智驾芯片，中国首发量产Armv9 车规级CPU",
+          "url": "https://www.aibase.com/news/31967",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-28T18:00:03.168720Z"
+          "published_at": "2026-10-29T18:00:03.764849Z"
         }
       ],
       "item_count": 1,
@@ -1035,336 +969,454 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-28T18:00:03.168720Z",
-      "latest_at": "2026-10-28T18:00:03.168720Z",
+      "earliest_at": "2026-10-29T18:00:03.764849Z",
+      "latest_at": "2026-10-29T18:00:03.764849Z",
       "primary_item": {
-        "id": "3bd6c21f73ab76430ad67d454e8e5e7279363485",
-        "title": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
-        "url": "https://www.aibase.com/news/31933",
+        "id": "afb2652cac947458818082cdf283ef49f72955b4",
+        "title": "专为端到端大模型打造：新芯航途发布X7 Ultra智驾芯片，中国首发量产Armv9 车规级CPU",
+        "url": "https://www.aibase.com/news/31967",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_448f123bbaa5",
-      "title": "Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字",
-      "url": "https://x.com/SaitoWu/status/2115376256929948006",
-      "primary_url": "https://x.com/SaitoWu/status/2115376256929948006",
-      "source": "X：Saito 硬地骇客 (@SaitoWu)",
+      "story_id": "story_811a8ed42b70",
+      "title": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋",
+      "url": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times",
+      "primary_url": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times",
+      "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "3bf52f7e1310c3c9edd668d27b1f730c3e096793",
-          "title": "Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字",
-          "url": "https://x.com/SaitoWu/status/2115376256929948006",
-          "source": "X：Saito 硬地骇客 (@SaitoWu)",
+          "id": "47edff69b7dec3baffdce5a806a6f1d7d70cd875",
+          "title": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋",
+          "url": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-28T09:32:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Saito 硬地骇客 (@SaitoWu)"
-      ],
-      "items": [
-        {
-          "id": "3bf52f7e1310c3c9edd668d27b1f730c3e096793",
-          "title": "Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字",
-          "url": "https://x.com/SaitoWu/status/2115376256929948006",
-          "source": "X：Saito 硬地骇客 (@SaitoWu)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T09:32:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7517,
-      "importance": 0.7517,
-      "importance_score": 0.7517,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8116,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-28T09:32:56Z",
-      "latest_at": "2026-10-28T09:32:56Z",
-      "primary_item": {
-        "id": "3bf52f7e1310c3c9edd668d27b1f730c3e096793",
-        "title": "Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字",
-        "url": "https://x.com/SaitoWu/status/2115376256929948006",
-        "source": "X：Saito 硬地骇客 (@SaitoWu)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499654&idx=1&sn=9bcbf9492c492a5d5e611af41670425f",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499654&idx=1&sn=9bcbf9492c492a5d5e611af41670425f",
-      "source": "公众号：面壁智能（MiniCPM）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a60a346fe76490a3702395da6ecf4903e4c23fbb",
-          "title": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499654&idx=1&sn=9bcbf9492c492a5d5e611af41670425f",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T11:38:17Z"
+          "published_at": "2026-10-29T13:42:38Z"
         },
         {
-          "id": "319dde6f1d733805359b50f1a7f300474b089d10",
-          "title": "Google 发布世界模型 Genie 4，支持实时操控与原生音频",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687902&idx=1&sn=9a57b3d769582b12d8645af23431743d",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T00:22:00Z"
+          "id": "32c351d9ace2ffc2caa3e09b4045a8e0bcafb85e",
+          "title": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋 / Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
+          "url": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-29T13:42:38Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "公众号：数字生命卡兹克",
-        "公众号：面壁智能（MiniCPM）"
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "a60a346fe76490a3702395da6ecf4903e4c23fbb",
-          "title": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499654&idx=1&sn=9bcbf9492c492a5d5e611af41670425f",
-          "source": "公众号：面壁智能（MiniCPM）",
+          "id": "47edff69b7dec3baffdce5a806a6f1d7d70cd875",
+          "title": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋",
+          "url": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-28T11:38:17Z"
+          "published_at": "2026-10-29T13:42:38Z"
         },
         {
-          "id": "319dde6f1d733805359b50f1a7f300474b089d10",
-          "title": "Google 发布世界模型 Genie 4，支持实时操控与原生音频",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687902&idx=1&sn=9a57b3d769582b12d8645af23431743d",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T00:22:00Z"
+          "id": "32c351d9ace2ffc2caa3e09b4045a8e0bcafb85e",
+          "title": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋 / Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
+          "url": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-29T13:42:38Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7452,
-      "importance": 0.7452,
-      "importance_score": 0.7452,
+      "score": 0.7827,
+      "importance": 0.7827,
+      "importance_score": 0.7827,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.66,
+        "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8365,
+        "recency": 0.8619,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-28T00:22:00Z",
-      "latest_at": "2026-10-28T11:38:17Z",
-      "primary_item": {
-        "id": "a60a346fe76490a3702395da6ecf4903e4c23fbb",
-        "title": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499654&idx=1&sn=9bcbf9492c492a5d5e611af41670425f",
-        "source": "公众号：面壁智能（MiniCPM）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_adf1996fc970",
-      "title": "Security extension for the GitHub Copilot app",
-      "url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "026c7449911905b0e5e4cf5547827fd121f6688c",
-          "title": "Security extension for the GitHub Copilot app",
-          "url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-28T15:45:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "026c7449911905b0e5e4cf5547827fd121f6688c",
-          "title": "Security extension for the GitHub Copilot app",
-          "url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-28T15:45:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8318,
-      "importance": 0.8318,
-      "importance_score": 0.8318,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8877,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-28T15:45:00Z",
-      "latest_at": "2026-10-28T15:45:00Z",
+      "earliest_at": "2026-10-29T13:42:38Z",
+      "latest_at": "2026-10-29T13:42:38Z",
       "primary_item": {
-        "id": "026c7449911905b0e5e4cf5547827fd121f6688c",
-        "title": "Security extension for the GitHub Copilot app",
-        "url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_1b16f2a2a47a",
-      "title": "Anthropic IPO 最大赢家或为 Amazon 而非 VC",
-      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more",
-      "primary_url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2dd0dac57a6c3f600c290dc9567b9091da95caba",
-          "title": "Anthropic IPO 最大赢家或为 Amazon 而非 VC",
-          "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T01:15:28Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "2dd0dac57a6c3f600c290dc9567b9091da95caba",
-          "title": "Anthropic IPO 最大赢家或为 Amazon 而非 VC",
-          "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T01:15:28Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7201,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-28T01:15:28Z",
-      "latest_at": "2026-10-28T01:15:28Z",
-      "primary_item": {
-        "id": "2dd0dac57a6c3f600c290dc9567b9091da95caba",
-        "title": "Anthropic IPO 最大赢家或为 Amazon 而非 VC",
-        "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more",
-        "source": "TechCrunch：AI（RSS）",
+        "id": "47edff69b7dec3baffdce5a806a6f1d7d70cd875",
+        "title": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋",
+        "url": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_f7c3c9c067f4",
-      "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code",
-      "url": "https://x.com/bcherny/status/2115491259381072269",
-      "primary_url": "https://x.com/bcherny/status/2115491259381072269",
-      "source": "X：Boris Cherny (@bcherny)",
+      "story_id": "story_450e038596b6",
+      "title": "Pika 基于MiniMax H3后训练并开源 Pika H3 Flex 视频生成模型",
+      "url": "https://x.com/Khazix0918/status/2115898252004622617",
+      "primary_url": "https://x.com/Khazix0918/status/2115898252004622617",
+      "source": "X：卡兹克 (@Khazix0918)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d2353704e32a7603145331df04f6fc2fb8260bee",
-          "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code",
-          "url": "https://x.com/bcherny/status/2115491259381072269",
-          "source": "X：Boris Cherny (@bcherny)",
+          "id": "479ec0f01777064a89f096e800d825396401f30f",
+          "title": "Pika 基于MiniMax H3后训练并开源 Pika H3 Flex 视频生成模型",
+          "url": "https://x.com/Khazix0918/status/2115898252004622617",
+          "source": "X：卡兹克 (@Khazix0918)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-28T17:09:54Z"
+          "published_at": "2026-10-29T20:07:09Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Boris Cherny (@bcherny)"
+        "X：卡兹克 (@Khazix0918)"
       ],
       "items": [
         {
-          "id": "d2353704e32a7603145331df04f6fc2fb8260bee",
-          "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code",
-          "url": "https://x.com/bcherny/status/2115491259381072269",
-          "source": "X：Boris Cherny (@bcherny)",
+          "id": "479ec0f01777064a89f096e800d825396401f30f",
+          "title": "Pika 基于MiniMax H3后训练并开源 Pika H3 Flex 视频生成模型",
+          "url": "https://x.com/Khazix0918/status/2115898252004622617",
+          "source": "X：卡兹克 (@Khazix0918)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-28T17:09:54Z"
+          "published_at": "2026-10-29T20:07:09Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7357,
-      "importance": 0.7357,
-      "importance_score": 0.7357,
+      "score": 0.7458,
+      "importance": 0.7458,
+      "importance_score": 0.7458,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.67,
+        "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.906,
+        "recency": 0.9455,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-28T17:09:54Z",
-      "latest_at": "2026-10-28T17:09:54Z",
+      "earliest_at": "2026-10-29T20:07:09Z",
+      "latest_at": "2026-10-29T20:07:09Z",
       "primary_item": {
-        "id": "d2353704e32a7603145331df04f6fc2fb8260bee",
-        "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code",
-        "url": "https://x.com/bcherny/status/2115491259381072269",
-        "source": "X：Boris Cherny (@bcherny)",
+        "id": "479ec0f01777064a89f096e800d825396401f30f",
+        "title": "Pika 基于MiniMax H3后训练并开源 Pika H3 Flex 视频生成模型",
+        "url": "https://x.com/Khazix0918/status/2115898252004622617",
+        "source": "X：卡兹克 (@Khazix0918)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2aa9f2271be1",
+      "title": "Wiz 分析智能体攻击的七大指纹与发展趋势",
+      "url": "https://www.wiz.io/blog/the-rise-of-agentic-attacks-what-they-look-like-and-where-theyre-headed",
+      "primary_url": "https://www.wiz.io/blog/the-rise-of-agentic-attacks-what-they-look-like-and-where-theyre-headed",
+      "source": "Wiz：Research（安全研究）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1fea79ecc546cf2b0924b0a417f45fd211d9f6ec",
+          "title": "Wiz 分析智能体攻击的七大指纹与发展趋势",
+          "url": "https://www.wiz.io/blog/the-rise-of-agentic-attacks-what-they-look-like-and-where-theyre-headed",
+          "source": "Wiz：Research（安全研究）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T14:36:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Wiz：Research（安全研究）"
+      ],
+      "items": [
+        {
+          "id": "1fea79ecc546cf2b0924b0a417f45fd211d9f6ec",
+          "title": "Wiz 分析智能体攻击的七大指纹与发展趋势",
+          "url": "https://www.wiz.io/blog/the-rise-of-agentic-attacks-what-they-look-like-and-where-theyre-headed",
+          "source": "Wiz：Research（安全研究）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T14:36:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7388,
+      "importance": 0.7388,
+      "importance_score": 0.7388,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8731,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-29T14:36:22Z",
+      "latest_at": "2026-10-29T14:36:22Z",
+      "primary_item": {
+        "id": "1fea79ecc546cf2b0924b0a417f45fd211d9f6ec",
+        "title": "Wiz 分析智能体攻击的七大指纹与发展趋势",
+        "url": "https://www.wiz.io/blog/the-rise-of-agentic-attacks-what-they-look-like-and-where-theyre-headed",
+        "source": "Wiz：Research（安全研究）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_74012c739433",
+      "title": "腾讯混元发布 Hy-Nomas 技术报告并开源 Hy-Nomas-Bench",
+      "url": "https://x.com/TencentHunyuan/status/2115851165904814283",
+      "primary_url": "https://x.com/TencentHunyuan/status/2115851165904814283",
+      "source": "X：腾讯混元 (@TencentHunyuan)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e6151e776427ad923564dde0616e34230f779a77",
+          "title": "腾讯混元发布 Hy-Nomas 技术报告并开源 Hy-Nomas-Bench",
+          "url": "https://x.com/TencentHunyuan/status/2115851165904814283",
+          "source": "X：腾讯混元 (@TencentHunyuan)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T17:00:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：腾讯混元 (@TencentHunyuan)"
+      ],
+      "items": [
+        {
+          "id": "e6151e776427ad923564dde0616e34230f779a77",
+          "title": "腾讯混元发布 Hy-Nomas 技术报告并开源 Hy-Nomas-Bench",
+          "url": "https://x.com/TencentHunyuan/status/2115851165904814283",
+          "source": "X：腾讯混元 (@TencentHunyuan)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T17:00:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7383,
+      "importance": 0.7383,
+      "importance_score": 0.7383,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9039,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-29T17:00:03Z",
+      "latest_at": "2026-10-29T17:00:03Z",
+      "primary_item": {
+        "id": "e6151e776427ad923564dde0616e34230f779a77",
+        "title": "腾讯混元发布 Hy-Nomas 技术报告并开源 Hy-Nomas-Bench",
+        "url": "https://x.com/TencentHunyuan/status/2115851165904814283",
+        "source": "X：腾讯混元 (@TencentHunyuan)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b76749fb7bd8",
+      "title": "Addy Osmani 谈你可能对 Claude 过度提示了",
+      "url": "https://x.com/addyosmani/status/2115688494865465370",
+      "primary_url": "https://x.com/addyosmani/status/2115688494865465370",
+      "source": "X：Addy Osmani (@addyosmani)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e8d8d82b3d02fec46424e67df6482a7f2fd29bcb",
+          "title": "Addy Osmani 谈你可能对 Claude 过度提示了",
+          "url": "https://x.com/addyosmani/status/2115688494865465370",
+          "source": "X：Addy Osmani (@addyosmani)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T06:13:39Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Addy Osmani (@addyosmani)"
+      ],
+      "items": [
+        {
+          "id": "e8d8d82b3d02fec46424e67df6482a7f2fd29bcb",
+          "title": "Addy Osmani 谈你可能对 Claude 过度提示了",
+          "url": "https://x.com/addyosmani/status/2115688494865465370",
+          "source": "X：Addy Osmani (@addyosmani)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T06:13:39Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7299,
+      "importance": 0.7299,
+      "importance_score": 0.7299,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7736,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-29T06:13:39Z",
+      "latest_at": "2026-10-29T06:13:39Z",
+      "primary_item": {
+        "id": "e8d8d82b3d02fec46424e67df6482a7f2fd29bcb",
+        "title": "Addy Osmani 谈你可能对 Claude 过度提示了",
+        "url": "https://x.com/addyosmani/status/2115688494865465370",
+        "source": "X：Addy Osmani (@addyosmani)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_90b41198b624",
+      "title": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能",
+      "url": "https://x.com/GeminiApp/status/2115845164824711247",
+      "primary_url": "https://x.com/GeminiApp/status/2115845164824711247",
+      "source": "X：Gemini (@GeminiApp)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e3a83054d7dbc4ee60d48dfb632ba4de622fe78a",
+          "title": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能",
+          "url": "https://x.com/GeminiApp/status/2115845164824711247",
+          "source": "X：Gemini (@GeminiApp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T16:36:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Gemini (@GeminiApp)"
+      ],
+      "items": [
+        {
+          "id": "e3a83054d7dbc4ee60d48dfb632ba4de622fe78a",
+          "title": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能",
+          "url": "https://x.com/GeminiApp/status/2115845164824711247",
+          "source": "X：Gemini (@GeminiApp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T16:36:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7284,
+      "importance": 0.7284,
+      "importance_score": 0.7284,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8987,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-29T16:36:12Z",
+      "latest_at": "2026-10-29T16:36:12Z",
+      "primary_item": {
+        "id": "e3a83054d7dbc4ee60d48dfb632ba4de622fe78a",
+        "title": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能",
+        "url": "https://x.com/GeminiApp/status/2115845164824711247",
+        "source": "X：Gemini (@GeminiApp)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c2861e26a175",
+      "title": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
+      "url": "https://x.com/thsottiaux/status/2115850175868727621",
+      "primary_url": "https://x.com/thsottiaux/status/2115850175868727621",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "00b59977dc0bd1a205a8340d09aff2f8388ca75c",
+          "title": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
+          "url": "https://x.com/thsottiaux/status/2115850175868727621",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T16:56:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "00b59977dc0bd1a205a8340d09aff2f8388ca75c",
+          "title": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
+          "url": "https://x.com/thsottiaux/status/2115850175868727621",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T16:56:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7261,
+      "importance": 0.7261,
+      "importance_score": 0.7261,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.64,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.903,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-29T16:56:07Z",
+      "latest_at": "2026-10-29T16:56:07Z",
+      "primary_item": {
+        "id": "00b59977dc0bd1a205a8340d09aff2f8388ca75c",
+        "title": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
+        "url": "https://x.com/thsottiaux/status/2115850175868727621",
+        "source": "X：Tibo (@thsottiaux)",
         "source_name": "AI HOT"
       }
     }
