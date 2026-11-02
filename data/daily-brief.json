@@ -1,147 +1,33 @@
 {
-  "generated_at": "2026-11-01T00:00:03.195574Z",
+  "generated_at": "2026-11-02T00:00:03.576084Z",
   "window_hours": 24,
-  "total_items": 5,
+  "total_items": 14,
   "items": [
     {
-      "story_id": "story_2df82173bb28",
-      "title": "Suno 开放了 MCP 内测，无需 API Key，授权后就能在 Claude、Cursor 等主流AI工具里直接调用作曲能力，彻底告别跨窗口复制文案的割裂创作流程。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-10-30",
-      "source_name": "WaytoAGI",
+      "story_id": "story_b20adaa5fbb6",
+      "title": "patchy631 / ai-engineering-hub",
+      "url": "https://github.com/patchy631/ai-engineering-hub",
+      "primary_url": "https://github.com/patchy631/ai-engineering-hub",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "85830b2518ee1285c5ae490ecc541b8a71a08681",
-          "title": "Suno 开放了 MCP 内测，无需 API Key，授权后就能在 Claude、Cursor 等主流AI工具里直接调用作曲能力，彻底告别跨窗口复制文案的割裂创作流程。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-30",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-31T00:00:05.353177Z"
-        },
-        {
-          "id": "9668bafd82ced4970e06a69d9b8e9e313f0d2951",
-          "title": "不少人把精力放在临时提示词上，却忽视了AGENTS.md、CLAUDE.md的巨大价值。它能沉淀项目固定约定，明确技术栈、执行命令、代码风格与操作边界，避免每次对话重复沟通，防止 Agent 擅自重构、编造命令、过度设计。文中附有适配Codex与Claude Code的可直接套用的模板，可以帮你稳定Agent输出，减少反复沟通，让代码交付可控、风格统一。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-30",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-31T00:00:05.353177Z"
-        },
-        {
-          "id": "d671e7c3e58ce7b05a374ade34e8d1cf9382fc5f",
-          "title": "大多数智能体项目起步方式相同：最强的模型、长长的提示词、精彩的演示。随后真正的任务到来，一周之内你发现数字与源头不符、上下文丢失，有一天还出现一封未经任何人批准的客户邮件。一起来看看到底如何构建生产级智能体！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-30",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-31T00:00:05.353177Z"
-        },
-        {
-          "id": "ebfbb4b4c9c9f6c1875ff9af2c3a85dbb9430f20",
-          "title": "火爆出圈的DSH Go，是社区打造的安卓端DSH客户端，免Root就能在手机本地跑Agent脚本，一键无缝接力电脑任务。除了支持任务中途插话调整需求，还可授权AI操控手机完成日程等操作，同时对支付、验证码等高风险行为也做了严格限制。一起上手试试，随时随地调度DeepSeek Harness处理代码、数据任务。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-30",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-31T00:00:05.353177Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "社区更新 · 2026-10-30"
-      ],
-      "items": [
-        {
-          "id": "85830b2518ee1285c5ae490ecc541b8a71a08681",
-          "title": "Suno 开放了 MCP 内测，无需 API Key，授权后就能在 Claude、Cursor 等主流AI工具里直接调用作曲能力，彻底告别跨窗口复制文案的割裂创作流程。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-30",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-31T00:00:05.353177Z"
-        },
-        {
-          "id": "9668bafd82ced4970e06a69d9b8e9e313f0d2951",
-          "title": "不少人把精力放在临时提示词上，却忽视了AGENTS.md、CLAUDE.md的巨大价值。它能沉淀项目固定约定，明确技术栈、执行命令、代码风格与操作边界，避免每次对话重复沟通，防止 Agent 擅自重构、编造命令、过度设计。文中附有适配Codex与Claude Code的可直接套用的模板，可以帮你稳定Agent输出，减少反复沟通，让代码交付可控、风格统一。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-30",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-31T00:00:05.353177Z"
-        },
-        {
-          "id": "d671e7c3e58ce7b05a374ade34e8d1cf9382fc5f",
-          "title": "大多数智能体项目起步方式相同：最强的模型、长长的提示词、精彩的演示。随后真正的任务到来，一周之内你发现数字与源头不符、上下文丢失，有一天还出现一封未经任何人批准的客户邮件。一起来看看到底如何构建生产级智能体！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-30",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-31T00:00:05.353177Z"
-        },
-        {
-          "id": "ebfbb4b4c9c9f6c1875ff9af2c3a85dbb9430f20",
-          "title": "火爆出圈的DSH Go，是社区打造的安卓端DSH客户端，免Root就能在手机本地跑Agent脚本，一键无缝接力电脑任务。除了支持任务中途插话调整需求，还可授权AI操控手机完成日程等操作，同时对支付、验证码等高风险行为也做了严格限制。一起上手试试，随时随地调度DeepSeek Harness处理代码、数据任务。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-30",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-31T00:00:05.353177Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5915,
-      "importance": 0.5915,
-      "importance_score": 0.5915,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.7071,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-31T00:00:05.353177Z",
-      "latest_at": "2026-10-31T00:00:05.353177Z",
-      "primary_item": {
-        "id": "85830b2518ee1285c5ae490ecc541b8a71a08681",
-        "title": "Suno 开放了 MCP 内测，无需 API Key，授权后就能在 Claude、Cursor 等主流AI工具里直接调用作曲能力，彻底告别跨窗口复制文案的割裂创作流程。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-10-30",
-        "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_24ee0d11b76f",
-      "title": "Orkas-AI /      Orkas",
-      "url": "https://github.com/Orkas-AI/Orkas",
-      "primary_url": "https://github.com/Orkas-AI/Orkas",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "94b2736ef75ba6fd11e78de12192852272012da7",
-          "title": "Orkas-AI /      Orkas",
-          "url": "https://github.com/Orkas-AI/Orkas",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-01T00:02:38.940000Z"
-        },
-        {
-          "id": "a5f68ec81f5c3482fb6d9b967c116e03a12e2f53",
-          "title": "Orkas-AI / Orkas",
-          "url": "https://github.com/Orkas-AI/Orkas",
+          "id": "a081be3a5ca1ab3a1964cd61a6117258cc9fed10",
+          "title": "patchy631 / ai-engineering-hub",
+          "url": "https://github.com/patchy631/ai-engineering-hub",
           "source": "GitHub · Trending Today",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
+        },
+        {
+          "id": "3adcbf08e7ea39ad18061da3cfe23df347676cb7",
+          "title": "patchy631 /      ai-engineering-hub",
+          "url": "https://github.com/patchy631/ai-engineering-hub",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-01T23:34:57.549000Z"
         }
       ],
       "source_count": 2,
@@ -151,22 +37,22 @@
       ],
       "items": [
         {
-          "id": "94b2736ef75ba6fd11e78de12192852272012da7",
-          "title": "Orkas-AI /      Orkas",
-          "url": "https://github.com/Orkas-AI/Orkas",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-01T00:02:38.940000Z"
-        },
-        {
-          "id": "a5f68ec81f5c3482fb6d9b967c116e03a12e2f53",
-          "title": "Orkas-AI / Orkas",
-          "url": "https://github.com/Orkas-AI/Orkas",
+          "id": "a081be3a5ca1ab3a1964cd61a6117258cc9fed10",
+          "title": "patchy631 / ai-engineering-hub",
+          "url": "https://github.com/patchy631/ai-engineering-hub",
           "source": "GitHub · Trending Today",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
+        },
+        {
+          "id": "3adcbf08e7ea39ad18061da3cfe23df347676cb7",
+          "title": "patchy631 /      ai-engineering-hub",
+          "url": "https://github.com/patchy631/ai-engineering-hub",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-01T23:34:57.549000Z"
         }
       ],
       "item_count": 2,
@@ -186,41 +72,139 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-01T00:00:03.195574Z",
-      "latest_at": "2026-11-01T00:02:38.940000Z",
+      "earliest_at": "2026-11-01T23:34:57.549000Z",
+      "latest_at": "2026-11-02T00:00:03.576084Z",
       "primary_item": {
-        "id": "94b2736ef75ba6fd11e78de12192852272012da7",
-        "title": "Orkas-AI /      Orkas",
-        "url": "https://github.com/Orkas-AI/Orkas",
-        "source": "github",
-        "source_name": "NewsNow"
+        "id": "a081be3a5ca1ab3a1964cd61a6117258cc9fed10",
+        "title": "patchy631 / ai-engineering-hub",
+        "url": "https://github.com/patchy631/ai-engineering-hub",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_e07ec5d69c95",
-      "title": "Anthropic blocks users for anything touching training larger models",
-      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-      "primary_url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "story_id": "story_761e5e0baaa4",
+      "title": "JavaScript 框架的 AI 成本",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
+      "primary_url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
+      "source": "nolanlawson.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "4744caf14833b60d5cf093e7d7a994936da403b3",
+          "title": "JavaScript 框架的 AI 成本",
+          "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
+          "source": "nolanlawson.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T12:27:13.785000Z"
+        },
+        {
+          "id": "4be52ae5d2d921ea14c314522926b5bc8638a606",
+          "title": "JavaScript 框架的 AI 成本 / The AI cost of JavaScript frameworks",
+          "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-01T06:06:19Z"
+        },
+        {
+          "id": "65f9daa1ba8b9ac866c042942145e04ba51a14be",
+          "title": "The AI cost of JavaScript frameworks",
+          "url": "https://news.ycombinator.com/item?id=50323088",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-01T06:06:19Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "nolanlawson.com"
+      ],
+      "items": [
+        {
+          "id": "4744caf14833b60d5cf093e7d7a994936da403b3",
+          "title": "JavaScript 框架的 AI 成本",
+          "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
+          "source": "nolanlawson.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T12:27:13.785000Z"
+        },
+        {
+          "id": "4be52ae5d2d921ea14c314522926b5bc8638a606",
+          "title": "JavaScript 框架的 AI 成本 / The AI cost of JavaScript frameworks",
+          "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-01T06:06:19Z"
+        },
+        {
+          "id": "65f9daa1ba8b9ac866c042942145e04ba51a14be",
+          "title": "The AI cost of JavaScript frameworks",
+          "url": "https://news.ycombinator.com/item?id=50323088",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-01T06:06:19Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5432,
+      "importance": 0.5432,
+      "importance_score": 0.5432,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8464,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-01T06:06:19Z",
+      "latest_at": "2026-11-01T12:27:13.785000Z",
+      "primary_item": {
+        "id": "4744caf14833b60d5cf093e7d7a994936da403b3",
+        "title": "JavaScript 框架的 AI 成本",
+        "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
+        "source": "nolanlawson.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_b23877b88e69",
+      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
+      "primary_url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "f24d3b13cac3634823a076da3204fc0bc43b0d35",
-          "title": "Anthropic blocks users for anything touching training larger models",
-          "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+          "id": "1ce444d7be15b59f5b74b3e73559054b0b9dac51",
+          "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-31T19:39:19Z"
+          "published_at": "2026-11-01T22:10:45Z"
         },
         {
-          "id": "23f3c0a89beb854cf821a2dd0bb366ddace2172e",
-          "title": "Anthropic blocks users for anything touching training larger models",
-          "url": "https://news.ycombinator.com/item?id=50319358",
+          "id": "c1dd654ab1324ce8f59e488c8b6cfadcfe4ac956",
+          "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+          "url": "https://news.ycombinator.com/item?id=50330456",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-31T19:39:19Z"
+          "published_at": "2026-11-01T22:10:45Z"
         }
       ],
       "source_count": 2,
@@ -230,207 +214,918 @@
       ],
       "items": [
         {
-          "id": "f24d3b13cac3634823a076da3204fc0bc43b0d35",
-          "title": "Anthropic blocks users for anything touching training larger models",
-          "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+          "id": "1ce444d7be15b59f5b74b3e73559054b0b9dac51",
+          "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-31T19:39:19Z"
+          "published_at": "2026-11-01T22:10:45Z"
         },
         {
-          "id": "23f3c0a89beb854cf821a2dd0bb366ddace2172e",
-          "title": "Anthropic blocks users for anything touching training larger models",
-          "url": "https://news.ycombinator.com/item?id=50319358",
+          "id": "c1dd654ab1324ce8f59e488c8b6cfadcfe4ac956",
+          "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+          "url": "https://news.ycombinator.com/item?id=50330456",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-31T19:39:19Z"
+          "published_at": "2026-11-01T22:10:45Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5349,
-      "importance": 0.5349,
-      "importance_score": 0.5349,
+      "score": 0.5411,
+      "importance": 0.5411,
+      "importance_score": 0.5411,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9392,
+        "recency": 0.974,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-31T19:39:19Z",
-      "latest_at": "2026-10-31T19:39:19Z",
+      "earliest_at": "2026-11-01T22:10:45Z",
+      "latest_at": "2026-11-01T22:10:45Z",
       "primary_item": {
-        "id": "f24d3b13cac3634823a076da3204fc0bc43b0d35",
-        "title": "Anthropic blocks users for anything touching training larger models",
-        "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+        "id": "1ce444d7be15b59f5b74b3e73559054b0b9dac51",
+        "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+        "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       }
     },
     {
-      "story_id": "story_381223935ae3",
-      "title": "Do the math: How we took over ChatGPT accounts",
-      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-      "primary_url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "story_id": "story_2041779807cb",
+      "title": "所以我想现在大家都是靠大语言模型来思考了吧 / So I guess everyone uses LLMs to think now",
+      "url": "https://eva.ac/blog/llms",
+      "primary_url": "https://eva.ac/blog/llms",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "8b33746b2bb7821b85d3927a406702d63e12eda9",
-          "title": "Do the math: How we took over ChatGPT accounts",
-          "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T10:30:11Z"
+          "id": "be8af8104d5bae6dcf2f887f43934e0d6f1df69e",
+          "title": "所以我想现在大家都是靠大语言模型来思考了吧 / So I guess everyone uses LLMs to think now",
+          "url": "https://eva.ac/blog/llms",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-01T21:49:04Z"
         },
         {
-          "id": "44b7463c3cff3ffb0426ffb964509b84d32ba725",
-          "title": "Do the math: How we took over ChatGPT accounts",
-          "url": "https://news.ycombinator.com/item?id=50314699",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T10:30:11Z"
+          "id": "72dcf68c46782672ecffc6cef40fa33d19c15180",
+          "title": "所以我想现在大家都是靠大语言模型来思考了吧",
+          "url": "https://eva.ac/blog/llms",
+          "source": "eva.ac",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T21:27:56.750000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
+        "Hacker News · 24h最热",
+        "eva.ac"
       ],
       "items": [
         {
-          "id": "8b33746b2bb7821b85d3927a406702d63e12eda9",
-          "title": "Do the math: How we took over ChatGPT accounts",
-          "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T10:30:11Z"
+          "id": "be8af8104d5bae6dcf2f887f43934e0d6f1df69e",
+          "title": "所以我想现在大家都是靠大语言模型来思考了吧 / So I guess everyone uses LLMs to think now",
+          "url": "https://eva.ac/blog/llms",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-01T21:49:04Z"
         },
         {
-          "id": "44b7463c3cff3ffb0426ffb964509b84d32ba725",
-          "title": "Do the math: How we took over ChatGPT accounts",
-          "url": "https://news.ycombinator.com/item?id=50314699",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T10:30:11Z"
+          "id": "72dcf68c46782672ecffc6cef40fa33d19c15180",
+          "title": "所以我想现在大家都是靠大语言模型来思考了吧",
+          "url": "https://eva.ac/blog/llms",
+          "source": "eva.ac",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T21:27:56.750000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5139,
-      "importance": 0.5139,
-      "importance_score": 0.5139,
+      "score": 0.5402,
+      "importance": 0.5402,
+      "importance_score": 0.5402,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8229,
+        "recency": 0.969,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-31T10:30:11Z",
-      "latest_at": "2026-10-31T10:30:11Z",
+      "earliest_at": "2026-11-01T21:27:56.750000Z",
+      "latest_at": "2026-11-01T21:49:04Z",
       "primary_item": {
-        "id": "8b33746b2bb7821b85d3927a406702d63e12eda9",
-        "title": "Do the math: How we took over ChatGPT accounts",
-        "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "id": "be8af8104d5bae6dcf2f887f43934e0d6f1df69e",
+        "title": "所以我想现在大家都是靠大语言模型来思考了吧 / So I guess everyone uses LLMs to think now",
+        "url": "https://eva.ac/blog/llms",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
-      "story_id": "story_10ba719313a0",
-      "title": "人类学/技能 / anthropics /      skills",
-      "url": "https://github.com/anthropics/skills",
-      "primary_url": "https://github.com/anthropics/skills",
-      "source": "github",
-      "source_name": "NewsNow",
+      "story_id": "story_490e15ad1a55",
+      "title": "埃隆·马斯克表示，他将接管一家旧的Spam工厂和一个射击场，以扩建他的“巨像2号”（Colossus 2）人工智能基地。",
+      "url": "https://www.businessinsider.com/elon-musk-colossus-2-campus-spam-gun-range-2026-11",
+      "primary_url": "https://www.businessinsider.com/elon-musk-colossus-2-campus-spam-gun-range-2026-11",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "33fd88a2cadacdc8cc864128f7d4f4a6402fe22f",
-          "title": "人类学/技能 / anthropics /      skills",
-          "url": "https://github.com/anthropics/skills",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T00:02:54.177000Z"
+          "id": "46bfc7ba3237391173bac8378c7ac8a24c4f4822",
+          "title": "埃隆·马斯克表示，他将接管一家旧的Spam工厂和一个射击场，以扩建他的“巨像2号”（Colossus 2）人工智能基地。",
+          "url": "https://www.businessinsider.com/elon-musk-colossus-2-campus-spam-gun-range-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T21:27:57.341000Z"
         },
         {
-          "id": "9a4a51350167f6d0dc8186617f2504075e195c95",
-          "title": "人类/技能 / anthropics / skills",
-          "url": "https://github.com/anthropics/skills",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "9fd2c5f53a449acb03ec69406975479f91bb18db",
+          "title": "埃隆·马斯克表示，他将接管一家旧的Spam工厂和一个射击场，以扩建他的“巨像2号”（Colossus 2）人工智能基地。 / Elon Musk says he is taking over an old Spam factory and a gun range to expand his Colossus 2 AI complex",
+          "url": "https://www.businessinsider.com/elon-musk-colossus-2-campus-spam-gun-range-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-01T21:06:39Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "GitHub · Trending Today",
-        "github"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "33fd88a2cadacdc8cc864128f7d4f4a6402fe22f",
-          "title": "人类学/技能 / anthropics /      skills",
-          "url": "https://github.com/anthropics/skills",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T00:02:54.177000Z"
+          "id": "46bfc7ba3237391173bac8378c7ac8a24c4f4822",
+          "title": "埃隆·马斯克表示，他将接管一家旧的Spam工厂和一个射击场，以扩建他的“巨像2号”（Colossus 2）人工智能基地。",
+          "url": "https://www.businessinsider.com/elon-musk-colossus-2-campus-spam-gun-range-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T21:27:57.341000Z"
         },
         {
-          "id": "9a4a51350167f6d0dc8186617f2504075e195c95",
-          "title": "人类/技能 / anthropics / skills",
-          "url": "https://github.com/anthropics/skills",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "9fd2c5f53a449acb03ec69406975479f91bb18db",
+          "title": "埃隆·马斯克表示，他将接管一家旧的Spam工厂和一个射击场，以扩建他的“巨像2号”（Colossus 2）人工智能基地。 / Elon Musk says he is taking over an old Spam factory and a gun range to expand his Colossus 2 AI complex",
+          "url": "https://www.businessinsider.com/elon-musk-colossus-2-campus-spam-gun-range-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-01T21:06:39Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4932,
-      "importance": 0.4932,
-      "importance_score": 0.4932,
+      "score": 0.5393,
+      "importance": 0.5393,
+      "importance_score": 0.5393,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7076,
+        "recency": 0.9641,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-31T00:00:05.353177Z",
-      "latest_at": "2026-10-31T00:02:54.177000Z",
+      "earliest_at": "2026-11-01T21:06:39Z",
+      "latest_at": "2026-11-01T21:27:57.341000Z",
       "primary_item": {
-        "id": "33fd88a2cadacdc8cc864128f7d4f4a6402fe22f",
-        "title": "人类学/技能 / anthropics /      skills",
-        "url": "https://github.com/anthropics/skills",
-        "source": "github",
-        "source_name": "NewsNow"
+        "id": "46bfc7ba3237391173bac8378c7ac8a24c4f4822",
+        "title": "埃隆·马斯克表示，他将接管一家旧的Spam工厂和一个射击场，以扩建他的“巨像2号”（Colossus 2）人工智能基地。",
+        "url": "https://www.businessinsider.com/elon-musk-colossus-2-campus-spam-gun-range-2026-11",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_4b795773d113",
+      "title": "让质子的电荷发生反转的并不是人工智能",
+      "url": "https://blog.raed.dev/posts/proton-loser-thinking",
+      "primary_url": "https://blog.raed.dev/posts/proton-loser-thinking",
+      "source": "blog.raed.dev",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "4ece4e05425ca1b263e55a44480ab86ce6228505",
+          "title": "让质子的电荷发生反转的并不是人工智能",
+          "url": "https://blog.raed.dev/posts/proton-loser-thinking",
+          "source": "blog.raed.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T21:11:57.459000Z"
+        },
+        {
+          "id": "7dac68d483d7bef817c8630467c5a17e0d026f6a",
+          "title": "让质子的电荷发生反转的并不是人工智能 / It wasn't AI that flipped Proton's charge",
+          "url": "https://blog.raed.dev/posts/proton-loser-thinking",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-01T18:53:55Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "blog.raed.dev"
+      ],
+      "items": [
+        {
+          "id": "4ece4e05425ca1b263e55a44480ab86ce6228505",
+          "title": "让质子的电荷发生反转的并不是人工智能",
+          "url": "https://blog.raed.dev/posts/proton-loser-thinking",
+          "source": "blog.raed.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T21:11:57.459000Z"
+        },
+        {
+          "id": "7dac68d483d7bef817c8630467c5a17e0d026f6a",
+          "title": "让质子的电荷发生反转的并不是人工智能 / It wasn't AI that flipped Proton's charge",
+          "url": "https://blog.raed.dev/posts/proton-loser-thinking",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-01T18:53:55Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5387,
+      "importance": 0.5387,
+      "importance_score": 0.5387,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9603,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-01T18:53:55Z",
+      "latest_at": "2026-11-01T21:11:57.459000Z",
+      "primary_item": {
+        "id": "4ece4e05425ca1b263e55a44480ab86ce6228505",
+        "title": "让质子的电荷发生反转的并不是人工智能",
+        "url": "https://blog.raed.dev/posts/proton-loser-thinking",
+        "source": "blog.raed.dev",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_b2de1d18a605",
+      "title": "使用 braindead-local-intelligence 轻松体验本地人工智能",
+      "url": "https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html",
+      "primary_url": "https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html",
+      "source": "dataswamp.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "47128f6b4ddba7bca84f0a148716b5baeb366b62",
+          "title": "使用 braindead-local-intelligence 轻松体验本地人工智能",
+          "url": "https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html",
+          "source": "dataswamp.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T20:39:55.694000Z"
+        },
+        {
+          "id": "eb9f7a247c3ce6d5df4ea4aff2d90947fb6f3550",
+          "title": "使用 braindead-local-intelligence 轻松体验本地人工智能 / An easy way to try local AI with braindead-local-intelligence",
+          "url": "https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-01T20:26:47Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "dataswamp.org"
+      ],
+      "items": [
+        {
+          "id": "47128f6b4ddba7bca84f0a148716b5baeb366b62",
+          "title": "使用 braindead-local-intelligence 轻松体验本地人工智能",
+          "url": "https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html",
+          "source": "dataswamp.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T20:39:55.694000Z"
+        },
+        {
+          "id": "eb9f7a247c3ce6d5df4ea4aff2d90947fb6f3550",
+          "title": "使用 braindead-local-intelligence 轻松体验本地人工智能 / An easy way to try local AI with braindead-local-intelligence",
+          "url": "https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-01T20:26:47Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5373,
+      "importance": 0.5373,
+      "importance_score": 0.5373,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.953,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-01T20:26:47Z",
+      "latest_at": "2026-11-01T20:39:55.694000Z",
+      "primary_item": {
+        "id": "47128f6b4ddba7bca84f0a148716b5baeb366b62",
+        "title": "使用 braindead-local-intelligence 轻松体验本地人工智能",
+        "url": "https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html",
+        "source": "dataswamp.org",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_8f7e0709d34e",
+      "title": "《我的世界》中的AI智能体群落未能建立文明，反而在官僚主义中陷入泥潭",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+      "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+      "source": "www.tomshardware.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "8a46d62d586a36d5e6f7870d97c9b40574a2c744",
+          "title": "《我的世界》中的AI智能体群落未能建立文明，反而在官僚主义中陷入泥潭",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+          "source": "www.tomshardware.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T17:59:39.145000Z"
+        },
+        {
+          "id": "8b794b689b95e71d38a83bdd9cf285d426248f97",
+          "title": "《我的世界》中的AI智能体群落未能建立文明，反而在官僚主义中陷入泥潭 / AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-01T13:47:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.tomshardware.com"
+      ],
+      "items": [
+        {
+          "id": "8a46d62d586a36d5e6f7870d97c9b40574a2c744",
+          "title": "《我的世界》中的AI智能体群落未能建立文明，反而在官僚主义中陷入泥潭",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+          "source": "www.tomshardware.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T17:59:39.145000Z"
+        },
+        {
+          "id": "8b794b689b95e71d38a83bdd9cf285d426248f97",
+          "title": "《我的世界》中的AI智能体群落未能建立文明，反而在官僚主义中陷入泥潭 / AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-01T13:47:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5308,
+      "importance": 0.5308,
+      "importance_score": 0.5308,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9169,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-01T13:47:24Z",
+      "latest_at": "2026-11-01T17:59:39.145000Z",
+      "primary_item": {
+        "id": "8a46d62d586a36d5e6f7870d97c9b40574a2c744",
+        "title": "《我的世界》中的AI智能体群落未能建立文明，反而在官僚主义中陷入泥潭",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+        "source": "www.tomshardware.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_cb6a16e14435",
+      "title": "据称，Anthropic的Mythos级模型已在Hugging Face上泄露",
+      "url": "https://news.ycombinator.com/item?id=50326727",
+      "primary_url": "https://news.ycombinator.com/item?id=50326727",
+      "source": "news.ycombinator.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "002d0ff343eed341ad9bdcfa0b15d5751d1653c8",
+          "title": "据称，Anthropic的Mythos级模型已在Hugging Face上泄露",
+          "url": "https://news.ycombinator.com/item?id=50326727",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T15:52:55.165000Z"
+        },
+        {
+          "id": "7e3186bf60205d0d97b09996533507de5e16b454",
+          "title": "据称，Anthropic的Mythos级模型已在Hugging Face上泄露 / Anthropic's Mythos-class model allegedly leaked on Hugging Face",
+          "url": "https://news.ycombinator.com/item?id=50326727",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-11-01T15:45:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "news.ycombinator.com"
+      ],
+      "items": [
+        {
+          "id": "002d0ff343eed341ad9bdcfa0b15d5751d1653c8",
+          "title": "据称，Anthropic的Mythos级模型已在Hugging Face上泄露",
+          "url": "https://news.ycombinator.com/item?id=50326727",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T15:52:55.165000Z"
+        },
+        {
+          "id": "7e3186bf60205d0d97b09996533507de5e16b454",
+          "title": "据称，Anthropic的Mythos级模型已在Hugging Face上泄露 / Anthropic's Mythos-class model allegedly leaked on Hugging Face",
+          "url": "https://news.ycombinator.com/item?id=50326727",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-11-01T15:45:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5259,
+      "importance": 0.5259,
+      "importance_score": 0.5259,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8894,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-01T15:45:10Z",
+      "latest_at": "2026-11-01T15:52:55.165000Z",
+      "primary_item": {
+        "id": "002d0ff343eed341ad9bdcfa0b15d5751d1653c8",
+        "title": "据称，Anthropic的Mythos级模型已在Hugging Face上泄露",
+        "url": "https://news.ycombinator.com/item?id=50326727",
+        "source": "news.ycombinator.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_774f7412d1a3",
+      "title": "不使用人工智能，耗时52分钟。手动用C语言编写所有Linux文件处理工具",
+      "url": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
+      "primary_url": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
+      "source": "www.youtube.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "58cf95267b7eeda71842079a4c0a64f9571285e1",
+          "title": "不使用人工智能，耗时52分钟。手动用C语言编写所有Linux文件处理工具",
+          "url": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T12:27:20.216000Z"
+        },
+        {
+          "id": "f8003ff6045ed229f8198d1ed331020f596d1f67",
+          "title": "不使用人工智能，耗时52分钟。手动用C语言编写所有Linux文件处理工具 / No AI, 52 min. Build all Linux Files utils in C by Hand",
+          "url": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-01T11:06:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "www.youtube.com"
+      ],
+      "items": [
+        {
+          "id": "58cf95267b7eeda71842079a4c0a64f9571285e1",
+          "title": "不使用人工智能，耗时52分钟。手动用C语言编写所有Linux文件处理工具",
+          "url": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T12:27:20.216000Z"
+        },
+        {
+          "id": "f8003ff6045ed229f8198d1ed331020f596d1f67",
+          "title": "不使用人工智能，耗时52分钟。手动用C语言编写所有Linux文件处理工具 / No AI, 52 min. Build all Linux Files utils in C by Hand",
+          "url": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-01T11:06:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5182,
+      "importance": 0.5182,
+      "importance_score": 0.5182,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8464,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-01T11:06:14Z",
+      "latest_at": "2026-11-01T12:27:20.216000Z",
+      "primary_item": {
+        "id": "58cf95267b7eeda71842079a4c0a64f9571285e1",
+        "title": "不使用人工智能，耗时52分钟。手动用C语言编写所有Linux文件处理工具",
+        "url": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
+        "source": "www.youtube.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_218237915bc2",
+      "title": "微软人工智能负责人表示，人工智能没有意识，我们应该保持这种状态",
+      "url": "https://www.businessinsider.com/mustafa-suleyman-microsoft-ai-consciousness-2026-11",
+      "primary_url": "https://www.businessinsider.com/mustafa-suleyman-microsoft-ai-consciousness-2026-11",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "19cf58c0c0d3039fe304e55e03c833e7dca076a6",
+          "title": "微软人工智能负责人表示，人工智能没有意识，我们应该保持这种状态",
+          "url": "https://www.businessinsider.com/mustafa-suleyman-microsoft-ai-consciousness-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T19:51:44.133000Z"
+        },
+        {
+          "id": "d9163f9ab699cb2a277d25913a75b3bc7e4f700f",
+          "title": "微软人工智能负责人表示，人工智能没有意识，我们应该保持这种状态 / Microsoft AI chief says AI is not conscious and we should keep it that way",
+          "url": "https://www.businessinsider.com/mustafa-suleyman-microsoft-ai-consciousness-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-01T19:45:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "19cf58c0c0d3039fe304e55e03c833e7dca076a6",
+          "title": "微软人工智能负责人表示，人工智能没有意识，我们应该保持这种状态",
+          "url": "https://www.businessinsider.com/mustafa-suleyman-microsoft-ai-consciousness-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T19:51:44.133000Z"
+        },
+        {
+          "id": "d9163f9ab699cb2a277d25913a75b3bc7e4f700f",
+          "title": "微软人工智能负责人表示，人工智能没有意识，我们应该保持这种状态 / Microsoft AI chief says AI is not conscious and we should keep it that way",
+          "url": "https://www.businessinsider.com/mustafa-suleyman-microsoft-ai-consciousness-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-01T19:45:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5354,
+      "importance": 0.5354,
+      "importance_score": 0.5354,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.942,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-01T19:45:17Z",
+      "latest_at": "2026-11-01T19:51:44.133000Z",
+      "primary_item": {
+        "id": "19cf58c0c0d3039fe304e55e03c833e7dca076a6",
+        "title": "微软人工智能负责人表示，人工智能没有意识，我们应该保持这种状态",
+        "url": "https://www.businessinsider.com/mustafa-suleyman-microsoft-ai-consciousness-2026-11",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_bb2770895061",
+      "title": "这些你从未听说过的公司正在加剧人们对人工智能泡沫可能破裂的担忧",
+      "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+      "source": "www.bbc.co.uk",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "53e636b42ceda7e76f384e1470096b9300892bef",
+          "title": "这些你从未听说过的公司正在加剧人们对人工智能泡沫可能破裂的担忧",
+          "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T02:58:44.429000Z"
+        },
+        {
+          "id": "8adda94f764dfeb790bfc92d50fb99aec48af8ec",
+          "title": "这些你从未听说过的公司正在加剧人们对人工智能泡沫可能破裂的担忧 / These firms you've never heard of are feeding fears the AI bubble could burst",
+          "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-01T01:37:26Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "BBC News",
+        "www.bbc.co.uk"
+      ],
+      "items": [
+        {
+          "id": "53e636b42ceda7e76f384e1470096b9300892bef",
+          "title": "这些你从未听说过的公司正在加剧人们对人工智能泡沫可能破裂的担忧",
+          "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T02:58:44.429000Z"
+        },
+        {
+          "id": "8adda94f764dfeb790bfc92d50fb99aec48af8ec",
+          "title": "这些你从未听说过的公司正在加剧人们对人工智能泡沫可能破裂的担忧 / These firms you've never heard of are feeding fears the AI bubble could burst",
+          "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-01T01:37:26Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4987,
+      "importance": 0.4987,
+      "importance_score": 0.4987,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7382,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-01T01:37:26Z",
+      "latest_at": "2026-11-01T02:58:44.429000Z",
+      "primary_item": {
+        "id": "53e636b42ceda7e76f384e1470096b9300892bef",
+        "title": "这些你从未听说过的公司正在加剧人们对人工智能泡沫可能破裂的担忧",
+        "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+        "source": "www.bbc.co.uk",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_ed22cb5a8503",
+      "title": "《周六夜现场》瞄准人工智能、初创企业文化以及“掠夺性的科技男”",
+      "url": "https://www.businessinsider.com/saturday-night-live-snl-ai-startup-culture-tech-comedy-2026-11",
+      "primary_url": "https://www.businessinsider.com/saturday-night-live-snl-ai-startup-culture-tech-comedy-2026-11",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "5e06493e65d65a44ef81fc78385c62061c983f2c",
+          "title": "《周六夜现场》瞄准人工智能、初创企业文化以及“掠夺性的科技男”",
+          "url": "https://www.businessinsider.com/saturday-night-live-snl-ai-startup-culture-tech-comedy-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T17:27:41.475000Z"
+        },
+        {
+          "id": "113dad7bce28fbb29341bc078ee9c7d767158c99",
+          "title": "《周六夜现场》瞄准人工智能、初创企业文化以及“掠夺性的科技男” / 'SNL' goes after AI, startup culture, and 'predatory tech guys'",
+          "url": "https://www.businessinsider.com/saturday-night-live-snl-ai-startup-culture-tech-comedy-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-01T17:13:48Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "5e06493e65d65a44ef81fc78385c62061c983f2c",
+          "title": "《周六夜现场》瞄准人工智能、初创企业文化以及“掠夺性的科技男”",
+          "url": "https://www.businessinsider.com/saturday-night-live-snl-ai-startup-culture-tech-comedy-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T17:27:41.475000Z"
+        },
+        {
+          "id": "113dad7bce28fbb29341bc078ee9c7d767158c99",
+          "title": "《周六夜现场》瞄准人工智能、初创企业文化以及“掠夺性的科技男” / 'SNL' goes after AI, startup culture, and 'predatory tech guys'",
+          "url": "https://www.businessinsider.com/saturday-night-live-snl-ai-startup-culture-tech-comedy-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-01T17:13:48Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5296,
+      "importance": 0.5296,
+      "importance_score": 0.5296,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9099,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-01T17:13:48Z",
+      "latest_at": "2026-11-01T17:27:41.475000Z",
+      "primary_item": {
+        "id": "5e06493e65d65a44ef81fc78385c62061c983f2c",
+        "title": "《周六夜现场》瞄准人工智能、初创企业文化以及“掠夺性的科技男”",
+        "url": "https://www.businessinsider.com/saturday-night-live-snl-ai-startup-culture-tech-comedy-2026-11",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_b997047b8551",
+      "title": "以Anthropic向客户收取的价格计算，该公司内部的人工智能使用价值现已超过员工薪资总额。",
+      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+      "primary_url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b6fe1bc07af0adfb43e9920785652393fe58440a",
+          "title": "以Anthropic向客户收取的价格计算，该公司内部的人工智能使用价值现已超过员工薪资总额。",
+          "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T15:20:48.045000Z"
+        },
+        {
+          "id": "2794bf81b25e209207bb5f470962c70a84c3e353",
+          "title": "以Anthropic向客户收取的价格计算，该公司内部的人工智能使用价值现已超过员工薪资总额。 / Anthropic's internal AI use, valued at retail prices, now exceeds its employee pay",
+          "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-01T15:00:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "b6fe1bc07af0adfb43e9920785652393fe58440a",
+          "title": "以Anthropic向客户收取的价格计算，该公司内部的人工智能使用价值现已超过员工薪资总额。",
+          "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T15:20:48.045000Z"
+        },
+        {
+          "id": "2794bf81b25e209207bb5f470962c70a84c3e353",
+          "title": "以Anthropic向客户收取的价格计算，该公司内部的人工智能使用价值现已超过员工薪资总额。 / Anthropic's internal AI use, valued at retail prices, now exceeds its employee pay",
+          "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-01T15:00:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5247,
+      "importance": 0.5247,
+      "importance_score": 0.5247,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8825,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-01T15:00:01Z",
+      "latest_at": "2026-11-01T15:20:48.045000Z",
+      "primary_item": {
+        "id": "b6fe1bc07af0adfb43e9920785652393fe58440a",
+        "title": "以Anthropic向客户收取的价格计算，该公司内部的人工智能使用价值现已超过员工薪资总额。",
+        "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     }
   ]
