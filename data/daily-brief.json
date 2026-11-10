@@ -1,77 +1,741 @@
 {
-  "generated_at": "2026-11-09T00:00:05.922684Z",
+  "generated_at": "2026-11-10T00:00:05.345995Z",
   "window_hours": 24,
-  "total_items": 13,
+  "total_items": 20,
   "items": [
     {
-      "story_id": "story_ea760ce1fa5f",
-      "title": "何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-08-ai-deep-signals-weekly-2026-w45",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-08-ai-deep-signals-weekly-2026-w45",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
+      "story_id": "story_057e22ab69c0",
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "primary_url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "4ed0d205bde53569c251b831b5277e17b8e1cbaa",
-          "title": "何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-08-ai-deep-signals-weekly-2026-w45",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-11-08T11:34:35Z"
+          "id": "54170f7bc75122eecdc2fce6ca02f61da42c8503",
+          "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T15:05:57Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Daily Digest"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "4ed0d205bde53569c251b831b5277e17b8e1cbaa",
-          "title": "何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-08-ai-deep-signals-weekly-2026-w45",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-11-08T11:34:35Z"
+          "id": "54170f7bc75122eecdc2fce6ca02f61da42c8503",
+          "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T15:05:57Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.738,
-      "importance": 0.738,
-      "importance_score": 0.738,
+      "score": 0.8483,
+      "importance": 0.8483,
+      "importance_score": 0.8483,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.8794,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T15:05:57Z",
+      "latest_at": "2026-11-09T15:05:57Z",
+      "primary_item": {
+        "id": "54170f7bc75122eecdc2fce6ca02f61da42c8503",
+        "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_9c331579e229",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "primary_url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b5b74182ef3bc39bd7477591301a2b995f9e5645",
+          "title": "ChatGPT Enterprise now available in AWS Marketplace",
+          "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T19:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "b5b74182ef3bc39bd7477591301a2b995f9e5645",
+          "title": "ChatGPT Enterprise now available in AWS Marketplace",
+          "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8475,
+      "importance": 0.8475,
+      "importance_score": 0.8475,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9303,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T19:00:00Z",
+      "latest_at": "2026-11-09T19:00:00Z",
+      "primary_item": {
+        "id": "b5b74182ef3bc39bd7477591301a2b995f9e5645",
+        "title": "ChatGPT Enterprise now available in AWS Marketplace",
+        "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_773234e7b2ac",
+      "title": "Claude Fable 5.2 in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2b16a7a9f935eae9e71325c01e46eed898720acf",
+          "title": "Claude Fable 5.2 in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T16:46:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "2b16a7a9f935eae9e71325c01e46eed898720acf",
+          "title": "Claude Fable 5.2 in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T16:46:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8422,
+      "importance": 0.8422,
+      "importance_score": 0.8422,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.901,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T16:46:43Z",
+      "latest_at": "2026-11-09T16:46:43Z",
+      "primary_item": {
+        "id": "2b16a7a9f935eae9e71325c01e46eed898720acf",
+        "title": "Claude Fable 5.2 in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_7b1451fc786c",
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "primary_url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5efec1cd5bcd76249e5afb10fa5d26a1e3bcf316",
+          "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T12:34:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "5efec1cd5bcd76249e5afb10fa5d26a1e3bcf316",
+          "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T12:34:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8326,
+      "importance": 0.8326,
+      "importance_score": 0.8326,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8479,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T12:34:29Z",
+      "latest_at": "2026-11-09T12:34:29Z",
+      "primary_item": {
+        "id": "5efec1cd5bcd76249e5afb10fa5d26a1e3bcf316",
+        "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+        "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f37b680abcf7",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "url": "https://openai.com/index/control-room",
+      "primary_url": "https://openai.com/index/control-room",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9f7666cac7c829e5dc72760195dcbf2eded8d707",
+          "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+          "url": "https://openai.com/index/control-room",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "9f7666cac7c829e5dc72760195dcbf2eded8d707",
+          "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+          "url": "https://openai.com/index/control-room",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8256,
+      "importance": 0.8256,
+      "importance_score": 0.8256,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8531,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T13:00:00Z",
+      "latest_at": "2026-11-09T13:00:00Z",
+      "primary_item": {
+        "id": "9f7666cac7c829e5dc72760195dcbf2eded8d707",
+        "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+        "url": "https://openai.com/index/control-room",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_06e2b9999d4d",
+      "title": "Secret scanning detects secrets in GitHub Actions workflow logs",
+      "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
+      "primary_url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "54f90d8c719562032e8d44bbc09276f0b94e565f",
+          "title": "Secret scanning detects secrets in GitHub Actions workflow logs",
+          "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T09:01:37Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "54f90d8c719562032e8d44bbc09276f0b94e565f",
+          "title": "Secret scanning detects secrets in GitHub Actions workflow logs",
+          "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T09:01:37Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.809,
+      "importance": 0.809,
+      "importance_score": 0.809,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8055,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T09:01:37Z",
+      "latest_at": "2026-11-09T09:01:37Z",
+      "primary_item": {
+        "id": "54f90d8c719562032e8d44bbc09276f0b94e565f",
+        "title": "Secret scanning detects secrets in GitHub Actions workflow logs",
+        "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_23b94c697622",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "primary_url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "54b42c0d20e87c61af841220ddb1ed55ddfaccc3",
+          "title": "CodeRabbit scales agentic software development and ships 20x more",
+          "url": "https://openai.com/index/coderabbit-codex-daybreak",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T08:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "54b42c0d20e87c61af841220ddb1ed55ddfaccc3",
+          "title": "CodeRabbit scales agentic software development and ships 20x more",
+          "url": "https://openai.com/index/coderabbit-codex-daybreak",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T08:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8149,
+      "importance": 0.8149,
+      "importance_score": 0.8149,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7937,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T08:00:00Z",
+      "latest_at": "2026-11-09T08:00:00Z",
+      "primary_item": {
+        "id": "54b42c0d20e87c61af841220ddb1ed55ddfaccc3",
+        "title": "CodeRabbit scales agentic software development and ships 20x more",
+        "url": "https://openai.com/index/coderabbit-codex-daybreak",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e5b53323b3ee",
+      "title": "免费时代要结束？三星 Galaxy AI 准备收每月 4.99 美元",
+      "url": "https://www.aibase.com/news/32187",
+      "primary_url": "https://www.aibase.com/news/32187",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a9aef4bfdd7669502341ee720a9c948c2c48b223",
+          "title": "免费时代要结束？三星 Galaxy AI 准备收每月 4.99 美元",
+          "url": "https://www.aibase.com/news/32187",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-09T18:00:05.345995Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a9aef4bfdd7669502341ee720a9c948c2c48b223",
+          "title": "免费时代要结束？三星 Galaxy AI 准备收每月 4.99 美元",
+          "url": "https://www.aibase.com/news/32187",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-09T18:00:05.345995Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8357,
+        "recency": 0.917,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-08T11:34:35Z",
-      "latest_at": "2026-11-08T11:34:35Z",
+      "earliest_at": "2026-11-09T18:00:05.345995Z",
+      "latest_at": "2026-11-09T18:00:05.345995Z",
       "primary_item": {
-        "id": "4ed0d205bde53569c251b831b5277e17b8e1cbaa",
-        "title": "何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界",
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-08-ai-deep-signals-weekly-2026-w45",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
+        "id": "a9aef4bfdd7669502341ee720a9c948c2c48b223",
+        "title": "免费时代要结束？三星 Galaxy AI 准备收每月 4.99 美元",
+        "url": "https://www.aibase.com/news/32187",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_932fe34bad72",
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "url": "https://openai.com/index/kuken",
+      "primary_url": "https://openai.com/index/kuken",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "976f5c8f16a92005f0e52d5133ef3b494aa2232d",
+          "title": "Kuken Industries searches 70 years of drawings in minutes",
+          "url": "https://openai.com/index/kuken",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T08:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "976f5c8f16a92005f0e52d5133ef3b494aa2232d",
+          "title": "Kuken Industries searches 70 years of drawings in minutes",
+          "url": "https://openai.com/index/kuken",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T08:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8149,
+      "importance": 0.8149,
+      "importance_score": 0.8149,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7937,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T08:00:00Z",
+      "latest_at": "2026-11-09T08:00:00Z",
+      "primary_item": {
+        "id": "976f5c8f16a92005f0e52d5133ef3b494aa2232d",
+        "title": "Kuken Industries searches 70 years of drawings in minutes",
+        "url": "https://openai.com/index/kuken",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_7a875051dfb6",
+      "title": "千问办公2.0发布:定位Team Agent，协作、自动任务、人机共创三线升级",
+      "url": "https://www.aibase.com/news/32184",
+      "primary_url": "https://www.aibase.com/news/32184",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ce073b21d9f36a3fb06e9c268114287fc958bad9",
+          "title": "千问办公2.0发布:定位Team Agent，协作、自动任务、人机共创三线升级",
+          "url": "https://www.aibase.com/news/32184",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-09T18:00:05.345995Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ce073b21d9f36a3fb06e9c268114287fc958bad9",
+          "title": "千问办公2.0发布:定位Team Agent，协作、自动任务、人机共创三线升级",
+          "url": "https://www.aibase.com/news/32184",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-09T18:00:05.345995Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.917,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T18:00:05.345995Z",
+      "latest_at": "2026-11-09T18:00:05.345995Z",
+      "primary_item": {
+        "id": "ce073b21d9f36a3fb06e9c268114287fc958bad9",
+        "title": "千问办公2.0发布:定位Team Agent，协作、自动任务、人机共创三线升级",
+        "url": "https://www.aibase.com/news/32184",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_23fea7a67705",
+      "title": "字节 Seedream 5.5 发布：支持 100 轮连续编辑与原生透明输出，全面刷新 AI 图像创作天花板",
+      "url": "https://www.aibase.com/news/32186",
+      "primary_url": "https://www.aibase.com/news/32186",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "44a171dc5eb08a855f2ad3fde4fc744f223b356a",
+          "title": "字节 Seedream 5.5 发布：支持 100 轮连续编辑与原生透明输出，全面刷新 AI 图像创作天花板",
+          "url": "https://www.aibase.com/news/32186",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-09T18:00:05.345995Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "44a171dc5eb08a855f2ad3fde4fc744f223b356a",
+          "title": "字节 Seedream 5.5 发布：支持 100 轮连续编辑与原生透明输出，全面刷新 AI 图像创作天花板",
+          "url": "https://www.aibase.com/news/32186",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-09T18:00:05.345995Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.917,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T18:00:05.345995Z",
+      "latest_at": "2026-11-09T18:00:05.345995Z",
+      "primary_item": {
+        "id": "44a171dc5eb08a855f2ad3fde4fc744f223b356a",
+        "title": "字节 Seedream 5.5 发布：支持 100 轮连续编辑与原生透明输出，全面刷新 AI 图像创作天花板",
+        "url": "https://www.aibase.com/news/32186",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
       "story_id": "story_2df82173bb28",
-      "title": "还在苦恼Grok Bot模型降级、额度消耗快、任务容易中断？作者把Grok Bot作为调度指挥官，联动Claude、Codex承担重度任务，依托Notion看板和Cloudflare Worker搭建稳定的流转体系。配套5套开箱即用的Agent团队提示词，覆盖跨境投流、内容SEO、用户洞察、运维、产品开发，实践思路和DeepSeek Super-agent架构相通，跨境从业者可直接复用搭建自动化业务流水线。",
+      "title": "AI 写代码越来越快，产品也越来越容易做出来，可哪些细节能让用户真正放心？Mole 作者花两个月做了不少“慢活”：装卸 853 款 Mac 软件验证清理边界，逐个检查 AI 工具留下的数据，谨慎保护会话和未提交的代码；还给未激活的用户补发邮件，听完反馈再改图标和文案。想看看好体验是怎么一点点磨出来的，可以借鉴下！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-11-08",
+      "source": "社区更新 · 2026-11-09",
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "877f79f6b04953d6bb433d131590bc83b7a65010",
+          "title": "AI 写代码越来越快，产品也越来越容易做出来，可哪些细节能让用户真正放心？Mole 作者花两个月做了不少“慢活”：装卸 853 款 Mac 软件验证清理边界，逐个检查 AI 工具留下的数据，谨慎保护会话和未提交的代码；还给未激活的用户补发邮件，听完反馈再改图标和文案。想看看好体验是怎么一点点磨出来的，可以借鉴下！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-09",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-10T00:00:05.345995Z"
+        },
+        {
+          "id": "465026c06b2b12299be44418269386ed9f0af5ac",
+          "title": "作者做了五种风格完全不同的 AI 视频：史诗短片、3D 诗意短片、认知思维、剧情故事、vibe 知识大赏。这篇每种风格挑一条代表作，给你讲清楚一个想法怎么一步步做成片子：用了哪些 AI、分几步走、每一步的提示词，还有每条片子踩过的坑。2D、3D 都有。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-09",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-10T00:00:05.345995Z"
+        },
+        {
+          "id": "5c376ee26824d645f7f41c1f97ae29f4e09e98f0",
+          "title": "想大幅压减Agent的运行成本？这套Jev+Kimi K3的方案不容错过。Jev专门负责智能体里大量选择、分类这种轻量决策，响应快、价格极低，依靠校准置信度做路由；判断存疑的复杂任务自动流转给Kimi K3兜底，高危操作交由人工审核。文中附带API示例、编写规范、缺陷边界以及邮件筛查、网页浏览等实测案例，可以帮你搭建可控、省钱的智能体工作流。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-09",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-10T00:00:05.345995Z"
+        },
+        {
+          "id": "b574fed18d9902df7db4c6d81bcf7b184aae9eb8",
+          "title": "本周的AI 音乐周刊汇集行业诉讼、工具新品与前沿论文：Suno 遭版权方起诉，敲响 AI 音色仿制的合规警钟；ElevenLabs 打通 SoundCloud 一键分发，多款 DAW、分轨、管弦演奏工具集中更新，大幅优化制作人工作流。同时还有 5 篇高质量论文，覆盖音乐生成、音源分离、评测数据集等方向，适合音乐创作者、音频工程师快速掌握行业动态与可落地的新技术。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-09",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-10T00:00:05.345995Z"
+        },
+        {
+          "id": "1a1d92a16857ffc9707d23c15580e2eee44a9b5c",
+          "title": "海辛和阿文用 150 道盲测题比较了 Seedream 5.5、GPT Image 2.6 和 Nano Banana Pro：在他们的测试里，Seedream 的写实质感和连续局部修改很亮眼，多数时候能只动指定区域；但严格遵循指令、像素风等场景仍有短板，改得太久也可能整图重画。做商业素材、IP 配图或经常反复改稿的朋友，可以看看这组具体案例，再拿自己常画的题材试一轮。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-09",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-10T00:00:05.345995Z"
+        },
+        {
           "id": "082ad56beda9336881fe078c989d91b40c50fa09",
           "title": "产品经理总会被各种消息、会议和上线琐事追着跑，那么到底可以让AI接住多少活呢？Figma 的增长产品经理 Ezra 拆解了内部落地的 PM OS 工具集，包含 31 个适配产品岗的 Skill，可自主挖掘流失、闭环上线实验的Agent，还有低延迟 Jev 写作助手。如果你也想把 AI 从个人助手带进真实的团队流程里，这篇值得看看。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -117,12 +781,58 @@
           "published_at": "2026-11-09T00:00:05.922684Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 10,
       "source_names": [
-        "社区更新 · 2026-11-08"
+        "社区更新 · 2026-11-08",
+        "社区更新 · 2026-11-09"
       ],
       "items": [
         {
+          "id": "877f79f6b04953d6bb433d131590bc83b7a65010",
+          "title": "AI 写代码越来越快，产品也越来越容易做出来，可哪些细节能让用户真正放心？Mole 作者花两个月做了不少“慢活”：装卸 853 款 Mac 软件验证清理边界，逐个检查 AI 工具留下的数据，谨慎保护会话和未提交的代码；还给未激活的用户补发邮件，听完反馈再改图标和文案。想看看好体验是怎么一点点磨出来的，可以借鉴下！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-09",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-10T00:00:05.345995Z"
+        },
+        {
+          "id": "465026c06b2b12299be44418269386ed9f0af5ac",
+          "title": "作者做了五种风格完全不同的 AI 视频：史诗短片、3D 诗意短片、认知思维、剧情故事、vibe 知识大赏。这篇每种风格挑一条代表作，给你讲清楚一个想法怎么一步步做成片子：用了哪些 AI、分几步走、每一步的提示词，还有每条片子踩过的坑。2D、3D 都有。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-09",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-10T00:00:05.345995Z"
+        },
+        {
+          "id": "5c376ee26824d645f7f41c1f97ae29f4e09e98f0",
+          "title": "想大幅压减Agent的运行成本？这套Jev+Kimi K3的方案不容错过。Jev专门负责智能体里大量选择、分类这种轻量决策，响应快、价格极低，依靠校准置信度做路由；判断存疑的复杂任务自动流转给Kimi K3兜底，高危操作交由人工审核。文中附带API示例、编写规范、缺陷边界以及邮件筛查、网页浏览等实测案例，可以帮你搭建可控、省钱的智能体工作流。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-09",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-10T00:00:05.345995Z"
+        },
+        {
+          "id": "b574fed18d9902df7db4c6d81bcf7b184aae9eb8",
+          "title": "本周的AI 音乐周刊汇集行业诉讼、工具新品与前沿论文：Suno 遭版权方起诉，敲响 AI 音色仿制的合规警钟；ElevenLabs 打通 SoundCloud 一键分发，多款 DAW、分轨、管弦演奏工具集中更新，大幅优化制作人工作流。同时还有 5 篇高质量论文，覆盖音乐生成、音源分离、评测数据集等方向，适合音乐创作者、音频工程师快速掌握行业动态与可落地的新技术。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-09",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-10T00:00:05.345995Z"
+        },
+        {
+          "id": "1a1d92a16857ffc9707d23c15580e2eee44a9b5c",
+          "title": "海辛和阿文用 150 道盲测题比较了 Seedream 5.5、GPT Image 2.6 和 Nano Banana Pro：在他们的测试里，Seedream 的写实质感和连续局部修改很亮眼，多数时候能只动指定区域；但严格遵循指令、像素风等场景仍有短板，改得太久也可能整图重画。做商业素材、IP 配图或经常反复改稿的朋友，可以看看这组具体案例，再拿自己常画的题材试一轮。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-09",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-10T00:00:05.345995Z"
+        },
+        {
           "id": "082ad56beda9336881fe078c989d91b40c50fa09",
           "title": "产品经理总会被各种消息、会议和上线琐事追着跑，那么到底可以让AI接住多少活呢？Figma 的增长产品经理 Ezra 拆解了内部落地的 PM OS 工具集，包含 31 个适配产品岗的 Skill，可自主挖掘流失、闭环上线实验的Agent，还有低延迟 Jev 写作助手。如果你也想把 AI 从个人助手带进真实的团队流程里，这篇值得看看。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -168,16 +878,16 @@
           "published_at": "2026-11-09T00:00:05.922684Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6775,
-      "importance": 0.6775,
-      "importance_score": 0.6775,
+      "item_count": 10,
+      "duplicate_count": 10,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.4824,
+        "editorial": 0.468,
         "source_tier": 0.54,
-        "ai_relevance": 0.67,
+        "ai_relevance": 0.65,
         "recency": 1.0,
         "story_heat": 1.0
       },
@@ -186,147 +896,468 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-09T00:00:05.922684Z",
-      "latest_at": "2026-11-09T00:00:05.922684Z",
+      "latest_at": "2026-11-10T00:00:05.345995Z",
       "primary_item": {
-        "id": "b8be4ed53457e0b8f6a2c34cdb20603b3b455f73",
-        "title": "还在苦恼Grok Bot模型降级、额度消耗快、任务容易中断？作者把Grok Bot作为调度指挥官，联动Claude、Codex承担重度任务，依托Notion看板和Cloudflare Worker搭建稳定的流转体系。配套5套开箱即用的Agent团队提示词，覆盖跨境投流、内容SEO、用户洞察、运维、产品开发，实践思路和DeepSeek Super-agent架构相通，跨境从业者可直接复用搭建自动化业务流水线。",
+        "id": "877f79f6b04953d6bb433d131590bc83b7a65010",
+        "title": "AI 写代码越来越快，产品也越来越容易做出来，可哪些细节能让用户真正放心？Mole 作者花两个月做了不少“慢活”：装卸 853 款 Mac 软件验证清理边界，逐个检查 AI 工具留下的数据，谨慎保护会话和未提交的代码；还给未激活的用户补发邮件，听完反馈再改图标和文案。想看看好体验是怎么一点点磨出来的，可以借鉴下！",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-11-08",
+        "source": "社区更新 · 2026-11-09",
         "source_name": "WaytoAGI"
       }
     },
     {
-      "story_id": "story_45fb196cb1bb",
-      "title": "我如何对抗AI脑力透支",
-      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-      "primary_url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-      "source": "sergeykuhne.com",
+      "story_id": "story_aee603e13760",
+      "title": "火山引擎发布Seedream5.5:像素级可控编辑，百轮修改不崩坏",
+      "url": "https://www.aibase.com/news/32185",
+      "primary_url": "https://www.aibase.com/news/32185",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f1b510a471379de6750ff189741d6d501e9955b8",
+          "title": "火山引擎发布Seedream5.5:像素级可控编辑，百轮修改不崩坏",
+          "url": "https://www.aibase.com/news/32185",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-09T18:00:05.345995Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f1b510a471379de6750ff189741d6d501e9955b8",
+          "title": "火山引擎发布Seedream5.5:像素级可控编辑，百轮修改不崩坏",
+          "url": "https://www.aibase.com/news/32185",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-09T18:00:05.345995Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.917,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T18:00:05.345995Z",
+      "latest_at": "2026-11-09T18:00:05.345995Z",
+      "primary_item": {
+        "id": "f1b510a471379de6750ff189741d6d501e9955b8",
+        "title": "火山引擎发布Seedream5.5:像素级可控编辑，百轮修改不崩坏",
+        "url": "https://www.aibase.com/news/32185",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6a49d4c31b51",
+      "title": "当 20 万员工遇上 2000 万智能体：纳德拉描绘微软新编制",
+      "url": "https://www.aibase.com/news/32182",
+      "primary_url": "https://www.aibase.com/news/32182",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f411abc95014d360d15a501ab0fe29cba4e733c6",
+          "title": "当 20 万员工遇上 2000 万智能体：纳德拉描绘微软新编制",
+          "url": "https://www.aibase.com/news/32182",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-09T17:00:05.345995Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f411abc95014d360d15a501ab0fe29cba4e733c6",
+          "title": "当 20 万员工遇上 2000 万智能体：纳德拉描绘微软新编制",
+          "url": "https://www.aibase.com/news/32182",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-09T17:00:05.345995Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9039,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T17:00:05.345995Z",
+      "latest_at": "2026-11-09T17:00:05.345995Z",
+      "primary_item": {
+        "id": "f411abc95014d360d15a501ab0fe29cba4e733c6",
+        "title": "当 20 万员工遇上 2000 万智能体：纳德拉描绘微软新编制",
+        "url": "https://www.aibase.com/news/32182",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f1eea0a2781a",
+      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "a7d690b83b2245ec3a2c2af68bb917303d806900",
+          "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-09T19:00:00Z"
+        },
+        {
+          "id": "6368c442f9eb199789fa6f050f3f95e690522575",
+          "title": "Anthropic Launches New Claude Fable and Mythos 5.2 Models",
+          "url": "https://slashdot.org/story/26/11/09/2018231/anthropic-launches-new-claude-fable-and-mythos-52-models",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-09T20:20:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Slashdot",
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "a7d690b83b2245ec3a2c2af68bb917303d806900",
+          "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-09T19:00:00Z"
+        },
+        {
+          "id": "6368c442f9eb199789fa6f050f3f95e690522575",
+          "title": "Anthropic Launches New Claude Fable and Mythos 5.2 Models",
+          "url": "https://slashdot.org/story/26/11/09/2018231/anthropic-launches-new-claude-fable-and-mythos-52-models",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-09T20:20:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6279,
+      "importance": 0.6279,
+      "importance_score": 0.6279,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5328,
+        "source_tier": 0.58,
+        "ai_relevance": 0.74,
+        "recency": 0.9303,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-09T19:00:00Z",
+      "latest_at": "2026-11-09T20:20:00Z",
+      "primary_item": {
+        "id": "a7d690b83b2245ec3a2c2af68bb917303d806900",
+        "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_c49bc4d4f01a",
+      "title": "实验室里的独角兽要出 App 了：Sakana AI 转向消费端",
+      "url": "https://www.aibase.com/news/32180",
+      "primary_url": "https://www.aibase.com/news/32180",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0964a3f8f0de8510498713d41cb2f356774b8051",
+          "title": "实验室里的独角兽要出 App 了：Sakana AI 转向消费端",
+          "url": "https://www.aibase.com/news/32180",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-09T16:00:05.345995Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "0964a3f8f0de8510498713d41cb2f356774b8051",
+          "title": "实验室里的独角兽要出 App 了：Sakana AI 转向消费端",
+          "url": "https://www.aibase.com/news/32180",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-09T16:00:05.345995Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8909,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-09T16:00:05.345995Z",
+      "latest_at": "2026-11-09T16:00:05.345995Z",
+      "primary_item": {
+        "id": "0964a3f8f0de8510498713d41cb2f356774b8051",
+        "title": "实验室里的独角兽要出 App 了：Sakana AI 转向消费端",
+        "url": "https://www.aibase.com/news/32180",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_16595a8831c5",
+      "title": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
+      "url": "https://www.aibase.com/news/32181",
+      "primary_url": "https://www.aibase.com/news/32181",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "1193b4cf0b1dfa9b16e1c268204e5a9d4c4ddccd",
+          "title": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
+          "url": "https://www.aibase.com/news/32181",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-09T16:00:05.345995Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "1193b4cf0b1dfa9b16e1c268204e5a9d4c4ddccd",
+          "title": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
+          "url": "https://www.aibase.com/news/32181",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-09T16:00:05.345995Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8909,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-09T16:00:05.345995Z",
+      "latest_at": "2026-11-09T16:00:05.345995Z",
+      "primary_item": {
+        "id": "1193b4cf0b1dfa9b16e1c268204e5a9d4c4ddccd",
+        "title": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
+        "url": "https://www.aibase.com/news/32181",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_255b56db4a4a",
+      "title": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
+      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "primary_url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "source": "artificialanalysis.ai",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "d57f924153c691d936e302db8a945c1275036341",
-          "title": "我如何对抗AI脑力透支",
-          "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-          "source": "sergeykuhne.com",
+          "id": "ce253f458a3bf647c6ca500a993d11ced75204cf",
+          "title": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
+          "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+          "source": "artificialanalysis.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-08T22:19:44.002000Z"
+          "published_at": "2026-11-09T21:56:55.597000Z"
         },
         {
-          "id": "4bf3a5f895b78c58cc6a50ad4dbfc47499168349",
-          "title": "我如何对抗AI脑力透支 / How I Fight AI Brain Fry",
-          "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+          "id": "d8294c1520c70f73d6787a5d10d1c760876d876f",
+          "title": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分 / Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-08T19:37:42Z"
+          "published_at": "2026-11-09T20:04:55Z"
         },
         {
-          "id": "3789f0677926e9e5fd2bedeeb772b2676776581c",
-          "title": "How I Fight AI Brain Fry",
-          "url": "https://news.ycombinator.com/item?id=50416363",
+          "id": "cb684e1db49924718fb72f8f829b305a3af9b33d",
+          "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "url": "https://news.ycombinator.com/item?id=50431144",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-08T19:37:42Z"
+          "published_at": "2026-11-09T20:04:55Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "hackernews",
-        "sergeykuhne.com"
+        "artificialanalysis.ai",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "d57f924153c691d936e302db8a945c1275036341",
-          "title": "我如何对抗AI脑力透支",
-          "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-          "source": "sergeykuhne.com",
+          "id": "ce253f458a3bf647c6ca500a993d11ced75204cf",
+          "title": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
+          "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+          "source": "artificialanalysis.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-08T22:19:44.002000Z"
+          "published_at": "2026-11-09T21:56:55.597000Z"
         },
         {
-          "id": "4bf3a5f895b78c58cc6a50ad4dbfc47499168349",
-          "title": "我如何对抗AI脑力透支 / How I Fight AI Brain Fry",
-          "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+          "id": "d8294c1520c70f73d6787a5d10d1c760876d876f",
+          "title": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分 / Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-08T19:37:42Z"
+          "published_at": "2026-11-09T20:04:55Z"
         },
         {
-          "id": "3789f0677926e9e5fd2bedeeb772b2676776581c",
-          "title": "How I Fight AI Brain Fry",
-          "url": "https://news.ycombinator.com/item?id=50416363",
+          "id": "cb684e1db49924718fb72f8f829b305a3af9b33d",
+          "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "url": "https://news.ycombinator.com/item?id=50431144",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-08T19:37:42Z"
+          "published_at": "2026-11-09T20:04:55Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5665,
-      "importance": 0.5665,
-      "importance_score": 0.5665,
+      "score": 0.5655,
+      "importance": 0.5655,
+      "importance_score": 0.5655,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9761,
+        "recency": 0.9708,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-08T19:37:42Z",
-      "latest_at": "2026-11-08T22:19:44.002000Z",
+      "earliest_at": "2026-11-09T20:04:55Z",
+      "latest_at": "2026-11-09T21:56:55.597000Z",
       "primary_item": {
-        "id": "d57f924153c691d936e302db8a945c1275036341",
-        "title": "我如何对抗AI脑力透支",
-        "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-        "source": "sergeykuhne.com",
+        "id": "ce253f458a3bf647c6ca500a993d11ced75204cf",
+        "title": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
+        "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+        "source": "artificialanalysis.ai",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_5e9d3fd0e59c",
-      "title": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU",
-      "url": "https://github.com/synchopate/llama-modchip",
-      "primary_url": "https://github.com/synchopate/llama-modchip",
+      "story_id": "story_1b18e8c9acf7",
+      "title": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员",
+      "url": "https://github.com/thisisme6598/gemini_files",
+      "primary_url": "https://github.com/thisisme6598/gemini_files",
       "source": "github.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "358b1f60ce95f575914da4e0562788c199a8cea0",
-          "title": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU",
-          "url": "https://github.com/synchopate/llama-modchip",
+          "id": "5f10c344602b99ba35e8d8a4c3184bc45e92bda5",
+          "title": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员",
+          "url": "https://github.com/thisisme6598/gemini_files",
           "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-08T20:56:03.367000Z"
+          "published_at": "2026-11-09T21:40:44.132000Z"
         },
         {
-          "id": "2ba0fcca3e7491ed3e816b3f261ef6abeda25eda",
-          "title": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-          "url": "https://github.com/synchopate/llama-modchip",
+          "id": "661bc25e602941c9789c15aac139b88ddcd1cdf0",
+          "title": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员 / Google Gemini routes personal Drive files and emails to human annotators",
+          "url": "https://github.com/thisisme6598/gemini_files",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-08T10:22:04Z"
+          "published_at": "2026-11-09T18:24:38Z"
         },
         {
-          "id": "8f04bec23a1edb9e9568e499ff9df6c3d73d5fbe",
-          "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-          "url": "https://news.ycombinator.com/item?id=50411961",
+          "id": "92b735d384a29f773d538722cfa1458e34b61468",
+          "title": "Google Gemini routes personal Drive files and emails to human annotators",
+          "url": "https://news.ycombinator.com/item?id=50429426",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-08T10:22:04Z"
+          "published_at": "2026-11-09T18:24:38Z"
         }
       ],
       "source_count": 3,
@@ -337,769 +1368,156 @@
       ],
       "items": [
         {
-          "id": "358b1f60ce95f575914da4e0562788c199a8cea0",
-          "title": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU",
-          "url": "https://github.com/synchopate/llama-modchip",
+          "id": "5f10c344602b99ba35e8d8a4c3184bc45e92bda5",
+          "title": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员",
+          "url": "https://github.com/thisisme6598/gemini_files",
           "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-08T20:56:03.367000Z"
+          "published_at": "2026-11-09T21:40:44.132000Z"
         },
         {
-          "id": "2ba0fcca3e7491ed3e816b3f261ef6abeda25eda",
-          "title": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-          "url": "https://github.com/synchopate/llama-modchip",
+          "id": "661bc25e602941c9789c15aac139b88ddcd1cdf0",
+          "title": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员 / Google Gemini routes personal Drive files and emails to human annotators",
+          "url": "https://github.com/thisisme6598/gemini_files",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-08T10:22:04Z"
+          "published_at": "2026-11-09T18:24:38Z"
         },
         {
-          "id": "8f04bec23a1edb9e9568e499ff9df6c3d73d5fbe",
-          "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-          "url": "https://news.ycombinator.com/item?id=50411961",
+          "id": "92b735d384a29f773d538722cfa1458e34b61468",
+          "title": "Google Gemini routes personal Drive files and emails to human annotators",
+          "url": "https://news.ycombinator.com/item?id=50429426",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-08T10:22:04Z"
+          "published_at": "2026-11-09T18:24:38Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.563,
-      "importance": 0.563,
-      "importance_score": 0.563,
+      "score": 0.5649,
+      "importance": 0.5649,
+      "importance_score": 0.5649,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9567,
+        "recency": 0.967,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-08T10:22:04Z",
-      "latest_at": "2026-11-08T20:56:03.367000Z",
+      "earliest_at": "2026-11-09T18:24:38Z",
+      "latest_at": "2026-11-09T21:40:44.132000Z",
       "primary_item": {
-        "id": "358b1f60ce95f575914da4e0562788c199a8cea0",
-        "title": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU",
-        "url": "https://github.com/synchopate/llama-modchip",
+        "id": "5f10c344602b99ba35e8d8a4c3184bc45e92bda5",
+        "title": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员",
+        "url": "https://github.com/thisisme6598/gemini_files",
         "source": "github.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_26b52d229f33",
-      "title": "anthropics / claude-quickstarts",
-      "url": "https://github.com/anthropics/claude-quickstarts",
-      "primary_url": "https://github.com/anthropics/claude-quickstarts",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "db5583eb4aa330ac6131feaabf89b9547bcd4d09",
-          "title": "anthropics / claude-quickstarts",
-          "url": "https://github.com/anthropics/claude-quickstarts",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "11002f4e8e25dc72519ebfb572dfa7ed8e6f32ef",
-          "title": "anthropics /      claude-quickstarts",
-          "url": "https://github.com/anthropics/claude-quickstarts",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T23:39:43.316000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "db5583eb4aa330ac6131feaabf89b9547bcd4d09",
-          "title": "anthropics / claude-quickstarts",
-          "url": "https://github.com/anthropics/claude-quickstarts",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "11002f4e8e25dc72519ebfb572dfa7ed8e6f32ef",
-          "title": "anthropics /      claude-quickstarts",
-          "url": "https://github.com/anthropics/claude-quickstarts",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T23:39:43.316000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-08T23:39:43.316000Z",
-      "latest_at": "2026-11-09T00:00:05.922684Z",
-      "primary_item": {
-        "id": "db5583eb4aa330ac6131feaabf89b9547bcd4d09",
-        "title": "anthropics / claude-quickstarts",
-        "url": "https://github.com/anthropics/claude-quickstarts",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_63afb5aa91d0",
-      "title": "为什么我不会在编程中使用大型语言模型",
-      "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
-      "primary_url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
-      "source": "www.polso.info",
+      "story_id": "story_1f917ef42e11",
+      "title": "克劳德·科德（Claude Code）在 GitHub 上无意间泄露了大量机密信息",
+      "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github",
+      "primary_url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github",
+      "source": "arstechnica.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "2704834de82acc4f58d1989254432d7e63eef624",
-          "title": "为什么我不会在编程中使用大型语言模型",
-          "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
-          "source": "www.polso.info",
+          "id": "8bd89dc0097227db8ed9c7f3dd9be2545c9f1737",
+          "title": "克劳德·科德（Claude Code）在 GitHub 上无意间泄露了大量机密信息",
+          "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github",
+          "source": "arstechnica.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-08T21:47:44Z"
+          "published_at": "2026-11-09T18:14:15.374000Z"
         },
         {
-          "id": "c244167d85979ee6bccf856aef4c1c5464df7d6b",
-          "title": "为什么我不会在编程中使用大型语言模型 / Why I will not be using LLMs in my coding",
-          "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-08T12:14:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.polso.info"
-      ],
-      "items": [
-        {
-          "id": "2704834de82acc4f58d1989254432d7e63eef624",
-          "title": "为什么我不会在编程中使用大型语言模型",
-          "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
-          "source": "www.polso.info",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-08T21:47:44Z"
-        },
-        {
-          "id": "c244167d85979ee6bccf856aef4c1c5464df7d6b",
-          "title": "为什么我不会在编程中使用大型语言模型 / Why I will not be using LLMs in my coding",
-          "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-08T12:14:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5402,
-      "importance": 0.5402,
-      "importance_score": 0.5402,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9686,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-08T12:14:10Z",
-      "latest_at": "2026-11-08T21:47:44Z",
-      "primary_item": {
-        "id": "2704834de82acc4f58d1989254432d7e63eef624",
-        "title": "为什么我不会在编程中使用大型语言模型",
-        "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
-        "source": "www.polso.info",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_1d660dc4ea7a",
-      "title": "OpenAI以1.25万亿美元估值融资110亿美元",
-      "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
-      "primary_url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
-      "source": "247wallst.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "4ce2bead2f9eceac6f778755e823b34b9d40f5a0",
-          "title": "OpenAI以1.25万亿美元估值融资110亿美元",
-          "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
-          "source": "247wallst.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-08T20:56:03.911000Z"
-        },
-        {
-          "id": "2d02cd05dea16af32f1e53f8275e579854f25c61",
-          "title": "OpenAI以1.25万亿美元估值融资110亿美元 / OpenAI raises $11B at a $1.25T valuation",
-          "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-08T14:49:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "247wallst.com",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "4ce2bead2f9eceac6f778755e823b34b9d40f5a0",
-          "title": "OpenAI以1.25万亿美元估值融资110亿美元",
-          "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
-          "source": "247wallst.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-08T20:56:03.911000Z"
-        },
-        {
-          "id": "2d02cd05dea16af32f1e53f8275e579854f25c61",
-          "title": "OpenAI以1.25万亿美元估值融资110亿美元 / OpenAI raises $11B at a $1.25T valuation",
-          "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-08T14:49:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.538,
-      "importance": 0.538,
-      "importance_score": 0.538,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9567,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-08T14:49:23Z",
-      "latest_at": "2026-11-08T20:56:03.911000Z",
-      "primary_item": {
-        "id": "4ce2bead2f9eceac6f778755e823b34b9d40f5a0",
-        "title": "OpenAI以1.25万亿美元估值融资110亿美元",
-        "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
-        "source": "247wallst.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_7f83204997ea",
-      "title": "在 Mac mini M5 Pro（48GB）上，我能实际利用本地 AI 做些什么？",
-      "url": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
-      "primary_url": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
-      "source": "lobste.rs",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2f707956a9d5057063a1fbafa1be7553393f078c",
-          "title": "在 Mac mini M5 Pro（48GB）上，我能实际利用本地 AI 做些什么？",
-          "url": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
-          "source": "lobste.rs",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-08T20:56:15.361000Z"
-        },
-        {
-          "id": "eef953c0170c3ae75f6e66a62dba620c3d94da1c",
-          "title": "在 Mac mini M5 Pro（48GB）上，我能实际利用本地 AI 做些什么？ / What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?",
-          "url": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
-          "source": "Lobsters (技术社区)",
+          "id": "555b81b9f7acd632ab8404601025104cc99587c4",
+          "title": "克劳德·科德（Claude Code）在 GitHub 上无意间泄露了大量机密信息 / Claude Code is accidentally exposing secrets all over GitHub",
+          "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github",
+          "source": "Ars Technica (科技媒体)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-08T17:07:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "lobste.rs"
-      ],
-      "items": [
-        {
-          "id": "2f707956a9d5057063a1fbafa1be7553393f078c",
-          "title": "在 Mac mini M5 Pro（48GB）上，我能实际利用本地 AI 做些什么？",
-          "url": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
-          "source": "lobste.rs",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-08T20:56:15.361000Z"
+          "published_at": "2026-11-09T17:24:26Z"
         },
         {
-          "id": "eef953c0170c3ae75f6e66a62dba620c3d94da1c",
-          "title": "在 Mac mini M5 Pro（48GB）上，我能实际利用本地 AI 做些什么？ / What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?",
-          "url": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T17:07:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.538,
-      "importance": 0.538,
-      "importance_score": 0.538,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9567,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-08T17:07:51Z",
-      "latest_at": "2026-11-08T20:56:15.361000Z",
-      "primary_item": {
-        "id": "2f707956a9d5057063a1fbafa1be7553393f078c",
-        "title": "在 Mac mini M5 Pro（48GB）上，我能实际利用本地 AI 做些什么？",
-        "url": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
-        "source": "lobste.rs",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_eda53e4d3719",
-      "title": "美国国防高级研究计划局（DARPA）希望借助人工智能发现数字市场中隐藏的漏洞，这些漏洞可能被对手利用来造成经济破坏。",
-      "url": "https://www.businessinsider.com/darpa-wants-to-find-weak-points-digital-markets-2026-11",
-      "primary_url": "https://www.businessinsider.com/darpa-wants-to-find-weak-points-digital-markets-2026-11",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "106ef5d16d6ed92c5d755a079b47783d0fe13874",
-          "title": "美国国防高级研究计划局（DARPA）希望借助人工智能发现数字市场中隐藏的漏洞，这些漏洞可能被对手利用来造成经济破坏。",
-          "url": "https://www.businessinsider.com/darpa-wants-to-find-weak-points-digital-markets-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-08T20:56:17.292000Z"
-        },
-        {
-          "id": "66365d6f39117065c0bad43f45f9ba5124b98e6c",
-          "title": "美国国防高级研究计划局（DARPA）希望借助人工智能发现数字市场中隐藏的漏洞，这些漏洞可能被对手利用来造成经济破坏。 / DARPA wants AI to find hidden flaws in digital markets that adversaries could exploit to wreak economic havoc",
-          "url": "https://www.businessinsider.com/darpa-wants-to-find-weak-points-digital-markets-2026-11",
-          "source": "Business Insider",
+          "id": "83fb2ed5cb90795d85681d7b821125fae79d5674",
+          "title": "克劳德·科德（Claude Code）在 GitHub 上无意间泄露了大量机密信息 / Claude Code settings files expose thousands of secrets on GitHub",
+          "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github",
+          "source": "Ars Technica",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-11-08T14:00:01Z"
+          "published_at": "2026-11-09T17:24:26Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "Ars Technica",
+        "Ars Technica (科技媒体)",
+        "arstechnica.com"
       ],
       "items": [
         {
-          "id": "106ef5d16d6ed92c5d755a079b47783d0fe13874",
-          "title": "美国国防高级研究计划局（DARPA）希望借助人工智能发现数字市场中隐藏的漏洞，这些漏洞可能被对手利用来造成经济破坏。",
-          "url": "https://www.businessinsider.com/darpa-wants-to-find-weak-points-digital-markets-2026-11",
-          "source": "www.businessinsider.com",
+          "id": "8bd89dc0097227db8ed9c7f3dd9be2545c9f1737",
+          "title": "克劳德·科德（Claude Code）在 GitHub 上无意间泄露了大量机密信息",
+          "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github",
+          "source": "arstechnica.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-08T20:56:17.292000Z"
+          "published_at": "2026-11-09T18:14:15.374000Z"
         },
         {
-          "id": "66365d6f39117065c0bad43f45f9ba5124b98e6c",
-          "title": "美国国防高级研究计划局（DARPA）希望借助人工智能发现数字市场中隐藏的漏洞，这些漏洞可能被对手利用来造成经济破坏。 / DARPA wants AI to find hidden flaws in digital markets that adversaries could exploit to wreak economic havoc",
-          "url": "https://www.businessinsider.com/darpa-wants-to-find-weak-points-digital-markets-2026-11",
-          "source": "Business Insider",
+          "id": "555b81b9f7acd632ab8404601025104cc99587c4",
+          "title": "克劳德·科德（Claude Code）在 GitHub 上无意间泄露了大量机密信息 / Claude Code is accidentally exposing secrets all over GitHub",
+          "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github",
+          "source": "Ars Technica (科技媒体)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-09T17:24:26Z"
+        },
+        {
+          "id": "83fb2ed5cb90795d85681d7b821125fae79d5674",
+          "title": "克劳德·科德（Claude Code）在 GitHub 上无意间泄露了大量机密信息 / Claude Code settings files expose thousands of secrets on GitHub",
+          "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github",
+          "source": "Ars Technica",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-11-08T14:00:01Z"
+          "published_at": "2026-11-09T17:24:26Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.538,
-      "importance": 0.538,
-      "importance_score": 0.538,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5564,
+      "importance": 0.5564,
+      "importance_score": 0.5564,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9567,
-        "story_heat": 0.25
+        "recency": 0.9201,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-08T14:00:01Z",
-      "latest_at": "2026-11-08T20:56:17.292000Z",
+      "earliest_at": "2026-11-09T17:24:26Z",
+      "latest_at": "2026-11-09T18:14:15.374000Z",
       "primary_item": {
-        "id": "106ef5d16d6ed92c5d755a079b47783d0fe13874",
-        "title": "美国国防高级研究计划局（DARPA）希望借助人工智能发现数字市场中隐藏的漏洞，这些漏洞可能被对手利用来造成经济破坏。",
-        "url": "https://www.businessinsider.com/darpa-wants-to-find-weak-points-digital-markets-2026-11",
-        "source": "www.businessinsider.com",
+        "id": "8bd89dc0097227db8ed9c7f3dd9be2545c9f1737",
+        "title": "克劳德·科德（Claude Code）在 GitHub 上无意间泄露了大量机密信息",
+        "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github",
+        "source": "arstechnica.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_a78801b83036",
-      "title": "高盛正要求其银行家和交易员停止使用“克劳德代码” / Goldman Sachs is pulling Claude Code from its bankers and traders",
-      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-      "primary_url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "543853c01c55526a97053ae6fa8b176ab7f4fb01",
-          "title": "高盛正要求其银行家和交易员停止使用“克劳德代码” / Goldman Sachs is pulling Claude Code from its bankers and traders",
-          "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T18:16:07Z"
-        },
-        {
-          "id": "d43187dd7d10a43e740ccb7780157d9b32d5fd36",
-          "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-          "url": "https://news.ycombinator.com/item?id=50415628",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T18:16:07Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "543853c01c55526a97053ae6fa8b176ab7f4fb01",
-          "title": "高盛正要求其银行家和交易员停止使用“克劳德代码” / Goldman Sachs is pulling Claude Code from its bankers and traders",
-          "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T18:16:07Z"
-        },
-        {
-          "id": "d43187dd7d10a43e740ccb7780157d9b32d5fd36",
-          "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-          "url": "https://news.ycombinator.com/item?id=50415628",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T18:16:07Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5315,
-      "importance": 0.5315,
-      "importance_score": 0.5315,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9205,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-08T18:16:07Z",
-      "latest_at": "2026-11-08T18:16:07Z",
-      "primary_item": {
-        "id": "543853c01c55526a97053ae6fa8b176ab7f4fb01",
-        "title": "高盛正要求其银行家和交易员停止使用“克劳德代码” / Goldman Sachs is pulling Claude Code from its bankers and traders",
-        "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_d4758dafd35c",
-      "title": "Anthropic strikes $3.4B deal to generate gas-fired power for data centres",
-      "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
-      "primary_url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "846adb95bbc4db3d6c71fe87aa8a545013f6ed44",
-          "title": "Anthropic strikes $3.4B deal to generate gas-fired power for data centres",
-          "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-08T12:41:25Z"
-        },
-        {
-          "id": "fb5554a8f926d61d9e944ee3ac6cb0bc0df0b9b1",
-          "title": "Anthropic达成34亿美元协议，为数据中心提供燃气发电服务",
-          "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0?syn-25a6b1a6=1",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-08T11:28:32.102000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.ft.com"
-      ],
-      "items": [
-        {
-          "id": "846adb95bbc4db3d6c71fe87aa8a545013f6ed44",
-          "title": "Anthropic strikes $3.4B deal to generate gas-fired power for data centres",
-          "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-08T12:41:25Z"
-        },
-        {
-          "id": "fb5554a8f926d61d9e944ee3ac6cb0bc0df0b9b1",
-          "title": "Anthropic达成34亿美元协议，为数据中心提供燃气发电服务",
-          "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0?syn-25a6b1a6=1",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-08T11:28:32.102000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5187,
-      "importance": 0.5187,
-      "importance_score": 0.5187,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8493,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-08T11:28:32.102000Z",
-      "latest_at": "2026-11-08T12:41:25Z",
-      "primary_item": {
-        "id": "846adb95bbc4db3d6c71fe87aa8a545013f6ed44",
-        "title": "Anthropic strikes $3.4B deal to generate gas-fired power for data centres",
-        "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_831a9fbe986d",
-      "title": "谁愿意通过众包方式，利用大型语言模型（LLM）对提交至Lobste.rs的文章进行扫描？",
-      "url": "https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles",
-      "primary_url": "https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles",
-      "source": "lobste.rs",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3041fae439ea0d17c0dd2d8d6f4f77d0781c03da",
-          "title": "谁愿意通过众包方式，利用大型语言模型（LLM）对提交至Lobste.rs的文章进行扫描？",
-          "url": "https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles",
-          "source": "lobste.rs",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-08T20:56:15.158000Z"
-        },
-        {
-          "id": "be8fb2c5e9e0b5c4e2532b6749aa106989a4678a",
-          "title": "谁愿意通过众包方式，利用大型语言模型（LLM）对提交至Lobste.rs的文章进行扫描？ / Who wants to crowdsource LLM scans of articles submitted to Lobste.rs?",
-          "url": "https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T16:36:17Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "lobste.rs"
-      ],
-      "items": [
-        {
-          "id": "3041fae439ea0d17c0dd2d8d6f4f77d0781c03da",
-          "title": "谁愿意通过众包方式，利用大型语言模型（LLM）对提交至Lobste.rs的文章进行扫描？",
-          "url": "https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles",
-          "source": "lobste.rs",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-08T20:56:15.158000Z"
-        },
-        {
-          "id": "be8fb2c5e9e0b5c4e2532b6749aa106989a4678a",
-          "title": "谁愿意通过众包方式，利用大型语言模型（LLM）对提交至Lobste.rs的文章进行扫描？ / Who wants to crowdsource LLM scans of articles submitted to Lobste.rs?",
-          "url": "https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T16:36:17Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.538,
-      "importance": 0.538,
-      "importance_score": 0.538,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9567,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-08T16:36:17Z",
-      "latest_at": "2026-11-08T20:56:15.158000Z",
-      "primary_item": {
-        "id": "3041fae439ea0d17c0dd2d8d6f4f77d0781c03da",
-        "title": "谁愿意通过众包方式，利用大型语言模型（LLM）对提交至Lobste.rs的文章进行扫描？",
-        "url": "https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles",
-        "source": "lobste.rs",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_e66f4eeac8f3",
-      "title": "再见，克劳德；你好，π / Goodbye Claude, hello Pi",
-      "url": "https://caleb.software/posts/claude-to-pi.html",
-      "primary_url": "https://caleb.software/posts/claude-to-pi.html",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "e7fe2cecfcd23f7afe0f7ec86eeaecb9a3bb623b",
-          "title": "再见，克劳德；你好，π / Goodbye Claude, hello Pi",
-          "url": "https://caleb.software/posts/claude-to-pi.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T03:11:48Z"
-        },
-        {
-          "id": "f9e6a111a822d959b2ebb2618203323831a1dd64",
-          "title": "Goodbye Claude, hello Pi",
-          "url": "https://news.ycombinator.com/item?id=50410107",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T03:11:48Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e7fe2cecfcd23f7afe0f7ec86eeaecb9a3bb623b",
-          "title": "再见，克劳德；你好，π / Goodbye Claude, hello Pi",
-          "url": "https://caleb.software/posts/claude-to-pi.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T03:11:48Z"
-        },
-        {
-          "id": "f9e6a111a822d959b2ebb2618203323831a1dd64",
-          "title": "Goodbye Claude, hello Pi",
-          "url": "https://news.ycombinator.com/item?id=50410107",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T03:11:48Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4991,
-      "importance": 0.4991,
-      "importance_score": 0.4991,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7405,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-08T03:11:48Z",
-      "latest_at": "2026-11-08T03:11:48Z",
-      "primary_item": {
-        "id": "e7fe2cecfcd23f7afe0f7ec86eeaecb9a3bb623b",
-        "title": "再见，克劳德；你好，π / Goodbye Claude, hello Pi",
-        "url": "https://caleb.software/posts/claude-to-pi.html",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
       }
     }
   ]
