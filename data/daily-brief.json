@@ -1,444 +1,454 @@
 {
-  "generated_at": "2026-11-15T00:00:05.442900Z",
+  "generated_at": "2026-11-16T00:00:06.294928Z",
   "window_hours": 24,
-  "total_items": 10,
+  "total_items": 9,
   "items": [
     {
-      "story_id": "story_53dbbc26da9d",
-      "title": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
-      "url": "https://www.aibase.com/news/32323",
-      "primary_url": "https://www.aibase.com/news/32323",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_87d7014c15ee",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "primary_url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e86fe674515d1a792f8b4fcde11764a6b9adb3fd",
-          "title": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
-          "url": "https://www.aibase.com/news/32323",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-14T15:00:05.442900Z"
+          "id": "b30827aade7fb5ded891f222827dfceba5b94136",
+          "title": "A step toward defining the Standard Model on a lattice",
+          "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-15T22:00:01Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "e86fe674515d1a792f8b4fcde11764a6b9adb3fd",
-          "title": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
-          "url": "https://www.aibase.com/news/32323",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-14T15:00:05.442900Z"
+          "id": "b30827aade7fb5ded891f222827dfceba5b94136",
+          "title": "A step toward defining the Standard Model on a lattice",
+          "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-15T22:00:01Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.8469,
+      "importance": 0.8469,
+      "importance_score": 0.8469,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9715,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-15T22:00:01Z",
+      "latest_at": "2026-11-15T22:00:01Z",
+      "primary_item": {
+        "id": "b30827aade7fb5ded891f222827dfceba5b94136",
+        "title": "A step toward defining the Standard Model on a lattice",
+        "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_4b0fc5b701ff",
+      "title": "Our new blog for science",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "primary_url": "https://openai.com/index/our-new-blog-for-science",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1aefb6f3bed3492c82bda2d27aa548c35b99f946",
+          "title": "Our new blog for science",
+          "url": "https://openai.com/index/our-new-blog-for-science",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-15T22:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "1aefb6f3bed3492c82bda2d27aa548c35b99f946",
+          "title": "Our new blog for science",
+          "url": "https://openai.com/index/our-new-blog-for-science",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-15T22:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8469,
+      "importance": 0.8469,
+      "importance_score": 0.8469,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9715,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-15T22:00:00Z",
+      "latest_at": "2026-11-15T22:00:00Z",
+      "primary_item": {
+        "id": "1aefb6f3bed3492c82bda2d27aa548c35b99f946",
+        "title": "Our new blog for science",
+        "url": "https://openai.com/index/our-new-blog-for-science",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_91cc17dfbbc6",
+      "title": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "3fa5a2605d8928a43237ea56faecc4d08a5147cf",
+          "title": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-11-15T03:35:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Daily Digest"
+      ],
+      "items": [
+        {
+          "id": "3fa5a2605d8928a43237ea56faecc4d08a5147cf",
+          "title": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-11-15T03:35:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7216,
+      "importance": 0.7216,
+      "importance_score": 0.7216,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 0.7446,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-14T15:00:05.442900Z",
-      "latest_at": "2026-11-14T15:00:05.442900Z",
+      "earliest_at": "2026-11-15T03:35:00Z",
+      "latest_at": "2026-11-15T03:35:00Z",
       "primary_item": {
-        "id": "e86fe674515d1a792f8b4fcde11764a6b9adb3fd",
-        "title": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
-        "url": "https://www.aibase.com/news/32323",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "3fa5a2605d8928a43237ea56faecc4d08a5147cf",
+        "title": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
       }
     },
     {
       "story_id": "story_2df82173bb28",
-      "title": "Anthropic发布了可落地的在线Agent架构最佳实践，打破了“7×24运行=持续耗Token”的误区。文中给出了队列去重、记忆精简、凭证隔离等实操准则，适合需要处理长周期任务的开发团队做参考。",
+      "title": "AI 明明答错了，为什么还能说得头头是道？作者从 token入手，用出生年份、数学判断和虚构论文等例子，解释了模型如何逐步生成回答，以及一个错误细节怎样带出一整段看似合理的解释。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-11-14",
+      "source": "社区更新 · 2026-11-15",
       "source_name": "WaytoAGI",
       "sources": [
         {
-          "id": "705aa5a299a6a5c17acb294adee87486b65bd8c9",
-          "title": "Anthropic发布了可落地的在线Agent架构最佳实践，打破了“7×24运行=持续耗Token”的误区。文中给出了队列去重、记忆精简、凭证隔离等实操准则，适合需要处理长周期任务的开发团队做参考。",
+          "id": "4cf0139056f7d5dfafd5b5f3724ce6145fac7fe1",
+          "title": "AI 明明答错了，为什么还能说得头头是道？作者从 token入手，用出生年份、数学判断和虚构论文等例子，解释了模型如何逐步生成回答，以及一个错误细节怎样带出一整段看似合理的解释。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-14",
+          "source": "社区更新 · 2026-11-15",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-11-15T00:00:05.442900Z"
+          "published_at": "2026-11-16T00:00:06.294928Z"
         },
         {
-          "id": "94b4742ba1bc4930b386af83e5194616ed0b9a7b",
-          "title": "作者分享了团队用 Hermes 连续实践 4 个月、每天处理 200 多项自动化任务的经验。希望大家在 Personal AI Agent 之外，也会对企业级 Agent OS 的设计、架构以及应用层有一些常规的认识。",
+          "id": "7440241ba9723e439699b34b5ce676ec6fa40f24",
+          "title": "AI 能更快做出游戏，就能让人更想玩吗？一位老玩家从游戏满足的四类需求出发，讨论 AI 娱乐的另一种可能：让 AI 像跑团主持人一样，根据玩家状态调整剧情和节奏，再把互动融入通勤、家务等日常片段。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-14",
+          "source": "社区更新 · 2026-11-15",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-11-15T00:00:05.442900Z"
+          "published_at": "2026-11-16T00:00:06.294928Z"
         },
         {
-          "id": "27f78ed922d255ca891f5e8f1c4bc62e0b27da6c",
-          "title": "你是不是也想用 AI 做科普动画，但装好Skill才发现输出的是网页。作者整理了 11 个项目，从讲解配图、交互演示到成片制作，逐一说明了能交付什么、需要哪些环境，以及费用可能花在哪。可以看看哪些适合你！",
+          "id": "e7689b786d2820977d4530f1cec04ccc5a653a3e",
+          "title": "Agent 越用越贵、记住经验反而做错、多智能体一起干活却重复劳动，这些问题正在成为 AI 研究的重点。本周精选的10 篇论文，涵盖智能体自主分工、带证据的记忆、运行成本优化，以及量子程序验证、实验复现和机器人触觉等方向。做 Agent 开发的朋友，可以重点看协作、记忆和成本相关研究。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-14",
+          "source": "社区更新 · 2026-11-15",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-11-15T00:00:05.442900Z"
+          "published_at": "2026-11-16T00:00:06.294928Z"
         },
         {
-          "id": "3edfa2a14e7f0ff27fba227b1bd7e461df751dc3",
-          "title": "用 AI 写了不少内容，客户和合作机会却没增加？作者用 Grok Bot 搜集行业动态、潜在客户、赞助商和招聘线索，再用 Claude 整理内容策略、合作提案与服务方案，轻松实现在线月入一万美元。",
+          "id": "c4d5c8112e60604b24d63dd4750443f571a3e22e",
+          "title": "你是不是也想把产品内部结构做成零件逐层展开的动画，但是又不懂建模和特效？作者开源了「等轴爆炸大片」Skill，让 AI 根据 CAD 图纸用代码重建零件、编排镜头并渲染成片，还把闪烁、穿模、节奏混乱等踩坑经验写成了制作规则。或许可以帮到你！",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-14",
+          "source": "社区更新 · 2026-11-15",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-11-15T00:00:05.442900Z"
-        },
-        {
-          "id": "26bb9626130c005a2f90079d0ad38ffcf8d7f918",
-          "title": "老金从卖出第一套提示词的经历讲起，分享了普通人用 AI 变现的一条实际路径：从哪里找客户、哪些需求值得接、怎样把事情聊清楚并做好交付。如果你也想迈出第一步，不妨看看他的经验，找到自己能做、也有人愿意付钱的小生意。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-14",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-15T00:00:05.442900Z"
-        },
-        {
-          "id": "3b0de0480750c824c0880b704aae20e15982de51",
-          "title": "让AI把页面“做得高级一点”，改了几轮还是不满意？很多时候，我们缺的是具体的参考，以及说清“哪里好看”的能力。作者整理了 100 个设计网站，按视频、UI、前端交互、字体配色等 9 类划分，标明了用途和付费情况，方便按项目找灵感。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-14",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-15T00:00:05.442900Z"
+          "published_at": "2026-11-16T00:00:06.294928Z"
         }
       ],
-      "source_count": 6,
+      "source_count": 4,
       "source_names": [
-        "社区更新 · 2026-11-14"
+        "社区更新 · 2026-11-15"
       ],
       "items": [
         {
-          "id": "705aa5a299a6a5c17acb294adee87486b65bd8c9",
-          "title": "Anthropic发布了可落地的在线Agent架构最佳实践，打破了“7×24运行=持续耗Token”的误区。文中给出了队列去重、记忆精简、凭证隔离等实操准则，适合需要处理长周期任务的开发团队做参考。",
+          "id": "4cf0139056f7d5dfafd5b5f3724ce6145fac7fe1",
+          "title": "AI 明明答错了，为什么还能说得头头是道？作者从 token入手，用出生年份、数学判断和虚构论文等例子，解释了模型如何逐步生成回答，以及一个错误细节怎样带出一整段看似合理的解释。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-14",
+          "source": "社区更新 · 2026-11-15",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-11-15T00:00:05.442900Z"
+          "published_at": "2026-11-16T00:00:06.294928Z"
         },
         {
-          "id": "94b4742ba1bc4930b386af83e5194616ed0b9a7b",
-          "title": "作者分享了团队用 Hermes 连续实践 4 个月、每天处理 200 多项自动化任务的经验。希望大家在 Personal AI Agent 之外，也会对企业级 Agent OS 的设计、架构以及应用层有一些常规的认识。",
+          "id": "7440241ba9723e439699b34b5ce676ec6fa40f24",
+          "title": "AI 能更快做出游戏，就能让人更想玩吗？一位老玩家从游戏满足的四类需求出发，讨论 AI 娱乐的另一种可能：让 AI 像跑团主持人一样，根据玩家状态调整剧情和节奏，再把互动融入通勤、家务等日常片段。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-14",
+          "source": "社区更新 · 2026-11-15",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-11-15T00:00:05.442900Z"
+          "published_at": "2026-11-16T00:00:06.294928Z"
         },
         {
-          "id": "27f78ed922d255ca891f5e8f1c4bc62e0b27da6c",
-          "title": "你是不是也想用 AI 做科普动画，但装好Skill才发现输出的是网页。作者整理了 11 个项目，从讲解配图、交互演示到成片制作，逐一说明了能交付什么、需要哪些环境，以及费用可能花在哪。可以看看哪些适合你！",
+          "id": "e7689b786d2820977d4530f1cec04ccc5a653a3e",
+          "title": "Agent 越用越贵、记住经验反而做错、多智能体一起干活却重复劳动，这些问题正在成为 AI 研究的重点。本周精选的10 篇论文，涵盖智能体自主分工、带证据的记忆、运行成本优化，以及量子程序验证、实验复现和机器人触觉等方向。做 Agent 开发的朋友，可以重点看协作、记忆和成本相关研究。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-14",
+          "source": "社区更新 · 2026-11-15",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-11-15T00:00:05.442900Z"
+          "published_at": "2026-11-16T00:00:06.294928Z"
         },
         {
-          "id": "3edfa2a14e7f0ff27fba227b1bd7e461df751dc3",
-          "title": "用 AI 写了不少内容，客户和合作机会却没增加？作者用 Grok Bot 搜集行业动态、潜在客户、赞助商和招聘线索，再用 Claude 整理内容策略、合作提案与服务方案，轻松实现在线月入一万美元。",
+          "id": "c4d5c8112e60604b24d63dd4750443f571a3e22e",
+          "title": "你是不是也想把产品内部结构做成零件逐层展开的动画，但是又不懂建模和特效？作者开源了「等轴爆炸大片」Skill，让 AI 根据 CAD 图纸用代码重建零件、编排镜头并渲染成片，还把闪烁、穿模、节奏混乱等踩坑经验写成了制作规则。或许可以帮到你！",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-14",
+          "source": "社区更新 · 2026-11-15",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-11-15T00:00:05.442900Z"
-        },
-        {
-          "id": "26bb9626130c005a2f90079d0ad38ffcf8d7f918",
-          "title": "老金从卖出第一套提示词的经历讲起，分享了普通人用 AI 变现的一条实际路径：从哪里找客户、哪些需求值得接、怎样把事情聊清楚并做好交付。如果你也想迈出第一步，不妨看看他的经验，找到自己能做、也有人愿意付钱的小生意。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-14",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-15T00:00:05.442900Z"
-        },
-        {
-          "id": "3b0de0480750c824c0880b704aae20e15982de51",
-          "title": "让AI把页面“做得高级一点”，改了几轮还是不满意？很多时候，我们缺的是具体的参考，以及说清“哪里好看”的能力。作者整理了 100 个设计网站，按视频、UI、前端交互、字体配色等 9 类划分，标明了用途和付费情况，方便按项目找灵感。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-14",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-15T00:00:05.442900Z"
+          "published_at": "2026-11-16T00:00:06.294928Z"
         }
       ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.6442,
+      "importance": 0.6442,
+      "importance_score": 0.6442,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
         "recency": 1.0,
-        "story_heat": 1.0
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-15T00:00:05.442900Z",
-      "latest_at": "2026-11-15T00:00:05.442900Z",
+      "earliest_at": "2026-11-16T00:00:06.294928Z",
+      "latest_at": "2026-11-16T00:00:06.294928Z",
       "primary_item": {
-        "id": "705aa5a299a6a5c17acb294adee87486b65bd8c9",
-        "title": "Anthropic发布了可落地的在线Agent架构最佳实践，打破了“7×24运行=持续耗Token”的误区。文中给出了队列去重、记忆精简、凭证隔离等实操准则，适合需要处理长周期任务的开发团队做参考。",
+        "id": "4cf0139056f7d5dfafd5b5f3724ce6145fac7fe1",
+        "title": "AI 明明答错了，为什么还能说得头头是道？作者从 token入手，用出生年份、数学判断和虚构论文等例子，解释了模型如何逐步生成回答，以及一个错误细节怎样带出一整段看似合理的解释。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-11-14",
+        "source": "社区更新 · 2026-11-15",
         "source_name": "WaytoAGI"
       }
     },
     {
-      "story_id": "story_d46b516a4c83",
-      "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-      "primary_url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "6af52e3783fbd5c80a30d1506e49dfb29b46bea4",
-          "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-          "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-14T15:00:00Z"
-        },
-        {
-          "id": "07c57064317e0b14edfba41d485fa8d7e0849883",
-          "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-          "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-14T15:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "6af52e3783fbd5c80a30d1506e49dfb29b46bea4",
-          "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-          "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-14T15:00:00Z"
-        },
-        {
-          "id": "07c57064317e0b14edfba41d485fa8d7e0849883",
-          "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-          "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-14T15:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.606,
-      "importance": 0.606,
-      "importance_score": 0.606,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5112,
-        "source_tier": 0.58,
-        "ai_relevance": 0.71,
-        "recency": 0.8781,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T15:00:00Z",
-      "latest_at": "2026-11-14T15:00:00Z",
-      "primary_item": {
-        "id": "6af52e3783fbd5c80a30d1506e49dfb29b46bea4",
-        "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-        "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-        "source": "The Verge",
-        "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_ad8b3d5bdfd0",
-      "title": "Show HN: DeepSeek V3，约200行纯Jax代码",
-      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-      "primary_url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-      "source": "github.com",
+      "story_id": "story_950ac38f23f2",
+      "title": "理解现代大型语言模型中的位置嵌入",
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "primary_url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "source": "magazine.sebastianraschka.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "513621aef39494027890f805c1c1ad382b301e15",
-          "title": "Show HN: DeepSeek V3，约200行纯Jax代码",
-          "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-          "source": "github.com",
+          "id": "327414c6f30ed741fd19d514181ae7973f3f730d",
+          "title": "理解现代大型语言模型中的位置嵌入",
+          "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+          "source": "magazine.sebastianraschka.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-14T21:13:58.862000Z"
+          "published_at": "2026-11-15T16:51:36.376000Z"
         },
         {
-          "id": "436c91cb26bee0e4520161107dd762c23f236b53",
-          "title": "Show HN: DeepSeek V3，约200行纯Jax代码 / Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-          "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+          "id": "ad6917fe51245a7a26c34d837e4baa9ee92af795",
+          "title": "理解现代大型语言模型中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
+          "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-14T15:04:15Z"
+          "published_at": "2026-11-15T12:14:06Z"
         },
         {
-          "id": "c3a51213b2121f17ae638fc37adeadeeead61fcc",
-          "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-          "url": "https://news.ycombinator.com/item?id=50497589",
+          "id": "50460e7361d8a4c13500be1beae50e60eadf1785",
+          "title": "Understanding Positional Embeddings in Modern LLMs",
+          "url": "https://news.ycombinator.com/item?id=50506376",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-14T15:04:15Z"
+          "published_at": "2026-11-15T12:14:06Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "github.com",
-        "hackernews"
+        "hackernews",
+        "magazine.sebastianraschka.com"
       ],
       "items": [
         {
-          "id": "513621aef39494027890f805c1c1ad382b301e15",
-          "title": "Show HN: DeepSeek V3，约200行纯Jax代码",
-          "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-          "source": "github.com",
+          "id": "327414c6f30ed741fd19d514181ae7973f3f730d",
+          "title": "理解现代大型语言模型中的位置嵌入",
+          "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+          "source": "magazine.sebastianraschka.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-14T21:13:58.862000Z"
+          "published_at": "2026-11-15T16:51:36.376000Z"
         },
         {
-          "id": "436c91cb26bee0e4520161107dd762c23f236b53",
-          "title": "Show HN: DeepSeek V3，约200行纯Jax代码 / Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-          "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+          "id": "ad6917fe51245a7a26c34d837e4baa9ee92af795",
+          "title": "理解现代大型语言模型中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
+          "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-14T15:04:15Z"
+          "published_at": "2026-11-15T12:14:06Z"
         },
         {
-          "id": "c3a51213b2121f17ae638fc37adeadeeead61fcc",
-          "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-          "url": "https://news.ycombinator.com/item?id=50497589",
+          "id": "50460e7361d8a4c13500be1beae50e60eadf1785",
+          "title": "Understanding Positional Embeddings in Modern LLMs",
+          "url": "https://news.ycombinator.com/item?id=50506376",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-14T15:04:15Z"
+          "published_at": "2026-11-15T12:14:06Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5637,
-      "importance": 0.5637,
-      "importance_score": 0.5637,
+      "score": 0.5532,
+      "importance": 0.5532,
+      "importance_score": 0.5532,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9608,
+        "recency": 0.902,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-14T15:04:15Z",
-      "latest_at": "2026-11-14T21:13:58.862000Z",
+      "earliest_at": "2026-11-15T12:14:06Z",
+      "latest_at": "2026-11-15T16:51:36.376000Z",
       "primary_item": {
-        "id": "513621aef39494027890f805c1c1ad382b301e15",
-        "title": "Show HN: DeepSeek V3，约200行纯Jax代码",
-        "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-        "source": "github.com",
+        "id": "327414c6f30ed741fd19d514181ae7973f3f730d",
+        "title": "理解现代大型语言模型中的位置嵌入",
+        "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+        "source": "magazine.sebastianraschka.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_c0e7ee2c6665",
-      "title": "白宫「超级智能工作组」呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
-      "url": "https://www.ithome.com/1/027/229.htm",
-      "primary_url": "https://www.ithome.com/1/027/229.htm",
-      "source": "Readhub · AI",
+      "story_id": "story_c6524b3bb676",
+      "title": "elementalsouls / Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "primary_url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "source": "GitHub · Trending Today",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "82baf67e3b009bb541e8eb1c3ce2fc8156e2b4bb",
-          "title": "白宫「超级智能工作组」呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
-          "url": "https://www.ithome.com/1/027/229.htm",
-          "source": "Readhub · AI",
+          "id": "ccc860b04fd7c8d958f0b0af51c38d11e485a48b",
+          "title": "elementalsouls / Claude-BugHunter",
+          "url": "https://github.com/elementalsouls/Claude-BugHunter",
+          "source": "GitHub · Trending Today",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "eadacb5ccf04bd4d5a7d2572e0baefb2be9bbf9c",
-          "title": "白宫“超级智能工作组”呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
-          "url": "https://www.ithome.com/1/027/229.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T13:03:22Z"
+          "id": "e8e58f8acbc03fad3f5d9560145fa1e9c59f1349",
+          "title": "elementalsouls /      Claude-BugHunter",
+          "url": "https://github.com/elementalsouls/Claude-BugHunter",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-15T23:33:09.244000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
+        "GitHub · Trending Today",
+        "github"
       ],
       "items": [
         {
-          "id": "82baf67e3b009bb541e8eb1c3ce2fc8156e2b4bb",
-          "title": "白宫「超级智能工作组」呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
-          "url": "https://www.ithome.com/1/027/229.htm",
-          "source": "Readhub · AI",
+          "id": "ccc860b04fd7c8d958f0b0af51c38d11e485a48b",
+          "title": "elementalsouls / Claude-BugHunter",
+          "url": "https://github.com/elementalsouls/Claude-BugHunter",
+          "source": "GitHub · Trending Today",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "eadacb5ccf04bd4d5a7d2572e0baefb2be9bbf9c",
-          "title": "白宫“超级智能工作组”呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
-          "url": "https://www.ithome.com/1/027/229.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T13:03:22Z"
+          "id": "e8e58f8acbc03fad3f5d9560145fa1e9c59f1349",
+          "title": "elementalsouls /      Claude-BugHunter",
+          "url": "https://github.com/elementalsouls/Claude-BugHunter",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-15T23:33:09.244000Z"
         }
       ],
       "item_count": 2,
@@ -458,409 +468,251 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-14T13:03:22Z",
-      "latest_at": "2026-11-15T00:00:05.442900Z",
+      "earliest_at": "2026-11-15T23:33:09.244000Z",
+      "latest_at": "2026-11-16T00:00:06.294928Z",
       "primary_item": {
-        "id": "82baf67e3b009bb541e8eb1c3ce2fc8156e2b4bb",
-        "title": "白宫「超级智能工作组」呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
-        "url": "https://www.ithome.com/1/027/229.htm",
-        "source": "Readhub · AI",
+        "id": "ccc860b04fd7c8d958f0b0af51c38d11e485a48b",
+        "title": "elementalsouls / Claude-BugHunter",
+        "url": "https://github.com/elementalsouls/Claude-BugHunter",
+        "source": "GitHub · Trending Today",
         "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_8f2daa11c505",
-      "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-      "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
-      "primary_url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
-      "source": "developer.nvidia.com",
-      "source_name": "Buzzing",
+      "story_id": "story_774f7412d1a3",
+      "title": "关于厄尔尼诺现象如何形成的一段简短讲解 [视频] / A short explainer on how El Niño works [video]",
+      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "primary_url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "142c45190f1b0ec524d2add507e28bd2b2e50a0e",
-          "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-          "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
-          "source": "developer.nvidia.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T19:38:56.216000Z"
-        },
-        {
-          "id": "fab83e7fd9f28d8c1b5f9aaa9f204e2f619876b6",
-          "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
+          "id": "001d8737a01105a38d8edd917cb68008595a7bcc",
+          "title": "关于厄尔尼诺现象如何形成的一段简短讲解 [视频] / A short explainer on how El Niño works [video]",
+          "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-14T14:09:25Z"
+          "published_at": "2026-11-15T18:23:21Z"
+        },
+        {
+          "id": "816d2fdd39abd16b595ac76c4e468e02089eb4f0",
+          "title": "DeepSeek's New LLM Engine Just Made GPUs 3x More Valuable [video]",
+          "url": "https://www.youtube.com/watch?v=2K_Rm8cho1I",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-11-15T00:07:46Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "developer.nvidia.com"
+        "HN Algolia · AI 24h",
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "142c45190f1b0ec524d2add507e28bd2b2e50a0e",
-          "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-          "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
-          "source": "developer.nvidia.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T19:38:56.216000Z"
-        },
-        {
-          "id": "fab83e7fd9f28d8c1b5f9aaa9f204e2f619876b6",
-          "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
+          "id": "001d8737a01105a38d8edd917cb68008595a7bcc",
+          "title": "关于厄尔尼诺现象如何形成的一段简短讲解 [视频] / A short explainer on how El Niño works [video]",
+          "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-14T14:09:25Z"
+          "published_at": "2026-11-15T18:23:21Z"
+        },
+        {
+          "id": "816d2fdd39abd16b595ac76c4e468e02089eb4f0",
+          "title": "DeepSeek's New LLM Engine Just Made GPUs 3x More Valuable [video]",
+          "url": "https://www.youtube.com/watch?v=2K_Rm8cho1I",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-11-15T00:07:46Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5348,
-      "importance": 0.5348,
-      "importance_score": 0.5348,
+      "score": 0.5318,
+      "importance": 0.5318,
+      "importance_score": 0.5318,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9391,
+        "recency": 0.9221,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-14T14:09:25Z",
-      "latest_at": "2026-11-14T19:38:56.216000Z",
+      "earliest_at": "2026-11-15T00:07:46Z",
+      "latest_at": "2026-11-15T18:23:21Z",
       "primary_item": {
-        "id": "142c45190f1b0ec524d2add507e28bd2b2e50a0e",
-        "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-        "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
-        "source": "developer.nvidia.com",
-        "source_name": "Buzzing"
+        "id": "001d8737a01105a38d8edd917cb68008595a7bcc",
+        "title": "关于厄尔尼诺现象如何形成的一段简短讲解 [视频] / A short explainer on how El Niño works [video]",
+        "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
-      "story_id": "story_3f060b226b66",
-      "title": "Show HN: Agweb – a browser for agents that stays out of your way",
-      "url": "https://github.com/paul-nameless/agweb",
-      "primary_url": "https://github.com/paul-nameless/agweb",
-      "source": "Hacker News (黑客新闻)",
+      "story_id": "story_de1b04aef218",
+      "title": "所有由人工智能生成的代码都应开源 / All AI-generated code should be Open Source",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
+      "primary_url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
+      "source": "Lobsters (技术社区)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "61c23c96bc1425c7f168b3af65c4e58dea2c638b",
-          "title": "Show HN: Agweb – a browser for agents that stays out of your way",
-          "url": "https://github.com/paul-nameless/agweb",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T14:08:12Z"
-        },
-        {
-          "id": "44ac6481a0513fd306ff2b36e1109fc05add60ca",
-          "title": "Show HN: Agweb – a browser for agents that stays out of your way",
-          "url": "https://news.ycombinator.com/item?id=50497147",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T14:08:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "61c23c96bc1425c7f168b3af65c4e58dea2c638b",
-          "title": "Show HN: Agweb – a browser for agents that stays out of your way",
-          "url": "https://github.com/paul-nameless/agweb",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T14:08:12Z"
-        },
-        {
-          "id": "44ac6481a0513fd306ff2b36e1109fc05add60ca",
-          "title": "Show HN: Agweb – a browser for agents that stays out of your way",
-          "url": "https://news.ycombinator.com/item?id=50497147",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T14:08:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5219,
-      "importance": 0.5219,
-      "importance_score": 0.5219,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8672,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T14:08:12Z",
-      "latest_at": "2026-11-14T14:08:12Z",
-      "primary_item": {
-        "id": "61c23c96bc1425c7f168b3af65c4e58dea2c638b",
-        "title": "Show HN: Agweb – a browser for agents that stays out of your way",
-        "url": "https://github.com/paul-nameless/agweb",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_c19e7ef010f7",
-      "title": "你完全可以凭记忆发明出变形金刚",
-      "url": "https://alexwang.ai/posts/associative-memory",
-      "primary_url": "https://alexwang.ai/posts/associative-memory",
-      "source": "alexwang.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1165087802d3484327bc10c6dbfbac4f89354054",
-          "title": "你完全可以凭记忆发明出变形金刚",
-          "url": "https://alexwang.ai/posts/associative-memory",
-          "source": "alexwang.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T10:32:46.164000Z"
-        },
-        {
-          "id": "34c0bd958b731204d23f44ae18127a5d4b8641b9",
-          "title": "你完全可以凭记忆发明出变形金刚 / You could have invented transformers from memory",
-          "url": "https://alexwang.ai/posts/associative-memory",
+          "id": "dad66bd8ebd72bf85db1b7d38f56a345be8db9d4",
+          "title": "所有由人工智能生成的代码都应开源 / All AI-generated code should be Open Source",
+          "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
           "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-14T04:49:47Z"
+          "published_at": "2026-11-15T16:04:01Z"
+        },
+        {
+          "id": "cf50b308cb21811065431474caa5264a211f16e3",
+          "title": "所有由人工智能生成的代码都应开源",
+          "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
+          "source": "jakub.jankiewicz.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-15T16:03:47.551000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Lobsters (技术社区)",
-        "alexwang.ai"
+        "jakub.jankiewicz.org"
       ],
       "items": [
         {
-          "id": "1165087802d3484327bc10c6dbfbac4f89354054",
-          "title": "你完全可以凭记忆发明出变形金刚",
-          "url": "https://alexwang.ai/posts/associative-memory",
-          "source": "alexwang.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T10:32:46.164000Z"
-        },
-        {
-          "id": "34c0bd958b731204d23f44ae18127a5d4b8641b9",
-          "title": "你完全可以凭记忆发明出变形金刚 / You could have invented transformers from memory",
-          "url": "https://alexwang.ai/posts/associative-memory",
+          "id": "dad66bd8ebd72bf85db1b7d38f56a345be8db9d4",
+          "title": "所有由人工智能生成的代码都应开源 / All AI-generated code should be Open Source",
+          "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
           "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-14T04:49:47Z"
+          "published_at": "2026-11-15T16:04:01Z"
+        },
+        {
+          "id": "cf50b308cb21811065431474caa5264a211f16e3",
+          "title": "所有由人工智能生成的代码都应开源",
+          "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
+          "source": "jakub.jankiewicz.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-15T16:03:47.551000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.514,
-      "importance": 0.514,
-      "importance_score": 0.514,
+      "score": 0.5263,
+      "importance": 0.5263,
+      "importance_score": 0.5263,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8234,
+        "recency": 0.8917,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-14T04:49:47Z",
-      "latest_at": "2026-11-14T10:32:46.164000Z",
+      "earliest_at": "2026-11-15T16:03:47.551000Z",
+      "latest_at": "2026-11-15T16:04:01Z",
       "primary_item": {
-        "id": "1165087802d3484327bc10c6dbfbac4f89354054",
-        "title": "你完全可以凭记忆发明出变形金刚",
-        "url": "https://alexwang.ai/posts/associative-memory",
-        "source": "alexwang.ai",
-        "source_name": "Buzzing"
+        "id": "dad66bd8ebd72bf85db1b7d38f56a345be8db9d4",
+        "title": "所有由人工智能生成的代码都应开源 / All AI-generated code should be Open Source",
+        "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
+        "source": "Lobsters (技术社区)",
+        "source_name": "Info Flow"
       }
     },
     {
-      "story_id": "story_c6caa4d4f0b0",
-      "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
-      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "primary_url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "source": "www.techpowerup.com",
+      "story_id": "story_14ba8d169059",
+      "title": "法院驳回了关于DRAM价格垄断案的驳回起诉动议",
+      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+      "primary_url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+      "source": "litnews.ai",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "bf620ca6eecfbec7c651f2275f1f33e0020ebf95",
-          "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
-          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-          "source": "www.techpowerup.com",
+          "id": "d296057ae2ab292aeaaa2e954f6de19ce983086a",
+          "title": "法院驳回了关于DRAM价格垄断案的驳回起诉动议",
+          "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+          "source": "litnews.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-14T10:32:03.584000Z"
+          "published_at": "2026-11-15T08:37:45.544000Z"
         },
         {
-          "id": "e26eebc79e088ffc5ea18b52ef0b843b8dcafa0e",
-          "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+          "id": "66d533320e2d55eea710e4194804681437154012",
+          "title": "法院驳回了关于DRAM价格垄断案的驳回起诉动议 / Court denies motion to dismiss DRAM price fixing case",
+          "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-14T02:52:59Z"
+          "published_at": "2026-11-15T01:18:36Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News · 24h最热",
-        "www.techpowerup.com"
+        "litnews.ai"
       ],
       "items": [
         {
-          "id": "bf620ca6eecfbec7c651f2275f1f33e0020ebf95",
-          "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
-          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-          "source": "www.techpowerup.com",
+          "id": "d296057ae2ab292aeaaa2e954f6de19ce983086a",
+          "title": "法院驳回了关于DRAM价格垄断案的驳回起诉动议",
+          "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+          "source": "litnews.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-14T10:32:03.584000Z"
+          "published_at": "2026-11-15T08:37:45.544000Z"
         },
         {
-          "id": "e26eebc79e088ffc5ea18b52ef0b843b8dcafa0e",
-          "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+          "id": "66d533320e2d55eea710e4194804681437154012",
+          "title": "法院驳回了关于DRAM价格垄断案的驳回起诉动议 / Court denies motion to dismiss DRAM price fixing case",
+          "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-14T02:52:59Z"
+          "published_at": "2026-11-15T01:18:36Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.514,
-      "importance": 0.514,
-      "importance_score": 0.514,
+      "score": 0.51,
+      "importance": 0.51,
+      "importance_score": 0.51,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8233,
+        "recency": 0.8009,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-14T02:52:59Z",
-      "latest_at": "2026-11-14T10:32:03.584000Z",
+      "earliest_at": "2026-11-15T01:18:36Z",
+      "latest_at": "2026-11-15T08:37:45.544000Z",
       "primary_item": {
-        "id": "bf620ca6eecfbec7c651f2275f1f33e0020ebf95",
-        "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
-        "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-        "source": "www.techpowerup.com",
+        "id": "d296057ae2ab292aeaaa2e954f6de19ce983086a",
+        "title": "法院驳回了关于DRAM价格垄断案的驳回起诉动议",
+        "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+        "source": "litnews.ai",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_40e78db6601d",
-      "title": "llama.cpp v1.0.0：为本地 AI 生态打造更坚实的基础 / Llama.cpp hits v1.0 with a native app for macOS",
-      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "primary_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "855015be6dd2202010cc4c6588a6ced118b5be4e",
-          "title": "llama.cpp v1.0.0：为本地 AI 生态打造更坚实的基础 / Llama.cpp hits v1.0 with a native app for macOS",
-          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T02:05:37Z"
-        },
-        {
-          "id": "9f853de54633dc07aea35625c7f0fa25e308ae8c",
-          "title": "llama.cpp v1.0.0：为本地 AI 生态打造更坚实的基础",
-          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "855015be6dd2202010cc4c6588a6ced118b5be4e",
-          "title": "llama.cpp v1.0.0：为本地 AI 生态打造更坚实的基础 / Llama.cpp hits v1.0 with a native app for macOS",
-          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T02:05:37Z"
-        },
-        {
-          "id": "9f853de54633dc07aea35625c7f0fa25e308ae8c",
-          "title": "llama.cpp v1.0.0：为本地 AI 生态打造更坚实的基础",
-          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.497,
-      "importance": 0.497,
-      "importance_score": 0.497,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7288,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T00:00:05.898953Z",
-      "latest_at": "2026-11-14T02:05:37Z",
-      "primary_item": {
-        "id": "855015be6dd2202010cc4c6588a6ced118b5be4e",
-        "title": "llama.cpp v1.0.0：为本地 AI 生态打造更坚实的基础 / Llama.cpp hits v1.0 with a native app for macOS",
-        "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     }
   ]
