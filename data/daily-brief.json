@@ -1,52 +1,134 @@
 {
-  "generated_at": "2026-11-16T00:00:06.294928Z",
+  "generated_at": "2026-11-17T00:00:05.335503Z",
   "window_hours": 24,
-  "total_items": 9,
+  "total_items": 20,
   "items": [
     {
-      "story_id": "story_87d7014c15ee",
-      "title": "A step toward defining the Standard Model on a lattice",
-      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-      "primary_url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "story_id": "story_b1c71d07875a",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "primary_url": "https://openai.com/index/strengthening-online-child-safety",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b30827aade7fb5ded891f222827dfceba5b94136",
-          "title": "A step toward defining the Standard Model on a lattice",
-          "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+          "id": "0a34b611792d4b12dd3204a4c0649a994c1cb6f3",
+          "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+          "url": "https://openai.com/index/strengthening-online-child-safety",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-15T22:00:01Z"
+          "published_at": "2026-11-16T17:00:00Z"
+        },
+        {
+          "id": "6e4e3bfcfcb163ce7a1c41c38b43c176de71f1cf",
+          "title": "Strengthening the fight against online child sexual abuse",
+          "url": "https://openai.com/index/strengthening-online-child-safety",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-16T18:12:48Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
+        "Hacker News (黑客新闻)",
         "OpenAI News"
       ],
       "items": [
         {
-          "id": "b30827aade7fb5ded891f222827dfceba5b94136",
-          "title": "A step toward defining the Standard Model on a lattice",
-          "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+          "id": "0a34b611792d4b12dd3204a4c0649a994c1cb6f3",
+          "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+          "url": "https://openai.com/index/strengthening-online-child-safety",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-15T22:00:01Z"
+          "published_at": "2026-11-16T17:00:00Z"
+        },
+        {
+          "id": "6e4e3bfcfcb163ce7a1c41c38b43c176de71f1cf",
+          "title": "Strengthening the fight against online child sexual abuse",
+          "url": "https://openai.com/index/strengthening-online-child-safety",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-16T18:12:48Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8469,
-      "importance": 0.8469,
-      "importance_score": 0.8469,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8597,
+      "importance": 0.8597,
+      "importance_score": 0.8597,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9715,
+        "recency": 0.9038,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T17:00:00Z",
+      "latest_at": "2026-11-16T18:12:48Z",
+      "primary_item": {
+        "id": "0a34b611792d4b12dd3204a4c0649a994c1cb6f3",
+        "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+        "url": "https://openai.com/index/strengthening-online-child-safety",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_11d51b8e09bb",
+      "title": "GitHub Copilot weekly releases — November 9",
+      "url": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9",
+      "primary_url": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "17f459cd558c297ce759af4aba0fe8c2b63ede9e",
+          "title": "GitHub Copilot weekly releases — November 9",
+          "url": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T21:34:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "17f459cd558c297ce759af4aba0fe8c2b63ede9e",
+          "title": "GitHub Copilot weekly releases — November 9",
+          "url": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T21:34:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8458,
+      "importance": 0.8458,
+      "importance_score": 0.8458,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9657,
         "story_heat": 0.0
       },
       "category": "official",
@@ -55,60 +137,60 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-15T22:00:01Z",
-      "latest_at": "2026-11-15T22:00:01Z",
+      "earliest_at": "2026-11-16T21:34:53Z",
+      "latest_at": "2026-11-16T21:34:53Z",
       "primary_item": {
-        "id": "b30827aade7fb5ded891f222827dfceba5b94136",
-        "title": "A step toward defining the Standard Model on a lattice",
-        "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-        "source": "OpenAI News",
+        "id": "17f459cd558c297ce759af4aba0fe8c2b63ede9e",
+        "title": "GitHub Copilot weekly releases — November 9",
+        "url": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_4b0fc5b701ff",
-      "title": "Our new blog for science",
-      "url": "https://openai.com/index/our-new-blog-for-science",
-      "primary_url": "https://openai.com/index/our-new-blog-for-science",
-      "source": "OpenAI News",
+      "story_id": "story_0bc322583e6f",
+      "title": "New Ask Maps features to help with holiday travel and prep",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026",
+      "primary_url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026",
+      "source": "Google AI Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "1aefb6f3bed3492c82bda2d27aa548c35b99f946",
-          "title": "Our new blog for science",
-          "url": "https://openai.com/index/our-new-blog-for-science",
-          "source": "OpenAI News",
+          "id": "50cf4e7e045e2ef8265ecea5b06004ae9e3d4230",
+          "title": "New Ask Maps features to help with holiday travel and prep",
+          "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026",
+          "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-15T22:00:00Z"
+          "published_at": "2026-11-16T14:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "Google AI Blog"
       ],
       "items": [
         {
-          "id": "1aefb6f3bed3492c82bda2d27aa548c35b99f946",
-          "title": "Our new blog for science",
-          "url": "https://openai.com/index/our-new-blog-for-science",
-          "source": "OpenAI News",
+          "id": "50cf4e7e045e2ef8265ecea5b06004ae9e3d4230",
+          "title": "New Ask Maps features to help with holiday travel and prep",
+          "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026",
+          "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-15T22:00:00Z"
+          "published_at": "2026-11-16T14:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8469,
-      "importance": 0.8469,
-      "importance_score": 0.8469,
+      "score": 0.8198,
+      "importance": 0.8198,
+      "importance_score": 0.8198,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9715,
+        "ai_relevance": 0.87,
+        "recency": 0.8655,
         "story_heat": 0.0
       },
       "category": "official",
@@ -117,85 +199,859 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-15T22:00:00Z",
-      "latest_at": "2026-11-15T22:00:00Z",
+      "earliest_at": "2026-11-16T14:00:00Z",
+      "latest_at": "2026-11-16T14:00:00Z",
       "primary_item": {
-        "id": "1aefb6f3bed3492c82bda2d27aa548c35b99f946",
-        "title": "Our new blog for science",
-        "url": "https://openai.com/index/our-new-blog-for-science",
+        "id": "50cf4e7e045e2ef8265ecea5b06004ae9e3d4230",
+        "title": "New Ask Maps features to help with holiday travel and prep",
+        "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_cfcc7acb02e9",
+      "title": "OpenAI 为医疗推出 ChatGPT for Healthcare 新功能 / More ways to move care forward with ChatGPT for Healthcare",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "primary_url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "aab4bdc3b4e1eab4014008d443cd6b1925102936",
+          "title": "OpenAI 为医疗推出 ChatGPT for Healthcare 新功能 / More ways to move care forward with ChatGPT for Healthcare",
+          "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T06:00:00Z"
+        },
+        {
+          "id": "a5182fd67e5f2abe0d27004143925c2ffb1d4d41",
+          "title": "OpenAI 为医疗推出 ChatGPT for Healthcare 新功能",
+          "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "aab4bdc3b4e1eab4014008d443cd6b1925102936",
+          "title": "OpenAI 为医疗推出 ChatGPT for Healthcare 新功能 / More ways to move care forward with ChatGPT for Healthcare",
+          "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T06:00:00Z"
+        },
+        {
+          "id": "a5182fd67e5f2abe0d27004143925c2ffb1d4d41",
+          "title": "OpenAI 为医疗推出 ChatGPT for Healthcare 新功能",
+          "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8438,
+      "importance": 0.8438,
+      "importance_score": 0.8438,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7711,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T06:00:00Z",
+      "latest_at": "2026-11-17T00:00:05.335503Z",
+      "primary_item": {
+        "id": "aab4bdc3b4e1eab4014008d443cd6b1925102936",
+        "title": "OpenAI 为医疗推出 ChatGPT for Healthcare 新功能 / More ways to move care forward with ChatGPT for Healthcare",
+        "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_91cc17dfbbc6",
-      "title": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
+      "story_id": "story_f9ace2a74e66",
+      "title": "GitHub Copilot models deprecated on November 16, 2026",
+      "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
+      "primary_url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "3fa5a2605d8928a43237ea56faecc4d08a5147cf",
-          "title": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-11-15T03:35:00Z"
+          "id": "66ca20a9b5d676e9dcf39fa182e2d7e7f4b3c4bf",
+          "title": "GitHub Copilot models deprecated on November 16, 2026",
+          "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T20:25:20Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Daily Digest"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "3fa5a2605d8928a43237ea56faecc4d08a5147cf",
-          "title": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-11-15T03:35:00Z"
+          "id": "66ca20a9b5d676e9dcf39fa182e2d7e7f4b3c4bf",
+          "title": "GitHub Copilot models deprecated on November 16, 2026",
+          "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T20:25:20Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7216,
-      "importance": 0.7216,
-      "importance_score": 0.7216,
+      "score": 0.8429,
+      "importance": 0.8429,
+      "importance_score": 0.8429,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9496,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T20:25:20Z",
+      "latest_at": "2026-11-16T20:25:20Z",
+      "primary_item": {
+        "id": "66ca20a9b5d676e9dcf39fa182e2d7e7f4b3c4bf",
+        "title": "GitHub Copilot models deprecated on November 16, 2026",
+        "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_ebd9eb949639",
+      "title": "Our first phase of embedded assessments",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "primary_url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "081cdb160d05b0261414309d6bf73cddc34738e0",
+          "title": "Our first phase of embedded assessments",
+          "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T08:00:00Z"
+        },
+        {
+          "id": "5b716574cc45ee61a1f5e35e279ac5f085184bcc",
+          "title": "First phase of embedded assessments at OpenAI",
+          "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-16T16:07:20Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "081cdb160d05b0261414309d6bf73cddc34738e0",
+          "title": "Our first phase of embedded assessments",
+          "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T08:00:00Z"
+        },
+        {
+          "id": "5b716574cc45ee61a1f5e35e279ac5f085184bcc",
+          "title": "First phase of embedded assessments at OpenAI",
+          "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-16T16:07:20Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8399,
+      "importance": 0.8399,
+      "importance_score": 0.8399,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7937,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T08:00:00Z",
+      "latest_at": "2026-11-16T16:07:20Z",
+      "primary_item": {
+        "id": "081cdb160d05b0261414309d6bf73cddc34738e0",
+        "title": "Our first phase of embedded assessments",
+        "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_338471667e07",
+      "title": "Budget limit increased to 40,000 budgets per account",
+      "url": "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
+      "primary_url": "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3c503d70f53853b0ba28abb7538773e238c295c4",
+          "title": "Budget limit increased to 40,000 budgets per account",
+          "url": "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T21:30:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "3c503d70f53853b0ba28abb7538773e238c295c4",
+          "title": "Budget limit increased to 40,000 budgets per account",
+          "url": "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T21:30:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8376,
+      "importance": 0.8376,
+      "importance_score": 0.8376,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9647,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T21:30:49Z",
+      "latest_at": "2026-11-16T21:30:49Z",
+      "primary_item": {
+        "id": "3c503d70f53853b0ba28abb7538773e238c295c4",
+        "title": "Budget limit increased to 40,000 budgets per account",
+        "url": "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_9c48298fc62f",
+      "title": "三轮真机测评，TARS战队以82.5分拿下蚂蚁灵波具身大模型挑战赛冠军",
+      "url": "https://www.aibase.com/news/32343",
+      "primary_url": "https://www.aibase.com/news/32343",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ed960778fb5059e30ccd7bd1ee16225c426644dd",
+          "title": "三轮真机测评，TARS战队以82.5分拿下蚂蚁灵波具身大模型挑战赛冠军",
+          "url": "https://www.aibase.com/news/32343",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T18:00:05.335503Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ed960778fb5059e30ccd7bd1ee16225c426644dd",
+          "title": "三轮真机测评，TARS战队以82.5分拿下蚂蚁灵波具身大模型挑战赛冠军",
+          "url": "https://www.aibase.com/news/32343",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T18:00:05.335503Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7446,
+        "recency": 0.917,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T18:00:05.335503Z",
+      "latest_at": "2026-11-16T18:00:05.335503Z",
+      "primary_item": {
+        "id": "ed960778fb5059e30ccd7bd1ee16225c426644dd",
+        "title": "三轮真机测评，TARS战队以82.5分拿下蚂蚁灵波具身大模型挑战赛冠军",
+        "url": "https://www.aibase.com/news/32343",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f26f2a4dfd6b",
+      "title": "Broadening access to AI for scientists",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "primary_url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3b301029bfd439fb8609fe9d109687afc3160535",
+          "title": "Broadening access to AI for scientists",
+          "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T17:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "3b301029bfd439fb8609fe9d109687afc3160535",
+          "title": "Broadening access to AI for scientists",
+          "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8347,
+      "importance": 0.8347,
+      "importance_score": 0.8347,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9038,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T17:00:00Z",
+      "latest_at": "2026-11-16T17:00:00Z",
+      "primary_item": {
+        "id": "3b301029bfd439fb8609fe9d109687afc3160535",
+        "title": "Broadening access to AI for scientists",
+        "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2799af16e9a0",
+      "title": "Bulk start AI Scan for repositories",
+      "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+      "primary_url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1a1bf881450e272c4b2cf04ab4bb0e7e64931a44",
+          "title": "Bulk start AI Scan for repositories",
+          "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T15:50:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1a1bf881450e272c4b2cf04ab4bb0e7e64931a44",
+          "title": "Bulk start AI Scan for repositories",
+          "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T15:50:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.824,
+      "importance": 0.824,
+      "importance_score": 0.824,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8888,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T15:50:22Z",
+      "latest_at": "2026-11-16T15:50:22Z",
+      "primary_item": {
+        "id": "1a1bf881450e272c4b2cf04ab4bb0e7e64931a44",
+        "title": "Bulk start AI Scan for repositories",
+        "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e483a384be0e",
+      "title": "黄仁勋考虑重返英伟达CEO岗位，盟友筹建“作战室”游说董事会",
+      "url": "https://www.aibase.com/news/32341",
+      "primary_url": "https://www.aibase.com/news/32341",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "05cd5be11fec4c16abd92d6d0ea9931a48f92dd4",
+          "title": "黄仁勋考虑重返英伟达CEO岗位，盟友筹建“作战室”游说董事会",
+          "url": "https://www.aibase.com/news/32341",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T17:00:05.335503Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "05cd5be11fec4c16abd92d6d0ea9931a48f92dd4",
+          "title": "黄仁勋考虑重返英伟达CEO岗位，盟友筹建“作战室”游说董事会",
+          "url": "https://www.aibase.com/news/32341",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T17:00:05.335503Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9039,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T17:00:05.335503Z",
+      "latest_at": "2026-11-16T17:00:05.335503Z",
+      "primary_item": {
+        "id": "05cd5be11fec4c16abd92d6d0ea9931a48f92dd4",
+        "title": "黄仁勋考虑重返英伟达CEO岗位，盟友筹建“作战室”游说董事会",
+        "url": "https://www.aibase.com/news/32341",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f891bd93f3d2",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "primary_url": "https://openai.com/index/science-at-the-frontier",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e6fdec1c7f79240833026f343cfa1a1a499b5052",
+          "title": "Science at the Frontier: How scientists use ChatGPT",
+          "url": "https://openai.com/index/science-at-the-frontier",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "e6fdec1c7f79240833026f343cfa1a1a499b5052",
+          "title": "Science at the Frontier: How scientists use ChatGPT",
+          "url": "https://openai.com/index/science-at-the-frontier",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8314,
+      "importance": 0.8314,
+      "importance_score": 0.8314,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8409,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T12:00:00Z",
+      "latest_at": "2026-11-16T12:00:00Z",
+      "primary_item": {
+        "id": "e6fdec1c7f79240833026f343cfa1a1a499b5052",
+        "title": "Science at the Frontier: How scientists use ChatGPT",
+        "url": "https://openai.com/index/science-at-the-frontier",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_4f85959693f9",
+      "title": "Take GitHub Mobile with you on iPhone Duo",
+      "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+      "primary_url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "746bc7b7d1bd48df7c8b6088885e3a4660dbbe92",
+          "title": "Take GitHub Mobile with you on iPhone Duo",
+          "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T14:30:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "746bc7b7d1bd48df7c8b6088885e3a4660dbbe92",
+          "title": "Take GitHub Mobile with you on iPhone Duo",
+          "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T14:30:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8209,
+      "importance": 0.8209,
+      "importance_score": 0.8209,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8718,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T14:30:07Z",
+      "latest_at": "2026-11-16T14:30:07Z",
+      "primary_item": {
+        "id": "746bc7b7d1bd48df7c8b6088885e3a4660dbbe92",
+        "title": "Take GitHub Mobile with you on iPhone Duo",
+        "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e406cf14f674",
+      "title": "火山引擎宣布Seedance2.54K API全面开放，支持10-bit色深与样片模式",
+      "url": "https://www.aibase.com/news/32340",
+      "primary_url": "https://www.aibase.com/news/32340",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f1b18b26edd2099b2872c0c05dadb86d1478054c",
+          "title": "火山引擎宣布Seedance2.54K API全面开放，支持10-bit色深与样片模式",
+          "url": "https://www.aibase.com/news/32340",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T16:00:05.335503Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f1b18b26edd2099b2872c0c05dadb86d1478054c",
+          "title": "火山引擎宣布Seedance2.54K API全面开放，支持10-bit色深与样片模式",
+          "url": "https://www.aibase.com/news/32340",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T16:00:05.335503Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8909,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-15T03:35:00Z",
-      "latest_at": "2026-11-15T03:35:00Z",
+      "earliest_at": "2026-11-16T16:00:05.335503Z",
+      "latest_at": "2026-11-16T16:00:05.335503Z",
       "primary_item": {
-        "id": "3fa5a2605d8928a43237ea56faecc4d08a5147cf",
-        "title": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
+        "id": "f1b18b26edd2099b2872c0c05dadb86d1478054c",
+        "title": "火山引擎宣布Seedance2.54K API全面开放，支持10-bit色深与样片模式",
+        "url": "https://www.aibase.com/news/32340",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_91e58e2ea930",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "primary_url": "https://openai.com/index/lvmh-media-division-partnership",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c857cb04056a67136a815d45c5da94457b53c014",
+          "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+          "url": "https://openai.com/index/lvmh-media-division-partnership",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T09:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "c857cb04056a67136a815d45c5da94457b53c014",
+          "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+          "url": "https://openai.com/index/lvmh-media-division-partnership",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T09:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8229,
+      "importance": 0.8229,
+      "importance_score": 0.8229,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.8052,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T09:00:00Z",
+      "latest_at": "2026-11-16T09:00:00Z",
+      "primary_item": {
+        "id": "c857cb04056a67136a815d45c5da94457b53c014",
+        "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+        "url": "https://openai.com/index/lvmh-media-division-partnership",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
       "story_id": "story_2df82173bb28",
-      "title": "AI 明明答错了，为什么还能说得头头是道？作者从 token入手，用出生年份、数学判断和虚构论文等例子，解释了模型如何逐步生成回答，以及一个错误细节怎样带出一整段看似合理的解释。",
+      "title": "11 月 14 日，2026 成都科幻周开幕式暨第三届成都天问华语科幻文学大赛成果发布会，在成都科幻馆雨果厅举行。AJ 也带来重磅分享，拆解了 AI 时代科幻故事 IP 落地的全新路径，为苦于文字作品难以影像化的创作者提供了清晰解法！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-11-15",
+      "source": "社区更新 · 2026-11-16",
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "8a2400562f9b6cb5671d730f5ce22b9d86216a7b",
+          "title": "11 月 14 日，2026 成都科幻周开幕式暨第三届成都天问华语科幻文学大赛成果发布会，在成都科幻馆雨果厅举行。AJ 也带来重磅分享，拆解了 AI 时代科幻故事 IP 落地的全新路径，为苦于文字作品难以影像化的创作者提供了清晰解法！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-17T00:00:05.335503Z"
+        },
+        {
+          "id": "fd4ea42fa2ed95adfb23af20439203ed45866cbe",
+          "title": "AI时代真正的瓶颈在于注意力与Token消耗，卡尔把Anthropic常驻Agent设计思路转化为了通用提示词。最后实测大幅减少了无效调用，直接省下55%使用额度，给多Personal Agent使用者一套低成本控费方案。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-17T00:00:05.335503Z"
+        },
+        {
+          "id": "820d76592446ce199b5d33bb8e2fed47de52cfc3",
+          "title": "AI音乐赛道这周风波不断，版权诉讼持续拉扯，Suno当庭质疑老牌唱片合约缺少AI训练授权，高额索赔持续加码。多款生产力工具更新落地，ACE人声模型拿下盲测榜首，Suno Bridge、Mirelo插件无缝对接专业剪辑编曲软件。韩流AI曲目登顶主流榜单却卡在版税确权，SIQA搭建独立AI音乐奖项生态，还有8篇前沿论文，可以帮创作者看清合规红线、快速挑选趁手工具。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-17T00:00:05.335503Z"
+        },
+        {
+          "id": "f0314bd6e26b739b70361d592dcc491554e56d53",
+          "title": "《AI 工具站 SEO 小册子：图解入门》——从认知到基建，从内容到外链，再到规模化与增长复盘。全书按实际执行顺序展开，可以从头读到尾，也可以在遇到问题时直接翻对应章节。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-17T00:00:05.335503Z"
+        },
+        {
+          "id": "2926a37710739a34c9a79ae982274185f71ba5ca",
+          "title": "不少人长期用AI做项目都会卡在上下文丢失：换对话就要反复交代背景，AI还会反复拿出早已否决的方案。作者转变文档思路，把AI视作文档读者，借鉴软件工程规范搭建分层目录，靠README、规则文件、决策归档区分有效方案与废弃版本。文中还给出了可直接使用的整理提示词，帮你把存量项目梳理成AI能读懂的结构，大幅减少重复沟通，搭建可长期运转的AI项目工作流。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-17T00:00:05.335503Z"
+        },
+        {
+          "id": "5031b17b5e84f24d84e97990378bc00565eaa5b3",
+          "title": "豆包工作上新多模型消费倍率机制，DeepSeek V4.1 Flash限时低至0.01倍额度，低成本兼顾速度与效果。梦飞实测过程中发现它独立完成可交互3D沙盘、品牌提案PPT、水下滚动演示等高复杂度任务，整体消耗极低，签到的额度就足以覆盖。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-17T00:00:05.335503Z"
+        },
+        {
           "id": "4cf0139056f7d5dfafd5b5f3724ce6145fac7fe1",
           "title": "AI 明明答错了，为什么还能说得头头是道？作者从 token入手，用出生年份、数学判断和虚构论文等例子，解释了模型如何逐步生成回答，以及一个错误细节怎样带出一整段看似合理的解释。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -232,12 +1088,67 @@
           "published_at": "2026-11-16T00:00:06.294928Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 10,
       "source_names": [
-        "社区更新 · 2026-11-15"
+        "社区更新 · 2026-11-15",
+        "社区更新 · 2026-11-16"
       ],
       "items": [
         {
+          "id": "8a2400562f9b6cb5671d730f5ce22b9d86216a7b",
+          "title": "11 月 14 日，2026 成都科幻周开幕式暨第三届成都天问华语科幻文学大赛成果发布会，在成都科幻馆雨果厅举行。AJ 也带来重磅分享，拆解了 AI 时代科幻故事 IP 落地的全新路径，为苦于文字作品难以影像化的创作者提供了清晰解法！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-17T00:00:05.335503Z"
+        },
+        {
+          "id": "fd4ea42fa2ed95adfb23af20439203ed45866cbe",
+          "title": "AI时代真正的瓶颈在于注意力与Token消耗，卡尔把Anthropic常驻Agent设计思路转化为了通用提示词。最后实测大幅减少了无效调用，直接省下55%使用额度，给多Personal Agent使用者一套低成本控费方案。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-17T00:00:05.335503Z"
+        },
+        {
+          "id": "820d76592446ce199b5d33bb8e2fed47de52cfc3",
+          "title": "AI音乐赛道这周风波不断，版权诉讼持续拉扯，Suno当庭质疑老牌唱片合约缺少AI训练授权，高额索赔持续加码。多款生产力工具更新落地，ACE人声模型拿下盲测榜首，Suno Bridge、Mirelo插件无缝对接专业剪辑编曲软件。韩流AI曲目登顶主流榜单却卡在版税确权，SIQA搭建独立AI音乐奖项生态，还有8篇前沿论文，可以帮创作者看清合规红线、快速挑选趁手工具。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-17T00:00:05.335503Z"
+        },
+        {
+          "id": "f0314bd6e26b739b70361d592dcc491554e56d53",
+          "title": "《AI 工具站 SEO 小册子：图解入门》——从认知到基建，从内容到外链，再到规模化与增长复盘。全书按实际执行顺序展开，可以从头读到尾，也可以在遇到问题时直接翻对应章节。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-17T00:00:05.335503Z"
+        },
+        {
+          "id": "2926a37710739a34c9a79ae982274185f71ba5ca",
+          "title": "不少人长期用AI做项目都会卡在上下文丢失：换对话就要反复交代背景，AI还会反复拿出早已否决的方案。作者转变文档思路，把AI视作文档读者，借鉴软件工程规范搭建分层目录，靠README、规则文件、决策归档区分有效方案与废弃版本。文中还给出了可直接使用的整理提示词，帮你把存量项目梳理成AI能读懂的结构，大幅减少重复沟通，搭建可长期运转的AI项目工作流。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-17T00:00:05.335503Z"
+        },
+        {
+          "id": "5031b17b5e84f24d84e97990378bc00565eaa5b3",
+          "title": "豆包工作上新多模型消费倍率机制，DeepSeek V4.1 Flash限时低至0.01倍额度，低成本兼顾速度与效果。梦飞实测过程中发现它独立完成可交互3D沙盘、品牌提案PPT、水下滚动演示等高复杂度任务，整体消耗极低，签到的额度就足以覆盖。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-17T00:00:05.335503Z"
+        },
+        {
           "id": "4cf0139056f7d5dfafd5b5f3724ce6145fac7fe1",
           "title": "AI 明明答错了，为什么还能说得头头是道？作者从 token入手，用出生年份、数学判断和虚构论文等例子，解释了模型如何逐步生成回答，以及一个错误细节怎样带出一整段看似合理的解释。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -274,445 +1185,311 @@
           "published_at": "2026-11-16T00:00:06.294928Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.6442,
-      "importance": 0.6442,
-      "importance_score": 0.6442,
+      "item_count": 10,
+      "duplicate_count": 10,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
         "recency": 1.0,
-        "story_heat": 0.75
+        "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-11-16T00:00:06.294928Z",
-      "latest_at": "2026-11-16T00:00:06.294928Z",
+      "latest_at": "2026-11-17T00:00:05.335503Z",
       "primary_item": {
-        "id": "4cf0139056f7d5dfafd5b5f3724ce6145fac7fe1",
-        "title": "AI 明明答错了，为什么还能说得头头是道？作者从 token入手，用出生年份、数学判断和虚构论文等例子，解释了模型如何逐步生成回答，以及一个错误细节怎样带出一整段看似合理的解释。",
+        "id": "8a2400562f9b6cb5671d730f5ce22b9d86216a7b",
+        "title": "11 月 14 日，2026 成都科幻周开幕式暨第三届成都天问华语科幻文学大赛成果发布会，在成都科幻馆雨果厅举行。AJ 也带来重磅分享，拆解了 AI 时代科幻故事 IP 落地的全新路径，为苦于文字作品难以影像化的创作者提供了清晰解法！",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-11-15",
+        "source": "社区更新 · 2026-11-16",
         "source_name": "WaytoAGI"
       }
     },
     {
-      "story_id": "story_950ac38f23f2",
-      "title": "理解现代大型语言模型中的位置嵌入",
-      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-      "primary_url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-      "source": "magazine.sebastianraschka.com",
-      "source_name": "Buzzing",
+      "story_id": "story_030a040e02b2",
+      "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
+      "primary_url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "327414c6f30ed741fd19d514181ae7973f3f730d",
-          "title": "理解现代大型语言模型中的位置嵌入",
-          "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-          "source": "magazine.sebastianraschka.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-15T16:51:36.376000Z"
+          "id": "e6b87077a6d1787c1bf1bab22affd5f84b8f19de",
+          "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+          "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-16T17:36:43Z"
         },
         {
-          "id": "ad6917fe51245a7a26c34d837e4baa9ee92af795",
-          "title": "理解现代大型语言模型中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
-          "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-15T12:14:06Z"
+          "id": "88cd8a5a3013dab64e37c77cb6a7099f38779192",
+          "title": "FBI says Artex AI open-source hacking tool used to breach networks",
+          "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-16T18:12:21Z"
         },
         {
-          "id": "50460e7361d8a4c13500be1beae50e60eadf1785",
-          "title": "Understanding Positional Embeddings in Modern LLMs",
-          "url": "https://news.ycombinator.com/item?id=50506376",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-15T12:14:06Z"
+          "id": "31ea1d4d49369b82f1711130c13c4cc0dd01b1cf",
+          "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+          "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-16T17:36:43Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "magazine.sebastianraschka.com"
+        "Hacker News · 24h最热",
+        "TechCrunch",
+        "TechCrunch AI"
       ],
       "items": [
         {
-          "id": "327414c6f30ed741fd19d514181ae7973f3f730d",
-          "title": "理解现代大型语言模型中的位置嵌入",
-          "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-          "source": "magazine.sebastianraschka.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-15T16:51:36.376000Z"
+          "id": "e6b87077a6d1787c1bf1bab22affd5f84b8f19de",
+          "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+          "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-16T17:36:43Z"
         },
         {
-          "id": "ad6917fe51245a7a26c34d837e4baa9ee92af795",
-          "title": "理解现代大型语言模型中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
-          "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-15T12:14:06Z"
+          "id": "88cd8a5a3013dab64e37c77cb6a7099f38779192",
+          "title": "FBI says Artex AI open-source hacking tool used to breach networks",
+          "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-16T18:12:21Z"
         },
         {
-          "id": "50460e7361d8a4c13500be1beae50e60eadf1785",
-          "title": "Understanding Positional Embeddings in Modern LLMs",
-          "url": "https://news.ycombinator.com/item?id=50506376",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-15T12:14:06Z"
+          "id": "31ea1d4d49369b82f1711130c13c4cc0dd01b1cf",
+          "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+          "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-16T17:36:43Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5532,
-      "importance": 0.5532,
-      "importance_score": 0.5532,
+      "score": 0.6579,
+      "importance": 0.6579,
+      "importance_score": 0.6579,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.902,
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.9119,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-15T12:14:06Z",
-      "latest_at": "2026-11-15T16:51:36.376000Z",
+      "earliest_at": "2026-11-16T17:36:43Z",
+      "latest_at": "2026-11-16T18:12:21Z",
       "primary_item": {
-        "id": "327414c6f30ed741fd19d514181ae7973f3f730d",
-        "title": "理解现代大型语言模型中的位置嵌入",
-        "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-        "source": "magazine.sebastianraschka.com",
-        "source_name": "Buzzing"
+        "id": "e6b87077a6d1787c1bf1bab22affd5f84b8f19de",
+        "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+        "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
       }
     },
     {
-      "story_id": "story_c6524b3bb676",
-      "title": "elementalsouls / Claude-BugHunter",
-      "url": "https://github.com/elementalsouls/Claude-BugHunter",
-      "primary_url": "https://github.com/elementalsouls/Claude-BugHunter",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
+      "story_id": "story_4c64bf9de825",
+      "title": "DeepSeek收紧使用限制:7天历史对话、4万字输入及每日额度调整",
+      "url": "https://www.aibase.com/news/32337",
+      "primary_url": "https://www.aibase.com/news/32337",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "ccc860b04fd7c8d958f0b0af51c38d11e485a48b",
-          "title": "elementalsouls / Claude-BugHunter",
-          "url": "https://github.com/elementalsouls/Claude-BugHunter",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e8e58f8acbc03fad3f5d9560145fa1e9c59f1349",
-          "title": "elementalsouls /      Claude-BugHunter",
-          "url": "https://github.com/elementalsouls/Claude-BugHunter",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-15T23:33:09.244000Z"
+          "id": "ed0a1b7a4541eff5f8cf4cb52b9c44c19bf3c6cf",
+          "title": "DeepSeek收紧使用限制:7天历史对话、4万字输入及每日额度调整",
+          "url": "https://www.aibase.com/news/32337",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T15:00:05.335503Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "GitHub · Trending Today",
-        "github"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "ccc860b04fd7c8d958f0b0af51c38d11e485a48b",
-          "title": "elementalsouls / Claude-BugHunter",
-          "url": "https://github.com/elementalsouls/Claude-BugHunter",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e8e58f8acbc03fad3f5d9560145fa1e9c59f1349",
-          "title": "elementalsouls /      Claude-BugHunter",
-          "url": "https://github.com/elementalsouls/Claude-BugHunter",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-15T23:33:09.244000Z"
+          "id": "ed0a1b7a4541eff5f8cf4cb52b9c44c19bf3c6cf",
+          "title": "DeepSeek收紧使用限制:7天历史对话、4万字输入及每日额度调整",
+          "url": "https://www.aibase.com/news/32337",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T15:00:05.335503Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8781,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-15T23:33:09.244000Z",
-      "latest_at": "2026-11-16T00:00:06.294928Z",
+      "earliest_at": "2026-11-16T15:00:05.335503Z",
+      "latest_at": "2026-11-16T15:00:05.335503Z",
       "primary_item": {
-        "id": "ccc860b04fd7c8d958f0b0af51c38d11e485a48b",
-        "title": "elementalsouls / Claude-BugHunter",
-        "url": "https://github.com/elementalsouls/Claude-BugHunter",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
+        "id": "ed0a1b7a4541eff5f8cf4cb52b9c44c19bf3c6cf",
+        "title": "DeepSeek收紧使用限制:7天历史对话、4万字输入及每日额度调整",
+        "url": "https://www.aibase.com/news/32337",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_774f7412d1a3",
-      "title": "关于厄尔尼诺现象如何形成的一段简短讲解 [视频] / A short explainer on how El Niño works [video]",
-      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-      "primary_url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "story_id": "story_b0ded74e06b0",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "primary_url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "001d8737a01105a38d8edd917cb68008595a7bcc",
-          "title": "关于厄尔尼诺现象如何形成的一段简短讲解 [视频] / A short explainer on how El Niño works [video]",
-          "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-15T18:23:21Z"
-        },
-        {
-          "id": "816d2fdd39abd16b595ac76c4e468e02089eb4f0",
-          "title": "DeepSeek's New LLM Engine Just Made GPUs 3x More Valuable [video]",
-          "url": "https://www.youtube.com/watch?v=2K_Rm8cho1I",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-11-15T00:07:46Z"
+          "id": "39c642b223dadb462cf8c0b4e1a44e7687128321",
+          "title": "Advancing computer-use agents for healthcare teams",
+          "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T06:00:00Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "HN Algolia · AI 24h",
-        "Hacker News · 24h最热"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "001d8737a01105a38d8edd917cb68008595a7bcc",
-          "title": "关于厄尔尼诺现象如何形成的一段简短讲解 [视频] / A short explainer on how El Niño works [video]",
-          "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-15T18:23:21Z"
-        },
-        {
-          "id": "816d2fdd39abd16b595ac76c4e468e02089eb4f0",
-          "title": "DeepSeek's New LLM Engine Just Made GPUs 3x More Valuable [video]",
-          "url": "https://www.youtube.com/watch?v=2K_Rm8cho1I",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-11-15T00:07:46Z"
+          "id": "39c642b223dadb462cf8c0b4e1a44e7687128321",
+          "title": "Advancing computer-use agents for healthcare teams",
+          "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T06:00:00Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5318,
-      "importance": 0.5318,
-      "importance_score": 0.5318,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8108,
+      "importance": 0.8108,
+      "importance_score": 0.8108,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9221,
-        "story_heat": 0.25
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7711,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "official",
       "reasons": [
-        "multi_source"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-15T00:07:46Z",
-      "latest_at": "2026-11-15T18:23:21Z",
+      "earliest_at": "2026-11-16T06:00:00Z",
+      "latest_at": "2026-11-16T06:00:00Z",
       "primary_item": {
-        "id": "001d8737a01105a38d8edd917cb68008595a7bcc",
-        "title": "关于厄尔尼诺现象如何形成的一段简短讲解 [视频] / A short explainer on how El Niño works [video]",
-        "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
+        "id": "39c642b223dadb462cf8c0b4e1a44e7687128321",
+        "title": "Advancing computer-use agents for healthcare teams",
+        "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_de1b04aef218",
-      "title": "所有由人工智能生成的代码都应开源 / All AI-generated code should be Open Source",
-      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
-      "primary_url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
-      "source": "Lobsters (技术社区)",
-      "source_name": "Info Flow",
+      "story_id": "story_691f51357198",
+      "title": "出道30天吸粉40万，AI演员“方桃子”首条商单引发6.82万元罚单",
+      "url": "https://www.aibase.com/news/32339",
+      "primary_url": "https://www.aibase.com/news/32339",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "dad66bd8ebd72bf85db1b7d38f56a345be8db9d4",
-          "title": "所有由人工智能生成的代码都应开源 / All AI-generated code should be Open Source",
-          "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-15T16:04:01Z"
-        },
-        {
-          "id": "cf50b308cb21811065431474caa5264a211f16e3",
-          "title": "所有由人工智能生成的代码都应开源",
-          "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
-          "source": "jakub.jankiewicz.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-15T16:03:47.551000Z"
+          "id": "eb7184082b9b2b13fe539fe6c47c4aef9ba7c547",
+          "title": "出道30天吸粉40万，AI演员“方桃子”首条商单引发6.82万元罚单",
+          "url": "https://www.aibase.com/news/32339",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T15:00:05.335503Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Lobsters (技术社区)",
-        "jakub.jankiewicz.org"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "dad66bd8ebd72bf85db1b7d38f56a345be8db9d4",
-          "title": "所有由人工智能生成的代码都应开源 / All AI-generated code should be Open Source",
-          "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-15T16:04:01Z"
-        },
-        {
-          "id": "cf50b308cb21811065431474caa5264a211f16e3",
-          "title": "所有由人工智能生成的代码都应开源",
-          "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
-          "source": "jakub.jankiewicz.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-15T16:03:47.551000Z"
+          "id": "eb7184082b9b2b13fe539fe6c47c4aef9ba7c547",
+          "title": "出道30天吸粉40万，AI演员“方桃子”首条商单引发6.82万元罚单",
+          "url": "https://www.aibase.com/news/32339",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T15:00:05.335503Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5263,
-      "importance": 0.5263,
-      "importance_score": 0.5263,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8917,
-        "story_heat": 0.25
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8781,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-15T16:03:47.551000Z",
-      "latest_at": "2026-11-15T16:04:01Z",
+      "earliest_at": "2026-11-16T15:00:05.335503Z",
+      "latest_at": "2026-11-16T15:00:05.335503Z",
       "primary_item": {
-        "id": "dad66bd8ebd72bf85db1b7d38f56a345be8db9d4",
-        "title": "所有由人工智能生成的代码都应开源 / All AI-generated code should be Open Source",
-        "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
-        "source": "Lobsters (技术社区)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_14ba8d169059",
-      "title": "法院驳回了关于DRAM价格垄断案的驳回起诉动议",
-      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-      "primary_url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-      "source": "litnews.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d296057ae2ab292aeaaa2e954f6de19ce983086a",
-          "title": "法院驳回了关于DRAM价格垄断案的驳回起诉动议",
-          "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-          "source": "litnews.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-15T08:37:45.544000Z"
-        },
-        {
-          "id": "66d533320e2d55eea710e4194804681437154012",
-          "title": "法院驳回了关于DRAM价格垄断案的驳回起诉动议 / Court denies motion to dismiss DRAM price fixing case",
-          "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-15T01:18:36Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "litnews.ai"
-      ],
-      "items": [
-        {
-          "id": "d296057ae2ab292aeaaa2e954f6de19ce983086a",
-          "title": "法院驳回了关于DRAM价格垄断案的驳回起诉动议",
-          "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-          "source": "litnews.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-15T08:37:45.544000Z"
-        },
-        {
-          "id": "66d533320e2d55eea710e4194804681437154012",
-          "title": "法院驳回了关于DRAM价格垄断案的驳回起诉动议 / Court denies motion to dismiss DRAM price fixing case",
-          "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-15T01:18:36Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.51,
-      "importance": 0.51,
-      "importance_score": 0.51,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8009,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-15T01:18:36Z",
-      "latest_at": "2026-11-15T08:37:45.544000Z",
-      "primary_item": {
-        "id": "d296057ae2ab292aeaaa2e954f6de19ce983086a",
-        "title": "法院驳回了关于DRAM价格垄断案的驳回起诉动议",
-        "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-        "source": "litnews.ai",
-        "source_name": "Buzzing"
+        "id": "eb7184082b9b2b13fe539fe6c47c4aef9ba7c547",
+        "title": "出道30天吸粉40万，AI演员“方桃子”首条商单引发6.82万元罚单",
+        "url": "https://www.aibase.com/news/32339",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
