@@ -1,210 +1,106 @@
 {
-  "generated_at": "2026-11-20T00:00:05.887645Z",
+  "generated_at": "2026-11-21T00:00:05.270517Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_b00f82b6db94",
-      "title": "Introducing Tool Retrieval in the Gemini API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "444177bedc11242e1974b553efabf05c74e3673c",
-          "title": "Introducing Tool Retrieval in the Gemini API",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T18:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "444177bedc11242e1974b553efabf05c74e3673c",
-          "title": "Introducing Tool Retrieval in the Gemini API",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T18:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8431,
-      "importance": 0.8431,
-      "importance_score": 0.8431,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.917,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T18:00:00Z",
-      "latest_at": "2026-11-19T18:00:00Z",
-      "primary_item": {
-        "id": "444177bedc11242e1974b553efabf05c74e3673c",
-        "title": "Introducing Tool Retrieval in the Gemini API",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_4501efae01a1",
-      "title": "Enterprise Live Migrations from Azure DevOps generally available",
-      "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
-          "title": "Enterprise Live Migrations from Azure DevOps generally available",
-          "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T18:50:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
-          "title": "Enterprise Live Migrations from Azure DevOps generally available",
-          "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T18:50:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8311,
-      "importance": 0.8311,
-      "importance_score": 0.8311,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9283,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T18:50:57Z",
-      "latest_at": "2026-11-19T18:50:57Z",
-      "primary_item": {
-        "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
-        "title": "Enterprise Live Migrations from Azure DevOps generally available",
-        "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_6687f7be62c3",
-      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-      "primary_url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "story_id": "story_3ea993db7e3c",
+      "title": "OpenAI 应对对抗性蒸馏的分层策略 / Combatting adversarial distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "primary_url": "https://openai.com/index/combatting-adversarial-distillation",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "6af9f99343cdb30f635a0133c2025809f18b7020",
-          "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-          "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+          "id": "2dc91bf67ac1fa3b6b207e89864afed6725256e5",
+          "title": "OpenAI 应对对抗性蒸馏的分层策略 / Combatting adversarial distillation",
+          "url": "https://openai.com/index/combatting-adversarial-distillation",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-19T08:00:00Z"
+          "published_at": "2026-11-20T10:00:00Z"
+        },
+        {
+          "id": "9450a2a6876b212df7b02ad48bfe43546ed7c265",
+          "title": "OpenAI 应对对抗性蒸馏的分层策略",
+          "url": "https://openai.com/index/combatting-adversarial-distillation",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "OpenAI News"
+        "OpenAI News",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "6af9f99343cdb30f635a0133c2025809f18b7020",
-          "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-          "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+          "id": "2dc91bf67ac1fa3b6b207e89864afed6725256e5",
+          "title": "OpenAI 应对对抗性蒸馏的分层策略 / Combatting adversarial distillation",
+          "url": "https://openai.com/index/combatting-adversarial-distillation",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-19T08:00:00Z"
+          "published_at": "2026-11-20T10:00:00Z"
+        },
+        {
+          "id": "9450a2a6876b212df7b02ad48bfe43546ed7c265",
+          "title": "OpenAI 应对对抗性蒸馏的分层策略",
+          "url": "https://openai.com/index/combatting-adversarial-distillation",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8229,
-      "importance": 0.8229,
-      "importance_score": 0.8229,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.844,
+      "importance": 0.844,
+      "importance_score": 0.844,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7937,
-        "story_heat": 0.0
+        "ai_relevance": 0.91,
+        "recency": 0.8169,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-19T08:00:00Z",
-      "latest_at": "2026-11-19T08:00:00Z",
+      "earliest_at": "2026-11-20T10:00:00Z",
+      "latest_at": "2026-11-21T00:00:05.270517Z",
       "primary_item": {
-        "id": "6af9f99343cdb30f635a0133c2025809f18b7020",
-        "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-        "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+        "id": "2dc91bf67ac1fa3b6b207e89864afed6725256e5",
+        "title": "OpenAI 应对对抗性蒸馏的分层策略 / Combatting adversarial distillation",
+        "url": "https://openai.com/index/combatting-adversarial-distillation",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_c0849b8081a4",
-      "title": "Red Hat Enterprise Linux runner images now generally available",
-      "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+      "story_id": "story_2f9d0bc4d147",
+      "title": "Security advisory permissions are now generally available",
+      "url": "https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
-          "title": "Red Hat Enterprise Linux runner images now generally available",
-          "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+          "id": "7237f9ed3a6b2c780a810c45d8d7bb841f31b6c5",
+          "title": "Security advisory permissions are now generally available",
+          "url": "https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-19T18:48:46Z"
+          "published_at": "2026-11-20T21:49:29Z"
         }
       ],
       "source_count": 1,
@@ -213,26 +109,26 @@
       ],
       "items": [
         {
-          "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
-          "title": "Red Hat Enterprise Linux runner images now generally available",
-          "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+          "id": "7237f9ed3a6b2c780a810c45d8d7bb841f31b6c5",
+          "title": "Security advisory permissions are now generally available",
+          "url": "https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-19T18:48:46Z"
+          "published_at": "2026-11-20T21:49:29Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.831,
-      "importance": 0.831,
-      "importance_score": 0.831,
+      "score": 0.8384,
+      "importance": 0.8384,
+      "importance_score": 0.8384,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9278,
+        "recency": 0.9691,
         "story_heat": 0.0
       },
       "category": "official",
@@ -241,60 +137,60 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-19T18:48:46Z",
-      "latest_at": "2026-11-19T18:48:46Z",
+      "earliest_at": "2026-11-20T21:49:29Z",
+      "latest_at": "2026-11-20T21:49:29Z",
       "primary_item": {
-        "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
-        "title": "Red Hat Enterprise Linux runner images now generally available",
-        "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+        "id": "7237f9ed3a6b2c780a810c45d8d7bb841f31b6c5",
+        "title": "Security advisory permissions are now generally available",
+        "url": "https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_2adef6bfeca0",
-      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
-      "source": "Google AI Blog",
+      "story_id": "story_8f3afc444413",
+      "title": "GitHub Enterprise Server 3.23 release candidate",
+      "url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
+      "primary_url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e9bc71a8a5203d8ba03168cce65b8c17e9fe51da",
-          "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
-          "source": "Google AI Blog",
+          "id": "2d2c3114d1b50d1c68a55c9fd985f46ad4180ff0",
+          "title": "GitHub Enterprise Server 3.23 release candidate",
+          "url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-19T17:00:00Z"
+          "published_at": "2026-11-20T20:41:26Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google AI Blog"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "e9bc71a8a5203d8ba03168cce65b8c17e9fe51da",
-          "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
-          "source": "Google AI Blog",
+          "id": "2d2c3114d1b50d1c68a55c9fd985f46ad4180ff0",
+          "title": "GitHub Enterprise Server 3.23 release candidate",
+          "url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-19T17:00:00Z"
+          "published_at": "2026-11-20T20:41:26Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8267,
-      "importance": 0.8267,
-      "importance_score": 0.8267,
+      "score": 0.8356,
+      "importance": 0.8356,
+      "importance_score": 0.8356,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9038,
+        "recency": 0.9533,
         "story_heat": 0.0
       },
       "category": "official",
@@ -303,32 +199,94 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-19T17:00:00Z",
-      "latest_at": "2026-11-19T17:00:00Z",
+      "earliest_at": "2026-11-20T20:41:26Z",
+      "latest_at": "2026-11-20T20:41:26Z",
       "primary_item": {
-        "id": "e9bc71a8a5203d8ba03168cce65b8c17e9fe51da",
-        "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
-        "source": "Google AI Blog",
+        "id": "2d2c3114d1b50d1c68a55c9fd985f46ad4180ff0",
+        "title": "GitHub Enterprise Server 3.23 release candidate",
+        "url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_3c315bd2b06e",
-      "title": "“同样任务更便宜更好”：微软公开叫板 Claude 和 ChatGPT",
-      "url": "https://www.aibase.com/news/32415",
-      "primary_url": "https://www.aibase.com/news/32415",
+      "story_id": "story_b9417c5606ab",
+      "title": "Pin your favorite repositories to your dashboard",
+      "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+      "primary_url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9e7b5ac6e5db201967f08363d6537f188ec45466",
+          "title": "Pin your favorite repositories to your dashboard",
+          "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T14:12:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "9e7b5ac6e5db201967f08363d6537f188ec45466",
+          "title": "Pin your favorite repositories to your dashboard",
+          "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T14:12:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8202,
+      "importance": 0.8202,
+      "importance_score": 0.8202,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.868,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T14:12:05Z",
+      "latest_at": "2026-11-20T14:12:05Z",
+      "primary_item": {
+        "id": "9e7b5ac6e5db201967f08363d6537f188ec45466",
+        "title": "Pin your favorite repositories to your dashboard",
+        "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_70f65c5b4e94",
+      "title": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
+      "url": "https://www.aibase.com/news/32448",
+      "primary_url": "https://www.aibase.com/news/32448",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "772527528f3b08d3a348bcfe8b7a8fd832d8ded6",
-          "title": "“同样任务更便宜更好”：微软公开叫板 Claude 和 ChatGPT",
-          "url": "https://www.aibase.com/news/32415",
+          "id": "186652b8ef444bf90904e7d322cf7c5daa76d369",
+          "title": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
+          "url": "https://www.aibase.com/news/32448",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-19T18:00:05.887645Z"
+          "published_at": "2026-11-20T18:00:05.270517Z"
         }
       ],
       "source_count": 1,
@@ -337,13 +295,13 @@
       ],
       "items": [
         {
-          "id": "772527528f3b08d3a348bcfe8b7a8fd832d8ded6",
-          "title": "“同样任务更便宜更好”：微软公开叫板 Claude 和 ChatGPT",
-          "url": "https://www.aibase.com/news/32415",
+          "id": "186652b8ef444bf90904e7d322cf7c5daa76d369",
+          "title": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
+          "url": "https://www.aibase.com/news/32448",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-19T18:00:05.887645Z"
+          "published_at": "2026-11-20T18:00:05.270517Z"
         }
       ],
       "item_count": 1,
@@ -364,94 +322,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-19T18:00:05.887645Z",
-      "latest_at": "2026-11-19T18:00:05.887645Z",
+      "earliest_at": "2026-11-20T18:00:05.270517Z",
+      "latest_at": "2026-11-20T18:00:05.270517Z",
       "primary_item": {
-        "id": "772527528f3b08d3a348bcfe8b7a8fd832d8ded6",
-        "title": "“同样任务更便宜更好”：微软公开叫板 Claude 和 ChatGPT",
-        "url": "https://www.aibase.com/news/32415",
+        "id": "186652b8ef444bf90904e7d322cf7c5daa76d369",
+        "title": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
+        "url": "https://www.aibase.com/news/32448",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_f704844d2600",
-      "title": "S3 audit log streaming with OpenID Connect expands to GHE.com",
-      "url": "https://github.blog/changelog/2026-11-19-s3-audit-log-streaming-with-openid-connect-expands-to-ghe-com",
-      "primary_url": "https://github.blog/changelog/2026-11-19-s3-audit-log-streaming-with-openid-connect-expands-to-ghe-com",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "41fe626639a69bc6613d7cf9f588458d952973d3",
-          "title": "S3 audit log streaming with OpenID Connect expands to GHE.com",
-          "url": "https://github.blog/changelog/2026-11-19-s3-audit-log-streaming-with-openid-connect-expands-to-ghe-com",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T08:27:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "41fe626639a69bc6613d7cf9f588458d952973d3",
-          "title": "S3 audit log streaming with OpenID Connect expands to GHE.com",
-          "url": "https://github.blog/changelog/2026-11-19-s3-audit-log-streaming-with-openid-connect-expands-to-ghe-com",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T08:27:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8078,
-      "importance": 0.8078,
-      "importance_score": 0.8078,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7989,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T08:27:16Z",
-      "latest_at": "2026-11-19T08:27:16Z",
-      "primary_item": {
-        "id": "41fe626639a69bc6613d7cf9f588458d952973d3",
-        "title": "S3 audit log streaming with OpenID Connect expands to GHE.com",
-        "url": "https://github.blog/changelog/2026-11-19-s3-audit-log-streaming-with-openid-connect-expands-to-ghe-com",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_b8b1bcd9e21d",
-      "title": "满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜",
-      "url": "https://www.aibase.com/news/32417",
-      "primary_url": "https://www.aibase.com/news/32417",
+      "story_id": "story_ae914d6e6f95",
+      "title": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+      "url": "https://www.aibase.com/news/32449",
+      "primary_url": "https://www.aibase.com/news/32449",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "182094156891e7ed75e9d42fcfe4d19c00efcab6",
-          "title": "满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜",
-          "url": "https://www.aibase.com/news/32417",
+          "id": "e8e3aab7c17bec1b60874de8eeaa8315105c0459",
+          "title": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+          "url": "https://www.aibase.com/news/32449",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-19T18:00:05.887645Z"
+          "published_at": "2026-11-20T18:00:05.270517Z"
         }
       ],
       "source_count": 1,
@@ -460,13 +356,13 @@
       ],
       "items": [
         {
-          "id": "182094156891e7ed75e9d42fcfe4d19c00efcab6",
-          "title": "满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜",
-          "url": "https://www.aibase.com/news/32417",
+          "id": "e8e3aab7c17bec1b60874de8eeaa8315105c0459",
+          "title": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+          "url": "https://www.aibase.com/news/32449",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-19T18:00:05.887645Z"
+          "published_at": "2026-11-20T18:00:05.270517Z"
         }
       ],
       "item_count": 1,
@@ -487,32 +383,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-19T18:00:05.887645Z",
-      "latest_at": "2026-11-19T18:00:05.887645Z",
+      "earliest_at": "2026-11-20T18:00:05.270517Z",
+      "latest_at": "2026-11-20T18:00:05.270517Z",
       "primary_item": {
-        "id": "182094156891e7ed75e9d42fcfe4d19c00efcab6",
-        "title": "满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜",
-        "url": "https://www.aibase.com/news/32417",
+        "id": "e8e3aab7c17bec1b60874de8eeaa8315105c0459",
+        "title": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+        "url": "https://www.aibase.com/news/32449",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_7e8aaa6e499c",
-      "title": "Wait for pull request events with GitHub CLI",
-      "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
-      "primary_url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
+      "story_id": "story_8150064cb707",
+      "title": "GitHub Desktop now supports multiple accounts per host",
+      "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
+      "primary_url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ea6b368f3100877f5f518c67e8659a48f06ee343",
-          "title": "Wait for pull request events with GitHub CLI",
-          "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
+          "id": "4153f14f8744315b507c166df3e939c015d28122",
+          "title": "GitHub Desktop now supports multiple accounts per host",
+          "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-19T00:00:13Z"
+          "published_at": "2026-11-20T02:06:01Z"
         }
       ],
       "source_count": 1,
@@ -521,13 +417,136 @@
       ],
       "items": [
         {
-          "id": "ea6b368f3100877f5f518c67e8659a48f06ee343",
-          "title": "Wait for pull request events with GitHub CLI",
-          "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
+          "id": "4153f14f8744315b507c166df3e939c015d28122",
+          "title": "GitHub Desktop now supports multiple accounts per host",
+          "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-19T00:00:13Z"
+          "published_at": "2026-11-20T02:06:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7952,
+      "importance": 0.7952,
+      "importance_score": 0.7952,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7289,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T02:06:01Z",
+      "latest_at": "2026-11-20T02:06:01Z",
+      "primary_item": {
+        "id": "4153f14f8744315b507c166df3e939c015d28122",
+        "title": "GitHub Desktop now supports multiple accounts per host",
+        "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_778321fbd15b",
+      "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+      "url": "https://www.aibase.com/news/32446",
+      "primary_url": "https://www.aibase.com/news/32446",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "eb5234f8fd028047a083a004a75a4e66d0781022",
+          "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+          "url": "https://www.aibase.com/news/32446",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T17:00:05.270517Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "eb5234f8fd028047a083a004a75a4e66d0781022",
+          "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+          "url": "https://www.aibase.com/news/32446",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T17:00:05.270517Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9039,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T17:00:05.270517Z",
+      "latest_at": "2026-11-20T17:00:05.270517Z",
+      "primary_item": {
+        "id": "eb5234f8fd028047a083a004a75a4e66d0781022",
+        "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+        "url": "https://www.aibase.com/news/32446",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_9855c1875dd4",
+      "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+      "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "55c28a98855c92957202c130c8939308b0edf0e2",
+          "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+          "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T00:02:21Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "55c28a98855c92957202c130c8939308b0edf0e2",
+          "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+          "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T00:02:21Z"
         }
       ],
       "item_count": 1,
@@ -540,7 +559,7 @@
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7071,
+        "recency": 0.7075,
         "story_heat": 0.0
       },
       "category": "official",
@@ -549,86 +568,70 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-19T00:00:13Z",
-      "latest_at": "2026-11-19T00:00:13Z",
+      "earliest_at": "2026-11-20T00:02:21Z",
+      "latest_at": "2026-11-20T00:02:21Z",
       "primary_item": {
-        "id": "ea6b368f3100877f5f518c67e8659a48f06ee343",
-        "title": "Wait for pull request events with GitHub CLI",
-        "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
+        "id": "55c28a98855c92957202c130c8939308b0edf0e2",
+        "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+        "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_8206a0dcb336",
-      "title": "特斯拉机器人瞄准家庭场景，马斯克称明年有望收拾脏盘子、倒垃圾",
-      "url": "https://www.aibase.com/news/32416",
-      "primary_url": "https://www.aibase.com/news/32416",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a6083013fa9ac447eaccd1064be380647bbc3081",
-          "title": "特斯拉机器人瞄准家庭场景，马斯克称明年有望收拾脏盘子、倒垃圾",
-          "url": "https://www.aibase.com/news/32416",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-19T18:00:05.887645Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a6083013fa9ac447eaccd1064be380647bbc3081",
-          "title": "特斯拉机器人瞄准家庭场景，马斯克称明年有望收拾脏盘子、倒垃圾",
-          "url": "https://www.aibase.com/news/32416",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-19T18:00:05.887645Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.917,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T18:00:05.887645Z",
-      "latest_at": "2026-11-19T18:00:05.887645Z",
-      "primary_item": {
-        "id": "a6083013fa9ac447eaccd1064be380647bbc3081",
-        "title": "特斯拉机器人瞄准家庭场景，马斯克称明年有望收拾脏盘子、倒垃圾",
-        "url": "https://www.aibase.com/news/32416",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
       "story_id": "story_2df82173bb28",
-      "title": "《 。》作者开源了基于DeepSeek Harness搭建的公众号成稿台，把原本散落在各处的AI能力整合到了一个统一的工作台。不仅支持定向分段改稿、AI内容质检、自定义IP封面、智能配图与SVG动画生成，一站式完成排版，还附带排期和数据复盘，沉淀经验复用为Skill。插件可灵活替换技能与画风，适配个人创作习惯。快来上手试试！",
+      "title": "AI记忆带来便捷的同时，也暗藏困住人的风险。作者因写入“小白讲师”标签，导致AI持续把机会局限在培训赛道，不断强化刻板印象，甚至让自己慢慢认同这个单一身份。这篇思考给高频使用 Agent 的人也敲了警钟，提醒我们在人机共生中，别让 AI 的记忆框住自己更多潜在方向。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-11-19",
+      "source": "社区更新 · 2026-11-20",
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "2fb7c0224d117bf00d70ce4dd3c520ed9ff82ac6",
+          "title": "AI记忆带来便捷的同时，也暗藏困住人的风险。作者因写入“小白讲师”标签，导致AI持续把机会局限在培训赛道，不断强化刻板印象，甚至让自己慢慢认同这个单一身份。这篇思考给高频使用 Agent 的人也敲了警钟，提醒我们在人机共生中，别让 AI 的记忆框住自己更多潜在方向。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-21T00:00:05.270517Z"
+        },
+        {
+          "id": "132f0901cb469e0776cb5dd67e4f8db5c36cdb98",
+          "title": "GPT-6.2 Astra的表现两极分化，作者这篇文章拆解了其中四类典型问题，同时还对比了它的成本优势与适配场景。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-21T00:00:05.270517Z"
+        },
+        {
+          "id": "855d952e34e19d66e3c49e4315ccdb1503e207c2",
+          "title": "想低成本用 Agent 复刻 App 的开发者可以参考这套落地方案。作者依托 DeepSeek Harness，采用净室复刻思路，通过 ADB 真机采集解析界面，完整复刻了 Gemini Flow，花费了7个小时仅21元就跑通了全部功能。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-21T00:00:05.270517Z"
+        },
+        {
+          "id": "b6201cddf5dfed857bf55a938c19be7a30f13614",
+          "title": "想搭建自动化资讯短视频流水线的朋友别错过阿真这套Skill。她在多款主流大模型上实测对比之后发现，只要输入文稿即可自动生成配套画面，而且还有稳定的排版与灵活的动效，不用每次反复调试。可以上手试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-21T00:00:05.270517Z"
+        },
+        {
+          "id": "f96da056b30fbf03f8a14afb5f4f4556ba25f0de",
+          "title": "想要摸清AI会不会主动推荐你的产品，这套可复用的AI可见性测试方法值得参考。作者以Notta Memo出海测试为案例，依托NIST、IAB行业标准，讲解了提示词设计、变量固定、结果判定、基线留存与复测逻辑，附带日志记录模板。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-21T00:00:05.270517Z"
+        },
+        {
           "id": "966c320e9227918ff4c35e775e45ecc2725c856f",
           "title": "《 。》作者开源了基于DeepSeek Harness搭建的公众号成稿台，把原本散落在各处的AI能力整合到了一个统一的工作台。不仅支持定向分段改稿、AI内容质检、自定义IP封面、智能配图与SVG动画生成，一站式完成排版，还附带排期和数据复盘，沉淀经验复用为Skill。插件可灵活替换技能与画风，适配个人创作习惯。快来上手试试！",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -701,12 +704,58 @@
           "published_at": "2026-11-20T00:00:05.887645Z"
         }
       ],
-      "source_count": 8,
+      "source_count": 13,
       "source_names": [
-        "社区更新 · 2026-11-19"
+        "社区更新 · 2026-11-19",
+        "社区更新 · 2026-11-20"
       ],
       "items": [
         {
+          "id": "2fb7c0224d117bf00d70ce4dd3c520ed9ff82ac6",
+          "title": "AI记忆带来便捷的同时，也暗藏困住人的风险。作者因写入“小白讲师”标签，导致AI持续把机会局限在培训赛道，不断强化刻板印象，甚至让自己慢慢认同这个单一身份。这篇思考给高频使用 Agent 的人也敲了警钟，提醒我们在人机共生中，别让 AI 的记忆框住自己更多潜在方向。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-21T00:00:05.270517Z"
+        },
+        {
+          "id": "132f0901cb469e0776cb5dd67e4f8db5c36cdb98",
+          "title": "GPT-6.2 Astra的表现两极分化，作者这篇文章拆解了其中四类典型问题，同时还对比了它的成本优势与适配场景。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-21T00:00:05.270517Z"
+        },
+        {
+          "id": "855d952e34e19d66e3c49e4315ccdb1503e207c2",
+          "title": "想低成本用 Agent 复刻 App 的开发者可以参考这套落地方案。作者依托 DeepSeek Harness，采用净室复刻思路，通过 ADB 真机采集解析界面，完整复刻了 Gemini Flow，花费了7个小时仅21元就跑通了全部功能。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-21T00:00:05.270517Z"
+        },
+        {
+          "id": "b6201cddf5dfed857bf55a938c19be7a30f13614",
+          "title": "想搭建自动化资讯短视频流水线的朋友别错过阿真这套Skill。她在多款主流大模型上实测对比之后发现，只要输入文稿即可自动生成配套画面，而且还有稳定的排版与灵活的动效，不用每次反复调试。可以上手试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-21T00:00:05.270517Z"
+        },
+        {
+          "id": "f96da056b30fbf03f8a14afb5f4f4556ba25f0de",
+          "title": "想要摸清AI会不会主动推荐你的产品，这套可复用的AI可见性测试方法值得参考。作者以Notta Memo出海测试为案例，依托NIST、IAB行业标准，讲解了提示词设计、变量固定、结果判定、基线留存与复测逻辑，附带日志记录模板。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-21T00:00:05.270517Z"
+        },
+        {
           "id": "966c320e9227918ff4c35e775e45ecc2725c856f",
           "title": "《 。》作者开源了基于DeepSeek Harness搭建的公众号成稿台，把原本散落在各处的AI能力整合到了一个统一的工作台。不仅支持定向分段改稿、AI内容质检、自定义IP封面、智能配图与SVG动画生成，一站式完成排版，还附带排期和数据复盘，沉淀经验复用为Skill。插件可灵活替换技能与画风，适配个人创作习惯。快来上手试试！",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -779,8 +828,8 @@
           "published_at": "2026-11-20T00:00:05.887645Z"
         }
       ],
-      "item_count": 8,
-      "duplicate_count": 8,
+      "item_count": 13,
+      "duplicate_count": 13,
       "score": 0.6692,
       "importance": 0.6692,
       "importance_score": 0.6692,
@@ -797,31 +846,31 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-20T00:00:05.887645Z",
-      "latest_at": "2026-11-20T00:00:05.887645Z",
+      "latest_at": "2026-11-21T00:00:05.270517Z",
       "primary_item": {
-        "id": "966c320e9227918ff4c35e775e45ecc2725c856f",
-        "title": "《 。》作者开源了基于DeepSeek Harness搭建的公众号成稿台，把原本散落在各处的AI能力整合到了一个统一的工作台。不仅支持定向分段改稿、AI内容质检、自定义IP封面、智能配图与SVG动画生成，一站式完成排版，还附带排期和数据复盘，沉淀经验复用为Skill。插件可灵活替换技能与画风，适配个人创作习惯。快来上手试试！",
+        "id": "2fb7c0224d117bf00d70ce4dd3c520ed9ff82ac6",
+        "title": "AI记忆带来便捷的同时，也暗藏困住人的风险。作者因写入“小白讲师”标签，导致AI持续把机会局限在培训赛道，不断强化刻板印象，甚至让自己慢慢认同这个单一身份。这篇思考给高频使用 Agent 的人也敲了警钟，提醒我们在人机共生中，别让 AI 的记忆框住自己更多潜在方向。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-11-19",
+        "source": "社区更新 · 2026-11-20",
         "source_name": "WaytoAGI"
       }
     },
     {
-      "story_id": "story_2d53a7817c0b",
-      "title": "熬了十多年的算力转型，联想单季营收首破 2000 亿、净利狂飙 166%",
-      "url": "https://www.aibase.com/news/32413",
-      "primary_url": "https://www.aibase.com/news/32413",
+      "story_id": "story_06c2e359ea0c",
+      "title": "从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏",
+      "url": "https://www.aibase.com/news/32447",
+      "primary_url": "https://www.aibase.com/news/32447",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "bbd68dc328db1c03c40a29cbea91f7988df92882",
-          "title": "熬了十多年的算力转型，联想单季营收首破 2000 亿、净利狂飙 166%",
-          "url": "https://www.aibase.com/news/32413",
+          "id": "8b97cac9214d330329d4f8bb590460453a819ca5",
+          "title": "从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏",
+          "url": "https://www.aibase.com/news/32447",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-19T16:00:05.887645Z"
+          "published_at": "2026-11-20T17:00:05.270517Z"
         }
       ],
       "source_count": 1,
@@ -830,13 +879,74 @@
       ],
       "items": [
         {
-          "id": "bbd68dc328db1c03c40a29cbea91f7988df92882",
-          "title": "熬了十多年的算力转型，联想单季营收首破 2000 亿、净利狂飙 166%",
-          "url": "https://www.aibase.com/news/32413",
+          "id": "8b97cac9214d330329d4f8bb590460453a819ca5",
+          "title": "从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏",
+          "url": "https://www.aibase.com/news/32447",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-19T16:00:05.887645Z"
+          "published_at": "2026-11-20T17:00:05.270517Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9039,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T17:00:05.270517Z",
+      "latest_at": "2026-11-20T17:00:05.270517Z",
+      "primary_item": {
+        "id": "8b97cac9214d330329d4f8bb590460453a819ca5",
+        "title": "从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏",
+        "url": "https://www.aibase.com/news/32447",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2e91e224bd66",
+      "title": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
+      "url": "https://www.aibase.com/news/32443",
+      "primary_url": "https://www.aibase.com/news/32443",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6ae8786bd12ccf08dd7540cce1fcab273fb3c76d",
+          "title": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
+          "url": "https://www.aibase.com/news/32443",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T16:00:05.270517Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "6ae8786bd12ccf08dd7540cce1fcab273fb3c76d",
+          "title": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
+          "url": "https://www.aibase.com/news/32443",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T16:00:05.270517Z"
         }
       ],
       "item_count": 1,
@@ -856,111 +966,32 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-19T16:00:05.887645Z",
-      "latest_at": "2026-11-19T16:00:05.887645Z",
+      "earliest_at": "2026-11-20T16:00:05.270517Z",
+      "latest_at": "2026-11-20T16:00:05.270517Z",
       "primary_item": {
-        "id": "bbd68dc328db1c03c40a29cbea91f7988df92882",
-        "title": "熬了十多年的算力转型，联想单季营收首破 2000 亿、净利狂飙 166%",
-        "url": "https://www.aibase.com/news/32413",
+        "id": "6ae8786bd12ccf08dd7540cce1fcab273fb3c76d",
+        "title": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
+        "url": "https://www.aibase.com/news/32443",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_e22812a5ccc9",
-      "title": "Anthropic’s IPO could deliver $156B to charity",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity",
-      "primary_url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "32a10deeb8468475f2b24888fcff5e02d493881a",
-          "title": "Anthropic’s IPO could deliver $156B to charity",
-          "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-19T19:10:45Z"
-        },
-        {
-          "id": "d9e2e1b01559772660549adf83a7e38b6345e46a",
-          "title": "Anthropic’s IPO could deliver $156 billion to charity",
-          "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-19T19:10:45Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "32a10deeb8468475f2b24888fcff5e02d493881a",
-          "title": "Anthropic’s IPO could deliver $156B to charity",
-          "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-19T19:10:45Z"
-        },
-        {
-          "id": "d9e2e1b01559772660549adf83a7e38b6345e46a",
-          "title": "Anthropic’s IPO could deliver $156 billion to charity",
-          "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-19T19:10:45Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6491,
-      "importance": 0.6491,
-      "importance_score": 0.6491,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5688,
-        "source_tier": 0.58,
-        "ai_relevance": 0.79,
-        "recency": 0.9327,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-19T19:10:45Z",
-      "latest_at": "2026-11-19T19:10:45Z",
-      "primary_item": {
-        "id": "32a10deeb8468475f2b24888fcff5e02d493881a",
-        "title": "Anthropic’s IPO could deliver $156B to charity",
-        "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_1377ccd63b7e",
-      "title": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
-      "url": "https://www.aibase.com/news/32410",
-      "primary_url": "https://www.aibase.com/news/32410",
+      "story_id": "story_f7f7ce1a180c",
+      "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
+      "url": "https://www.aibase.com/news/32441",
+      "primary_url": "https://www.aibase.com/news/32441",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8dbb2740c19be6b2272f80117222d8960436ca67",
-          "title": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
-          "url": "https://www.aibase.com/news/32410",
+          "id": "f6ded9b41c4621971ab0938ab3ffde331000d00c",
+          "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
+          "url": "https://www.aibase.com/news/32441",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-19T15:00:05.887645Z"
+          "published_at": "2026-11-20T16:00:05.270517Z"
         }
       ],
       "source_count": 1,
@@ -969,137 +1000,58 @@
       ],
       "items": [
         {
-          "id": "8dbb2740c19be6b2272f80117222d8960436ca67",
-          "title": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
-          "url": "https://www.aibase.com/news/32410",
+          "id": "f6ded9b41c4621971ab0938ab3ffde331000d00c",
+          "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
+          "url": "https://www.aibase.com/news/32441",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-19T15:00:05.887645Z"
+          "published_at": "2026-11-20T16:00:05.270517Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 0.8909,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-19T15:00:05.887645Z",
-      "latest_at": "2026-11-19T15:00:05.887645Z",
+      "earliest_at": "2026-11-20T16:00:05.270517Z",
+      "latest_at": "2026-11-20T16:00:05.270517Z",
       "primary_item": {
-        "id": "8dbb2740c19be6b2272f80117222d8960436ca67",
-        "title": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
-        "url": "https://www.aibase.com/news/32410",
+        "id": "f6ded9b41c4621971ab0938ab3ffde331000d00c",
+        "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
+        "url": "https://www.aibase.com/news/32441",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_e71232150b49",
-      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
-      "primary_url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "5b7a09cacbbf179dd493914d752671d963bb20f4",
-          "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-          "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-19T16:59:23Z"
-        },
-        {
-          "id": "46a37553a9dc8e9217ec566a52e16c37db4a2d63",
-          "title": "Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price",
-          "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-19T16:59:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "5b7a09cacbbf179dd493914d752671d963bb20f4",
-          "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-          "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-19T16:59:23Z"
-        },
-        {
-          "id": "46a37553a9dc8e9217ec566a52e16c37db4a2d63",
-          "title": "Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price",
-          "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-19T16:59:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6439,
-      "importance": 0.6439,
-      "importance_score": 0.6439,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5688,
-        "source_tier": 0.58,
-        "ai_relevance": 0.79,
-        "recency": 0.9037,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-19T16:59:23Z",
-      "latest_at": "2026-11-19T16:59:23Z",
-      "primary_item": {
-        "id": "5b7a09cacbbf179dd493914d752671d963bb20f4",
-        "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-        "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_dd79e75e8daa",
-      "title": "OpenAI首款AI硬件瞄准2026年底出货，中国供应链厂商深度参与",
-      "url": "https://www.aibase.com/news/32408",
-      "primary_url": "https://www.aibase.com/news/32408",
+      "story_id": "story_815fec71a09d",
+      "title": "天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前",
+      "url": "https://www.aibase.com/news/32442",
+      "primary_url": "https://www.aibase.com/news/32442",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "945c6cc6e94248ea7ab1f49c8f91c6e1515f1e06",
-          "title": "OpenAI首款AI硬件瞄准2026年底出货，中国供应链厂商深度参与",
-          "url": "https://www.aibase.com/news/32408",
+          "id": "43aceed2ee5f19b28255c66e84bd6a4fc44dcf1b",
+          "title": "天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前",
+          "url": "https://www.aibase.com/news/32442",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-19T15:00:05.887645Z"
+          "published_at": "2026-11-20T16:00:05.270517Z"
         }
       ],
       "source_count": 1,
@@ -1108,375 +1060,590 @@
       ],
       "items": [
         {
-          "id": "945c6cc6e94248ea7ab1f49c8f91c6e1515f1e06",
-          "title": "OpenAI首款AI硬件瞄准2026年底出货，中国供应链厂商深度参与",
-          "url": "https://www.aibase.com/news/32408",
+          "id": "43aceed2ee5f19b28255c66e84bd6a4fc44dcf1b",
+          "title": "天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前",
+          "url": "https://www.aibase.com/news/32442",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-19T15:00:05.887645Z"
+          "published_at": "2026-11-20T16:00:05.270517Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 0.8909,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-19T15:00:05.887645Z",
-      "latest_at": "2026-11-19T15:00:05.887645Z",
+      "earliest_at": "2026-11-20T16:00:05.270517Z",
+      "latest_at": "2026-11-20T16:00:05.270517Z",
       "primary_item": {
-        "id": "945c6cc6e94248ea7ab1f49c8f91c6e1515f1e06",
-        "title": "OpenAI首款AI硬件瞄准2026年底出货，中国供应链厂商深度参与",
-        "url": "https://www.aibase.com/news/32408",
+        "id": "43aceed2ee5f19b28255c66e84bd6a4fc44dcf1b",
+        "title": "天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前",
+        "url": "https://www.aibase.com/news/32442",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_d9d2fba47fd3",
-      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
-      "primary_url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
+      "story_id": "story_4dfd121c6c30",
+      "title": "Anthropic股价在轰动一时的上市次日下跌 / Tech stock sell-off drags markets down as Anthropic shares slide",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News (世界新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "9b9377324de9e3b92e86338ffcf5ab4a4bb5c69b",
-          "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-          "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-19T17:38:40Z"
-        },
-        {
-          "id": "93a31f43e6764662948d87d666c700c3b71ce76e",
-          "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
-          "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-19T17:38:40Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "9b9377324de9e3b92e86338ffcf5ab4a4bb5c69b",
-          "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-          "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-19T17:38:40Z"
-        },
-        {
-          "id": "93a31f43e6764662948d87d666c700c3b71ce76e",
-          "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
-          "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-19T17:38:40Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.633,
-      "importance": 0.633,
-      "importance_score": 0.633,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.9123,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-19T17:38:40Z",
-      "latest_at": "2026-11-19T17:38:40Z",
-      "primary_item": {
-        "id": "9b9377324de9e3b92e86338ffcf5ab4a4bb5c69b",
-        "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-        "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_e0ad70355458",
-      "title": "从快手本地生活到可灵AI，刘逍近期被曝离开快手",
-      "url": "https://www.aibase.com/news/32412",
-      "primary_url": "https://www.aibase.com/news/32412",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ee6c03eeb7727727d7a416b21cd970a372d965cb",
-          "title": "从快手本地生活到可灵AI，刘逍近期被曝离开快手",
-          "url": "https://www.aibase.com/news/32412",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-19T15:00:05.887645Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ee6c03eeb7727727d7a416b21cd970a372d965cb",
-          "title": "从快手本地生活到可灵AI，刘逍近期被曝离开快手",
-          "url": "https://www.aibase.com/news/32412",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-19T15:00:05.887645Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8781,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-19T15:00:05.887645Z",
-      "latest_at": "2026-11-19T15:00:05.887645Z",
-      "primary_item": {
-        "id": "ee6c03eeb7727727d7a416b21cd970a372d965cb",
-        "title": "从快手本地生活到可灵AI，刘逍近期被曝离开快手",
-        "url": "https://www.aibase.com/news/32412",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_122be7cf5dd9",
-      "title": "Claude Fable 5.2 解决了黑洞物理学中的两个未解问题",
-      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-      "primary_url": "https://www.anthropic.com/research/claude-black-hole-physics",
-      "source": "www.anthropic.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "291360acfe40fdf6d9e4ad08206e746be8509ab8",
-          "title": "Claude Fable 5.2 解决了黑洞物理学中的两个未解问题",
-          "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-19T18:52:01.592000Z"
-        },
-        {
-          "id": "c3ca7e9330fb232828adddf6fb7cebbb87e6d466",
-          "title": "Claude Fable 5.2 解决了黑洞物理学中的两个未解问题 / Claude solves two open problems in the physics of black holes",
-          "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-          "source": "Hacker News (黑客新闻)",
+          "id": "5c2da3a865d10fdaa38b03d10bdb0b58ff30461c",
+          "title": "Anthropic股价在轰动一时的上市次日下跌 / Tech stock sell-off drags markets down as Anthropic shares slide",
+          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-19T17:30:44Z"
+          "published_at": "2026-11-20T22:42:47Z"
         },
         {
-          "id": "2ae9291fb81a0e5803f216f8e5a031a04110f55d",
-          "title": "Claude solves two open problems in the physics of black holes",
-          "url": "https://news.ycombinator.com/item?id=50563148",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T17:30:44Z"
+          "id": "42d3bddd65599a211aa7353be4206fae442f5b5b",
+          "title": "Anthropic股价在轰动一时的上市次日下跌",
+          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T16:40:49.193000Z"
+        },
+        {
+          "id": "b971dba8860e3f6fc474b76bec5eb24a1363b1b3",
+          "title": "Anthropic股价在轰动一时的上市次日下跌 / Anthropic shares fall a day after blockbuster opening",
+          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-20T15:02:44Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.anthropic.com"
+        "BBC News",
+        "BBC News (世界新闻)",
+        "www.bbc.co.uk"
       ],
       "items": [
         {
-          "id": "291360acfe40fdf6d9e4ad08206e746be8509ab8",
-          "title": "Claude Fable 5.2 解决了黑洞物理学中的两个未解问题",
-          "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-19T18:52:01.592000Z"
-        },
-        {
-          "id": "c3ca7e9330fb232828adddf6fb7cebbb87e6d466",
-          "title": "Claude Fable 5.2 解决了黑洞物理学中的两个未解问题 / Claude solves two open problems in the physics of black holes",
-          "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-          "source": "Hacker News (黑客新闻)",
+          "id": "5c2da3a865d10fdaa38b03d10bdb0b58ff30461c",
+          "title": "Anthropic股价在轰动一时的上市次日下跌 / Tech stock sell-off drags markets down as Anthropic shares slide",
+          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-19T17:30:44Z"
+          "published_at": "2026-11-20T22:42:47Z"
         },
         {
-          "id": "2ae9291fb81a0e5803f216f8e5a031a04110f55d",
-          "title": "Claude solves two open problems in the physics of black holes",
-          "url": "https://news.ycombinator.com/item?id=50563148",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T17:30:44Z"
+          "id": "42d3bddd65599a211aa7353be4206fae442f5b5b",
+          "title": "Anthropic股价在轰动一时的上市次日下跌",
+          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T16:40:49.193000Z"
+        },
+        {
+          "id": "b971dba8860e3f6fc474b76bec5eb24a1363b1b3",
+          "title": "Anthropic股价在轰动一时的上市次日下跌 / Anthropic shares fall a day after blockbuster opening",
+          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-20T15:02:44Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5579,
-      "importance": 0.5579,
-      "importance_score": 0.5579,
+      "score": 0.5675,
+      "importance": 0.5675,
+      "importance_score": 0.5675,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9285,
+        "recency": 0.9816,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-19T17:30:44Z",
-      "latest_at": "2026-11-19T18:52:01.592000Z",
+      "earliest_at": "2026-11-20T15:02:44Z",
+      "latest_at": "2026-11-20T22:42:47Z",
       "primary_item": {
-        "id": "291360acfe40fdf6d9e4ad08206e746be8509ab8",
-        "title": "Claude Fable 5.2 解决了黑洞物理学中的两个未解问题",
-        "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-        "source": "www.anthropic.com",
-        "source_name": "Buzzing"
+        "id": "5c2da3a865d10fdaa38b03d10bdb0b58ff30461c",
+        "title": "Anthropic股价在轰动一时的上市次日下跌 / Tech stock sell-off drags markets down as Anthropic shares slide",
+        "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News (世界新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
-      "story_id": "story_849bf67a7068",
-      "title": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
-      "url": "https://thedataexchange.media/pete-warden-moonshine",
-      "primary_url": "https://thedataexchange.media/pete-warden-moonshine",
-      "source": "thedataexchange.media",
+      "story_id": "story_4d6c192ff862",
+      "title": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
+      "primary_url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
+      "source": "arstechnica.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "2261205b13ae55ea27e465842591d1b5924d427d",
-          "title": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
-          "url": "https://thedataexchange.media/pete-warden-moonshine",
-          "source": "thedataexchange.media",
+          "id": "ac4c0fd7d95208cd5382c64221775178277684bd",
+          "title": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮",
+          "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
+          "source": "arstechnica.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-19T17:31:41.233000Z"
+          "published_at": "2026-11-20T22:15:54.395000Z"
         },
         {
-          "id": "180bd652bb399974fdd0a31a8b779dfddb513c17",
-          "title": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话 / Pete warden on local AI, open models, voice interfaces, the future of hardware",
-          "url": "https://thedataexchange.media/pete-warden-moonshine",
-          "source": "Hacker News (黑客新闻)",
+          "id": "f11063f39c65d2f07040c2d7a1fc7aa422cb56c0",
+          "title": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮 / Google rolls out new search homepage with AI chat history and no search button",
+          "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
+          "source": "Ars Technica (科技媒体)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-19T15:38:12Z"
+          "published_at": "2026-11-20T21:58:29Z"
         },
         {
-          "id": "459b225ac13ef896ed4f18007bdb83cd1850b739",
-          "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-          "url": "https://news.ycombinator.com/item?id=50561508",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T15:38:12Z"
+          "id": "25cfdb8f1afb2581168495415b47525afde38694",
+          "title": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮 / Google's latest search page redesign drops the search button, adds AI sidebar",
+          "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-20T21:58:29Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "thedataexchange.media"
+        "Ars Technica",
+        "Ars Technica (科技媒体)",
+        "arstechnica.com"
       ],
       "items": [
         {
-          "id": "2261205b13ae55ea27e465842591d1b5924d427d",
-          "title": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
-          "url": "https://thedataexchange.media/pete-warden-moonshine",
-          "source": "thedataexchange.media",
+          "id": "ac4c0fd7d95208cd5382c64221775178277684bd",
+          "title": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮",
+          "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
+          "source": "arstechnica.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-19T17:31:41.233000Z"
+          "published_at": "2026-11-20T22:15:54.395000Z"
         },
         {
-          "id": "180bd652bb399974fdd0a31a8b779dfddb513c17",
-          "title": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话 / Pete warden on local AI, open models, voice interfaces, the future of hardware",
-          "url": "https://thedataexchange.media/pete-warden-moonshine",
-          "source": "Hacker News (黑客新闻)",
+          "id": "f11063f39c65d2f07040c2d7a1fc7aa422cb56c0",
+          "title": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮 / Google rolls out new search homepage with AI chat history and no search button",
+          "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
+          "source": "Ars Technica (科技媒体)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-19T15:38:12Z"
+          "published_at": "2026-11-20T21:58:29Z"
         },
         {
-          "id": "459b225ac13ef896ed4f18007bdb83cd1850b739",
-          "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-          "url": "https://news.ycombinator.com/item?id=50561508",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T15:38:12Z"
+          "id": "25cfdb8f1afb2581168495415b47525afde38694",
+          "title": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮 / Google's latest search page redesign drops the search button, adds AI sidebar",
+          "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-20T21:58:29Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5547,
-      "importance": 0.5547,
-      "importance_score": 0.5547,
+      "score": 0.5663,
+      "importance": 0.5663,
+      "importance_score": 0.5663,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9108,
+        "recency": 0.9752,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-19T15:38:12Z",
-      "latest_at": "2026-11-19T17:31:41.233000Z",
+      "earliest_at": "2026-11-20T21:58:29Z",
+      "latest_at": "2026-11-20T22:15:54.395000Z",
       "primary_item": {
-        "id": "2261205b13ae55ea27e465842591d1b5924d427d",
-        "title": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
-        "url": "https://thedataexchange.media/pete-warden-moonshine",
-        "source": "thedataexchange.media",
+        "id": "ac4c0fd7d95208cd5382c64221775178277684bd",
+        "title": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮",
+        "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
+        "source": "arstechnica.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_32a6def5ca55",
+      "title": "Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
+      "url": "https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains",
+      "primary_url": "https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains",
+      "source": "Slashdot",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "d881189130388ecfd4e493aba95707c738c642c1",
+          "title": "Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
+          "url": "https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-20T21:00:00Z"
+        },
+        {
+          "id": "b11f44c526275e2813bc4aaae82730f00f5498dc",
+          "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
+          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+          "source": "www.nbcnews.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T19:36:57.777000Z"
+        },
+        {
+          "id": "966fa3a46d9bb4c5407857e91539bcba45901d2a",
+          "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅 / Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-20T17:44:01Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Slashdot",
+        "www.nbcnews.com"
+      ],
+      "items": [
+        {
+          "id": "d881189130388ecfd4e493aba95707c738c642c1",
+          "title": "Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
+          "url": "https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-20T21:00:00Z"
+        },
+        {
+          "id": "b11f44c526275e2813bc4aaae82730f00f5498dc",
+          "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
+          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+          "source": "www.nbcnews.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T19:36:57.777000Z"
+        },
+        {
+          "id": "966fa3a46d9bb4c5407857e91539bcba45901d2a",
+          "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅 / Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-20T17:44:01Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5632,
+      "importance": 0.5632,
+      "importance_score": 0.5632,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9576,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-20T17:44:01Z",
+      "latest_at": "2026-11-20T21:00:00Z",
+      "primary_item": {
+        "id": "d881189130388ecfd4e493aba95707c738c642c1",
+        "title": "Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
+        "url": "https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains",
+        "source": "Slashdot",
+        "source_name": "TechURLs"
+      }
+    },
+    {
+      "story_id": "story_65edf14fd72a",
+      "title": "谷歌员工呼吁公司不要惩罚不愿采用人工智能的学校",
+      "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition",
+      "primary_url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition",
+      "source": "www.motherjones.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0a64f0f8335daefad8ac9fe2a0a82a091271cae8",
+          "title": "谷歌员工呼吁公司不要惩罚不愿采用人工智能的学校",
+          "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition",
+          "source": "www.motherjones.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T19:36:57.765000Z"
+        },
+        {
+          "id": "c688a17cb9b9e9036843df8f46c80ad65984730a",
+          "title": "谷歌员工呼吁公司不要惩罚不愿采用人工智能的学校 / Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+          "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-20T16:59:27Z"
+        },
+        {
+          "id": "4871a63cd630f9eb6107ba5ccae6a56ca2a6a8f0",
+          "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+          "url": "https://news.ycombinator.com/item?id=50577901",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-20T16:59:27Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.motherjones.com"
+      ],
+      "items": [
+        {
+          "id": "0a64f0f8335daefad8ac9fe2a0a82a091271cae8",
+          "title": "谷歌员工呼吁公司不要惩罚不愿采用人工智能的学校",
+          "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition",
+          "source": "www.motherjones.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T19:36:57.765000Z"
+        },
+        {
+          "id": "c688a17cb9b9e9036843df8f46c80ad65984730a",
+          "title": "谷歌员工呼吁公司不要惩罚不愿采用人工智能的学校 / Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+          "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-20T16:59:27Z"
+        },
+        {
+          "id": "4871a63cd630f9eb6107ba5ccae6a56ca2a6a8f0",
+          "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+          "url": "https://news.ycombinator.com/item?id=50577901",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-20T16:59:27Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5598,
+      "importance": 0.5598,
+      "importance_score": 0.5598,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9386,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-20T16:59:27Z",
+      "latest_at": "2026-11-20T19:36:57.765000Z",
+      "primary_item": {
+        "id": "0a64f0f8335daefad8ac9fe2a0a82a091271cae8",
+        "title": "谷歌员工呼吁公司不要惩罚不愿采用人工智能的学校",
+        "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition",
+        "source": "www.motherjones.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5d3c25a64fe3",
+      "title": "在人工智能解决数学问题的一年里，Anthropic 可能刚刚解决了最大的",
+      "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+      "source": "www.bbc.co.uk",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "1fc419ff42c1c4edd3725db1bebdf4876f9d58fb",
+          "title": "在人工智能解决数学问题的一年里，Anthropic 可能刚刚解决了最大的",
+          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T23:34:58.378000Z"
+        },
+        {
+          "id": "f8d1dee40cf5b1409a6b7fcd35604131716d928c",
+          "title": "在人工智能解决数学问题的一年里，Anthropic 可能刚刚解决了最大的 / In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-20T23:08:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "BBC News (世界新闻)",
+        "www.bbc.co.uk"
+      ],
+      "items": [
+        {
+          "id": "1fc419ff42c1c4edd3725db1bebdf4876f9d58fb",
+          "title": "在人工智能解决数学问题的一年里，Anthropic 可能刚刚解决了最大的",
+          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T23:34:58.378000Z"
+        },
+        {
+          "id": "f8d1dee40cf5b1409a6b7fcd35604131716d928c",
+          "title": "在人工智能解决数学问题的一年里，Anthropic 可能刚刚解决了最大的 / In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-20T23:08:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5447,
+      "importance": 0.5447,
+      "importance_score": 0.5447,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.994,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-20T23:08:57Z",
+      "latest_at": "2026-11-20T23:34:58.378000Z",
+      "primary_item": {
+        "id": "1fc419ff42c1c4edd3725db1bebdf4876f9d58fb",
+        "title": "在人工智能解决数学问题的一年里，Anthropic 可能刚刚解决了最大的",
+        "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+        "source": "www.bbc.co.uk",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_7f78d7354514",
+      "title": "人工智能可能已经解决了数学领域中最重要的一道题 / AI may have solved the most important problem in mathematics",
+      "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
+      "primary_url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "dc3c4732c005524fa5930f41d1c1f96ecaf5f08d",
+          "title": "人工智能可能已经解决了数学领域中最重要的一道题 / AI may have solved the most important problem in mathematics",
+          "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-20T22:46:59Z"
+        },
+        {
+          "id": "b541e646d96c2e85906ab7faa674891db195cbc6",
+          "title": "人工智能可能已经解决了数学领域中最重要的一道题",
+          "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
+          "source": "www.economist.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T21:59:44.577000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "www.economist.com"
+      ],
+      "items": [
+        {
+          "id": "dc3c4732c005524fa5930f41d1c1f96ecaf5f08d",
+          "title": "人工智能可能已经解决了数学领域中最重要的一道题 / AI may have solved the most important problem in mathematics",
+          "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-20T22:46:59Z"
+        },
+        {
+          "id": "b541e646d96c2e85906ab7faa674891db195cbc6",
+          "title": "人工智能可能已经解决了数学领域中最重要的一道题",
+          "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
+          "source": "www.economist.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T21:59:44.577000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5427,
+      "importance": 0.5427,
+      "importance_score": 0.5427,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9826,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-20T21:59:44.577000Z",
+      "latest_at": "2026-11-20T22:46:59Z",
+      "primary_item": {
+        "id": "dc3c4732c005524fa5930f41d1c1f96ecaf5f08d",
+        "title": "人工智能可能已经解决了数学领域中最重要的一道题 / AI may have solved the most important problem in mathematics",
+        "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     }
   ]
